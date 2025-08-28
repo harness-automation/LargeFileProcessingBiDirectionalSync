@@ -1,0 +1,8 @@
+service:
+  name: vivsnvrt
+  identifier: vivsnvrt
+  projectIdentifier: LargeFileSyncCE4ZAVM5pu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

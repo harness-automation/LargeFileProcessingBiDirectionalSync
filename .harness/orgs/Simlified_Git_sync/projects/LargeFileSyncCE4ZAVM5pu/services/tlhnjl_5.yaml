@@ -1,0 +1,8 @@
+service:
+  name: mnpvjozv
+  identifier: mnpvjozv
+  projectIdentifier: LargeFileSyncCE4ZAVM5pu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
