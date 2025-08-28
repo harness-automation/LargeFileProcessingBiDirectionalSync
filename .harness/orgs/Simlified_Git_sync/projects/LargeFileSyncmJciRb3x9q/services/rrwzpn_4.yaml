@@ -1,0 +1,8 @@
+service:
+  name: mbeeqltk
+  identifier: mbeeqltk
+  projectIdentifier: LargeFileSyncmJciRb3x9q
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
