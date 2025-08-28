@@ -1,0 +1,8 @@
+service:
+  name: serviceeVMZ2CGepC
+  identifier: serviceeVMZ2CGepC
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

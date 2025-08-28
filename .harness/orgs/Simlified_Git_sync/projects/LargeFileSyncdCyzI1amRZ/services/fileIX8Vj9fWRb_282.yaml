@@ -1,0 +1,8 @@
+service:
+  name: serviceo1JirUARul
+  identifier: serviceo1JirUARul
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

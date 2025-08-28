@@ -1,0 +1,8 @@
+service:
+  name: serviceASshaw1zij
+  identifier: serviceASshaw1zij
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

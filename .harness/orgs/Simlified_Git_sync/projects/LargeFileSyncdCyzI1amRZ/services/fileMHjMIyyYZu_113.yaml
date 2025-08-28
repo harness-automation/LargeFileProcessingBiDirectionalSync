@@ -1,0 +1,8 @@
+service:
+  name: service7dPE227Lpy
+  identifier: service7dPE227Lpy
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

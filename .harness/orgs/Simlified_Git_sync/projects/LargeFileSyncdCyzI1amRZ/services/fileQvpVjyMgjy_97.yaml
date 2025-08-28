@@ -1,0 +1,8 @@
+service:
+  name: service2KiseiCFXr
+  identifier: service2KiseiCFXr
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

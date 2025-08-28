@@ -1,0 +1,8 @@
+service:
+  name: serviceG2pE2Yoadc
+  identifier: serviceG2pE2Yoadc
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicerHysB740Sh
+  identifier: servicerHysB740Sh
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

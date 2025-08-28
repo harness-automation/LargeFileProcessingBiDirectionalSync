@@ -1,0 +1,8 @@
+service:
+  name: serviceNd27WRRUFF
+  identifier: serviceNd27WRRUFF
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
