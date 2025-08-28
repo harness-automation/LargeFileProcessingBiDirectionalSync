@@ -1,0 +1,8 @@
+service:
+  name: servicenSh9pe60v2
+  identifier: servicenSh9pe60v2
+  projectIdentifier: LargeFileSyncHGXCJHSwNy
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
