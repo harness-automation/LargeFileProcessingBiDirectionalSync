@@ -1,0 +1,8 @@
+service:
+  name: kvcdmrqv
+  identifier: kvcdmrqv
+  projectIdentifier: LargeFileSyncDSc8bz1AFe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
