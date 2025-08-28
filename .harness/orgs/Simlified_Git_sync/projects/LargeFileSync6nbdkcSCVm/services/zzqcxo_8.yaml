@@ -1,0 +1,8 @@
+service:
+  name: hcrbrrvs
+  identifier: hcrbrrvs
+  projectIdentifier: LargeFileSync6nbdkcSCVm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

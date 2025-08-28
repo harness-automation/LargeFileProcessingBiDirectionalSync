@@ -1,0 +1,8 @@
+service:
+  name: jnhilihi
+  identifier: jnhilihi
+  projectIdentifier: LargeFileSync6nbdkcSCVm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
