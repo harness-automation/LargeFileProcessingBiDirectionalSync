@@ -1,0 +1,8 @@
+service:
+  name: serviceGosy08xLM2
+  identifier: serviceGosy08xLM2
+  projectIdentifier: LargeFileSyncxp17wHhEbA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

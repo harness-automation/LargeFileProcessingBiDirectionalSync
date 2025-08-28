@@ -1,0 +1,8 @@
+service:
+  name: servicewCB1xpSicn
+  identifier: servicewCB1xpSicn
+  projectIdentifier: LargeFileSyncxp17wHhEbA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

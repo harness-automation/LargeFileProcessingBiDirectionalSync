@@ -1,0 +1,8 @@
+service:
+  name: serviceia2xER7541
+  identifier: serviceia2xER7541
+  projectIdentifier: LargeFileSyncxp17wHhEbA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

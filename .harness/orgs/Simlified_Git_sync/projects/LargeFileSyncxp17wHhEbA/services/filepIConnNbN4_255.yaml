@@ -1,0 +1,8 @@
+service:
+  name: serviceTk4STMyFXl
+  identifier: serviceTk4STMyFXl
+  projectIdentifier: LargeFileSyncxp17wHhEbA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

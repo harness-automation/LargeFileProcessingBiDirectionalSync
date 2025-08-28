@@ -1,0 +1,8 @@
+service:
+  name: serviceKfSw52Ct2j
+  identifier: serviceKfSw52Ct2j
+  projectIdentifier: LargeFileSyncxp17wHhEbA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service3xHSvarEXq
+  identifier: service3xHSvarEXq
+  projectIdentifier: LargeFileSyncxp17wHhEbA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

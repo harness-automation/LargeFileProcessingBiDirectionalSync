@@ -1,0 +1,8 @@
+service:
+  name: serviceClpuFn10sb
+  identifier: serviceClpuFn10sb
+  projectIdentifier: LargeFileSyncxp17wHhEbA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceIF7VaEmBaT
+  identifier: serviceIF7VaEmBaT
+  projectIdentifier: LargeFileSyncxp17wHhEbA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

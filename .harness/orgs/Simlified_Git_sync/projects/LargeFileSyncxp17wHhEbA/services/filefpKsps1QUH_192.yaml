@@ -1,0 +1,8 @@
+service:
+  name: serviceKEU19Hbzb5
+  identifier: serviceKEU19Hbzb5
+  projectIdentifier: LargeFileSyncxp17wHhEbA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

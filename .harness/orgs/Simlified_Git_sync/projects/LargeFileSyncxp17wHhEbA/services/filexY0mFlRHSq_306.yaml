@@ -1,0 +1,8 @@
+service:
+  name: serviceTO19g1fsSF
+  identifier: serviceTO19g1fsSF
+  projectIdentifier: LargeFileSyncxp17wHhEbA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
