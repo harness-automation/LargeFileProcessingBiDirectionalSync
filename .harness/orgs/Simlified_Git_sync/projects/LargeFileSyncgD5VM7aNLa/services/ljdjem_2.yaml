@@ -1,0 +1,8 @@
+service:
+  name: flpmxiqo
+  identifier: flpmxiqo
+  projectIdentifier: LargeFileSyncgD5VM7aNLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
