@@ -1,0 +1,8 @@
+service:
+  name: serviceCurAkuPs44
+  identifier: serviceCurAkuPs44
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

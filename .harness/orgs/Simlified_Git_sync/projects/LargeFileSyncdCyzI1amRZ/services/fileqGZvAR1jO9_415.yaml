@@ -1,0 +1,8 @@
+service:
+  name: servicenuxQDaCM4i
+  identifier: servicenuxQDaCM4i
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

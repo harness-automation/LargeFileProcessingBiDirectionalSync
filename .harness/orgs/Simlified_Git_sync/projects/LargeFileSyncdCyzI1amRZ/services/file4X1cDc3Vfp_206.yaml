@@ -1,0 +1,8 @@
+service:
+  name: service7DuptsqdWi
+  identifier: service7DuptsqdWi
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

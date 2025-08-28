@@ -1,0 +1,8 @@
+service:
+  name: serviceEshq5EAHcu
+  identifier: serviceEshq5EAHcu
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

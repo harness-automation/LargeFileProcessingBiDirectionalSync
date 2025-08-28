@@ -1,0 +1,8 @@
+service:
+  name: serviceDCT2B69C9m
+  identifier: serviceDCT2B69C9m
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

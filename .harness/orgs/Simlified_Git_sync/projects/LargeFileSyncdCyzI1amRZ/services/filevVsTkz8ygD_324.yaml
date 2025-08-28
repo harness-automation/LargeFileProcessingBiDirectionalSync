@@ -1,0 +1,8 @@
+service:
+  name: serviceWFl5kqOMPG
+  identifier: serviceWFl5kqOMPG
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

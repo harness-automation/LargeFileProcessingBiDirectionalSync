@@ -1,0 +1,8 @@
+service:
+  name: serviced6W75wi2b7
+  identifier: serviced6W75wi2b7
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

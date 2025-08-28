@@ -1,0 +1,8 @@
+service:
+  name: service0agNLee5py
+  identifier: service0agNLee5py
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

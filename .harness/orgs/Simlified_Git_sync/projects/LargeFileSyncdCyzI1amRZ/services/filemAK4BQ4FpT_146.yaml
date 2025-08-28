@@ -1,0 +1,8 @@
+service:
+  name: serviceq6f6SCP2nC
+  identifier: serviceq6f6SCP2nC
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

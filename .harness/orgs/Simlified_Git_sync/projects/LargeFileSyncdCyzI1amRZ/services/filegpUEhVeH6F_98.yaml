@@ -1,0 +1,8 @@
+service:
+  name: service31dCiLr8Ai
+  identifier: service31dCiLr8Ai
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

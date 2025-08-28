@@ -1,0 +1,8 @@
+service:
+  name: serviceMmoC3RNS37
+  identifier: serviceMmoC3RNS37
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

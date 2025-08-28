@@ -1,0 +1,8 @@
+service:
+  name: servicebGD9716eQP
+  identifier: servicebGD9716eQP
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

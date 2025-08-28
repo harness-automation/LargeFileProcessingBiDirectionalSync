@@ -1,0 +1,8 @@
+service:
+  name: service2lx19RAYVC
+  identifier: service2lx19RAYVC
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

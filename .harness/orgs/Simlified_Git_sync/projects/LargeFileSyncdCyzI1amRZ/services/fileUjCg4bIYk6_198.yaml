@@ -1,0 +1,8 @@
+service:
+  name: service5v0WClBMtb
+  identifier: service5v0WClBMtb
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

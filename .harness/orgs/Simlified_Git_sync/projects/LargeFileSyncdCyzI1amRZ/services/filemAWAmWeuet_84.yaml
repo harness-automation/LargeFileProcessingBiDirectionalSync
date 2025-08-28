@@ -1,0 +1,8 @@
+service:
+  name: serviceRbnmOAQ7pA
+  identifier: serviceRbnmOAQ7pA
+  projectIdentifier: LargeFileSyncdCyzI1amRZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
