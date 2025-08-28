@@ -1,0 +1,8 @@
+service:
+  name: qyfmpmrj
+  identifier: qyfmpmrj
+  projectIdentifier: LargeFileSyncqrLDyNCP1g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

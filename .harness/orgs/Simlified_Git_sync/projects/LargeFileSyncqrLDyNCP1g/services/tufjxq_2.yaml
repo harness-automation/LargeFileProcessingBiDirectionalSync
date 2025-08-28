@@ -1,0 +1,8 @@
+service:
+  name: uagagrif
+  identifier: uagagrif
+  projectIdentifier: LargeFileSyncqrLDyNCP1g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

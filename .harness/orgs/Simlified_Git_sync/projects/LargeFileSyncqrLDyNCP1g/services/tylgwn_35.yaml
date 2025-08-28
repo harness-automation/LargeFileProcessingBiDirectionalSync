@@ -1,0 +1,8 @@
+service:
+  name: maqvzdjf
+  identifier: maqvzdjf
+  projectIdentifier: LargeFileSyncqrLDyNCP1g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

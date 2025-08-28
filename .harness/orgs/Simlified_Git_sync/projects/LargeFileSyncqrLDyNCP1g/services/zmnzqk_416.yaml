@@ -1,0 +1,8 @@
+service:
+  name: nhfbexrd
+  identifier: nhfbexrd
+  projectIdentifier: LargeFileSyncqrLDyNCP1g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

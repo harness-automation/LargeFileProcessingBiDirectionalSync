@@ -1,0 +1,8 @@
+service:
+  name: oxorbcdu
+  identifier: oxorbcdu
+  projectIdentifier: LargeFileSyncqrLDyNCP1g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

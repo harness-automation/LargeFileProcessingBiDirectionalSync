@@ -1,0 +1,8 @@
+service:
+  name: toepbhmg
+  identifier: toepbhmg
+  projectIdentifier: LargeFileSyncqrLDyNCP1g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

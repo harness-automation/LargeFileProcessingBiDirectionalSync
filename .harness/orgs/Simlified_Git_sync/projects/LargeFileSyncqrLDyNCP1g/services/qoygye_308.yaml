@@ -1,0 +1,8 @@
+service:
+  name: cflegrrr
+  identifier: cflegrrr
+  projectIdentifier: LargeFileSyncqrLDyNCP1g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
