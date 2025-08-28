@@ -1,0 +1,8 @@
+service:
+  name: lbseoevh
+  identifier: lbseoevh
+  projectIdentifier: LargeFileSync53CJMVV4u2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
