@@ -1,0 +1,8 @@
+service:
+  name: serviceGu9041kBH4
+  identifier: serviceGu9041kBH4
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

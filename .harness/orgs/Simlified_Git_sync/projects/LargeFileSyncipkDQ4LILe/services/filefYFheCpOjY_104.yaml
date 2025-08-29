@@ -1,0 +1,8 @@
+service:
+  name: serviceFcf2Dl2Wes
+  identifier: serviceFcf2Dl2Wes
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

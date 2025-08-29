@@ -1,0 +1,8 @@
+service:
+  name: servicenDo2S4cxys
+  identifier: servicenDo2S4cxys
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

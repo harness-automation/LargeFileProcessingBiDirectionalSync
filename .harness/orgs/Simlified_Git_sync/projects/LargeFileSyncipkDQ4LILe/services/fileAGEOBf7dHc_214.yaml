@@ -1,0 +1,8 @@
+service:
+  name: serviceCnehasilb0
+  identifier: serviceCnehasilb0
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

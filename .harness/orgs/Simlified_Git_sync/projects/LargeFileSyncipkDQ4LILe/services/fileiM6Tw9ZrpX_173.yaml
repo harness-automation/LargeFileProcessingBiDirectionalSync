@@ -1,0 +1,8 @@
+service:
+  name: servicedVT1X84leG
+  identifier: servicedVT1X84leG
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceObbrAu6JBP
+  identifier: serviceObbrAu6JBP
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

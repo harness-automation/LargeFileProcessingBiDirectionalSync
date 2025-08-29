@@ -1,0 +1,8 @@
+service:
+  name: serviceWaeD7BCndb
+  identifier: serviceWaeD7BCndb
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

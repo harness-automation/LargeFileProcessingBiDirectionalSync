@@ -1,0 +1,8 @@
+service:
+  name: servicejiYsPBDM2X
+  identifier: servicejiYsPBDM2X
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceYIKDawtKf2
+  identifier: serviceYIKDawtKf2
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

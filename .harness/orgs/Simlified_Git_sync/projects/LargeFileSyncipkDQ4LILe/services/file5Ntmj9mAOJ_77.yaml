@@ -1,0 +1,8 @@
+service:
+  name: serviceGe4sorm6sb
+  identifier: serviceGe4sorm6sb
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

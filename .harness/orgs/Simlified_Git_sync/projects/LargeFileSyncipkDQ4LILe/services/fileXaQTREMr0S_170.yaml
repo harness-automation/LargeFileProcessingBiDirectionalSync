@@ -1,0 +1,8 @@
+service:
+  name: service1py3gRNmqx
+  identifier: service1py3gRNmqx
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

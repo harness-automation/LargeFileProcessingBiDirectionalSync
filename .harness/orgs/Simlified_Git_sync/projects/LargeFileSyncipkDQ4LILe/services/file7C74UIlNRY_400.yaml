@@ -1,0 +1,8 @@
+service:
+  name: serviceCMTGN3ZWHN
+  identifier: serviceCMTGN3ZWHN
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

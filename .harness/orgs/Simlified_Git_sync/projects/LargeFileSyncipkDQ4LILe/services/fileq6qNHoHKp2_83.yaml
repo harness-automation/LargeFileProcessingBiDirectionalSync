@@ -1,0 +1,8 @@
+service:
+  name: service3pDmHK19vn
+  identifier: service3pDmHK19vn
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

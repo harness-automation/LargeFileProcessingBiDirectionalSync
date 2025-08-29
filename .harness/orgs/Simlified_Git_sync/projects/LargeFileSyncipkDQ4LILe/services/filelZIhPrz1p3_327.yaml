@@ -1,0 +1,8 @@
+service:
+  name: serviceGpZihu4hnd
+  identifier: serviceGpZihu4hnd
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicepuiPLR96LL
+  identifier: servicepuiPLR96LL
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

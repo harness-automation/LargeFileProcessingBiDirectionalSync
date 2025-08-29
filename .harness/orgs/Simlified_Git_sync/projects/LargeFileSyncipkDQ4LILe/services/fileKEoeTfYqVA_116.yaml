@@ -1,0 +1,8 @@
+service:
+  name: serviceRe1XLkQTai
+  identifier: serviceRe1XLkQTai
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

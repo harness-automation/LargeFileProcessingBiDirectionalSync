@@ -1,0 +1,8 @@
+service:
+  name: serviceTYWIMPTyg0
+  identifier: serviceTYWIMPTyg0
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

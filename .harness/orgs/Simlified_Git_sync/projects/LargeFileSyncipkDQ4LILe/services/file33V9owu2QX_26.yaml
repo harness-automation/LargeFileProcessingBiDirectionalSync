@@ -1,0 +1,8 @@
+service:
+  name: servicePABFPUEe5g
+  identifier: servicePABFPUEe5g
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

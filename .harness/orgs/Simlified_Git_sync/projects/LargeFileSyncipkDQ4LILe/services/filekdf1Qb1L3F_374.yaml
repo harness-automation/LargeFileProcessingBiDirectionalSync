@@ -1,0 +1,8 @@
+service:
+  name: servicerQOabctHUV
+  identifier: servicerQOabctHUV
+  projectIdentifier: LargeFileSyncipkDQ4LILe
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
