@@ -1,0 +1,8 @@
+service:
+  name: serviceYSYKgRO48J
+  identifier: serviceYSYKgRO48J
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

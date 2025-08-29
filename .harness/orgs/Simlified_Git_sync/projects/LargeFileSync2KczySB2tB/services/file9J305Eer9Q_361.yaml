@@ -1,0 +1,8 @@
+service:
+  name: servicelFst2Vfkxt
+  identifier: servicelFst2Vfkxt
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

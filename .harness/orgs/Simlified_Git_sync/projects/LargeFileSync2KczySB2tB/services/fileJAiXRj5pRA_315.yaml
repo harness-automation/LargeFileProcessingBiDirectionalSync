@@ -1,0 +1,8 @@
+service:
+  name: service1wi8ppSuI1
+  identifier: service1wi8ppSuI1
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

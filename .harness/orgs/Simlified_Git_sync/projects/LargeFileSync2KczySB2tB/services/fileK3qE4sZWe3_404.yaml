@@ -1,0 +1,8 @@
+service:
+  name: servicet215yGBYdy
+  identifier: servicet215yGBYdy
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicebaWCWl4uUr
+  identifier: servicebaWCWl4uUr
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicerVCKVp0ZSO
+  identifier: servicerVCKVp0ZSO
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

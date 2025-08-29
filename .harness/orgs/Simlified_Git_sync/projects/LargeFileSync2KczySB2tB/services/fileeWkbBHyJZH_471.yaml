@@ -1,0 +1,8 @@
+service:
+  name: servicedGROpKp5uQ
+  identifier: servicedGROpKp5uQ
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

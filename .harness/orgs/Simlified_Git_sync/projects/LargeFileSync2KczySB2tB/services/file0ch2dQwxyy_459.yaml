@@ -1,0 +1,8 @@
+service:
+  name: serviceHh5Scn361Y
+  identifier: serviceHh5Scn361Y
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

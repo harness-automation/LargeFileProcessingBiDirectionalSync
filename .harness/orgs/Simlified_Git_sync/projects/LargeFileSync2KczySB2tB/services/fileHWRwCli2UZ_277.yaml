@@ -1,0 +1,8 @@
+service:
+  name: servicekZP85iV8WN
+  identifier: servicekZP85iV8WN
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

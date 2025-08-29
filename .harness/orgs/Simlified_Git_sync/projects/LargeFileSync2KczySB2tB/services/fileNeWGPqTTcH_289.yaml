@@ -1,0 +1,8 @@
+service:
+  name: serviceg3EMfDB2yY
+  identifier: serviceg3EMfDB2yY
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

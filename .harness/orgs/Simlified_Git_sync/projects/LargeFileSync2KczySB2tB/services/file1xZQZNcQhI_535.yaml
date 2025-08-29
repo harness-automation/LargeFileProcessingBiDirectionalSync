@@ -1,0 +1,8 @@
+service:
+  name: serviceZDI8868eH7
+  identifier: serviceZDI8868eH7
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

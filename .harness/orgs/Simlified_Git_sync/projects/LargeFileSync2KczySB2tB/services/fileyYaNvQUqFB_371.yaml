@@ -1,0 +1,8 @@
+service:
+  name: servicechMaOCiN67
+  identifier: servicechMaOCiN67
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

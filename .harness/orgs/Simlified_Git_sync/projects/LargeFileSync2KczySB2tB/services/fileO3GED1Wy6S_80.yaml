@@ -1,0 +1,8 @@
+service:
+  name: serviceGfNSOA97cZ
+  identifier: serviceGfNSOA97cZ
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

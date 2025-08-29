@@ -1,0 +1,8 @@
+service:
+  name: serviceny7DojCE9C
+  identifier: serviceny7DojCE9C
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

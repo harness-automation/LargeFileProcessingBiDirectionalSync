@@ -1,0 +1,8 @@
+service:
+  name: serviceduvLJPtgW9
+  identifier: serviceduvLJPtgW9
+  projectIdentifier: LargeFileSync2KczySB2tB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
