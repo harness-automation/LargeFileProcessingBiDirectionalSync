@@ -1,0 +1,8 @@
+service:
+  name: servicewz93Cut1wh
+  identifier: servicewz93Cut1wh
+  projectIdentifier: LargeFileSyncDHSe2gLzOt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

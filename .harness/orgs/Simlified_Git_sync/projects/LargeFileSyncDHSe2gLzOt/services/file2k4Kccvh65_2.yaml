@@ -1,0 +1,8 @@
+service:
+  name: servicehrjHM4MllP
+  identifier: servicehrjHM4MllP
+  projectIdentifier: LargeFileSyncDHSe2gLzOt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

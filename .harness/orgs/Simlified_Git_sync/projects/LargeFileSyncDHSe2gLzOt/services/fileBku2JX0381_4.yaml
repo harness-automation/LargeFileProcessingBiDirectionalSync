@@ -1,0 +1,8 @@
+service:
+  name: serviceFL0skuJRbM
+  identifier: serviceFL0skuJRbM
+  projectIdentifier: LargeFileSyncDHSe2gLzOt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

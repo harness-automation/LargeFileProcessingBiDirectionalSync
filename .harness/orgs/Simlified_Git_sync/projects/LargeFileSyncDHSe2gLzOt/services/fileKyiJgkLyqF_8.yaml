@@ -1,0 +1,8 @@
+service:
+  name: serviceYA42BufPOC
+  identifier: serviceYA42BufPOC
+  projectIdentifier: LargeFileSyncDHSe2gLzOt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
