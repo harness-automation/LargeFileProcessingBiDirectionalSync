@@ -1,0 +1,8 @@
+service:
+  name: serviceaBeM1SWUBM
+  identifier: serviceaBeM1SWUBM
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service6GoowItDpa
+  identifier: service6GoowItDpa
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

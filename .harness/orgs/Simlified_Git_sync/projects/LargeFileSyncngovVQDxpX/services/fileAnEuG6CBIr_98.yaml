@@ -1,0 +1,8 @@
+service:
+  name: serviceTET6A9iXM2
+  identifier: serviceTET6A9iXM2
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceVTNS3axuki
+  identifier: serviceVTNS3axuki
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceKYOsuPl0o5
+  identifier: serviceKYOsuPl0o5
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

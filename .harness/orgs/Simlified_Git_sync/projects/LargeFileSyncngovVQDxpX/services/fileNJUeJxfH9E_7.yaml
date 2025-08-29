@@ -1,0 +1,8 @@
+service:
+  name: serviceqyBA6dAdRU
+  identifier: serviceqyBA6dAdRU
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

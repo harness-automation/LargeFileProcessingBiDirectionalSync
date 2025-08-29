@@ -1,0 +1,8 @@
+service:
+  name: servicebM4vmxNgU4
+  identifier: servicebM4vmxNgU4
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceWERH98yc23
+  identifier: serviceWERH98yc23
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

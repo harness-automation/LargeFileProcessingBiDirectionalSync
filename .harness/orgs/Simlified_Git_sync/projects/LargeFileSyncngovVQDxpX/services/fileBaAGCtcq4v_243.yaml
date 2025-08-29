@@ -1,0 +1,8 @@
+service:
+  name: serviceHRWmd4ho8i
+  identifier: serviceHRWmd4ho8i
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

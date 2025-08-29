@@ -1,0 +1,8 @@
+service:
+  name: serviceA6mixENPc8
+  identifier: serviceA6mixENPc8
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

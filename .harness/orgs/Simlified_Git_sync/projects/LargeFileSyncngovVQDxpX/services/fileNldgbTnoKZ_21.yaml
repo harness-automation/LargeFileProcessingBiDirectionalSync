@@ -1,0 +1,8 @@
+service:
+  name: serviceOtKnyriW3D
+  identifier: serviceOtKnyriW3D
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

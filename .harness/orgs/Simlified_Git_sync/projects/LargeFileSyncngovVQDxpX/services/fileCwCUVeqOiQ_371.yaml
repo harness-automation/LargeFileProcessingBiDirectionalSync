@@ -1,0 +1,8 @@
+service:
+  name: serviceTPO91y8Rma
+  identifier: serviceTPO91y8Rma
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

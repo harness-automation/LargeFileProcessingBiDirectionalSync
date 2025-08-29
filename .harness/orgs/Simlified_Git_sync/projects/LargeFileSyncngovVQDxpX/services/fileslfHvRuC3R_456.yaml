@@ -1,0 +1,8 @@
+service:
+  name: serviceLfs1JFCtLu
+  identifier: serviceLfs1JFCtLu
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

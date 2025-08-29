@@ -1,0 +1,8 @@
+service:
+  name: servicemBbimDinWg
+  identifier: servicemBbimDinWg
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceSOBpl4RXEv
+  identifier: serviceSOBpl4RXEv
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

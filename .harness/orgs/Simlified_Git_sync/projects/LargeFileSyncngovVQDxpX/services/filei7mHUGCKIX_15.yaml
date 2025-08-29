@@ -1,0 +1,8 @@
+service:
+  name: servicedPWCV0yVib
+  identifier: servicedPWCV0yVib
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

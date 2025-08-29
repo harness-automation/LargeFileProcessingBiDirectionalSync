@@ -1,0 +1,8 @@
+service:
+  name: serviceINwTCBUPGT
+  identifier: serviceINwTCBUPGT
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

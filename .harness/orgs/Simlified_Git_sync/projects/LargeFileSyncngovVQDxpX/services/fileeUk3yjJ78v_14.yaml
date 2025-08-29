@@ -1,0 +1,8 @@
+service:
+  name: service7gbElYKA02
+  identifier: service7gbElYKA02
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

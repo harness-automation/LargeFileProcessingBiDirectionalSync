@@ -1,0 +1,8 @@
+service:
+  name: servicefmDs3P8ku7
+  identifier: servicefmDs3P8ku7
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

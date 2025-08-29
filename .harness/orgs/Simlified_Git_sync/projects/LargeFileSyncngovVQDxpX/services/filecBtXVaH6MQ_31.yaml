@@ -1,0 +1,8 @@
+service:
+  name: serviceOmlc4V0rzU
+  identifier: serviceOmlc4V0rzU
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

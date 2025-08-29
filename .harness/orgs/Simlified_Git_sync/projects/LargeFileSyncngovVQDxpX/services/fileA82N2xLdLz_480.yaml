@@ -1,0 +1,8 @@
+service:
+  name: serviceRAnRM3ZnXe
+  identifier: serviceRAnRM3ZnXe
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

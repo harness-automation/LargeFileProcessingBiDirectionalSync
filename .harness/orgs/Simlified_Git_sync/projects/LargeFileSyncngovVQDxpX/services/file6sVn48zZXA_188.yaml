@@ -1,0 +1,8 @@
+service:
+  name: serviceDXN8aMMFfx
+  identifier: serviceDXN8aMMFfx
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

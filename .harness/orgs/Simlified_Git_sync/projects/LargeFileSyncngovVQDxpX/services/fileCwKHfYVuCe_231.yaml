@@ -1,0 +1,8 @@
+service:
+  name: service7HTF31rga2
+  identifier: service7HTF31rga2
+  projectIdentifier: LargeFileSyncngovVQDxpX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
