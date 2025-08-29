@@ -1,0 +1,8 @@
+service:
+  name: serviceRptgslyPi3
+  identifier: serviceRptgslyPi3
+  projectIdentifier: LargeFileSyncZmehjGd6j4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

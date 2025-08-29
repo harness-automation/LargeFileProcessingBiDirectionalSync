@@ -1,0 +1,8 @@
+service:
+  name: servicesrhw84AlCM
+  identifier: servicesrhw84AlCM
+  projectIdentifier: LargeFileSyncZmehjGd6j4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

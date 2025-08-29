@@ -1,0 +1,8 @@
+service:
+  name: servicefmwcxsRArR
+  identifier: servicefmwcxsRArR
+  projectIdentifier: LargeFileSyncZmehjGd6j4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
