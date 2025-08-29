@@ -1,0 +1,8 @@
+service:
+  name: serviceHUamLlvV8i
+  identifier: serviceHUamLlvV8i
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

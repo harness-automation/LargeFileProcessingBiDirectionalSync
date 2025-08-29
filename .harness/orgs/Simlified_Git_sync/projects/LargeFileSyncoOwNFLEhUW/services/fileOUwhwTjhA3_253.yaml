@@ -1,0 +1,8 @@
+service:
+  name: serviceHLGUWYGt1o
+  identifier: serviceHLGUWYGt1o
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

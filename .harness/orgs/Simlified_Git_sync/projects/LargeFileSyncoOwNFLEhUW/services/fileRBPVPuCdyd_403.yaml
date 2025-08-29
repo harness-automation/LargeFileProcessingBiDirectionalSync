@@ -1,0 +1,8 @@
+service:
+  name: servicedbSmvr3pob
+  identifier: servicedbSmvr3pob
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

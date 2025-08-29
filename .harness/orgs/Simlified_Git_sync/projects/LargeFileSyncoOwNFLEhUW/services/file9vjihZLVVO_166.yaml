@@ -1,0 +1,8 @@
+service:
+  name: serviceh9dMfrELBE
+  identifier: serviceh9dMfrELBE
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

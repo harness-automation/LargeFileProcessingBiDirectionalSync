@@ -1,0 +1,8 @@
+service:
+  name: servicebb3KPVOLyd
+  identifier: servicebb3KPVOLyd
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicegwsDRSK0s5
+  identifier: servicegwsDRSK0s5
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

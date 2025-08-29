@@ -1,0 +1,8 @@
+service:
+  name: serviceRu61ex2Axz
+  identifier: serviceRu61ex2Axz
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

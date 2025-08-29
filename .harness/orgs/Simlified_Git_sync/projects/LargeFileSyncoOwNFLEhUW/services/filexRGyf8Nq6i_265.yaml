@@ -1,0 +1,8 @@
+service:
+  name: serviceEcvCKRjL8i
+  identifier: serviceEcvCKRjL8i
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

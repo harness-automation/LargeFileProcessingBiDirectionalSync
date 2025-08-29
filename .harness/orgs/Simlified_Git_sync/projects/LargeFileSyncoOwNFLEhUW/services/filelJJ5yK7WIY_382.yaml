@@ -1,0 +1,8 @@
+service:
+  name: serviceIGv46MIUnb
+  identifier: serviceIGv46MIUnb
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

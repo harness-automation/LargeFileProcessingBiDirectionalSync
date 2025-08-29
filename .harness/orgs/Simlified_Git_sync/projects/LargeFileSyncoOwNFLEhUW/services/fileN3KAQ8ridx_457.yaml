@@ -1,0 +1,8 @@
+service:
+  name: serviceZso1TJMedl
+  identifier: serviceZso1TJMedl
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

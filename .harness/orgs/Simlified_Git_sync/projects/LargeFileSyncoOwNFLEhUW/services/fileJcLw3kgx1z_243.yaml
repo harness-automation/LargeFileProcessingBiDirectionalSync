@@ -1,0 +1,8 @@
+service:
+  name: serviceVPnsKyttRp
+  identifier: serviceVPnsKyttRp
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

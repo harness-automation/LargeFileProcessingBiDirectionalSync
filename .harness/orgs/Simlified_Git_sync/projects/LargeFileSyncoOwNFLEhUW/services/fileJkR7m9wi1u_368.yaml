@@ -1,0 +1,8 @@
+service:
+  name: service4bvv19smgp
+  identifier: service4bvv19smgp
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

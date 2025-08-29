@@ -1,0 +1,8 @@
+service:
+  name: serviceYK8iS0GlaP
+  identifier: serviceYK8iS0GlaP
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

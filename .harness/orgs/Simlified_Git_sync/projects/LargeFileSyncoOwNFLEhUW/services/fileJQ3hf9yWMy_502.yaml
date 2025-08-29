@@ -1,0 +1,8 @@
+service:
+  name: service1WOm3BAudu
+  identifier: service1WOm3BAudu
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

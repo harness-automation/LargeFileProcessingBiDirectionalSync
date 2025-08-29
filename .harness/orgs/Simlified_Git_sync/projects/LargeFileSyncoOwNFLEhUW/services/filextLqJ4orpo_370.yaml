@@ -1,0 +1,8 @@
+service:
+  name: service1DnI1HTFT5
+  identifier: service1DnI1HTFT5
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

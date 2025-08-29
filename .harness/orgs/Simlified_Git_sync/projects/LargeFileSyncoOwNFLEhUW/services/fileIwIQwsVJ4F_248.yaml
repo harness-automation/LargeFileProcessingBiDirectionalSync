@@ -1,0 +1,8 @@
+service:
+  name: servicerxGAA1gTUS
+  identifier: servicerxGAA1gTUS
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

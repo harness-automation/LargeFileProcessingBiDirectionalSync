@@ -1,0 +1,8 @@
+service:
+  name: serviceLc36PIdGy1
+  identifier: serviceLc36PIdGy1
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

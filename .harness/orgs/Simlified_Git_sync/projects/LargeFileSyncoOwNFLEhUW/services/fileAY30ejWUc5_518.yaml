@@ -1,0 +1,8 @@
+service:
+  name: serviceToSaHwS7ms
+  identifier: serviceToSaHwS7ms
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

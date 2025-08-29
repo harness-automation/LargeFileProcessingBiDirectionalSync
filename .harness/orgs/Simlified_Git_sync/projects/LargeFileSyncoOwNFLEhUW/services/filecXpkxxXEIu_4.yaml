@@ -1,0 +1,8 @@
+service:
+  name: servicetrW0elkDUC
+  identifier: servicetrW0elkDUC
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

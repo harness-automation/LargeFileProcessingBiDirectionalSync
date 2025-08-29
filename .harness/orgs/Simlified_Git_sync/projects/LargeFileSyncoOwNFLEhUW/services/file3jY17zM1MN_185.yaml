@@ -1,0 +1,8 @@
+service:
+  name: serviceN1OLcL571q
+  identifier: serviceN1OLcL571q
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

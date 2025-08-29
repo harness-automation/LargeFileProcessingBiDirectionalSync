@@ -1,0 +1,8 @@
+service:
+  name: service4YNPLrMhKr
+  identifier: service4YNPLrMhKr
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

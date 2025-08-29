@@ -1,0 +1,8 @@
+service:
+  name: serviceTABeIZU7vb
+  identifier: serviceTABeIZU7vb
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

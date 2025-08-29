@@ -1,0 +1,8 @@
+service:
+  name: serviceAddPO9WsIM
+  identifier: serviceAddPO9WsIM
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

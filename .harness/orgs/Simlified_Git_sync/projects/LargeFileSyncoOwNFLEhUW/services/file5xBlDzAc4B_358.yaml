@@ -1,0 +1,8 @@
+service:
+  name: serviceI31cJZDRAP
+  identifier: serviceI31cJZDRAP
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

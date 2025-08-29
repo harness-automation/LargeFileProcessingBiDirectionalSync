@@ -1,0 +1,8 @@
+service:
+  name: serviceSOGp4GlItQ
+  identifier: serviceSOGp4GlItQ
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicelWL3pc1UPS
+  identifier: servicelWL3pc1UPS
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

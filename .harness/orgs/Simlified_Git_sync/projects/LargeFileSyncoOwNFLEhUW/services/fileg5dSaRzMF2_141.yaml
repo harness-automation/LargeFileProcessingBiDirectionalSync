@@ -1,0 +1,8 @@
+service:
+  name: serviceEwoCMSm3hz
+  identifier: serviceEwoCMSm3hz
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

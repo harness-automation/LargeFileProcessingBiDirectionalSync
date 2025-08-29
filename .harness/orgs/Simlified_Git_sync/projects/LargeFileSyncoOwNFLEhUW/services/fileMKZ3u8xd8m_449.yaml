@@ -1,0 +1,8 @@
+service:
+  name: servicekt8GPDIvrc
+  identifier: servicekt8GPDIvrc
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

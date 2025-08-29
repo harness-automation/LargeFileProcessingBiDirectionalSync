@@ -1,0 +1,8 @@
+service:
+  name: serviceH747GM859X
+  identifier: serviceH747GM859X
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

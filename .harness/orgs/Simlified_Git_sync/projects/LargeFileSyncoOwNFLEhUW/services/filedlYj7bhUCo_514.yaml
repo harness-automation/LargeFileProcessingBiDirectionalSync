@@ -1,0 +1,8 @@
+service:
+  name: service32LECCuzw2
+  identifier: service32LECCuzw2
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

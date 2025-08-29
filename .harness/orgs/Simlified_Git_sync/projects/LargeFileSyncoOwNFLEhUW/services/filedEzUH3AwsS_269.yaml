@@ -1,0 +1,8 @@
+service:
+  name: serviceWA0moryo2N
+  identifier: serviceWA0moryo2N
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

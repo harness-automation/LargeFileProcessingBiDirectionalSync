@@ -1,0 +1,8 @@
+service:
+  name: serviceMiBkcp916d
+  identifier: serviceMiBkcp916d
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceMn752jxbze
+  identifier: serviceMn752jxbze
+  projectIdentifier: LargeFileSyncoOwNFLEhUW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
