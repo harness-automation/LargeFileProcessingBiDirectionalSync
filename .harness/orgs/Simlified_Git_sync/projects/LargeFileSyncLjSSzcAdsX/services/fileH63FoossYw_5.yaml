@@ -1,0 +1,8 @@
+service:
+  name: serviceDkZWNzRWst
+  identifier: serviceDkZWNzRWst
+  projectIdentifier: LargeFileSyncLjSSzcAdsX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
