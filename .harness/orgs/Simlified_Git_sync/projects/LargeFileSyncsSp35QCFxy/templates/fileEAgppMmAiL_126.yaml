@@ -1,0 +1,10 @@
+template:
+  name: servicekbG3CZmu2C
+  identifier: servicekbG3CZmu2C
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

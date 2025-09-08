@@ -1,0 +1,10 @@
+template:
+  name: servicePcX1akgeih
+  identifier: servicePcX1akgeih
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

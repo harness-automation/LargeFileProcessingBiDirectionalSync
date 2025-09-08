@@ -1,0 +1,10 @@
+template:
+  name: serviceyJhbbKiTu3
+  identifier: serviceyJhbbKiTu3
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,10 @@
+template:
+  name: servicevmofh30M2D
+  identifier: servicevmofh30M2D
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,10 @@
+template:
+  name: serviceB2tlJgwdOr
+  identifier: serviceB2tlJgwdOr
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

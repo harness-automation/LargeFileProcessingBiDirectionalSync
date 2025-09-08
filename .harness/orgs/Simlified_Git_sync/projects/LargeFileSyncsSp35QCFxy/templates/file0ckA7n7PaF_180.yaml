@@ -1,0 +1,10 @@
+template:
+  name: serviceKXmgQ1hzAm
+  identifier: serviceKXmgQ1hzAm
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

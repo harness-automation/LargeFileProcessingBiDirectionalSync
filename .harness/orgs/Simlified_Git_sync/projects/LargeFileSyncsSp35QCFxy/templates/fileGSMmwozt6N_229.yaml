@@ -1,0 +1,10 @@
+template:
+  name: servicefVU32bzpR1
+  identifier: servicefVU32bzpR1
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

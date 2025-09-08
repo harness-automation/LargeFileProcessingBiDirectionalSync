@@ -1,0 +1,10 @@
+template:
+  name: service66GTfpuRKb
+  identifier: service66GTfpuRKb
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

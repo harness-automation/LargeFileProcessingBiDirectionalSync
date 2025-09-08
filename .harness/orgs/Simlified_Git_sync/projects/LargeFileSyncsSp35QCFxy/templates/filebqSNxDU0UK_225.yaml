@@ -1,0 +1,10 @@
+template:
+  name: servicectjVn980e0
+  identifier: servicectjVn980e0
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

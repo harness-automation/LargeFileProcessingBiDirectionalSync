@@ -1,0 +1,10 @@
+template:
+  name: servicebS9LIFVVRk
+  identifier: servicebS9LIFVVRk
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

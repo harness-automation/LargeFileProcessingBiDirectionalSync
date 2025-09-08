@@ -1,0 +1,10 @@
+template:
+  name: serviceaN3j4WCuqQ
+  identifier: serviceaN3j4WCuqQ
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

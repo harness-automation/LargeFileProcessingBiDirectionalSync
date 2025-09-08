@@ -1,0 +1,10 @@
+template:
+  name: servicec50isSlc9r
+  identifier: servicec50isSlc9r
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

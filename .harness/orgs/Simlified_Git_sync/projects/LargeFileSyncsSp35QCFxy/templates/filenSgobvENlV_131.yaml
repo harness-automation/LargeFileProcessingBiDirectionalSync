@@ -1,0 +1,10 @@
+template:
+  name: serviceme76C6waBI
+  identifier: serviceme76C6waBI
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

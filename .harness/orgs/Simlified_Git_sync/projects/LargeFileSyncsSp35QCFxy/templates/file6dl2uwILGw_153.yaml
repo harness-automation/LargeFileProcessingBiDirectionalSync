@@ -1,0 +1,10 @@
+template:
+  name: serviceIA22TCP3Qx
+  identifier: serviceIA22TCP3Qx
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

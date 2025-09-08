@@ -1,0 +1,10 @@
+template:
+  name: serviceCIRLVk1i2S
+  identifier: serviceCIRLVk1i2S
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

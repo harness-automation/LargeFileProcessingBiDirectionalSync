@@ -1,0 +1,10 @@
+template:
+  name: serviceNHs2epBAzT
+  identifier: serviceNHs2epBAzT
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

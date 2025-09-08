@@ -1,0 +1,10 @@
+template:
+  name: serviceto3t1D8iAI
+  identifier: serviceto3t1D8iAI
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

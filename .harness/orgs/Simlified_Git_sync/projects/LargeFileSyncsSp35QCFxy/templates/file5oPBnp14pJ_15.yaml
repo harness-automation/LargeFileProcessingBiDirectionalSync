@@ -1,0 +1,10 @@
+template:
+  name: serviceNczesvD1VB
+  identifier: serviceNczesvD1VB
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

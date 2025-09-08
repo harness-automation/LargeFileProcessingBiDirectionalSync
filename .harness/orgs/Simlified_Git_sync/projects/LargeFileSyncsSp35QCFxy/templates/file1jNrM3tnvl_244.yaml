@@ -1,0 +1,10 @@
+template:
+  name: serviceKeIvML5NDr
+  identifier: serviceKeIvML5NDr
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

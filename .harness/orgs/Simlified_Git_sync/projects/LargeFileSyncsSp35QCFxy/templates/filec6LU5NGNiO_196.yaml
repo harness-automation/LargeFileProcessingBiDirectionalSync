@@ -1,0 +1,10 @@
+template:
+  name: servicejZsp36CNL3
+  identifier: servicejZsp36CNL3
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

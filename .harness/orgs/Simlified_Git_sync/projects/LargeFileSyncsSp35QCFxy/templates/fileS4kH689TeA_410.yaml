@@ -1,0 +1,10 @@
+template:
+  name: serviceqBoPAt8Nva
+  identifier: serviceqBoPAt8Nva
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

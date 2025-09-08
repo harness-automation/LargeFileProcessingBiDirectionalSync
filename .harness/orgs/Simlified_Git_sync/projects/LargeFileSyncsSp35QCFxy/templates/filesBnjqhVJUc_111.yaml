@@ -1,0 +1,10 @@
+template:
+  name: serviceTSw3wSkeN5
+  identifier: serviceTSw3wSkeN5
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

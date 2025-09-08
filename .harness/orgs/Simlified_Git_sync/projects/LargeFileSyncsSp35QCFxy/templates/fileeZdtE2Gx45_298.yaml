@@ -1,0 +1,10 @@
+template:
+  name: serviceCarY4dcQtm
+  identifier: serviceCarY4dcQtm
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

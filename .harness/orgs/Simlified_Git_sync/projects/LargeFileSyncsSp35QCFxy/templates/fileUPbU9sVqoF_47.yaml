@@ -1,0 +1,10 @@
+template:
+  name: serviceufaSm9sNn1
+  identifier: serviceufaSm9sNn1
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

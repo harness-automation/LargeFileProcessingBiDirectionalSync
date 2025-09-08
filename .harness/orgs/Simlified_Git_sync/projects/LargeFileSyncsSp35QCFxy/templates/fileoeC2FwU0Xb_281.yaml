@@ -1,0 +1,10 @@
+template:
+  name: serviceZ2tN0tCrPC
+  identifier: serviceZ2tN0tCrPC
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

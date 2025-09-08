@@ -1,0 +1,10 @@
+template:
+  name: serviceM2JcVC52Zw
+  identifier: serviceM2JcVC52Zw
+  projectIdentifier: LargeFileSyncsSp35QCFxy
+  versionLabel: dafs
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
