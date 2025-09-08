@@ -1,0 +1,8 @@
+service:
+  name: serviceRpgp9n63t9
+  identifier: serviceRpgp9n63t9
+  projectIdentifier: LargeFileSync2OU1MmuRO0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

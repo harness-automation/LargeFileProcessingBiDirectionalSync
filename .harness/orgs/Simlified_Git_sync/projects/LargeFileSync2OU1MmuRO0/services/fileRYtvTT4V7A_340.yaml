@@ -1,0 +1,8 @@
+service:
+  name: serviceG4SIM4kdUj
+  identifier: serviceG4SIM4kdUj
+  projectIdentifier: LargeFileSync2OU1MmuRO0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceOEc4VhaBOd
+  identifier: serviceOEc4VhaBOd
+  projectIdentifier: LargeFileSync2OU1MmuRO0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

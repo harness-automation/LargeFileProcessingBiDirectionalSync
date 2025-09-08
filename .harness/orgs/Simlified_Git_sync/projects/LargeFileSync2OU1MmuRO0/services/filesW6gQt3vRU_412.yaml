@@ -1,0 +1,8 @@
+service:
+  name: serviceK9SMbmaJpp
+  identifier: serviceK9SMbmaJpp
+  projectIdentifier: LargeFileSync2OU1MmuRO0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

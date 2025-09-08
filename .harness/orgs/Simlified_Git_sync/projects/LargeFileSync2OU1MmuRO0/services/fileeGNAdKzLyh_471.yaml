@@ -1,0 +1,8 @@
+service:
+  name: service64aTN78p3G
+  identifier: service64aTN78p3G
+  projectIdentifier: LargeFileSync2OU1MmuRO0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

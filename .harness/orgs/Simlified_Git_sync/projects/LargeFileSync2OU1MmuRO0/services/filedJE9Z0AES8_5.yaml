@@ -1,0 +1,8 @@
+service:
+  name: serviceTBynrbV350
+  identifier: serviceTBynrbV350
+  projectIdentifier: LargeFileSync2OU1MmuRO0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

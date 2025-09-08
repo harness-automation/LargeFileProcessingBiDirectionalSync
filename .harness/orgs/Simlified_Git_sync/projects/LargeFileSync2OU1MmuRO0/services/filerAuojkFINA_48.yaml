@@ -1,0 +1,8 @@
+service:
+  name: servicegRc7HOKrrs
+  identifier: servicegRc7HOKrrs
+  projectIdentifier: LargeFileSync2OU1MmuRO0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

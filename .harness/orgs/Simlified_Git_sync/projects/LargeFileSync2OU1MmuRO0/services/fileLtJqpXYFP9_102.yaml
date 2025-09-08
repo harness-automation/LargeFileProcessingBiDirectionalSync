@@ -1,0 +1,8 @@
+service:
+  name: serviceDWG7D55CcB
+  identifier: serviceDWG7D55CcB
+  projectIdentifier: LargeFileSync2OU1MmuRO0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

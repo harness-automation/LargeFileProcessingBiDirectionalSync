@@ -1,0 +1,8 @@
+service:
+  name: serviceK206Scb74m
+  identifier: serviceK206Scb74m
+  projectIdentifier: LargeFileSync2OU1MmuRO0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicelDbktAd5An
+  identifier: servicelDbktAd5An
+  projectIdentifier: LargeFileSync2OU1MmuRO0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceWSPlxDbYN6
+  identifier: serviceWSPlxDbYN6
+  projectIdentifier: LargeFileSync2OU1MmuRO0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

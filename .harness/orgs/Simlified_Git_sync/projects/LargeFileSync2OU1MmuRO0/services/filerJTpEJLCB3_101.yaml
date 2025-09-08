@@ -1,0 +1,8 @@
+service:
+  name: servicednac28MzUx
+  identifier: servicednac28MzUx
+  projectIdentifier: LargeFileSync2OU1MmuRO0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
