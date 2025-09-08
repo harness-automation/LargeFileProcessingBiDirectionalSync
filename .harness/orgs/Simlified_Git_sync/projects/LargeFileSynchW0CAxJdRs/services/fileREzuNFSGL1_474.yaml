@@ -1,0 +1,8 @@
+service:
+  name: servicelLBtXAIN9P
+  identifier: servicelLBtXAIN9P
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

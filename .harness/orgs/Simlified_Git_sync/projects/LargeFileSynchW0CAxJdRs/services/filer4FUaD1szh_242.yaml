@@ -1,0 +1,8 @@
+service:
+  name: servicen2Cbja4cd2
+  identifier: servicen2Cbja4cd2
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

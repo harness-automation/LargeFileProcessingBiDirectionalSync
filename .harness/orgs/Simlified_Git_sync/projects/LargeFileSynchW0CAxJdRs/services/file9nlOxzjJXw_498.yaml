@@ -1,0 +1,8 @@
+service:
+  name: serviceMw48FmBkIu
+  identifier: serviceMw48FmBkIu
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

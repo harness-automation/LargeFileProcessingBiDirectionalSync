@@ -1,0 +1,8 @@
+service:
+  name: servicerNt945nLe9
+  identifier: servicerNt945nLe9
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

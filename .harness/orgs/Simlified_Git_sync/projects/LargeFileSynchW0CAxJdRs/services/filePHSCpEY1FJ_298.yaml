@@ -1,0 +1,8 @@
+service:
+  name: servicegq11MT68KN
+  identifier: servicegq11MT68KN
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

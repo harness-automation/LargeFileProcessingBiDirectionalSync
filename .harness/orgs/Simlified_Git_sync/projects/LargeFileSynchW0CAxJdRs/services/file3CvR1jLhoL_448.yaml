@@ -1,0 +1,8 @@
+service:
+  name: serviceRWP2GMXxwp
+  identifier: serviceRWP2GMXxwp
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

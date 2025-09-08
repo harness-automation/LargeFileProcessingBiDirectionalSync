@@ -1,0 +1,8 @@
+service:
+  name: serviceLUMa8xCI47
+  identifier: serviceLUMa8xCI47
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

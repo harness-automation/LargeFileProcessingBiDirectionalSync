@@ -1,0 +1,8 @@
+service:
+  name: serviceWb2mxwQlib
+  identifier: serviceWb2mxwQlib
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicefkbVutPg4s
+  identifier: servicefkbVutPg4s
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

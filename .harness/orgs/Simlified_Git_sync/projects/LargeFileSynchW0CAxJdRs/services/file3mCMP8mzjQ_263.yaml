@@ -1,0 +1,8 @@
+service:
+  name: servicevp8Ge23CPU
+  identifier: servicevp8Ge23CPU
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

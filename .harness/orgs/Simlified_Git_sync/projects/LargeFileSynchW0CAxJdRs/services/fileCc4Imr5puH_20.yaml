@@ -1,0 +1,8 @@
+service:
+  name: serviceHLR6ix44df
+  identifier: serviceHLR6ix44df
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

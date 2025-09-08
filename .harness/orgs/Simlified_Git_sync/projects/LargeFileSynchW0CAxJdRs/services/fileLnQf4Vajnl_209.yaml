@@ -1,0 +1,8 @@
+service:
+  name: serviceEPSk8Cemlt
+  identifier: serviceEPSk8Cemlt
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

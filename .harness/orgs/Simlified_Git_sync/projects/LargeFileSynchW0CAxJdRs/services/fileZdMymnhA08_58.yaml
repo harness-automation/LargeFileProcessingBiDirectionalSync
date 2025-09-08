@@ -1,0 +1,8 @@
+service:
+  name: serviceDpc5K7hMU2
+  identifier: serviceDpc5K7hMU2
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

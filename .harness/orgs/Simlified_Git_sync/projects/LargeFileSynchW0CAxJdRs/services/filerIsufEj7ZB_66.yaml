@@ -1,0 +1,8 @@
+service:
+  name: servicetmvzislww2
+  identifier: servicetmvzislww2
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

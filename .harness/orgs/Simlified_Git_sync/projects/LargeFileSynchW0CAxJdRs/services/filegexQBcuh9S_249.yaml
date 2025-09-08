@@ -1,0 +1,8 @@
+service:
+  name: serviceVJT3JriiKD
+  identifier: serviceVJT3JriiKD
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

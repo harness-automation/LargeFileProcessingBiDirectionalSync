@@ -1,0 +1,8 @@
+service:
+  name: servicerMWAn1T1Fc
+  identifier: servicerMWAn1T1Fc
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceWwbS5P81Gf
+  identifier: serviceWwbS5P81Gf
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

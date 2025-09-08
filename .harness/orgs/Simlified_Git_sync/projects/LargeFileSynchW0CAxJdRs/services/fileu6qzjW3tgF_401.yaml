@@ -1,0 +1,8 @@
+service:
+  name: serviceMMCoJLTIZa
+  identifier: serviceMMCoJLTIZa
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

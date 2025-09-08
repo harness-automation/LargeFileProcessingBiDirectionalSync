@@ -1,0 +1,8 @@
+service:
+  name: serviceARQSM7daeu
+  identifier: serviceARQSM7daeu
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

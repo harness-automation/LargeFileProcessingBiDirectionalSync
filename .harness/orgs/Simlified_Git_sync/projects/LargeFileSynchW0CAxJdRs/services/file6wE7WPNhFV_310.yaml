@@ -1,0 +1,8 @@
+service:
+  name: service0MVEDsVPoB
+  identifier: service0MVEDsVPoB
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

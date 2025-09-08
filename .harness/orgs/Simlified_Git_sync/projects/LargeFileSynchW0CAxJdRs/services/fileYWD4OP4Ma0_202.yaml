@@ -1,0 +1,8 @@
+service:
+  name: servicenTmv3NLNM8
+  identifier: servicenTmv3NLNM8
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

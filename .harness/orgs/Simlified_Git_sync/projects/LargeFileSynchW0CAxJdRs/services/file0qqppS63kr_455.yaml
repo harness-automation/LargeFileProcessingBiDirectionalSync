@@ -1,0 +1,8 @@
+service:
+  name: serviceYZZEWYGHh1
+  identifier: serviceYZZEWYGHh1
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

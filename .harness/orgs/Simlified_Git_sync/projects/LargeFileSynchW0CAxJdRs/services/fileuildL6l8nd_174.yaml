@@ -1,0 +1,8 @@
+service:
+  name: serviceXRPNTDAJ8z
+  identifier: serviceXRPNTDAJ8z
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

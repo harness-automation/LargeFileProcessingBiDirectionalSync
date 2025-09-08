@@ -1,0 +1,8 @@
+service:
+  name: serviceImT6TCRpeC
+  identifier: serviceImT6TCRpeC
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

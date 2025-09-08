@@ -1,0 +1,8 @@
+service:
+  name: serviceGix17UeUlw
+  identifier: serviceGix17UeUlw
+  projectIdentifier: LargeFileSynchW0CAxJdRs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
