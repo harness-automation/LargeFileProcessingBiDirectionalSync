@@ -1,0 +1,8 @@
+service:
+  name: serviceWtsA8kOS1A
+  identifier: serviceWtsA8kOS1A
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

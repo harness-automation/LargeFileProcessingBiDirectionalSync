@@ -1,0 +1,8 @@
+service:
+  name: serviceDLofFRAU66
+  identifier: serviceDLofFRAU66
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

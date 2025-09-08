@@ -1,0 +1,8 @@
+service:
+  name: serviceO7FRagMtM8
+  identifier: serviceO7FRagMtM8
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

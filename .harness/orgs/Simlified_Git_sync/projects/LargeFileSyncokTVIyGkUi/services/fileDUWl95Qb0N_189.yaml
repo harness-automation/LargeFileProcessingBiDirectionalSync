@@ -1,0 +1,8 @@
+service:
+  name: serviceeM98lnahvt
+  identifier: serviceeM98lnahvt
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

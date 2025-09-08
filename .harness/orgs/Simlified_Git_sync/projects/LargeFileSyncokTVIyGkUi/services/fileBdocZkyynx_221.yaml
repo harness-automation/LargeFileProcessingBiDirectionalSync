@@ -1,0 +1,8 @@
+service:
+  name: servicePKg51RHGPM
+  identifier: servicePKg51RHGPM
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

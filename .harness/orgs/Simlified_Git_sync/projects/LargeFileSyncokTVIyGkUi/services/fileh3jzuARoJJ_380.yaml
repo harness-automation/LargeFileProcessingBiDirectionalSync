@@ -1,0 +1,8 @@
+service:
+  name: serviceSoruNdL0uX
+  identifier: serviceSoruNdL0uX
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

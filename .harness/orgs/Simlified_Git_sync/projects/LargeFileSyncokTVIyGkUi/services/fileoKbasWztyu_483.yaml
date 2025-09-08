@@ -1,0 +1,8 @@
+service:
+  name: serviceqigawisRDB
+  identifier: serviceqigawisRDB
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

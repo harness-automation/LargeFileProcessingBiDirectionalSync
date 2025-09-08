@@ -1,0 +1,8 @@
+service:
+  name: service3F8IMoAi4D
+  identifier: service3F8IMoAi4D
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

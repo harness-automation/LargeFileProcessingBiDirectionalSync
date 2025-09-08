@@ -1,0 +1,8 @@
+service:
+  name: serviceTsbSXTmYhz
+  identifier: serviceTsbSXTmYhz
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

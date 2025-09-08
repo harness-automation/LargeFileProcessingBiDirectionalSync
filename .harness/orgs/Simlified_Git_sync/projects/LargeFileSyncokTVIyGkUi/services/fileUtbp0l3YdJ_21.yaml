@@ -1,0 +1,8 @@
+service:
+  name: serviceLEe218v3to
+  identifier: serviceLEe218v3to
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

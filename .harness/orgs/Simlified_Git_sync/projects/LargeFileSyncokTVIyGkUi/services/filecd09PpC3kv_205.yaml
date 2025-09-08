@@ -1,0 +1,8 @@
+service:
+  name: serviceL51fChAZLv
+  identifier: serviceL51fChAZLv
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

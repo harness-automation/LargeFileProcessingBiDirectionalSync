@@ -1,0 +1,8 @@
+service:
+  name: serviceDui2GXtDXr
+  identifier: serviceDui2GXtDXr
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceesQbUD2LMC
+  identifier: serviceesQbUD2LMC
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

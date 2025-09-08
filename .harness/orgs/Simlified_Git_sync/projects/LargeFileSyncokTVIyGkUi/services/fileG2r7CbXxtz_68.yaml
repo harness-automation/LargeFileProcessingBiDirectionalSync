@@ -1,0 +1,8 @@
+service:
+  name: serviceRIGAtQOoz2
+  identifier: serviceRIGAtQOoz2
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

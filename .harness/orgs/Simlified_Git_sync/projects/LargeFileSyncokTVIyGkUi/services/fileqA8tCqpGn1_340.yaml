@@ -1,0 +1,8 @@
+service:
+  name: servicerDux2YMSHE
+  identifier: servicerDux2YMSHE
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

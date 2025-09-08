@@ -1,0 +1,8 @@
+service:
+  name: serviceUJH50TsoTZ
+  identifier: serviceUJH50TsoTZ
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

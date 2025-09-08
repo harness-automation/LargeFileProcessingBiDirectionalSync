@@ -1,0 +1,8 @@
+service:
+  name: serviceDFFG2NQeaG
+  identifier: serviceDFFG2NQeaG
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicevhr2BDRJIw
+  identifier: servicevhr2BDRJIw
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

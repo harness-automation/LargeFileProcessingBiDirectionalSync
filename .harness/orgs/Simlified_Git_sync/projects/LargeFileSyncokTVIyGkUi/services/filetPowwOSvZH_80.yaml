@@ -1,0 +1,8 @@
+service:
+  name: serviceyMK3PEtePg
+  identifier: serviceyMK3PEtePg
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

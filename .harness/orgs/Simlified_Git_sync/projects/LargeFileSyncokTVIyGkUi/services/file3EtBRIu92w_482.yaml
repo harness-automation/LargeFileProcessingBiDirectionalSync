@@ -1,0 +1,8 @@
+service:
+  name: serviceGF8gUSszRI
+  identifier: serviceGF8gUSszRI
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

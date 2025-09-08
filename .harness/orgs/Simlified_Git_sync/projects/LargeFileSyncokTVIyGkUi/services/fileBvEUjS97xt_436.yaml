@@ -1,0 +1,8 @@
+service:
+  name: serviceJdbWH5wHtu
+  identifier: serviceJdbWH5wHtu
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

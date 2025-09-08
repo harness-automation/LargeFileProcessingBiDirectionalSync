@@ -1,0 +1,8 @@
+service:
+  name: serviceOWPSlRu8lt
+  identifier: serviceOWPSlRu8lt
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceWXuc63TCTE
+  identifier: serviceWXuc63TCTE
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

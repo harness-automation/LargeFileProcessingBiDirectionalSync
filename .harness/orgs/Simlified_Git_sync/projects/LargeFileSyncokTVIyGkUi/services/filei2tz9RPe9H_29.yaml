@@ -1,0 +1,8 @@
+service:
+  name: service5Oksoil1HK
+  identifier: service5Oksoil1HK
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

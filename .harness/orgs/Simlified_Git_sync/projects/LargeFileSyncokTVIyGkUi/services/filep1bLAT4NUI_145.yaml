@@ -1,0 +1,8 @@
+service:
+  name: serviceM26oWkJ6Do
+  identifier: serviceM26oWkJ6Do
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

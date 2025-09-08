@@ -1,0 +1,8 @@
+service:
+  name: servicebVt2SPHEA4
+  identifier: servicebVt2SPHEA4
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

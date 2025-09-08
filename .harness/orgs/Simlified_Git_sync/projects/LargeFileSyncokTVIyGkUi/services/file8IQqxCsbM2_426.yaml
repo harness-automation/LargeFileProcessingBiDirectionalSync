@@ -1,0 +1,8 @@
+service:
+  name: serviceKIXa09mPIn
+  identifier: serviceKIXa09mPIn
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

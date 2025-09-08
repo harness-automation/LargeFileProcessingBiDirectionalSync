@@ -1,0 +1,8 @@
+service:
+  name: serviceZtrLlE7bin
+  identifier: serviceZtrLlE7bin
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

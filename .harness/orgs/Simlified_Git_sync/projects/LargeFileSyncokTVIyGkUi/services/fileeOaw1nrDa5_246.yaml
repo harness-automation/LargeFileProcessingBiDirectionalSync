@@ -1,0 +1,8 @@
+service:
+  name: serviceQ1DVGMpfdc
+  identifier: serviceQ1DVGMpfdc
+  projectIdentifier: LargeFileSyncokTVIyGkUi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
