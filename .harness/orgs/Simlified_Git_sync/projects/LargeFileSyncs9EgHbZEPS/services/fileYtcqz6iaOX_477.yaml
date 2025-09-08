@@ -1,0 +1,8 @@
+service:
+  name: servicebOsDUCH9LF
+  identifier: servicebOsDUCH9LF
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceOxEGb4Knxx
+  identifier: serviceOxEGb4Knxx
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

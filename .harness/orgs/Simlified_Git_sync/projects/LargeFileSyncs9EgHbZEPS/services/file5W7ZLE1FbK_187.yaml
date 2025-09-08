@@ -1,0 +1,8 @@
+service:
+  name: serviceyWQQ53bvpu
+  identifier: serviceyWQQ53bvpu
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

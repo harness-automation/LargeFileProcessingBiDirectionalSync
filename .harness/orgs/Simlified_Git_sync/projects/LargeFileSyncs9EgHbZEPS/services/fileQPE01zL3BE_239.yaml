@@ -1,0 +1,8 @@
+service:
+  name: serviceVBrN3ATCaz
+  identifier: serviceVBrN3ATCaz
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

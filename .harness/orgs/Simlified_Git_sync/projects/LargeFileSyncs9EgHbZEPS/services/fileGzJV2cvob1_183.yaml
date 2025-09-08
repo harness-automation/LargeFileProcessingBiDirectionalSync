@@ -1,0 +1,8 @@
+service:
+  name: servicevvCHLmC552
+  identifier: servicevvCHLmC552
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

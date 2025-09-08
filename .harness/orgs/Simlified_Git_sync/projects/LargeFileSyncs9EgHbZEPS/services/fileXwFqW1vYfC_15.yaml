@@ -1,0 +1,8 @@
+service:
+  name: serviceFdBMgBOKhq
+  identifier: serviceFdBMgBOKhq
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

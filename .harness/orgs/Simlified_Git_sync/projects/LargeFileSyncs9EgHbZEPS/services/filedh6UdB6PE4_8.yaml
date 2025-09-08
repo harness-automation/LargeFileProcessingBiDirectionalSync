@@ -1,0 +1,8 @@
+service:
+  name: servicezveNjGS16d
+  identifier: servicezveNjGS16d
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

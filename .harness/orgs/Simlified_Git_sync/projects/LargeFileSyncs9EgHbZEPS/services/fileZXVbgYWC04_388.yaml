@@ -1,0 +1,8 @@
+service:
+  name: serviceAhMP1GuhFS
+  identifier: serviceAhMP1GuhFS
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

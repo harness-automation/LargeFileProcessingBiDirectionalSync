@@ -1,0 +1,8 @@
+service:
+  name: servicePeSLDoyt5N
+  identifier: servicePeSLDoyt5N
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

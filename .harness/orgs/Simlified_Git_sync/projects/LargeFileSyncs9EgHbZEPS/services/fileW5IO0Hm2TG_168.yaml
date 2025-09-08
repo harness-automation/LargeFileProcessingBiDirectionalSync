@@ -1,0 +1,8 @@
+service:
+  name: serviceWH0MjMuCry
+  identifier: serviceWH0MjMuCry
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

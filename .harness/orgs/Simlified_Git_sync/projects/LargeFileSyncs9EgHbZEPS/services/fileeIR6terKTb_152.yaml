@@ -1,0 +1,8 @@
+service:
+  name: serviceTWR3lAxtfg
+  identifier: serviceTWR3lAxtfg
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

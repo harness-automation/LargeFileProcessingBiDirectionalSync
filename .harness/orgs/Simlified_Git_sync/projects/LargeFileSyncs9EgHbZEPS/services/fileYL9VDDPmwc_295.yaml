@@ -1,0 +1,8 @@
+service:
+  name: serviceB66VUXshIZ
+  identifier: serviceB66VUXshIZ
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

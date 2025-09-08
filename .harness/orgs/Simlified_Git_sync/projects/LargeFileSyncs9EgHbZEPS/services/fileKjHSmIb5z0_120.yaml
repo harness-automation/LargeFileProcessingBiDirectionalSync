@@ -1,0 +1,8 @@
+service:
+  name: serviceaIATX865MA
+  identifier: serviceaIATX865MA
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

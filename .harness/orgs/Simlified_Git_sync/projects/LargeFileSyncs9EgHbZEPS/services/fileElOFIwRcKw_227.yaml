@@ -1,0 +1,8 @@
+service:
+  name: servicedhtue5drft
+  identifier: servicedhtue5drft
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

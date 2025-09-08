@@ -1,0 +1,8 @@
+service:
+  name: serviceTRG2MuM2PJ
+  identifier: serviceTRG2MuM2PJ
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

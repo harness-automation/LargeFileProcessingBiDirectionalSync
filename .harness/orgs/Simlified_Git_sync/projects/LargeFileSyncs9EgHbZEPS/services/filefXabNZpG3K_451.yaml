@@ -1,0 +1,8 @@
+service:
+  name: serviceHMD86fzY5a
+  identifier: serviceHMD86fzY5a
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

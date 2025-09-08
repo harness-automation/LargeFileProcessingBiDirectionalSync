@@ -1,0 +1,8 @@
+service:
+  name: serviceRnSGAZ1XAL
+  identifier: serviceRnSGAZ1XAL
+  projectIdentifier: LargeFileSyncs9EgHbZEPS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
