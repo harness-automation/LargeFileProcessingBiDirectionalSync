@@ -1,0 +1,8 @@
+service:
+  name: serviceDHUsUHA5T6
+  identifier: serviceDHUsUHA5T6
+  projectIdentifier: LargeFileSynckzNlIoN8XY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
