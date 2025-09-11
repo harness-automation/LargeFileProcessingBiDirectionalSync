@@ -1,0 +1,8 @@
+service:
+  name: service07mf42lLoc
+  identifier: service07mf42lLoc
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

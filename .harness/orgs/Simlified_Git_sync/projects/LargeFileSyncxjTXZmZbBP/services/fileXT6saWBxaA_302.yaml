@@ -1,0 +1,8 @@
+service:
+  name: serviceFcjMB3unAR
+  identifier: serviceFcjMB3unAR
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

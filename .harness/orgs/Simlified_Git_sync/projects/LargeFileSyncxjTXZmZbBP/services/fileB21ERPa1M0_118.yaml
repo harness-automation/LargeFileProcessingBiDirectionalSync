@@ -1,0 +1,8 @@
+service:
+  name: servicem01p550eZp
+  identifier: servicem01p550eZp
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

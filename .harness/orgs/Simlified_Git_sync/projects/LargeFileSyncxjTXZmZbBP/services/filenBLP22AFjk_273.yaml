@@ -1,0 +1,8 @@
+service:
+  name: serviceV1lLaNi52u
+  identifier: serviceV1lLaNi52u
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicerGcpeHPRt7
+  identifier: servicerGcpeHPRt7
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicebmOT1XmCE1
+  identifier: servicebmOT1XmCE1
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

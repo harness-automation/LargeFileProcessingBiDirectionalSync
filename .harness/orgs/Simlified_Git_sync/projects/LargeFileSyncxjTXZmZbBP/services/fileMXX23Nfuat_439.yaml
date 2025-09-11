@@ -1,0 +1,8 @@
+service:
+  name: serviceRn64GEG18i
+  identifier: serviceRn64GEG18i
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

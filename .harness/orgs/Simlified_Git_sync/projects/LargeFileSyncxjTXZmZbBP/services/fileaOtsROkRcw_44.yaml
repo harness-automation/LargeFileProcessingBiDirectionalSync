@@ -1,0 +1,8 @@
+service:
+  name: serviceBt38eXZtAu
+  identifier: serviceBt38eXZtAu
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceacubbS9rl3
+  identifier: serviceacubbS9rl3
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

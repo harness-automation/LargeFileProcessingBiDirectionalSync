@@ -1,0 +1,8 @@
+service:
+  name: service8ER53FRIEy
+  identifier: service8ER53FRIEy
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

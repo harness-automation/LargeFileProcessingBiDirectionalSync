@@ -1,0 +1,8 @@
+service:
+  name: servicedPunyx2tcB
+  identifier: servicedPunyx2tcB
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

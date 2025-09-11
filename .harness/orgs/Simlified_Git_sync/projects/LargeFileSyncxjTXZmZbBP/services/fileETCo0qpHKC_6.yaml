@@ -1,0 +1,8 @@
+service:
+  name: serviceEuMgP5Pcfo
+  identifier: serviceEuMgP5Pcfo
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

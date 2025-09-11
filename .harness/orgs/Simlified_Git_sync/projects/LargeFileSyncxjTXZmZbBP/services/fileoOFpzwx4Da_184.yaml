@@ -1,0 +1,8 @@
+service:
+  name: servicekKMW2Biglv
+  identifier: servicekKMW2Biglv
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

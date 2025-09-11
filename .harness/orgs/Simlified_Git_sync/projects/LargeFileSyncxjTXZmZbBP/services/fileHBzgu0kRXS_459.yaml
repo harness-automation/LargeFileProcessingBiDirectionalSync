@@ -1,0 +1,8 @@
+service:
+  name: servicek2MB38WjD4
+  identifier: servicek2MB38WjD4
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

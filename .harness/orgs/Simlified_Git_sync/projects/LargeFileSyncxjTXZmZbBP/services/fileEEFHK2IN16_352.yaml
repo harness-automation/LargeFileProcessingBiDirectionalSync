@@ -1,0 +1,8 @@
+service:
+  name: service9nO4SmicTB
+  identifier: service9nO4SmicTB
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service1GTTRW966c
+  identifier: service1GTTRW966c
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

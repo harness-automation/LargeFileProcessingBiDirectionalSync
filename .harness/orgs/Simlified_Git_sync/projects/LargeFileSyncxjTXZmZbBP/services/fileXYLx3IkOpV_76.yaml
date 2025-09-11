@@ -1,0 +1,8 @@
+service:
+  name: serviceLIzaCnSwi7
+  identifier: serviceLIzaCnSwi7
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

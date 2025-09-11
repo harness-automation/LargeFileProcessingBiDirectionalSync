@@ -1,0 +1,8 @@
+service:
+  name: serviceOcNHSVajV2
+  identifier: serviceOcNHSVajV2
+  projectIdentifier: LargeFileSyncxjTXZmZbBP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
