@@ -1,0 +1,8 @@
+service:
+  name: servicew2ROrlzp14
+  identifier: servicew2ROrlzp14
+  projectIdentifier: LargeFileSyncYWFPVjNhbX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
