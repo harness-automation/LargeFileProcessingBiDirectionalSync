@@ -1,0 +1,8 @@
+service:
+  name: serviceCYB1EQ04QB
+  identifier: serviceCYB1EQ04QB
+  projectIdentifier: LargeFileSyncmXA0URt1Os
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceiS55lXvb3b
+  identifier: serviceiS55lXvb3b
+  projectIdentifier: LargeFileSyncmXA0URt1Os
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

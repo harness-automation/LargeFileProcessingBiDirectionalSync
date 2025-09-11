@@ -1,0 +1,8 @@
+service:
+  name: serviceQs5t21KOT3
+  identifier: serviceQs5t21KOT3
+  projectIdentifier: LargeFileSyncmXA0URt1Os
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

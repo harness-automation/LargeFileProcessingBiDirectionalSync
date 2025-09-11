@@ -1,0 +1,8 @@
+service:
+  name: service6GScKCMPIv
+  identifier: service6GScKCMPIv
+  projectIdentifier: LargeFileSyncmXA0URt1Os
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

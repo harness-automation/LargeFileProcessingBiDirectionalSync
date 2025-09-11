@@ -1,0 +1,8 @@
+service:
+  name: serviceVv0ArXPmRS
+  identifier: serviceVv0ArXPmRS
+  projectIdentifier: LargeFileSyncmXA0URt1Os
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceRcxOv2hs1A
+  identifier: serviceRcxOv2hs1A
+  projectIdentifier: LargeFileSyncmXA0URt1Os
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

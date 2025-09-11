@@ -1,0 +1,8 @@
+service:
+  name: servicec50t3TRebx
+  identifier: servicec50t3TRebx
+  projectIdentifier: LargeFileSyncmXA0URt1Os
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

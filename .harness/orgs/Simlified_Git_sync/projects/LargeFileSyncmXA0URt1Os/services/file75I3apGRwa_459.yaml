@@ -1,0 +1,8 @@
+service:
+  name: servicepxAKCKC9ME
+  identifier: servicepxAKCKC9ME
+  projectIdentifier: LargeFileSyncmXA0URt1Os
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

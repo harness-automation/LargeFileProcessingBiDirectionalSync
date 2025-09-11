@@ -1,0 +1,8 @@
+service:
+  name: serviceMG61lKXGcu
+  identifier: serviceMG61lKXGcu
+  projectIdentifier: LargeFileSyncmXA0URt1Os
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceSL4pmvmeMy
+  identifier: serviceSL4pmvmeMy
+  projectIdentifier: LargeFileSyncmXA0URt1Os
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

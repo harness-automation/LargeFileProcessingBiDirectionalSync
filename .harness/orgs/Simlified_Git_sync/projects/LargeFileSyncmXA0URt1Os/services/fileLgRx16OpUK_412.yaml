@@ -1,0 +1,8 @@
+service:
+  name: serviceFTZUJI0DOL
+  identifier: serviceFTZUJI0DOL
+  projectIdentifier: LargeFileSyncmXA0URt1Os
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

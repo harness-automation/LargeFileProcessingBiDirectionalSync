@@ -1,0 +1,8 @@
+service:
+  name: servicelTC64G3H5j
+  identifier: servicelTC64G3H5j
+  projectIdentifier: LargeFileSyncmXA0URt1Os
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
