@@ -1,0 +1,8 @@
+service:
+  name: serviced3x95VmDrs
+  identifier: serviced3x95VmDrs
+  projectIdentifier: LargeFileSyncKj89n0DHhu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

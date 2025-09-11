@@ -1,0 +1,8 @@
+service:
+  name: serviceKZVtwWHMV6
+  identifier: serviceKZVtwWHMV6
+  projectIdentifier: LargeFileSyncKj89n0DHhu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

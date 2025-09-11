@@ -1,0 +1,8 @@
+service:
+  name: serviceemgNl02Co2
+  identifier: serviceemgNl02Co2
+  projectIdentifier: LargeFileSyncKj89n0DHhu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

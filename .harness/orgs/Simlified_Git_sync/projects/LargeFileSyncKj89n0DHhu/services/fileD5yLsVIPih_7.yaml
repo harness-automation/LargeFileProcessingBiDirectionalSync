@@ -1,0 +1,8 @@
+service:
+  name: servicelSM93BOKjZ
+  identifier: servicelSM93BOKjZ
+  projectIdentifier: LargeFileSyncKj89n0DHhu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

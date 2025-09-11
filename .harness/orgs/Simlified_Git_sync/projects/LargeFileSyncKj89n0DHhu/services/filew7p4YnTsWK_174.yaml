@@ -1,0 +1,8 @@
+service:
+  name: serviceeK2dbPQCQI
+  identifier: serviceeK2dbPQCQI
+  projectIdentifier: LargeFileSyncKj89n0DHhu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

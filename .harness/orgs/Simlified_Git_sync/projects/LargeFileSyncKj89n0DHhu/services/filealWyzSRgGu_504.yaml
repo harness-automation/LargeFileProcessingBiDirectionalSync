@@ -1,0 +1,8 @@
+service:
+  name: serviceAZ4TNiSsRe
+  identifier: serviceAZ4TNiSsRe
+  projectIdentifier: LargeFileSyncKj89n0DHhu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
