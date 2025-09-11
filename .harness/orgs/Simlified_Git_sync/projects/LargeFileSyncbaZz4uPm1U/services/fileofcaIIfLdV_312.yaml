@@ -1,0 +1,8 @@
+service:
+  name: service2GhSP2MvEN
+  identifier: service2GhSP2MvEN
+  projectIdentifier: LargeFileSyncbaZz4uPm1U
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

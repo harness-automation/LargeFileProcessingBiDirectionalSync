@@ -1,0 +1,8 @@
+service:
+  name: serviceME60HcmWM6
+  identifier: serviceME60HcmWM6
+  projectIdentifier: LargeFileSyncbaZz4uPm1U
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

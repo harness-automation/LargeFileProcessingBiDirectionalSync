@@ -1,0 +1,8 @@
+service:
+  name: serviceQITsB865es
+  identifier: serviceQITsB865es
+  projectIdentifier: LargeFileSyncbaZz4uPm1U
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

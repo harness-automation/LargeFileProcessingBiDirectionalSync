@@ -1,0 +1,8 @@
+service:
+  name: service4LsVacPs2t
+  identifier: service4LsVacPs2t
+  projectIdentifier: LargeFileSyncbaZz4uPm1U
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
