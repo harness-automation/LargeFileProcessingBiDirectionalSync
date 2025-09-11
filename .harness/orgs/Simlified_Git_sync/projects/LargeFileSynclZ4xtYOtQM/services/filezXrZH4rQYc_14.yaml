@@ -1,0 +1,8 @@
+service:
+  name: serviceZy2csddSed
+  identifier: serviceZy2csddSed
+  projectIdentifier: LargeFileSynclZ4xtYOtQM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
