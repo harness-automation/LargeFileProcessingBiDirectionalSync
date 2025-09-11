@@ -1,0 +1,8 @@
+service:
+  name: servicecMPQKW40ZI
+  identifier: servicecMPQKW40ZI
+  projectIdentifier: LargeFileSync3NziUUWAiP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
