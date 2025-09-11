@@ -1,0 +1,8 @@
+service:
+  name: serviceFLSKeif44O
+  identifier: serviceFLSKeif44O
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

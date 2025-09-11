@@ -1,0 +1,8 @@
+service:
+  name: serviceFSAxLPi70s
+  identifier: serviceFSAxLPi70s
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

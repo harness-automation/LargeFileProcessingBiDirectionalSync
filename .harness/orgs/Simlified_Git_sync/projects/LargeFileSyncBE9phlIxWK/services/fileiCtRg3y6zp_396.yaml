@@ -1,0 +1,8 @@
+service:
+  name: serviceCve3i0vC93
+  identifier: serviceCve3i0vC93
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

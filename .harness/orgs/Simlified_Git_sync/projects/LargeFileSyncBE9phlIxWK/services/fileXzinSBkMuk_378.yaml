@@ -1,0 +1,8 @@
+service:
+  name: serviceRUGb7KTV3Y
+  identifier: serviceRUGb7KTV3Y
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

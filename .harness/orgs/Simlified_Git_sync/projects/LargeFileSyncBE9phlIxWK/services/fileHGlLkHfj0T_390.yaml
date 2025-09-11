@@ -1,0 +1,8 @@
+service:
+  name: servicewmpDnjAk1D
+  identifier: servicewmpDnjAk1D
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

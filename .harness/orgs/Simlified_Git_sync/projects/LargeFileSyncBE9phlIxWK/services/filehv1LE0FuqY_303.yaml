@@ -1,0 +1,8 @@
+service:
+  name: servicepKCMB2NuoZ
+  identifier: servicepKCMB2NuoZ
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

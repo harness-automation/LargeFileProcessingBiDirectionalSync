@@ -1,0 +1,8 @@
+service:
+  name: service1erpbAcscn
+  identifier: service1erpbAcscn
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceRCFrjTe6kb
+  identifier: serviceRCFrjTe6kb
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceOupgum9GK1
+  identifier: serviceOupgum9GK1
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

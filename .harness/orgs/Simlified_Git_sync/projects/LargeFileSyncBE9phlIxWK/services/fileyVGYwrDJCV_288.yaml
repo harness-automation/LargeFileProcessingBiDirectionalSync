@@ -1,0 +1,8 @@
+service:
+  name: serviceOOmSy0bypN
+  identifier: serviceOOmSy0bypN
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

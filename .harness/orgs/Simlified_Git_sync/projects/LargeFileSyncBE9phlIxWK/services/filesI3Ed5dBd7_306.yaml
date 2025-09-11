@@ -1,0 +1,8 @@
+service:
+  name: serviceVRMFhuhs8T
+  identifier: serviceVRMFhuhs8T
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

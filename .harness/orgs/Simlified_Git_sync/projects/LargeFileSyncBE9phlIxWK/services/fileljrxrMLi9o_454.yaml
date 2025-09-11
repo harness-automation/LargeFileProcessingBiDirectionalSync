@@ -1,0 +1,8 @@
+service:
+  name: serviceHqltoNzA2K
+  identifier: serviceHqltoNzA2K
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

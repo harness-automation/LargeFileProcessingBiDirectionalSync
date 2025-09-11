@@ -1,0 +1,8 @@
+service:
+  name: serviceJizrwg2sNS
+  identifier: serviceJizrwg2sNS
+  projectIdentifier: LargeFileSyncBE9phlIxWK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
