@@ -1,0 +1,8 @@
+service:
+  name: serviceDxPXTlp16I
+  identifier: serviceDxPXTlp16I
+  projectIdentifier: LargeFileSyncQzeQ2MBxef
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
