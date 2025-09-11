@@ -1,0 +1,8 @@
+service:
+  name: serviceRxiGlmk3DF
+  identifier: serviceRxiGlmk3DF
+  projectIdentifier: LargeFileSyncLPH8w7rkXh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

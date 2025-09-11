@@ -1,0 +1,8 @@
+service:
+  name: serviceKrM77TLTeq
+  identifier: serviceKrM77TLTeq
+  projectIdentifier: LargeFileSyncLPH8w7rkXh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

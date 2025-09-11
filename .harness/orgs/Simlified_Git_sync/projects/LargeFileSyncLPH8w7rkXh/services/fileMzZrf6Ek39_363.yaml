@@ -1,0 +1,8 @@
+service:
+  name: servicerFC4LDIlWL
+  identifier: servicerFC4LDIlWL
+  projectIdentifier: LargeFileSyncLPH8w7rkXh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

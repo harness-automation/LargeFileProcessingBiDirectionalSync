@@ -1,0 +1,8 @@
+service:
+  name: servicexJalcMOP0v
+  identifier: servicexJalcMOP0v
+  projectIdentifier: LargeFileSyncLPH8w7rkXh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

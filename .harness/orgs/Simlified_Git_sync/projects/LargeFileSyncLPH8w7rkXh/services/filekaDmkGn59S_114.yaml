@@ -1,0 +1,8 @@
+service:
+  name: serviceElTb7Lb3bU
+  identifier: serviceElTb7Lb3bU
+  projectIdentifier: LargeFileSyncLPH8w7rkXh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

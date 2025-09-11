@@ -1,0 +1,8 @@
+service:
+  name: servicegPMH26MO4C
+  identifier: servicegPMH26MO4C
+  projectIdentifier: LargeFileSyncLPH8w7rkXh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

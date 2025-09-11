@@ -1,0 +1,8 @@
+service:
+  name: serviceIqARL7Ir8p
+  identifier: serviceIqARL7Ir8p
+  projectIdentifier: LargeFileSyncLPH8w7rkXh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
