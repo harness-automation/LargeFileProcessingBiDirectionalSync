@@ -1,0 +1,8 @@
+service:
+  name: serviceVrxlWSQ225
+  identifier: serviceVrxlWSQ225
+  projectIdentifier: LargeFileSyncnkirhH3wIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
