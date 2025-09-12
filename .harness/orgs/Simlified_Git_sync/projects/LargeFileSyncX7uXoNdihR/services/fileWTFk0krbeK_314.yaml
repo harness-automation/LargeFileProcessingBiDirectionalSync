@@ -1,0 +1,8 @@
+service:
+  name: servicernyEXLIRQs
+  identifier: servicernyEXLIRQs
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

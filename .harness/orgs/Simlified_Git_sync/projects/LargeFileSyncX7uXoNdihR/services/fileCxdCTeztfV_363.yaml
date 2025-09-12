@@ -1,0 +1,8 @@
+service:
+  name: serviceKxJC51Pv1x
+  identifier: serviceKxJC51Pv1x
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicenaCUTs4xcs
+  identifier: servicenaCUTs4xcs
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceUpBaMYPp6t
+  identifier: serviceUpBaMYPp6t
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceH5ADDRTW84
+  identifier: serviceH5ADDRTW84
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

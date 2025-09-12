@@ -1,0 +1,8 @@
+service:
+  name: servicepm8lc4REko
+  identifier: servicepm8lc4REko
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFSVA1dcp1r
+  identifier: serviceFSVA1dcp1r
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

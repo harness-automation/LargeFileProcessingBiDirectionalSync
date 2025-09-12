@@ -1,0 +1,8 @@
+service:
+  name: serviceUCHCUvsc2n
+  identifier: serviceUCHCUvsc2n
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

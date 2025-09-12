@@ -1,0 +1,8 @@
+service:
+  name: serviceERA2bNqs2S
+  identifier: serviceERA2bNqs2S
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceRO95GWpvZp
+  identifier: serviceRO95GWpvZp
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

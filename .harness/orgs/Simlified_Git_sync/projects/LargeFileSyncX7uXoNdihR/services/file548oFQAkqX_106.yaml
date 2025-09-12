@@ -1,0 +1,8 @@
+service:
+  name: servicem3nv3074Mi
+  identifier: servicem3nv3074Mi
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

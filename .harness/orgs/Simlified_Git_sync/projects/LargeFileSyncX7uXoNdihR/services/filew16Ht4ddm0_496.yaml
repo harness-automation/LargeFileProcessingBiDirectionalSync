@@ -1,0 +1,8 @@
+service:
+  name: service02PNETR3C3
+  identifier: service02PNETR3C3
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

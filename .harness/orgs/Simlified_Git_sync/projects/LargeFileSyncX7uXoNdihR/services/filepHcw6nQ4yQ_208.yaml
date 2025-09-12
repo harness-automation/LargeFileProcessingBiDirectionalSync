@@ -1,0 +1,8 @@
+service:
+  name: serviceKlEZom7JNr
+  identifier: serviceKlEZom7JNr
+  projectIdentifier: LargeFileSyncX7uXoNdihR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
