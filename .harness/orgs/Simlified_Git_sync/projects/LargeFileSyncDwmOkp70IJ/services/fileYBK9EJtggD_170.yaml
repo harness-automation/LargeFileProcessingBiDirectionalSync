@@ -1,0 +1,8 @@
+service:
+  name: servicehcTF91OVcr
+  identifier: servicehcTF91OVcr
+  projectIdentifier: LargeFileSyncDwmOkp70IJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

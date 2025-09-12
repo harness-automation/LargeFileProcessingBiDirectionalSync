@@ -1,0 +1,8 @@
+service:
+  name: serviceTISW3Cxeoc
+  identifier: serviceTISW3Cxeoc
+  projectIdentifier: LargeFileSyncDwmOkp70IJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

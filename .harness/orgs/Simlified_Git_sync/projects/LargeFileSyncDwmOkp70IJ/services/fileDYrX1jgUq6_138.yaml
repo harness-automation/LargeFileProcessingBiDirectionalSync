@@ -1,0 +1,8 @@
+service:
+  name: service85J4BTgORE
+  identifier: service85J4BTgORE
+  projectIdentifier: LargeFileSyncDwmOkp70IJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

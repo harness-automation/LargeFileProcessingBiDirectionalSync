@@ -1,0 +1,8 @@
+service:
+  name: servicefgUCC2vmaw
+  identifier: servicefgUCC2vmaw
+  projectIdentifier: LargeFileSyncDwmOkp70IJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

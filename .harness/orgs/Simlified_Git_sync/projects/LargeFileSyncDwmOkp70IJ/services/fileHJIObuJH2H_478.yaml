@@ -1,0 +1,8 @@
+service:
+  name: servicei3oTcSmPaR
+  identifier: servicei3oTcSmPaR
+  projectIdentifier: LargeFileSyncDwmOkp70IJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

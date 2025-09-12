@@ -1,0 +1,8 @@
+service:
+  name: servicehm5326LMO8
+  identifier: servicehm5326LMO8
+  projectIdentifier: LargeFileSyncDwmOkp70IJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

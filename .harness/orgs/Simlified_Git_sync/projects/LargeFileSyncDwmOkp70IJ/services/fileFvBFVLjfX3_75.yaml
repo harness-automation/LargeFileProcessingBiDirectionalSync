@@ -1,0 +1,8 @@
+service:
+  name: servicecnikrqES70
+  identifier: servicecnikrqES70
+  projectIdentifier: LargeFileSyncDwmOkp70IJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

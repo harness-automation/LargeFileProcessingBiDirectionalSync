@@ -1,0 +1,8 @@
+service:
+  name: servicePuamAPD1OG
+  identifier: servicePuamAPD1OG
+  projectIdentifier: LargeFileSyncDwmOkp70IJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

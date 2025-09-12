@@ -1,0 +1,8 @@
+service:
+  name: service2ocIWoRAlx
+  identifier: service2ocIWoRAlx
+  projectIdentifier: LargeFileSyncDwmOkp70IJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

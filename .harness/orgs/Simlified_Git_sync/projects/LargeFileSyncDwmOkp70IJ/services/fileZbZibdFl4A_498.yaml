@@ -1,0 +1,8 @@
+service:
+  name: serviceNte26HFlg8
+  identifier: serviceNte26HFlg8
+  projectIdentifier: LargeFileSyncDwmOkp70IJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

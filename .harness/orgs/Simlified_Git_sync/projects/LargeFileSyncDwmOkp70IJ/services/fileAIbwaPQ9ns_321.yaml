@@ -1,0 +1,8 @@
+service:
+  name: serviceglPkrt7Lng
+  identifier: serviceglPkrt7Lng
+  projectIdentifier: LargeFileSyncDwmOkp70IJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

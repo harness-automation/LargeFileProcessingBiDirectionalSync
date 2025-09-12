@@ -1,0 +1,8 @@
+service:
+  name: serviceEDBVSH9857
+  identifier: serviceEDBVSH9857
+  projectIdentifier: LargeFileSyncDwmOkp70IJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
