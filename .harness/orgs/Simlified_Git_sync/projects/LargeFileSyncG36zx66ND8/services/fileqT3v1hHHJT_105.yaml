@@ -1,0 +1,8 @@
+service:
+  name: serviceFiMvWszy7P
+  identifier: serviceFiMvWszy7P
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

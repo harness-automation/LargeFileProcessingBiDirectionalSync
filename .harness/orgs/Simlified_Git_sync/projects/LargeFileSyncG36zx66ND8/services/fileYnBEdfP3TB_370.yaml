@@ -1,0 +1,8 @@
+service:
+  name: serviceJpW44OPR8a
+  identifier: serviceJpW44OPR8a
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

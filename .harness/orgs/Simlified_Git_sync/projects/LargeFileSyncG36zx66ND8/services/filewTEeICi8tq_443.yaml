@@ -1,0 +1,8 @@
+service:
+  name: serviceNLHelonp1a
+  identifier: serviceNLHelonp1a
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

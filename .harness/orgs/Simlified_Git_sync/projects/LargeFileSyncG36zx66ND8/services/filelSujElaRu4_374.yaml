@@ -1,0 +1,8 @@
+service:
+  name: serviceOwt2LIWmp1
+  identifier: serviceOwt2LIWmp1
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

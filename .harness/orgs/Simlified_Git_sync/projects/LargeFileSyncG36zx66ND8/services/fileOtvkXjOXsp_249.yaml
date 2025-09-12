@@ -1,0 +1,8 @@
+service:
+  name: serviceHLVs56VlNZ
+  identifier: serviceHLVs56VlNZ
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

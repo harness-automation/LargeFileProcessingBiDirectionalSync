@@ -1,0 +1,8 @@
+service:
+  name: servicexBBar8Acqu
+  identifier: servicexBBar8Acqu
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

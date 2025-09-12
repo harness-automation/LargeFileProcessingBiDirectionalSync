@@ -1,0 +1,8 @@
+service:
+  name: servicel2Dg80TsFX
+  identifier: servicel2Dg80TsFX
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceMcHl2By81c
+  identifier: serviceMcHl2By81c
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

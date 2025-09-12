@@ -1,0 +1,8 @@
+service:
+  name: serviceCa7373AYWW
+  identifier: serviceCa7373AYWW
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

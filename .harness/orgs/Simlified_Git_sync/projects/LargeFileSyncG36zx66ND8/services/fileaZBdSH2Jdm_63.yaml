@@ -1,0 +1,8 @@
+service:
+  name: servicehmWMtBP24T
+  identifier: servicehmWMtBP24T
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

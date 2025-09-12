@@ -1,0 +1,8 @@
+service:
+  name: servicem2TW2Gd64a
+  identifier: servicem2TW2Gd64a
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

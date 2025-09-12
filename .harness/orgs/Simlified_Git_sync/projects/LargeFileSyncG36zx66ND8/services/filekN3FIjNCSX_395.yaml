@@ -1,0 +1,8 @@
+service:
+  name: servicefgMZere3vr
+  identifier: servicefgMZere3vr
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service43BDErKdfT
+  identifier: service43BDErKdfT
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicestgfAFM98Z
+  identifier: servicestgfAFM98Z
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

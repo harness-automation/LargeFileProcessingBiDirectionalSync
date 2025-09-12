@@ -1,0 +1,8 @@
+service:
+  name: serviceSwUSI4v6mt
+  identifier: serviceSwUSI4v6mt
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

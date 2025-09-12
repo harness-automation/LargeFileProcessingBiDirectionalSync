@@ -1,0 +1,8 @@
+service:
+  name: serviceEkx3XBymav
+  identifier: serviceEkx3XBymav
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

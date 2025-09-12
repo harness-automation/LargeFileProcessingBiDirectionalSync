@@ -1,0 +1,8 @@
+service:
+  name: servicepv8p2QNngi
+  identifier: servicepv8p2QNngi
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

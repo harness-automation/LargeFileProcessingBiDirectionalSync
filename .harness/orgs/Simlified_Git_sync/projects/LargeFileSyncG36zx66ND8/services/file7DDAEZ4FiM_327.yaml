@@ -1,0 +1,8 @@
+service:
+  name: servicebDCF4Klzsk
+  identifier: servicebDCF4Klzsk
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

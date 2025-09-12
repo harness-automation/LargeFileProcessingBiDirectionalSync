@@ -1,0 +1,8 @@
+service:
+  name: servicehlpvMm7vIH
+  identifier: servicehlpvMm7vIH
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

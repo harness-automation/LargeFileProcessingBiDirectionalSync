@@ -1,0 +1,8 @@
+service:
+  name: serviceb50Wrfri1A
+  identifier: serviceb50Wrfri1A
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

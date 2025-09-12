@@ -1,0 +1,8 @@
+service:
+  name: serviceT7DxKbaROR
+  identifier: serviceT7DxKbaROR
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

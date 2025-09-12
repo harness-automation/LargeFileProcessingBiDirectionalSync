@@ -1,0 +1,8 @@
+service:
+  name: serviceXM30x8I938
+  identifier: serviceXM30x8I938
+  projectIdentifier: LargeFileSyncG36zx66ND8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
