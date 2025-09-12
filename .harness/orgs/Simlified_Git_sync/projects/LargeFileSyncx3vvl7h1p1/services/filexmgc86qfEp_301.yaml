@@ -1,0 +1,8 @@
+service:
+  name: serviceHfvNrA60W8
+  identifier: serviceHfvNrA60W8
+  projectIdentifier: LargeFileSyncx3vvl7h1p1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

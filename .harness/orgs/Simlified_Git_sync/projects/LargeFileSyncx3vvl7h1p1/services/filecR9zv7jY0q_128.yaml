@@ -1,0 +1,8 @@
+service:
+  name: serviceK3ierPPugl
+  identifier: serviceK3ierPPugl
+  projectIdentifier: LargeFileSyncx3vvl7h1p1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

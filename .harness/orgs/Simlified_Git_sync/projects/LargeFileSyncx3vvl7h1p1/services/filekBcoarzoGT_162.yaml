@@ -1,0 +1,8 @@
+service:
+  name: serviceN81Isadu2N
+  identifier: serviceN81Isadu2N
+  projectIdentifier: LargeFileSyncx3vvl7h1p1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

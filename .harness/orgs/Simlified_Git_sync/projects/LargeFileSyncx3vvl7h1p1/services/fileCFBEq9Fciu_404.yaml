@@ -1,0 +1,8 @@
+service:
+  name: servicehnRMtEMHC5
+  identifier: servicehnRMtEMHC5
+  projectIdentifier: LargeFileSyncx3vvl7h1p1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

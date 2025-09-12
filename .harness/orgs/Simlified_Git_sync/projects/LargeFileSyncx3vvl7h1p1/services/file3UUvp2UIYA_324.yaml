@@ -1,0 +1,8 @@
+service:
+  name: serviceks7ZLPmsCB
+  identifier: serviceks7ZLPmsCB
+  projectIdentifier: LargeFileSyncx3vvl7h1p1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

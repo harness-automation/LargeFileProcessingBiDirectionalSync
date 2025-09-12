@@ -1,0 +1,8 @@
+service:
+  name: serviceo1mk2trAke
+  identifier: serviceo1mk2trAke
+  projectIdentifier: LargeFileSyncx3vvl7h1p1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

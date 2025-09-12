@@ -1,0 +1,8 @@
+service:
+  name: serviceHq1864sH5M
+  identifier: serviceHq1864sH5M
+  projectIdentifier: LargeFileSyncx3vvl7h1p1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

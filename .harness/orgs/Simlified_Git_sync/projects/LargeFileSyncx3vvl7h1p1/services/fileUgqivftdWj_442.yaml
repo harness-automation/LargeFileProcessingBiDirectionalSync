@@ -1,0 +1,8 @@
+service:
+  name: serviceJe1dbScciu
+  identifier: serviceJe1dbScciu
+  projectIdentifier: LargeFileSyncx3vvl7h1p1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
