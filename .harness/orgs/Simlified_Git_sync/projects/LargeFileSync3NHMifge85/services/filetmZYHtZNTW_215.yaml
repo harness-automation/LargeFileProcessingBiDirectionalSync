@@ -1,0 +1,8 @@
+service:
+  name: serviceZOVse91fji
+  identifier: serviceZOVse91fji
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

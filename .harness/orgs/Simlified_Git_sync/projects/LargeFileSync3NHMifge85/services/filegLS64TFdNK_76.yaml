@@ -1,0 +1,8 @@
+service:
+  name: servicePsXe85Gen6
+  identifier: servicePsXe85Gen6
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

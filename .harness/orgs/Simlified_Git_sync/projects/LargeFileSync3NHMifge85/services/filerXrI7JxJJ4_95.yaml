@@ -1,0 +1,8 @@
+service:
+  name: servicevWBArLNRA7
+  identifier: servicevWBArLNRA7
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

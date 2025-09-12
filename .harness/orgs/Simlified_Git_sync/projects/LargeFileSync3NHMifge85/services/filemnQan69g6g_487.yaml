@@ -1,0 +1,8 @@
+service:
+  name: servicepcaKFGl2kz
+  identifier: servicepcaKFGl2kz
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

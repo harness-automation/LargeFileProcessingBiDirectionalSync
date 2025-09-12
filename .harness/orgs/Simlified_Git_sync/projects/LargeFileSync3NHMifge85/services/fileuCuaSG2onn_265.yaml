@@ -1,0 +1,8 @@
+service:
+  name: service3ImprxrEE1
+  identifier: service3ImprxrEE1
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

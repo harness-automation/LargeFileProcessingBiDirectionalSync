@@ -1,0 +1,8 @@
+service:
+  name: serviceBiXewAkFR8
+  identifier: serviceBiXewAkFR8
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

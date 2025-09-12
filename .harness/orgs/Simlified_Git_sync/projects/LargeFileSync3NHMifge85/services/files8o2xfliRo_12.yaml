@@ -1,0 +1,8 @@
+service:
+  name: servicegwjI2QAmgo
+  identifier: servicegwjI2QAmgo
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

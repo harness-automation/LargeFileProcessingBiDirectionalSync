@@ -1,0 +1,8 @@
+service:
+  name: serviceBAFTMMbTG9
+  identifier: serviceBAFTMMbTG9
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

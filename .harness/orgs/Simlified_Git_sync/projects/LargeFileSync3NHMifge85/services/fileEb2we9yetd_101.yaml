@@ -1,0 +1,8 @@
+service:
+  name: servicelOBANS4L2g
+  identifier: servicelOBANS4L2g
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

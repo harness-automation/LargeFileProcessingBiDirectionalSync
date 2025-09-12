@@ -1,0 +1,8 @@
+service:
+  name: serviceWJc16YPCTS
+  identifier: serviceWJc16YPCTS
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

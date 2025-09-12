@@ -1,0 +1,8 @@
+service:
+  name: servicetcm6maCBAX
+  identifier: servicetcm6maCBAX
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

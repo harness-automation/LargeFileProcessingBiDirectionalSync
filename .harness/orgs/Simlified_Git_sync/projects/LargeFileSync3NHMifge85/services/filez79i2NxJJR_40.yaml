@@ -1,0 +1,8 @@
+service:
+  name: service8KepGoKOyi
+  identifier: service8KepGoKOyi
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

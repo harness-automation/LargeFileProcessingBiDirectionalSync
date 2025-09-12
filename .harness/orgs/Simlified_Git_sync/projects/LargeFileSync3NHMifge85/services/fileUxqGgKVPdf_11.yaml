@@ -1,0 +1,8 @@
+service:
+  name: servicerTXI3KuwQM
+  identifier: servicerTXI3KuwQM
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

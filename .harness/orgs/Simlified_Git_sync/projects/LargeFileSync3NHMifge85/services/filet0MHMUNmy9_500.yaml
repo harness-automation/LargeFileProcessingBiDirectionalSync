@@ -1,0 +1,8 @@
+service:
+  name: serviceEnpLVM9blj
+  identifier: serviceEnpLVM9blj
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

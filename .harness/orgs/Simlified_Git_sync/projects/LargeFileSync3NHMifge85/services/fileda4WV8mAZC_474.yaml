@@ -1,0 +1,8 @@
+service:
+  name: serviceVt43PCvFTr
+  identifier: serviceVt43PCvFTr
+  projectIdentifier: LargeFileSync3NHMifge85
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
