@@ -1,0 +1,8 @@
+service:
+  name: service4ElMWSWrvT
+  identifier: service4ElMWSWrvT
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

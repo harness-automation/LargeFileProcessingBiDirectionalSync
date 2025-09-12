@@ -1,0 +1,8 @@
+service:
+  name: serviceXjEGBP80TU
+  identifier: serviceXjEGBP80TU
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

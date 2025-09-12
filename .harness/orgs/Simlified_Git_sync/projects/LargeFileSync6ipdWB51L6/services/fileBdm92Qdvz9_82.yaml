@@ -1,0 +1,8 @@
+service:
+  name: serviceCGgMTw51Fa
+  identifier: serviceCGgMTw51Fa
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePMzy5QiW04
+  identifier: servicePMzy5QiW04
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

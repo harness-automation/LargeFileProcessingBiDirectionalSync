@@ -1,0 +1,8 @@
+service:
+  name: serviceDmWE22FKmh
+  identifier: serviceDmWE22FKmh
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

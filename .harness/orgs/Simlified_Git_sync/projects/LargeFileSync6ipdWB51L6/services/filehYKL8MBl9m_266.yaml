@@ -1,0 +1,8 @@
+service:
+  name: serviceQd1lev3YJl
+  identifier: serviceQd1lev3YJl
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

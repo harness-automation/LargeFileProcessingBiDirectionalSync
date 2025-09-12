@@ -1,0 +1,8 @@
+service:
+  name: servicekMTBgRxS2m
+  identifier: servicekMTBgRxS2m
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

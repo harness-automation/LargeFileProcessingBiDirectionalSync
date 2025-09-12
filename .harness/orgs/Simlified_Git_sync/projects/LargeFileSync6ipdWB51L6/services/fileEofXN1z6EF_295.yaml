@@ -1,0 +1,8 @@
+service:
+  name: serviceaOa11l240l
+  identifier: serviceaOa11l240l
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

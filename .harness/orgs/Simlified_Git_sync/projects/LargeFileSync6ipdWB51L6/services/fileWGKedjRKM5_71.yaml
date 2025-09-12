@@ -1,0 +1,8 @@
+service:
+  name: serviceTAi5ASoa34
+  identifier: serviceTAi5ASoa34
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

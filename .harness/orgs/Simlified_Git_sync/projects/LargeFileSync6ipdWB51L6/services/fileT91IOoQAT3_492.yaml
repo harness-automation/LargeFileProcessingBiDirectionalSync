@@ -1,0 +1,8 @@
+service:
+  name: serviceoWa857Sqg2
+  identifier: serviceoWa857Sqg2
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

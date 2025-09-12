@@ -1,0 +1,8 @@
+service:
+  name: serviceAMw0Tl24la
+  identifier: serviceAMw0Tl24la
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service4JED16Aepe
+  identifier: service4JED16Aepe
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

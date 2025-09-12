@@ -1,0 +1,8 @@
+service:
+  name: serviceb6u7HDMkix
+  identifier: serviceb6u7HDMkix
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceJdKS11CF2w
+  identifier: serviceJdKS11CF2w
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

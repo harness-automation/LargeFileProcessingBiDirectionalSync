@@ -1,0 +1,8 @@
+service:
+  name: service4rBn2mViHM
+  identifier: service4rBn2mViHM
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

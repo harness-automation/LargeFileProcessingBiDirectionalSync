@@ -1,0 +1,8 @@
+service:
+  name: service51ukQMBxWv
+  identifier: service51ukQMBxWv
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

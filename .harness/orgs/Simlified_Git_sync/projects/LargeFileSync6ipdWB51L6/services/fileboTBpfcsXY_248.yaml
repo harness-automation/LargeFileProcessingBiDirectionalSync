@@ -1,0 +1,8 @@
+service:
+  name: servicewazEqlAqv2
+  identifier: servicewazEqlAqv2
+  projectIdentifier: LargeFileSync6ipdWB51L6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
