@@ -1,0 +1,8 @@
+service:
+  name: service7YonK20Dbz
+  identifier: service7YonK20Dbz
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

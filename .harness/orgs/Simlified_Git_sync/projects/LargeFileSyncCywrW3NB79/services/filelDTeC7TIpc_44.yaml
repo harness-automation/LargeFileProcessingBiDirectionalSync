@@ -1,0 +1,8 @@
+service:
+  name: serviceBasuHU08eR
+  identifier: serviceBasuHU08eR
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

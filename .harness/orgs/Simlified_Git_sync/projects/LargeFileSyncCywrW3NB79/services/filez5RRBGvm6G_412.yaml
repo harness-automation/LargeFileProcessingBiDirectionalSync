@@ -1,0 +1,8 @@
+service:
+  name: serviceNUx1i60ZDT
+  identifier: serviceNUx1i60ZDT
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceT659L8aWBa
+  identifier: serviceT659L8aWBa
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

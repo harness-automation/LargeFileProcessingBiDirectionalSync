@@ -1,0 +1,8 @@
+service:
+  name: serviceY5cncdMFeL
+  identifier: serviceY5cncdMFeL
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceSAPox2SGjL
+  identifier: serviceSAPox2SGjL
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

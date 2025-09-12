@@ -1,0 +1,8 @@
+service:
+  name: serviceGFd63kvxDh
+  identifier: serviceGFd63kvxDh
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

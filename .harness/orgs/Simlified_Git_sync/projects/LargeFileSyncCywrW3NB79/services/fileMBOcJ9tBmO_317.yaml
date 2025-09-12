@@ -1,0 +1,8 @@
+service:
+  name: serviceGApoS54N36
+  identifier: serviceGApoS54N36
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

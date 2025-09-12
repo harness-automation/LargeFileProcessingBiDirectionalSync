@@ -1,0 +1,8 @@
+service:
+  name: servicePLA07AWrxn
+  identifier: servicePLA07AWrxn
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceNtKhuniF6k
+  identifier: serviceNtKhuniF6k
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

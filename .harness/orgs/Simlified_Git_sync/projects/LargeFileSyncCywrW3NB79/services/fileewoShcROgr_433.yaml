@@ -1,0 +1,8 @@
+service:
+  name: service4yFyktMPuB
+  identifier: service4yFyktMPuB
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceJHEsyxK83E
+  identifier: serviceJHEsyxK83E
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceSUHVNF2EmT
+  identifier: serviceSUHVNF2EmT
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceHMrsINg637
+  identifier: serviceHMrsINg637
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceLkwEsZHRkv
+  identifier: serviceLkwEsZHRkv
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

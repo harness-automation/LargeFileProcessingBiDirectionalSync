@@ -1,0 +1,8 @@
+service:
+  name: service70DaMGCuKd
+  identifier: service70DaMGCuKd
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

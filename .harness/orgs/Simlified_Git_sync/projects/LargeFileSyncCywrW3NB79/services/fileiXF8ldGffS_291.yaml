@@ -1,0 +1,8 @@
+service:
+  name: serviceQth50DQb9o
+  identifier: serviceQth50DQb9o
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

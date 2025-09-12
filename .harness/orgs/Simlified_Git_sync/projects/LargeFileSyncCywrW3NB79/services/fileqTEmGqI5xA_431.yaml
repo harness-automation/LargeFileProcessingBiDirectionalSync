@@ -1,0 +1,8 @@
+service:
+  name: servicegcTTUNtMf2
+  identifier: servicegcTTUNtMf2
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

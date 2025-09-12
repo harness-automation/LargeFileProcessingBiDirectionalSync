@@ -1,0 +1,8 @@
+service:
+  name: serviceTRdcubrAx8
+  identifier: serviceTRdcubrAx8
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

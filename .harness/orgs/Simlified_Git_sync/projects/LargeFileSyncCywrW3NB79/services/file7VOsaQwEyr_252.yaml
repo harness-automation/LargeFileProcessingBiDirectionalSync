@@ -1,0 +1,8 @@
+service:
+  name: serviceLYRpca2Wma
+  identifier: serviceLYRpca2Wma
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

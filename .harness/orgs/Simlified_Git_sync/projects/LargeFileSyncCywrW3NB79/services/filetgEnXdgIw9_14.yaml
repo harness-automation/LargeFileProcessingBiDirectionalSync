@@ -1,0 +1,8 @@
+service:
+  name: servicetvOjAFn30K
+  identifier: servicetvOjAFn30K
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAdQLuMbi1x
+  identifier: serviceAdQLuMbi1x
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

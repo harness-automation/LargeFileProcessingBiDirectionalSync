@@ -1,0 +1,8 @@
+service:
+  name: serviceNe5ENckgdb
+  identifier: serviceNe5ENckgdb
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

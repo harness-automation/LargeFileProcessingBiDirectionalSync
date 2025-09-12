@@ -1,0 +1,8 @@
+service:
+  name: servicepH600wbK6R
+  identifier: servicepH600wbK6R
+  projectIdentifier: LargeFileSyncCywrW3NB79
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
