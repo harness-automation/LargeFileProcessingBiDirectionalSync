@@ -1,0 +1,8 @@
+service:
+  name: serviceQdbVL3tfci
+  identifier: serviceQdbVL3tfci
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

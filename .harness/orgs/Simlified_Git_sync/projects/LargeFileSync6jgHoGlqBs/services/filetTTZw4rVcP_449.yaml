@@ -1,0 +1,8 @@
+service:
+  name: servicefc1d26zCQ4
+  identifier: servicefc1d26zCQ4
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

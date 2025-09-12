@@ -1,0 +1,8 @@
+service:
+  name: serviceuriaHGnnq0
+  identifier: serviceuriaHGnnq0
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

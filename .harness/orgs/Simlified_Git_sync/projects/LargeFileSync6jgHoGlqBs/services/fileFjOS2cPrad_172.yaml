@@ -1,0 +1,8 @@
+service:
+  name: service50Wi2tpLpM
+  identifier: service50Wi2tpLpM
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

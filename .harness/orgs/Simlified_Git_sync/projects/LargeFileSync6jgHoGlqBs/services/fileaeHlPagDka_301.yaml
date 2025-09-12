@@ -1,0 +1,8 @@
+service:
+  name: serviceAtBitTG6TC
+  identifier: serviceAtBitTG6TC
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

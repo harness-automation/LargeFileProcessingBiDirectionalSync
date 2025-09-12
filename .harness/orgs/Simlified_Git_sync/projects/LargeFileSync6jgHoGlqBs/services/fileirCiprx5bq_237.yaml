@@ -1,0 +1,8 @@
+service:
+  name: serviceDUxLU2PmAg
+  identifier: serviceDUxLU2PmAg
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

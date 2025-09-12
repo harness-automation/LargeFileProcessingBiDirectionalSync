@@ -1,0 +1,8 @@
+service:
+  name: serviceGkL64MlKS3
+  identifier: serviceGkL64MlKS3
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

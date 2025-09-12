@@ -1,0 +1,8 @@
+service:
+  name: serviceaR2R7NAMpj
+  identifier: serviceaR2R7NAMpj
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

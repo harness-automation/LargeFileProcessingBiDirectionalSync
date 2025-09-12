@@ -1,0 +1,8 @@
+service:
+  name: servicegaVM2ELSOC
+  identifier: servicegaVM2ELSOC
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

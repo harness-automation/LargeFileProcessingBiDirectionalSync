@@ -1,0 +1,8 @@
+service:
+  name: serviceTalPAti41U
+  identifier: serviceTalPAti41U
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

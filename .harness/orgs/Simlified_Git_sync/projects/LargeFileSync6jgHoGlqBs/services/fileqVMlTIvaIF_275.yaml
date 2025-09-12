@@ -1,0 +1,8 @@
+service:
+  name: serviceewS82dab98
+  identifier: serviceewS82dab98
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

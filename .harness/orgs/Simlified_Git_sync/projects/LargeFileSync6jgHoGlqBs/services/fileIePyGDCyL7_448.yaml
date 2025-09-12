@@ -1,0 +1,8 @@
+service:
+  name: serviceGdf9OS7ifm
+  identifier: serviceGdf9OS7ifm
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

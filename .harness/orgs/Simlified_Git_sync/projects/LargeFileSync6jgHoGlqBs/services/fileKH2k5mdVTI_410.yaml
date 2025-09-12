@@ -1,0 +1,8 @@
+service:
+  name: serviceW21WYKpvON
+  identifier: serviceW21WYKpvON
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

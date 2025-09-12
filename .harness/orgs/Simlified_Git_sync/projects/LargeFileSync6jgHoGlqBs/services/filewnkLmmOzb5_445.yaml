@@ -1,0 +1,8 @@
+service:
+  name: serviceDpSlV1novc
+  identifier: serviceDpSlV1novc
+  projectIdentifier: LargeFileSync6jgHoGlqBs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
