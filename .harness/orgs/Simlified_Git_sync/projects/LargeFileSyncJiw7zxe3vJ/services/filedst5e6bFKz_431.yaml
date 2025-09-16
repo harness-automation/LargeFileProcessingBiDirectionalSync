@@ -1,0 +1,8 @@
+service:
+  name: serviceWXRt80orVB
+  identifier: serviceWXRt80orVB
+  projectIdentifier: LargeFileSyncJiw7zxe3vJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

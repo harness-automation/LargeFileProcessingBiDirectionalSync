@@ -1,0 +1,8 @@
+service:
+  name: serviceJK295eDIZT
+  identifier: serviceJK295eDIZT
+  projectIdentifier: LargeFileSyncJiw7zxe3vJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

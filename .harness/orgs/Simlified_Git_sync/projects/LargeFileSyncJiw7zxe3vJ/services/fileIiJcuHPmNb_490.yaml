@@ -1,0 +1,8 @@
+service:
+  name: service36ZTLmbSW6
+  identifier: service36ZTLmbSW6
+  projectIdentifier: LargeFileSyncJiw7zxe3vJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

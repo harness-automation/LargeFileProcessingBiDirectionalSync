@@ -1,0 +1,8 @@
+service:
+  name: service7HudaZInaO
+  identifier: service7HudaZInaO
+  projectIdentifier: LargeFileSyncJiw7zxe3vJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

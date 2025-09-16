@@ -1,0 +1,8 @@
+service:
+  name: serviceIAN1APboCD
+  identifier: serviceIAN1APboCD
+  projectIdentifier: LargeFileSyncJiw7zxe3vJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

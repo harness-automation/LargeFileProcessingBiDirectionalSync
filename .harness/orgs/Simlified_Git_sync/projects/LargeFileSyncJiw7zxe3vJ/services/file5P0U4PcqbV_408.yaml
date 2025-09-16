@@ -1,0 +1,8 @@
+service:
+  name: serviceGfTpcGPTw1
+  identifier: serviceGfTpcGPTw1
+  projectIdentifier: LargeFileSyncJiw7zxe3vJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

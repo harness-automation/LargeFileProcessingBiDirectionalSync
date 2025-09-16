@@ -1,0 +1,8 @@
+service:
+  name: serviceMwmTnTBHc3
+  identifier: serviceMwmTnTBHc3
+  projectIdentifier: LargeFileSyncJiw7zxe3vJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

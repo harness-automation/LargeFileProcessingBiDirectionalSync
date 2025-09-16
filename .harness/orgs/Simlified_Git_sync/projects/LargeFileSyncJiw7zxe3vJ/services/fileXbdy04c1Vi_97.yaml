@@ -1,0 +1,8 @@
+service:
+  name: serviceop2mUS99oj
+  identifier: serviceop2mUS99oj
+  projectIdentifier: LargeFileSyncJiw7zxe3vJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

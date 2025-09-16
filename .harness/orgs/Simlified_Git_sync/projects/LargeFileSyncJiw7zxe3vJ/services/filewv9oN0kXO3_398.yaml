@@ -1,0 +1,8 @@
+service:
+  name: serviceuftaxjIG3X
+  identifier: serviceuftaxjIG3X
+  projectIdentifier: LargeFileSyncJiw7zxe3vJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
