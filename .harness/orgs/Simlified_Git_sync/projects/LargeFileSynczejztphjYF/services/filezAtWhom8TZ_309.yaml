@@ -1,0 +1,8 @@
+service:
+  name: serviceP16CDPIGct
+  identifier: serviceP16CDPIGct
+  projectIdentifier: LargeFileSynczejztphjYF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

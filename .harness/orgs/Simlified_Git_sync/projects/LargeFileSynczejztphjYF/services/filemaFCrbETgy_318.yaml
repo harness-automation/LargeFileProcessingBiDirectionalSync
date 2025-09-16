@@ -1,0 +1,8 @@
+service:
+  name: serviceBEVWY04Py2
+  identifier: serviceBEVWY04Py2
+  projectIdentifier: LargeFileSynczejztphjYF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

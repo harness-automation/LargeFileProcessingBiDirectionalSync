@@ -1,0 +1,8 @@
+service:
+  name: serviceDxtylmoSEO
+  identifier: serviceDxtylmoSEO
+  projectIdentifier: LargeFileSynczejztphjYF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
