@@ -1,0 +1,8 @@
+service:
+  name: service693LrRUVTw
+  identifier: service693LrRUVTw
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

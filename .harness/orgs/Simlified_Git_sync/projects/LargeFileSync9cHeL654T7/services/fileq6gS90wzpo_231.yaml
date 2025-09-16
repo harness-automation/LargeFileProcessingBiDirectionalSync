@@ -1,0 +1,8 @@
+service:
+  name: servicen60Nh3KA57
+  identifier: servicen60Nh3KA57
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

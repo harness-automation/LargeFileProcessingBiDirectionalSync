@@ -1,0 +1,8 @@
+service:
+  name: servicebCXJooeG7l
+  identifier: servicebCXJooeG7l
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

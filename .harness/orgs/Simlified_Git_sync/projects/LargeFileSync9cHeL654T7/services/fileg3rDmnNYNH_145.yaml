@@ -1,0 +1,8 @@
+service:
+  name: serviceBHAHRHgS31
+  identifier: serviceBHAHRHgS31
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

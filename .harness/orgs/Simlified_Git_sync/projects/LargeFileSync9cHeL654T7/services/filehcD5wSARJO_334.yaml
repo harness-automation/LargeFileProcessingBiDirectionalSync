@@ -1,0 +1,8 @@
+service:
+  name: serviceDsY126Wkso
+  identifier: serviceDsY126Wkso
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

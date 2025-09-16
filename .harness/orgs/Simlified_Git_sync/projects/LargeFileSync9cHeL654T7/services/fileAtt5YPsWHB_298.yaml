@@ -1,0 +1,8 @@
+service:
+  name: servicea32Unup5TN
+  identifier: servicea32Unup5TN
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

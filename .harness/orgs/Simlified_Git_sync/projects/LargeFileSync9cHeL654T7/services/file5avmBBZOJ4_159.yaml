@@ -1,0 +1,8 @@
+service:
+  name: serviceCHWrpZV5tG
+  identifier: serviceCHWrpZV5tG
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

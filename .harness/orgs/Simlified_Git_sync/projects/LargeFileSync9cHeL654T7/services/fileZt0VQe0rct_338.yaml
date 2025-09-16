@@ -1,0 +1,8 @@
+service:
+  name: servicelDQHP9MhGa
+  identifier: servicelDQHP9MhGa
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

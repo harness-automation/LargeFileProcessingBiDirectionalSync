@@ -1,0 +1,8 @@
+service:
+  name: servicel9LtvxK2MU
+  identifier: servicel9LtvxK2MU
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicevrCx1GBNYx
+  identifier: servicevrCx1GBNYx
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceKcRHC12ZTl
+  identifier: serviceKcRHC12ZTl
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

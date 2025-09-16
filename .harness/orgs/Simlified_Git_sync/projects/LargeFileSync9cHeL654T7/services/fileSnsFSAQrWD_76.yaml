@@ -1,0 +1,8 @@
+service:
+  name: serviceZDemI2Tayj
+  identifier: serviceZDemI2Tayj
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

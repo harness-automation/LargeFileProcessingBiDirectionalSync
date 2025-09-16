@@ -1,0 +1,8 @@
+service:
+  name: servicejisCb81UC2
+  identifier: servicejisCb81UC2
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceOj3lboOmos
+  identifier: serviceOj3lboOmos
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

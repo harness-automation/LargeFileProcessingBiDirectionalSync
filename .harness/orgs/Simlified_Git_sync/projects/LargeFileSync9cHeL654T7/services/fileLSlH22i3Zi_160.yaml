@@ -1,0 +1,8 @@
+service:
+  name: servicec3FtKLF81K
+  identifier: servicec3FtKLF81K
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceGzGPNF5kf9
+  identifier: serviceGzGPNF5kf9
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

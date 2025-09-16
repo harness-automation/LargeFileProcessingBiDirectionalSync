@@ -1,0 +1,8 @@
+service:
+  name: serviceRK2dDg82mE
+  identifier: serviceRK2dDg82mE
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

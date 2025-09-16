@@ -1,0 +1,8 @@
+service:
+  name: servicebppV3D0BkQ
+  identifier: servicebppV3D0BkQ
+  projectIdentifier: LargeFileSync9cHeL654T7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
