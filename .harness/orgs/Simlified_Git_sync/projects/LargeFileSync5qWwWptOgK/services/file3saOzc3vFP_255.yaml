@@ -1,0 +1,8 @@
+service:
+  name: serviceliKDR4DGJl
+  identifier: serviceliKDR4DGJl
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

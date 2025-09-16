@@ -1,0 +1,8 @@
+service:
+  name: service38zbISIeXv
+  identifier: service38zbISIeXv
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFuiwyCX1A9
+  identifier: serviceFuiwyCX1A9
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

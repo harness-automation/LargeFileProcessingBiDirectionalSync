@@ -1,0 +1,8 @@
+service:
+  name: serviceUXMEPI3UpH
+  identifier: serviceUXMEPI3UpH
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

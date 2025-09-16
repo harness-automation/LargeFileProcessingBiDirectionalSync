@@ -1,0 +1,8 @@
+service:
+  name: serviceYSP3ppfrRf
+  identifier: serviceYSP3ppfrRf
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceip1LZf0GNs
+  identifier: serviceip1LZf0GNs
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

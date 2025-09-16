@@ -1,0 +1,8 @@
+service:
+  name: servicec3o54VgCPE
+  identifier: servicec3o54VgCPE
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

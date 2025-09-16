@@ -1,0 +1,8 @@
+service:
+  name: serviceNMxbr31uzb
+  identifier: serviceNMxbr31uzb
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

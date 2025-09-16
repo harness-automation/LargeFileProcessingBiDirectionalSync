@@ -1,0 +1,8 @@
+service:
+  name: servicenu16FSDXn5
+  identifier: servicenu16FSDXn5
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

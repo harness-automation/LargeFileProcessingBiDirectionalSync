@@ -1,0 +1,8 @@
+service:
+  name: servicemEKAIp4kr5
+  identifier: servicemEKAIp4kr5
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

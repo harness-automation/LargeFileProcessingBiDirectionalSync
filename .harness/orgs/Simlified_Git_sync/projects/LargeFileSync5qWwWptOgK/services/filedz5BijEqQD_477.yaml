@@ -1,0 +1,8 @@
+service:
+  name: service3XIsON1Poj
+  identifier: service3XIsON1Poj
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

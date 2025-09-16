@@ -1,0 +1,8 @@
+service:
+  name: serviceWemlWIMiuN
+  identifier: serviceWemlWIMiuN
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

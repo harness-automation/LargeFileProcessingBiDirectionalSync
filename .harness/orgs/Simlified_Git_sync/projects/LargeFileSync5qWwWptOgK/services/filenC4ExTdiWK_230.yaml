@@ -1,0 +1,8 @@
+service:
+  name: serviceEXf26IOjd7
+  identifier: serviceEXf26IOjd7
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

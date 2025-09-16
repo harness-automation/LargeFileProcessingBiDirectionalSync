@@ -1,0 +1,8 @@
+service:
+  name: serviceOmZe2P648Q
+  identifier: serviceOmZe2P648Q
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTGDegr1ASQ
+  identifier: serviceTGDegr1ASQ
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

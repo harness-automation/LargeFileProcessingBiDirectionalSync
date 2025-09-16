@@ -1,0 +1,8 @@
+service:
+  name: servicePFksi8ivg2
+  identifier: servicePFksi8ivg2
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

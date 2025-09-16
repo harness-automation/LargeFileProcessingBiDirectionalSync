@@ -1,0 +1,8 @@
+service:
+  name: serviceMEMwEUN26q
+  identifier: serviceMEMwEUN26q
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

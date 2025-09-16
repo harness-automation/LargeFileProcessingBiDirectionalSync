@@ -1,0 +1,8 @@
+service:
+  name: servicegrCsFTPpkz
+  identifier: servicegrCsFTPpkz
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

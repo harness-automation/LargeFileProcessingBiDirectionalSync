@@ -1,0 +1,8 @@
+service:
+  name: servicekEfls05UMP
+  identifier: servicekEfls05UMP
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

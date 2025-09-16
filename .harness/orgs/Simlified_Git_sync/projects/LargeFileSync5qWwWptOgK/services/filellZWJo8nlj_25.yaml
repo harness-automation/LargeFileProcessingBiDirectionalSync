@@ -1,0 +1,8 @@
+service:
+  name: servicelStHf1BmvU
+  identifier: servicelStHf1BmvU
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

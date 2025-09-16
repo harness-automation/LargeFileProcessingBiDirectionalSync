@@ -1,0 +1,8 @@
+service:
+  name: servicePICwrOZ8Sp
+  identifier: servicePICwrOZ8Sp
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

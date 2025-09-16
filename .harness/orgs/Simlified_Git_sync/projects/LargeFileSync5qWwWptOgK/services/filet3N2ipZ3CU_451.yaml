@@ -1,0 +1,8 @@
+service:
+  name: servicel1IwrZVSAs
+  identifier: servicel1IwrZVSAs
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

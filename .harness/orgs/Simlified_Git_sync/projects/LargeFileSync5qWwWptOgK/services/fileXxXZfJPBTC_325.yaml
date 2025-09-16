@@ -1,0 +1,8 @@
+service:
+  name: serviceBVQOt4RRPA
+  identifier: serviceBVQOt4RRPA
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

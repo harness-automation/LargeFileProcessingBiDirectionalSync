@@ -1,0 +1,8 @@
+service:
+  name: serviceMnNn66i8ip
+  identifier: serviceMnNn66i8ip
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

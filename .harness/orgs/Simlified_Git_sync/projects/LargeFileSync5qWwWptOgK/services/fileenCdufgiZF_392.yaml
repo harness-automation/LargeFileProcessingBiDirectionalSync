@@ -1,0 +1,8 @@
+service:
+  name: servicecrsToBDx8Z
+  identifier: servicecrsToBDx8Z
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

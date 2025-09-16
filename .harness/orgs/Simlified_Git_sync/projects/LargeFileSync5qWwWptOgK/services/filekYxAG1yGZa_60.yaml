@@ -1,0 +1,8 @@
+service:
+  name: servicetelW4u4InF
+  identifier: servicetelW4u4InF
+  projectIdentifier: LargeFileSync5qWwWptOgK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
