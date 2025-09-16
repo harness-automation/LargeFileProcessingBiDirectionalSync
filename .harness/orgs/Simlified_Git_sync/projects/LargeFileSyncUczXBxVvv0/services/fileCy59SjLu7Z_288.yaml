@@ -1,0 +1,8 @@
+service:
+  name: serviceobkNOZS3p3
+  identifier: serviceobkNOZS3p3
+  projectIdentifier: LargeFileSyncUczXBxVvv0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceLEBtSCoa6g
+  identifier: serviceLEBtSCoa6g
+  projectIdentifier: LargeFileSyncUczXBxVvv0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

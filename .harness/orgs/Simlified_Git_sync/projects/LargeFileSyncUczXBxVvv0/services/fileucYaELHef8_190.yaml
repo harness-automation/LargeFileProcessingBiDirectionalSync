@@ -1,0 +1,8 @@
+service:
+  name: serviceFEfrm1wQ6A
+  identifier: serviceFEfrm1wQ6A
+  projectIdentifier: LargeFileSyncUczXBxVvv0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

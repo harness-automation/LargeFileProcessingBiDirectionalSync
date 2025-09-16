@@ -1,0 +1,8 @@
+service:
+  name: servicefsm12nmHn1
+  identifier: servicefsm12nmHn1
+  projectIdentifier: LargeFileSyncUczXBxVvv0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

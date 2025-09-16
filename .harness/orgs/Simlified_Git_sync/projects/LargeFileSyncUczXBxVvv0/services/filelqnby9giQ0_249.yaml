@@ -1,0 +1,8 @@
+service:
+  name: serviceLpidi4tutN
+  identifier: serviceLpidi4tutN
+  projectIdentifier: LargeFileSyncUczXBxVvv0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTIngcaCZ4o
+  identifier: serviceTIngcaCZ4o
+  projectIdentifier: LargeFileSyncUczXBxVvv0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

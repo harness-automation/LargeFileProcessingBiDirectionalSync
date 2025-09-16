@@ -1,0 +1,8 @@
+service:
+  name: service7cajKfVoiN
+  identifier: service7cajKfVoiN
+  projectIdentifier: LargeFileSyncUczXBxVvv0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

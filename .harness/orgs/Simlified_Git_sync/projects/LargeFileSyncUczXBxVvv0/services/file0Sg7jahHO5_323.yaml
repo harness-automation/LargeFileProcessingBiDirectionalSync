@@ -1,0 +1,8 @@
+service:
+  name: serviceAunLz7G2MF
+  identifier: serviceAunLz7G2MF
+  projectIdentifier: LargeFileSyncUczXBxVvv0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
