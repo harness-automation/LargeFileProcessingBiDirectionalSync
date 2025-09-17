@@ -1,0 +1,8 @@
+service:
+  name: serviceFmuL2XWChM
+  identifier: serviceFmuL2XWChM
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceuvyHLv4ZPv
+  identifier: serviceuvyHLv4ZPv
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

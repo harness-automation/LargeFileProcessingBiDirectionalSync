@@ -1,0 +1,8 @@
+service:
+  name: servicedBEKL1E0U4
+  identifier: servicedBEKL1E0U4
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

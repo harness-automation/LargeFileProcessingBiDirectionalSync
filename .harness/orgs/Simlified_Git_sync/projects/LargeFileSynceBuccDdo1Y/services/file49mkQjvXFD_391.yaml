@@ -1,0 +1,8 @@
+service:
+  name: serviceMbIKNmpEC5
+  identifier: serviceMbIKNmpEC5
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

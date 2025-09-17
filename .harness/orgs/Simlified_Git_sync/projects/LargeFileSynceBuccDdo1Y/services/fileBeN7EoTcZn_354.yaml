@@ -1,0 +1,8 @@
+service:
+  name: serviceZm2KDxUaNV
+  identifier: serviceZm2KDxUaNV
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

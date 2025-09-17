@@ -1,0 +1,8 @@
+service:
+  name: serviceDRoQ5dbwAv
+  identifier: serviceDRoQ5dbwAv
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

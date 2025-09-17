@@ -1,0 +1,8 @@
+service:
+  name: servicenj4gCN52t4
+  identifier: servicenj4gCN52t4
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

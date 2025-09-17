@@ -1,0 +1,8 @@
+service:
+  name: serviceJW34QbGBUD
+  identifier: serviceJW34QbGBUD
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

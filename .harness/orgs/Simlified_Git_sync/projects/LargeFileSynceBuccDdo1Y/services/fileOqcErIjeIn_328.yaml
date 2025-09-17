@@ -1,0 +1,8 @@
+service:
+  name: service46Wh5id883
+  identifier: service46Wh5id883
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

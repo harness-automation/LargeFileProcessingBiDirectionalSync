@@ -1,0 +1,8 @@
+service:
+  name: servicetqapSYRG6k
+  identifier: servicetqapSYRG6k
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

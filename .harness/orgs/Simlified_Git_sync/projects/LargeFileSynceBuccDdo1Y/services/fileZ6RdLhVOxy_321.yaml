@@ -1,0 +1,8 @@
+service:
+  name: service3251IfZkTT
+  identifier: service3251IfZkTT
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicencbPmtxjY0
+  identifier: servicencbPmtxjY0
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

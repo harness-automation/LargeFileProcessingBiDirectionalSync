@@ -1,0 +1,8 @@
+service:
+  name: serviceLASUuSR2TF
+  identifier: serviceLASUuSR2TF
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

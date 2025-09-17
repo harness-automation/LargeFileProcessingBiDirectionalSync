@@ -1,0 +1,8 @@
+service:
+  name: serviceZ6DnilipyF
+  identifier: serviceZ6DnilipyF
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

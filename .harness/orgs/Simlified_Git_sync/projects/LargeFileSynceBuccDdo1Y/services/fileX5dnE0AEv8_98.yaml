@@ -1,0 +1,8 @@
+service:
+  name: servicekZuCH4QLdb
+  identifier: servicekZuCH4QLdb
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

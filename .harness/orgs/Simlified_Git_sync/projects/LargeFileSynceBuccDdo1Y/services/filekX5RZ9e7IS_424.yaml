@@ -1,0 +1,8 @@
+service:
+  name: serviceTFX5cnzR75
+  identifier: serviceTFX5cnzR75
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

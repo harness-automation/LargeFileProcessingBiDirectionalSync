@@ -1,0 +1,8 @@
+service:
+  name: serviceL66CfF8860
+  identifier: serviceL66CfF8860
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTDzB4MvVbe
+  identifier: serviceTDzB4MvVbe
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

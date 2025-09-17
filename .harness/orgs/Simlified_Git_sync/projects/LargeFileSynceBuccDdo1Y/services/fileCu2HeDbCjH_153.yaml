@@ -1,0 +1,8 @@
+service:
+  name: service9775MAZ91s
+  identifier: service9775MAZ91s
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

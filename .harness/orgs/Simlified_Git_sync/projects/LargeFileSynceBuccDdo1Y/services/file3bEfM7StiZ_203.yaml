@@ -1,0 +1,8 @@
+service:
+  name: serviceRdpi9ZKKB2
+  identifier: serviceRdpi9ZKKB2
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

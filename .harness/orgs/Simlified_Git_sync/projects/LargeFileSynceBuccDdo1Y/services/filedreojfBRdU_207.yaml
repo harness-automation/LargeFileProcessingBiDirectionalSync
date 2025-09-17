@@ -1,0 +1,8 @@
+service:
+  name: serviceT16q2GoVlY
+  identifier: serviceT16q2GoVlY
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

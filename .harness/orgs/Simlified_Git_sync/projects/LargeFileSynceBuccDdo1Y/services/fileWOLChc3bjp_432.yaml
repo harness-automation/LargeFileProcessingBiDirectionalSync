@@ -1,0 +1,8 @@
+service:
+  name: servicejrTM71lZ5R
+  identifier: servicejrTM71lZ5R
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

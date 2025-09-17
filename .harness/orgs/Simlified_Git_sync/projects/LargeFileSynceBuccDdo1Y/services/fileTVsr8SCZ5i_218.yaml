@@ -1,0 +1,8 @@
+service:
+  name: service9FunoBTVoV
+  identifier: service9FunoBTVoV
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

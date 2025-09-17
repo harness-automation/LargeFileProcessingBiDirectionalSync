@@ -1,0 +1,8 @@
+service:
+  name: serviceeTClBec4j7
+  identifier: serviceeTClBec4j7
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

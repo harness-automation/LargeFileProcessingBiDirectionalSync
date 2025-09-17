@@ -1,0 +1,8 @@
+service:
+  name: serviceTiNLp2Heo7
+  identifier: serviceTiNLp2Heo7
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

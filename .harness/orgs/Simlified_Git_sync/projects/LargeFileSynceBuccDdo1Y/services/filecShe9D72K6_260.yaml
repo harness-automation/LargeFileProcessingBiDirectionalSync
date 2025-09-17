@@ -1,0 +1,8 @@
+service:
+  name: serviceG2K8f4RUdo
+  identifier: serviceG2K8f4RUdo
+  projectIdentifier: LargeFileSynceBuccDdo1Y
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
