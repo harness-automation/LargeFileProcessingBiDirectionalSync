@@ -1,0 +1,8 @@
+service:
+  name: servicemetvSCO5ew
+  identifier: servicemetvSCO5ew
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

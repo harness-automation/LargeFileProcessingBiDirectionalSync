@@ -1,0 +1,8 @@
+service:
+  name: serviceWgVPmu4ROX
+  identifier: serviceWgVPmu4ROX
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicegt9adeatHW
+  identifier: servicegt9adeatHW
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

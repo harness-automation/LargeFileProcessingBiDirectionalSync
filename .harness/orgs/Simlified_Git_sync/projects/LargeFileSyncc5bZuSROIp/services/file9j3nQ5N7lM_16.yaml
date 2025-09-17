@@ -1,0 +1,8 @@
+service:
+  name: servicekNAIHO1l2n
+  identifier: servicekNAIHO1l2n
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

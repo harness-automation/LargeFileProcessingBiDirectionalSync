@@ -1,0 +1,8 @@
+service:
+  name: serviceRoBCo1kZiB
+  identifier: serviceRoBCo1kZiB
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

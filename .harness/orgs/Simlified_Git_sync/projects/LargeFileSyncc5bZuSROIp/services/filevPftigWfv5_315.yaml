@@ -1,0 +1,8 @@
+service:
+  name: servicelBacWJPMCU
+  identifier: servicelBacWJPMCU
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

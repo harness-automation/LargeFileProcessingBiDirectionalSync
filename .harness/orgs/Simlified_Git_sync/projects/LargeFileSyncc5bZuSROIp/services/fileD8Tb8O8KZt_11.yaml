@@ -1,0 +1,8 @@
+service:
+  name: servicenbpsPZ8A7a
+  identifier: servicenbpsPZ8A7a
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

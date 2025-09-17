@@ -1,0 +1,8 @@
+service:
+  name: serviceRtHLWS2Sum
+  identifier: serviceRtHLWS2Sum
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

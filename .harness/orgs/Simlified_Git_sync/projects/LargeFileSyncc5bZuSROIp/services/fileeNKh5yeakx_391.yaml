@@ -1,0 +1,8 @@
+service:
+  name: servicevop1mLT91f
+  identifier: servicevop1mLT91f
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

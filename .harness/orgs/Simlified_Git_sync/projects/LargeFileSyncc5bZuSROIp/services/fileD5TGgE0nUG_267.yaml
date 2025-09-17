@@ -1,0 +1,8 @@
+service:
+  name: servicezikEHD1Pbn
+  identifier: servicezikEHD1Pbn
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

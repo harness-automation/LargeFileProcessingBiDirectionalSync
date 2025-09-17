@@ -1,0 +1,8 @@
+service:
+  name: serviceNrTwK24Gtt
+  identifier: serviceNrTwK24Gtt
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

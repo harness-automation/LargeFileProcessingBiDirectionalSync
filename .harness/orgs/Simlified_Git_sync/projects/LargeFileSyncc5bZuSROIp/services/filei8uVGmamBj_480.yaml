@@ -1,0 +1,8 @@
+service:
+  name: servicegapGw6g61H
+  identifier: servicegapGw6g61H
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

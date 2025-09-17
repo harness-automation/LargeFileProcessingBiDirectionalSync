@@ -1,0 +1,8 @@
+service:
+  name: serviceFVMU4YzyUW
+  identifier: serviceFVMU4YzyUW
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

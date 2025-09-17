@@ -1,0 +1,8 @@
+service:
+  name: servicelRoZA1qNNV
+  identifier: servicelRoZA1qNNV
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceNsLC28LIdb
+  identifier: serviceNsLC28LIdb
+  projectIdentifier: LargeFileSyncc5bZuSROIp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
