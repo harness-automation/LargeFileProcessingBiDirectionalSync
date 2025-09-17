@@ -1,0 +1,8 @@
+service:
+  name: serviceI8VI55W70z
+  identifier: serviceI8VI55W70z
+  projectIdentifier: LargeFileSyncI3PwmwKup9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

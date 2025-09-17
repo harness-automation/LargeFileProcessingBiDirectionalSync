@@ -1,0 +1,8 @@
+service:
+  name: serviceDTCbp5eATL
+  identifier: serviceDTCbp5eATL
+  projectIdentifier: LargeFileSyncI3PwmwKup9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

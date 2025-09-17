@@ -1,0 +1,8 @@
+service:
+  name: service4DyHm2174s
+  identifier: service4DyHm2174s
+  projectIdentifier: LargeFileSyncI3PwmwKup9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

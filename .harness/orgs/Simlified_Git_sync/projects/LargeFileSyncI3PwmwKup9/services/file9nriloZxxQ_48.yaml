@@ -1,0 +1,8 @@
+service:
+  name: serviceyfitCRAh7n
+  identifier: serviceyfitCRAh7n
+  projectIdentifier: LargeFileSyncI3PwmwKup9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

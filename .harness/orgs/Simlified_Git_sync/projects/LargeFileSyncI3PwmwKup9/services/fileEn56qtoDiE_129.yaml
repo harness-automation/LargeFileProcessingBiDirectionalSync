@@ -1,0 +1,8 @@
+service:
+  name: servicer22kLdRGL1
+  identifier: servicer22kLdRGL1
+  projectIdentifier: LargeFileSyncI3PwmwKup9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

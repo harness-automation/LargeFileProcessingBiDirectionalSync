@@ -1,0 +1,8 @@
+service:
+  name: serviceIZRlDAIsSE
+  identifier: serviceIZRlDAIsSE
+  projectIdentifier: LargeFileSyncI3PwmwKup9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

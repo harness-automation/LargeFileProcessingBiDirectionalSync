@@ -1,0 +1,8 @@
+service:
+  name: serviceMBLomgO82b
+  identifier: serviceMBLomgO82b
+  projectIdentifier: LargeFileSyncI3PwmwKup9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

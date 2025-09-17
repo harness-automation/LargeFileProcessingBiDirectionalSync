@@ -1,0 +1,8 @@
+service:
+  name: serviceE7OrbRmP0A
+  identifier: serviceE7OrbRmP0A
+  projectIdentifier: LargeFileSyncI3PwmwKup9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

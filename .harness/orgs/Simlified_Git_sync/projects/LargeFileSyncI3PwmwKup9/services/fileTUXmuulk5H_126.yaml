@@ -1,0 +1,8 @@
+service:
+  name: service24DITEC7Ul
+  identifier: service24DITEC7Ul
+  projectIdentifier: LargeFileSyncI3PwmwKup9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

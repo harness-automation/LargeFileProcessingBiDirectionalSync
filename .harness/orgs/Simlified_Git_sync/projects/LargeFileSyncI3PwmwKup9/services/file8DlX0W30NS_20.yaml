@@ -1,0 +1,8 @@
+service:
+  name: servicedo4ENUVHwO
+  identifier: servicedo4ENUVHwO
+  projectIdentifier: LargeFileSyncI3PwmwKup9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceZhTrmaSMEy
+  identifier: serviceZhTrmaSMEy
+  projectIdentifier: LargeFileSyncI3PwmwKup9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
