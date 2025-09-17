@@ -1,0 +1,8 @@
+service:
+  name: service962JEFFpD0
+  identifier: service962JEFFpD0
+  projectIdentifier: LargeFileSync5mGfGAL4w5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicemyT58sDAMP
+  identifier: servicemyT58sDAMP
+  projectIdentifier: LargeFileSync5mGfGAL4w5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

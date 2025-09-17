@@ -1,0 +1,8 @@
+service:
+  name: serviceSsdR6iYGLM
+  identifier: serviceSsdR6iYGLM
+  projectIdentifier: LargeFileSync5mGfGAL4w5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

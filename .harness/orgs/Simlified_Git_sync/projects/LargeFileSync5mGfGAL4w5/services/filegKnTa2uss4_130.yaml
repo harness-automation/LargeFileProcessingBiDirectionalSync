@@ -1,0 +1,8 @@
+service:
+  name: serviceZ2mbk9xwpd
+  identifier: serviceZ2mbk9xwpd
+  projectIdentifier: LargeFileSync5mGfGAL4w5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

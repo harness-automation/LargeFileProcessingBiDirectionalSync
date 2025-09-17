@@ -1,0 +1,8 @@
+service:
+  name: serviceAEM4O7VnAr
+  identifier: serviceAEM4O7VnAr
+  projectIdentifier: LargeFileSync5mGfGAL4w5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

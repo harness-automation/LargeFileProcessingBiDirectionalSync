@@ -1,0 +1,8 @@
+service:
+  name: service3437MudCqj
+  identifier: service3437MudCqj
+  projectIdentifier: LargeFileSync5mGfGAL4w5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

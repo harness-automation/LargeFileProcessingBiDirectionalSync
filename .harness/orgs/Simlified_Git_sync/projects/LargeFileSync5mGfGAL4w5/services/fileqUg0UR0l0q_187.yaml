@@ -1,0 +1,8 @@
+service:
+  name: serviceOhVLSDm1Wm
+  identifier: serviceOhVLSDm1Wm
+  projectIdentifier: LargeFileSync5mGfGAL4w5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
