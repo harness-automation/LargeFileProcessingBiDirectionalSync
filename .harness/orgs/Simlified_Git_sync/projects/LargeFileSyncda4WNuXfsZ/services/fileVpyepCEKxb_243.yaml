@@ -1,0 +1,8 @@
+service:
+  name: service7qGsrtmodl
+  identifier: service7qGsrtmodl
+  projectIdentifier: LargeFileSyncda4WNuXfsZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceNoa5pMt5Cc
+  identifier: serviceNoa5pMt5Cc
+  projectIdentifier: LargeFileSyncda4WNuXfsZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

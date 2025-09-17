@@ -1,0 +1,8 @@
+service:
+  name: serviceFU3fase7mg
+  identifier: serviceFU3fase7mg
+  projectIdentifier: LargeFileSyncda4WNuXfsZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

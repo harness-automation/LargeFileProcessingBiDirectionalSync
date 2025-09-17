@@ -1,0 +1,8 @@
+service:
+  name: servicefui488Klix
+  identifier: servicefui488Klix
+  projectIdentifier: LargeFileSyncda4WNuXfsZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

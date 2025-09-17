@@ -1,0 +1,8 @@
+service:
+  name: servicedapgNOB1oX
+  identifier: servicedapgNOB1oX
+  projectIdentifier: LargeFileSyncda4WNuXfsZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

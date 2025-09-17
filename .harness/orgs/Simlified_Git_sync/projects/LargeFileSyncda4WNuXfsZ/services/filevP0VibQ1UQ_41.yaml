@@ -1,0 +1,8 @@
+service:
+  name: serviceHafaXDeKlO
+  identifier: serviceHafaXDeKlO
+  projectIdentifier: LargeFileSyncda4WNuXfsZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

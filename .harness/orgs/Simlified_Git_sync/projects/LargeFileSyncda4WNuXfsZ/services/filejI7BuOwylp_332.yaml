@@ -1,0 +1,8 @@
+service:
+  name: servicePDAR65LtTb
+  identifier: servicePDAR65LtTb
+  projectIdentifier: LargeFileSyncda4WNuXfsZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

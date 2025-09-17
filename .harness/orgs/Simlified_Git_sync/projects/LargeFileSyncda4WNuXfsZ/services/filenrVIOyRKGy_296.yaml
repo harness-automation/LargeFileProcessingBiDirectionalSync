@@ -1,0 +1,8 @@
+service:
+  name: service3h2kSCLekA
+  identifier: service3h2kSCLekA
+  projectIdentifier: LargeFileSyncda4WNuXfsZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

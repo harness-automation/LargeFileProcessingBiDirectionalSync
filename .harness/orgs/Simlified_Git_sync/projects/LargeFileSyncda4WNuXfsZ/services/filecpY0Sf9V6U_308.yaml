@@ -1,0 +1,8 @@
+service:
+  name: serviceDQ86EpLBpJ
+  identifier: serviceDQ86EpLBpJ
+  projectIdentifier: LargeFileSyncda4WNuXfsZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicelVtkoHyTEV
+  identifier: servicelVtkoHyTEV
+  projectIdentifier: LargeFileSyncda4WNuXfsZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

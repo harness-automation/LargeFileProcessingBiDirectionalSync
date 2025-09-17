@@ -1,0 +1,8 @@
+service:
+  name: servicen7c36WsJTO
+  identifier: servicen7c36WsJTO
+  projectIdentifier: LargeFileSyncda4WNuXfsZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceOxEem1uuDa
+  identifier: serviceOxEem1uuDa
+  projectIdentifier: LargeFileSyncda4WNuXfsZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
