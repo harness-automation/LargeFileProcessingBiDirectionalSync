@@ -1,0 +1,8 @@
+service:
+  name: serviceran1K4IoGU
+  identifier: serviceran1K4IoGU
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

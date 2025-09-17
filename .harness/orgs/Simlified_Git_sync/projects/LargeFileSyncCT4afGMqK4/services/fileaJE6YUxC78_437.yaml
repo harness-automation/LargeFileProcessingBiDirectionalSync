@@ -1,0 +1,8 @@
+service:
+  name: serviceK33nxi1TNM
+  identifier: serviceK33nxi1TNM
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

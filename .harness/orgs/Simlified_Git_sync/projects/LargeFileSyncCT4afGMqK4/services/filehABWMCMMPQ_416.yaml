@@ -1,0 +1,8 @@
+service:
+  name: serviceeRK0pXPbuE
+  identifier: serviceeRK0pXPbuE
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceT504OuPuXC
+  identifier: serviceT504OuPuXC
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

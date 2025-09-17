@@ -1,0 +1,8 @@
+service:
+  name: servicewdMNK0gqdt
+  identifier: servicewdMNK0gqdt
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

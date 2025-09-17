@@ -1,0 +1,8 @@
+service:
+  name: serviceMF84MqlOW8
+  identifier: serviceMF84MqlOW8
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

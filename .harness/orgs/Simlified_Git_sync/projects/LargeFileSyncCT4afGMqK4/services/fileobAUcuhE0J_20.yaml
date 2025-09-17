@@ -1,0 +1,8 @@
+service:
+  name: servicevKuAlmPqrr
+  identifier: servicevKuAlmPqrr
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

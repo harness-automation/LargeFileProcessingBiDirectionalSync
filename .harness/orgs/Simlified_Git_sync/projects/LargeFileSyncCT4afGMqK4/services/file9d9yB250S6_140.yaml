@@ -1,0 +1,8 @@
+service:
+  name: serviceGLai4ZJdon
+  identifier: serviceGLai4ZJdon
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

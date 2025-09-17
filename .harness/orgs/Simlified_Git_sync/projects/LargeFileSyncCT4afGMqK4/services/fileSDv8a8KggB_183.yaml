@@ -1,0 +1,8 @@
+service:
+  name: serviceMcab98258U
+  identifier: serviceMcab98258U
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

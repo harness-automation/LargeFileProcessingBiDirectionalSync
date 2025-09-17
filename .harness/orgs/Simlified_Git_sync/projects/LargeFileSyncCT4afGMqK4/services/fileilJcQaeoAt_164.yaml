@@ -1,0 +1,8 @@
+service:
+  name: serviceKPSSri95e3
+  identifier: serviceKPSSri95e3
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

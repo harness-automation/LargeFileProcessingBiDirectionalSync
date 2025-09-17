@@ -1,0 +1,8 @@
+service:
+  name: servicerxCyNOP7kh
+  identifier: servicerxCyNOP7kh
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

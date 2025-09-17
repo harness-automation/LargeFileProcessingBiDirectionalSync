@@ -1,0 +1,8 @@
+service:
+  name: serviceNrv8VO1BUy
+  identifier: serviceNrv8VO1BUy
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

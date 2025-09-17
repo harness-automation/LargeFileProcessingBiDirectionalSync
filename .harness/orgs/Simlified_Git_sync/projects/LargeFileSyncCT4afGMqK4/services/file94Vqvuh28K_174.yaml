@@ -1,0 +1,8 @@
+service:
+  name: serviceWMldRNbYaL
+  identifier: serviceWMldRNbYaL
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

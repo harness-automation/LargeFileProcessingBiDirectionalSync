@@ -1,0 +1,8 @@
+service:
+  name: serviceCEBVsT3a58
+  identifier: serviceCEBVsT3a58
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

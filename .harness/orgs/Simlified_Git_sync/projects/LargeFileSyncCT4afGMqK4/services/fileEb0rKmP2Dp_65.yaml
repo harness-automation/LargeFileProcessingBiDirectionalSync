@@ -1,0 +1,8 @@
+service:
+  name: servicewcBetTcd64
+  identifier: servicewcBetTcd64
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

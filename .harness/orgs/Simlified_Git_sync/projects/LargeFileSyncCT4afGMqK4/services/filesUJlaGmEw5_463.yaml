@@ -1,0 +1,8 @@
+service:
+  name: serviceopekSwOl8n
+  identifier: serviceopekSwOl8n
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

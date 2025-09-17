@@ -1,0 +1,8 @@
+service:
+  name: serviceVpLdDi7R50
+  identifier: serviceVpLdDi7R50
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

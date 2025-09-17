@@ -1,0 +1,8 @@
+service:
+  name: serviceoP53ZbStRB
+  identifier: serviceoP53ZbStRB
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

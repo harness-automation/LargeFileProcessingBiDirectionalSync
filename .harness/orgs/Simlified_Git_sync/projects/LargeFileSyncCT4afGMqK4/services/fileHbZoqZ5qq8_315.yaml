@@ -1,0 +1,8 @@
+service:
+  name: serviceFY18gvtvwd
+  identifier: serviceFY18gvtvwd
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

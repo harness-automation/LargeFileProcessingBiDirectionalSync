@@ -1,0 +1,8 @@
+service:
+  name: serviceAuGitAXv6M
+  identifier: serviceAuGitAXv6M
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceUf2bwtIssa
+  identifier: serviceUf2bwtIssa
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceRU3cX622hU
+  identifier: serviceRU3cX622hU
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

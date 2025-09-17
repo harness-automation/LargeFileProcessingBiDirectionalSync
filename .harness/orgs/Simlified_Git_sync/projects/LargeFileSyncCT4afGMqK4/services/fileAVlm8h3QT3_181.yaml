@@ -1,0 +1,8 @@
+service:
+  name: serviceTLvpGfraa1
+  identifier: serviceTLvpGfraa1
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

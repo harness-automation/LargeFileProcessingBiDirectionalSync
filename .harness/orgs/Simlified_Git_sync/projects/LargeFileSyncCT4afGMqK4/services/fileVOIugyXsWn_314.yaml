@@ -1,0 +1,8 @@
+service:
+  name: serviceVjyf17Wcmh
+  identifier: serviceVjyf17Wcmh
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

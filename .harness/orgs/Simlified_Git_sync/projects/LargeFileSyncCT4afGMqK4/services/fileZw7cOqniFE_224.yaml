@@ -1,0 +1,8 @@
+service:
+  name: serviceeeE4gOnABX
+  identifier: serviceeeE4gOnABX
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

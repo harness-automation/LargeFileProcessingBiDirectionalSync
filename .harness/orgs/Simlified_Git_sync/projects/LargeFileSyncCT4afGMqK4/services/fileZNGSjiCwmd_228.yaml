@@ -1,0 +1,8 @@
+service:
+  name: serviceUM6W85mlxB
+  identifier: serviceUM6W85mlxB
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

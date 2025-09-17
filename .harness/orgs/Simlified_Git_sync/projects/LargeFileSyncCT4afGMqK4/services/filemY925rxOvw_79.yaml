@@ -1,0 +1,8 @@
+service:
+  name: serviceYTu2u114kA
+  identifier: serviceYTu2u114kA
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

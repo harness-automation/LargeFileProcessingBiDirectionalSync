@@ -1,0 +1,8 @@
+service:
+  name: servicenx56Jfs0sB
+  identifier: servicenx56Jfs0sB
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

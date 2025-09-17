@@ -1,0 +1,8 @@
+service:
+  name: serviceyg50BIYteN
+  identifier: serviceyg50BIYteN
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

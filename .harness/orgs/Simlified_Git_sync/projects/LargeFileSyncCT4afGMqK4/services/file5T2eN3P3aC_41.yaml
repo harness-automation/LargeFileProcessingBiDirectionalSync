@@ -1,0 +1,8 @@
+service:
+  name: serviceL5INRDewa6
+  identifier: serviceL5INRDewa6
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

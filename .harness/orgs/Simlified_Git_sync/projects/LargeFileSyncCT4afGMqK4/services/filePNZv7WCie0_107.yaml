@@ -1,0 +1,8 @@
+service:
+  name: serviceMMDx08AmYi
+  identifier: serviceMMDx08AmYi
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

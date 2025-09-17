@@ -1,0 +1,8 @@
+service:
+  name: serviceIeVIzinMpY
+  identifier: serviceIeVIzinMpY
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

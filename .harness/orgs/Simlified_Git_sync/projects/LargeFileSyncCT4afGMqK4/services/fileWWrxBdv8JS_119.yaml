@@ -1,0 +1,8 @@
+service:
+  name: serviceCdEGb66elP
+  identifier: serviceCdEGb66elP
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

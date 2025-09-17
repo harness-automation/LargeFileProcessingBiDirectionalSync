@@ -1,0 +1,8 @@
+service:
+  name: serviceNzcVp2B5Pr
+  identifier: serviceNzcVp2B5Pr
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

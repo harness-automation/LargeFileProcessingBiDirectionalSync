@@ -1,0 +1,8 @@
+service:
+  name: servicebIxSmS3myo
+  identifier: servicebIxSmS3myo
+  projectIdentifier: LargeFileSyncCT4afGMqK4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
