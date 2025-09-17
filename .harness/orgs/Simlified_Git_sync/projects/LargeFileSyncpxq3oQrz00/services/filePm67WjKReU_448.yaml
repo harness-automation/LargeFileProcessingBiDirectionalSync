@@ -1,0 +1,8 @@
+service:
+  name: servicepUB3SPQSEC
+  identifier: servicepUB3SPQSEC
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

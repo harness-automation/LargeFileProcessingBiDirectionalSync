@@ -1,0 +1,8 @@
+service:
+  name: serviceDumXWAc2cv
+  identifier: serviceDumXWAc2cv
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

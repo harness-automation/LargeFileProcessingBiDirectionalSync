@@ -1,0 +1,8 @@
+service:
+  name: service8py1ptIpaM
+  identifier: service8py1ptIpaM
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

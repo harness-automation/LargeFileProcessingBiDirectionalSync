@@ -1,0 +1,8 @@
+service:
+  name: serviceFfmCuDe2Kp
+  identifier: serviceFfmCuDe2Kp
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

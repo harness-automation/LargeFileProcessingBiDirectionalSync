@@ -1,0 +1,8 @@
+service:
+  name: serviceKDAhBR1Tlc
+  identifier: serviceKDAhBR1Tlc
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

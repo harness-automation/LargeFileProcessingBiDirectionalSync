@@ -1,0 +1,8 @@
+service:
+  name: servicekrzyG5NCRM
+  identifier: servicekrzyG5NCRM
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

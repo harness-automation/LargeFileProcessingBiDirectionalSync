@@ -1,0 +1,8 @@
+service:
+  name: servicePStOp1pZbx
+  identifier: servicePStOp1pZbx
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

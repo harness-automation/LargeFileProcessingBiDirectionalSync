@@ -1,0 +1,8 @@
+service:
+  name: serviceNgnwFURss6
+  identifier: serviceNgnwFURss6
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

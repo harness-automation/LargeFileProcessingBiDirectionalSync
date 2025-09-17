@@ -1,0 +1,8 @@
+service:
+  name: serviceoA32m0wIDs
+  identifier: serviceoA32m0wIDs
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

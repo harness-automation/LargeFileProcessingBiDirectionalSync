@@ -1,0 +1,8 @@
+service:
+  name: serviceemGd870JdM
+  identifier: serviceemGd870JdM
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

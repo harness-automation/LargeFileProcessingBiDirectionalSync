@@ -1,0 +1,8 @@
+service:
+  name: serviceS60BdMHz19
+  identifier: serviceS60BdMHz19
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

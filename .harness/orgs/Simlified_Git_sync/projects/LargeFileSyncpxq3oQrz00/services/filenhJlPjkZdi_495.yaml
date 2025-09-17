@@ -1,0 +1,8 @@
+service:
+  name: serviceLoomPT8M2N
+  identifier: serviceLoomPT8M2N
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

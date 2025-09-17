@@ -1,0 +1,8 @@
+service:
+  name: servicevrk8nmyifp
+  identifier: servicevrk8nmyifp
+  projectIdentifier: LargeFileSyncpxq3oQrz00
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
