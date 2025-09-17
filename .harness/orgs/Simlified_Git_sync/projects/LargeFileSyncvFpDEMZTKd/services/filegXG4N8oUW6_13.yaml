@@ -1,0 +1,8 @@
+service:
+  name: serviceXW36jS4Xcc
+  identifier: serviceXW36jS4Xcc
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

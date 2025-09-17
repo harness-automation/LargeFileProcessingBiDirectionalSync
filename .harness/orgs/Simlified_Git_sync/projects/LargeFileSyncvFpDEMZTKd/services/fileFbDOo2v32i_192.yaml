@@ -1,0 +1,8 @@
+service:
+  name: servicedrl30YzR8r
+  identifier: servicedrl30YzR8r
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

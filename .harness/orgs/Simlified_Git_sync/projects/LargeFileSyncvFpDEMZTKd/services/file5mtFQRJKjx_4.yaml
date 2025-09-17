@@ -1,0 +1,8 @@
+service:
+  name: servicezbjOp5ucql
+  identifier: servicezbjOp5ucql
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

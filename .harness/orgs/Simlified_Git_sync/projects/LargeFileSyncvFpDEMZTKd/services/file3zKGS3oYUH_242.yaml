@@ -1,0 +1,8 @@
+service:
+  name: servicexfPygeNr3P
+  identifier: servicexfPygeNr3P
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

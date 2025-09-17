@@ -1,0 +1,8 @@
+service:
+  name: servicepwk1aBaakj
+  identifier: servicepwk1aBaakj
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceEPGPhi1wwN
+  identifier: serviceEPGPhi1wwN
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

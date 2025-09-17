@@ -1,0 +1,8 @@
+service:
+  name: serviceAJPSB6P1x4
+  identifier: serviceAJPSB6P1x4
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

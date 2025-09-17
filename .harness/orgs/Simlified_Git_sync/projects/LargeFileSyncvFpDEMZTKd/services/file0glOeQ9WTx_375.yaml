@@ -1,0 +1,8 @@
+service:
+  name: serviceMRai7kQPp5
+  identifier: serviceMRai7kQPp5
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

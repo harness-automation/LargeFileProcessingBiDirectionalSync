@@ -1,0 +1,8 @@
+service:
+  name: serviceVtRJ1BnTGx
+  identifier: serviceVtRJ1BnTGx
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

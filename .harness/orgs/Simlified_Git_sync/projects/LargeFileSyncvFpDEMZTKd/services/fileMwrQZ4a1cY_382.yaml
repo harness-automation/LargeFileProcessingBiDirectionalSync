@@ -1,0 +1,8 @@
+service:
+  name: serviceFDwHv66C2R
+  identifier: serviceFDwHv66C2R
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

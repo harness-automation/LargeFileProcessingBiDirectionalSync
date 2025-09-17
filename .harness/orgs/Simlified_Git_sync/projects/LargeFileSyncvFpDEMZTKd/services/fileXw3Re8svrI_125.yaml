@@ -1,0 +1,8 @@
+service:
+  name: serviceRdw0A240Zh
+  identifier: serviceRdw0A240Zh
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceXUEl7Zset8
+  identifier: serviceXUEl7Zset8
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

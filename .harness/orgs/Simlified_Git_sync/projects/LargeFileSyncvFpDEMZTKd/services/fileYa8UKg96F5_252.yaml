@@ -1,0 +1,8 @@
+service:
+  name: serviceVy78BrnAIJ
+  identifier: serviceVy78BrnAIJ
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

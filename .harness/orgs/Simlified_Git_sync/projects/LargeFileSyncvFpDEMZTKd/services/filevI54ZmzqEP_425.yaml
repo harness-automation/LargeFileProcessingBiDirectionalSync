@@ -1,0 +1,8 @@
+service:
+  name: serviceXRBdw2vuhM
+  identifier: serviceXRBdw2vuhM
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

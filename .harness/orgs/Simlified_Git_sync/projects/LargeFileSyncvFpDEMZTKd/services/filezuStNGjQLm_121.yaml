@@ -1,0 +1,8 @@
+service:
+  name: serviceuRQAKE94UK
+  identifier: serviceuRQAKE94UK
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

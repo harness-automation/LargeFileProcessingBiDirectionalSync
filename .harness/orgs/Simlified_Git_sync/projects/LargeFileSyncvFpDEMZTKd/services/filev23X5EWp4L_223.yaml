@@ -1,0 +1,8 @@
+service:
+  name: serviceqbuPH80MY8
+  identifier: serviceqbuPH80MY8
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

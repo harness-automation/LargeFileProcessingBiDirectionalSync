@@ -1,0 +1,8 @@
+service:
+  name: serviceGf2JnsLaPJ
+  identifier: serviceGf2JnsLaPJ
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

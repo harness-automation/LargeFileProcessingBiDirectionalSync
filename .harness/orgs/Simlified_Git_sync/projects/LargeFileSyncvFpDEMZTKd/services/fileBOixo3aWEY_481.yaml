@@ -1,0 +1,8 @@
+service:
+  name: serviceMcflbNF3RK
+  identifier: serviceMcflbNF3RK
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

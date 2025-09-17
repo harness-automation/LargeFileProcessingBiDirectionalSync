@@ -1,0 +1,8 @@
+service:
+  name: serviceTPU31s05u7
+  identifier: serviceTPU31s05u7
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

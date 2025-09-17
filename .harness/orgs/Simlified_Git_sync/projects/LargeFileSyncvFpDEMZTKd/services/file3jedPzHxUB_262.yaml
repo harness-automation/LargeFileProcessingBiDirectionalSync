@@ -1,0 +1,8 @@
+service:
+  name: serviceCfaWba1pK4
+  identifier: serviceCfaWba1pK4
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

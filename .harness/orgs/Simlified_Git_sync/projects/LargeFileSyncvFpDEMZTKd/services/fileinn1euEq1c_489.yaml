@@ -1,0 +1,8 @@
+service:
+  name: servicekThL46TlBk
+  identifier: servicekThL46TlBk
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

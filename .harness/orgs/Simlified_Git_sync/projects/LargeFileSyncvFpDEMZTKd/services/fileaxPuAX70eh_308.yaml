@@ -1,0 +1,8 @@
+service:
+  name: servicemWooez8CSX
+  identifier: servicemWooez8CSX
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

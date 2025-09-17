@@ -1,0 +1,8 @@
+service:
+  name: serviceDcOqcitu35
+  identifier: serviceDcOqcitu35
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

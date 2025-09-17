@@ -1,0 +1,8 @@
+service:
+  name: servicereqHbdOaPJ
+  identifier: servicereqHbdOaPJ
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

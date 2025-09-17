@@ -1,0 +1,8 @@
+service:
+  name: serviceIReS8Mk99z
+  identifier: serviceIReS8Mk99z
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

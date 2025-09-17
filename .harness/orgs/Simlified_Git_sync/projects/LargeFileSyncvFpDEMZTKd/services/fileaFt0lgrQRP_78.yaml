@@ -1,0 +1,8 @@
+service:
+  name: serviceLnavYdLL9M
+  identifier: serviceLnavYdLL9M
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

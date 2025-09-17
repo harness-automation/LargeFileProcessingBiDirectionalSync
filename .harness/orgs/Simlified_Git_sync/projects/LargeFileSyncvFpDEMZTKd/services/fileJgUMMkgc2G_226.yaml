@@ -1,0 +1,8 @@
+service:
+  name: serviceiRd969PaKQ
+  identifier: serviceiRd969PaKQ
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

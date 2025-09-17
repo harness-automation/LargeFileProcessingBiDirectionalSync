@@ -1,0 +1,8 @@
+service:
+  name: serviceyszeT4Luza
+  identifier: serviceyszeT4Luza
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

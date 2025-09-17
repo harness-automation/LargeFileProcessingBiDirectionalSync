@@ -1,0 +1,8 @@
+service:
+  name: serviceShJgRBapOP
+  identifier: serviceShJgRBapOP
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

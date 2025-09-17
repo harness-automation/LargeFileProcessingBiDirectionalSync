@@ -1,0 +1,8 @@
+service:
+  name: serviceMP32m9lYTQ
+  identifier: serviceMP32m9lYTQ
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

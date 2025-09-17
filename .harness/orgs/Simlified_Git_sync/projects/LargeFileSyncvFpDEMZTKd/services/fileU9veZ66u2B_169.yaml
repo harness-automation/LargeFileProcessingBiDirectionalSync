@@ -1,0 +1,8 @@
+service:
+  name: servicemWkTuhERTY
+  identifier: servicemWkTuhERTY
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

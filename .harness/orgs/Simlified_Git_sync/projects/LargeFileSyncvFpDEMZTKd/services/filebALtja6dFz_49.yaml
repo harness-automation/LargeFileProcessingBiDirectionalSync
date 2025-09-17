@@ -1,0 +1,8 @@
+service:
+  name: servicejaOYAKBAD6
+  identifier: servicejaOYAKBAD6
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

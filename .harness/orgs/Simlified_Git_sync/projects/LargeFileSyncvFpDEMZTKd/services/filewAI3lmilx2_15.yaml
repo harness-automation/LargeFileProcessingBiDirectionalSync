@@ -1,0 +1,8 @@
+service:
+  name: serviceacu4GHEuJs
+  identifier: serviceacu4GHEuJs
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

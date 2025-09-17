@@ -1,0 +1,8 @@
+service:
+  name: serviceBMkr4iXDkp
+  identifier: serviceBMkr4iXDkp
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

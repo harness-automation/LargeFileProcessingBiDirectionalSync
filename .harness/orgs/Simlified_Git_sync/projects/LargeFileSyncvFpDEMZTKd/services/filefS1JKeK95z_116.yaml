@@ -1,0 +1,8 @@
+service:
+  name: service8RBuhufoAg
+  identifier: service8RBuhufoAg
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

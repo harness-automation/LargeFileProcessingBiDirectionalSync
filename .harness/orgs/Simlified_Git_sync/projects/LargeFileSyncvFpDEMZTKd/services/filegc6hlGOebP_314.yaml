@@ -1,0 +1,8 @@
+service:
+  name: serviceB5R49N5Hpp
+  identifier: serviceB5R49N5Hpp
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

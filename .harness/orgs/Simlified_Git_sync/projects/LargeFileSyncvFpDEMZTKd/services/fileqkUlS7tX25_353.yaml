@@ -1,0 +1,8 @@
+service:
+  name: servicewwFnmezuDe
+  identifier: servicewwFnmezuDe
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

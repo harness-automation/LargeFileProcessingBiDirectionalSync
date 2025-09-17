@@ -1,0 +1,8 @@
+service:
+  name: serviceMkjMPF0AMb
+  identifier: serviceMkjMPF0AMb
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

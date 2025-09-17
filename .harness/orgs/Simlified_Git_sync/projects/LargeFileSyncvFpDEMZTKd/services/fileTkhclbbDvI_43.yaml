@@ -1,0 +1,8 @@
+service:
+  name: serviceHymTfkR6lw
+  identifier: serviceHymTfkR6lw
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

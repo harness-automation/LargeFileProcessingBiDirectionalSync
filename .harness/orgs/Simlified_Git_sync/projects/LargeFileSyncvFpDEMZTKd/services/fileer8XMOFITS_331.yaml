@@ -1,0 +1,8 @@
+service:
+  name: serviceoh87HKnWPs
+  identifier: serviceoh87HKnWPs
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

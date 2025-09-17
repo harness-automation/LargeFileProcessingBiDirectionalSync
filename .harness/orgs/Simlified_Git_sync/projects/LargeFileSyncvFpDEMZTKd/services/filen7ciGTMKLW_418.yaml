@@ -1,0 +1,8 @@
+service:
+  name: servicefcvivjDbn2
+  identifier: servicefcvivjDbn2
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

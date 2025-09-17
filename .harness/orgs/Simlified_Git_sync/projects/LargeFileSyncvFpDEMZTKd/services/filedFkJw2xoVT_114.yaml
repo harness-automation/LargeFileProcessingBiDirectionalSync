@@ -1,0 +1,8 @@
+service:
+  name: service7sjdgGop26
+  identifier: service7sjdgGop26
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

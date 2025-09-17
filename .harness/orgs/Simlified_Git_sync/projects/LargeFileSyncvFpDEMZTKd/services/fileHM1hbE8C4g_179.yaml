@@ -1,0 +1,8 @@
+service:
+  name: serviceW21i2WtHE2
+  identifier: serviceW21i2WtHE2
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

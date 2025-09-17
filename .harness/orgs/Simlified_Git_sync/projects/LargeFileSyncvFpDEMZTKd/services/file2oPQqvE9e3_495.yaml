@@ -1,0 +1,8 @@
+service:
+  name: serviceTVSZVL6PM5
+  identifier: serviceTVSZVL6PM5
+  projectIdentifier: LargeFileSyncvFpDEMZTKd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
