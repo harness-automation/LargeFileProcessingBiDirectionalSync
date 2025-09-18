@@ -1,0 +1,8 @@
+service:
+  name: service4dPTpvi6pa
+  identifier: service4dPTpvi6pa
+  projectIdentifier: LargeFileSync7AL0PZbZcM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

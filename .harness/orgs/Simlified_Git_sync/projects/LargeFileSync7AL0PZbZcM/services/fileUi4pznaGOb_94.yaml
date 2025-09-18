@@ -1,0 +1,8 @@
+service:
+  name: serviceI2ZTAFNORV
+  identifier: serviceI2ZTAFNORV
+  projectIdentifier: LargeFileSync7AL0PZbZcM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

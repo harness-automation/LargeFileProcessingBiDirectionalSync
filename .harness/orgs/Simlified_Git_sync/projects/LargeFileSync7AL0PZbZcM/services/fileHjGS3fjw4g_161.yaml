@@ -1,0 +1,8 @@
+service:
+  name: servicePHoTN1ds2m
+  identifier: servicePHoTN1ds2m
+  projectIdentifier: LargeFileSync7AL0PZbZcM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

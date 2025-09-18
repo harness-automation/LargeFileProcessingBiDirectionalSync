@@ -1,0 +1,8 @@
+service:
+  name: serviceBtCG7sTu1q
+  identifier: serviceBtCG7sTu1q
+  projectIdentifier: LargeFileSync7AL0PZbZcM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

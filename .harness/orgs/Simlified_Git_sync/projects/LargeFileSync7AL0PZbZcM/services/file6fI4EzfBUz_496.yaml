@@ -1,0 +1,8 @@
+service:
+  name: service3ELsArLR1b
+  identifier: service3ELsArLR1b
+  projectIdentifier: LargeFileSync7AL0PZbZcM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

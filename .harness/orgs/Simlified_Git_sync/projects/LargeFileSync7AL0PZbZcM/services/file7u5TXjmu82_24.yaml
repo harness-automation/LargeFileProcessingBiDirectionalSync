@@ -1,0 +1,8 @@
+service:
+  name: serviceLypvU2ckid
+  identifier: serviceLypvU2ckid
+  projectIdentifier: LargeFileSync7AL0PZbZcM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

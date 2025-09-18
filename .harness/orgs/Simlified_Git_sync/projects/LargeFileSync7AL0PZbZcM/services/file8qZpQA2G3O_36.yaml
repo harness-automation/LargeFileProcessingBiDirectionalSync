@@ -1,0 +1,8 @@
+service:
+  name: servicewWEmSqOaL2
+  identifier: servicewWEmSqOaL2
+  projectIdentifier: LargeFileSync7AL0PZbZcM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceauQCZnBPCp
+  identifier: serviceauQCZnBPCp
+  projectIdentifier: LargeFileSync7AL0PZbZcM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

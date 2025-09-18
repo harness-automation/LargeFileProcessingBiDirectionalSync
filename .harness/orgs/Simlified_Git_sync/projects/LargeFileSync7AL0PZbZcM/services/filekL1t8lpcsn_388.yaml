@@ -1,0 +1,8 @@
+service:
+  name: service5qit3MApI2
+  identifier: service5qit3MApI2
+  projectIdentifier: LargeFileSync7AL0PZbZcM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

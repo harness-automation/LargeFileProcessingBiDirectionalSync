@@ -1,0 +1,8 @@
+service:
+  name: serviceFlosSFu4o2
+  identifier: serviceFlosSFu4o2
+  projectIdentifier: LargeFileSync7AL0PZbZcM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

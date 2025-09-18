@@ -1,0 +1,8 @@
+service:
+  name: serviceKCVU4ungJs
+  identifier: serviceKCVU4ungJs
+  projectIdentifier: LargeFileSync7AL0PZbZcM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
