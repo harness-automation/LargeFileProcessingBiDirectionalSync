@@ -1,0 +1,8 @@
+service:
+  name: servicel1iJLBATbg
+  identifier: servicel1iJLBATbg
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

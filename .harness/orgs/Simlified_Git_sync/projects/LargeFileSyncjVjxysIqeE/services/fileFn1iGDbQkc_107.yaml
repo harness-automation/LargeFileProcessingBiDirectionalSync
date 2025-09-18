@@ -1,0 +1,8 @@
+service:
+  name: servicesc1fMOTP1D
+  identifier: servicesc1fMOTP1D
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePSprC3x2bI
+  identifier: servicePSprC3x2bI
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

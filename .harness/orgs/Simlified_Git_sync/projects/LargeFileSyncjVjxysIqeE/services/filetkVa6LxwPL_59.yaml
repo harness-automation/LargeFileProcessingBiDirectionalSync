@@ -1,0 +1,8 @@
+service:
+  name: servicep4g158EBWF
+  identifier: servicep4g158EBWF
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

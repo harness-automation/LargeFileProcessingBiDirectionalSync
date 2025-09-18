@@ -1,0 +1,8 @@
+service:
+  name: serviced4TVXRglpi
+  identifier: serviced4TVXRglpi
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

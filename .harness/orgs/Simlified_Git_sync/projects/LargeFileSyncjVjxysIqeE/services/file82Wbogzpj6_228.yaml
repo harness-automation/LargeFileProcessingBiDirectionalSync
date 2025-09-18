@@ -1,0 +1,8 @@
+service:
+  name: servicegrxeBDskTx
+  identifier: servicegrxeBDskTx
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

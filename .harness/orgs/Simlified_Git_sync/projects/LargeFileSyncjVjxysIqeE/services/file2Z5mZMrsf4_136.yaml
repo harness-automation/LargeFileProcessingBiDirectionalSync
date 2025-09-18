@@ -1,0 +1,8 @@
+service:
+  name: servicegNRAG3SJ35
+  identifier: servicegNRAG3SJ35
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

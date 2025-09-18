@@ -1,0 +1,8 @@
+service:
+  name: servicen6aBodejVF
+  identifier: servicen6aBodejVF
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

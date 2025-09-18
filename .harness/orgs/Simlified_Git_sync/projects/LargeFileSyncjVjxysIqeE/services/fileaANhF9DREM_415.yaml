@@ -1,0 +1,8 @@
+service:
+  name: serviceBodoTba3Hq
+  identifier: serviceBodoTba3Hq
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

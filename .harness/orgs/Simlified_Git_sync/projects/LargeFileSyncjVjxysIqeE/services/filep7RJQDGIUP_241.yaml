@@ -1,0 +1,8 @@
+service:
+  name: servicelb2BratlTR
+  identifier: servicelb2BratlTR
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

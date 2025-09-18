@@ -1,0 +1,8 @@
+service:
+  name: serviceZBMPedSVfR
+  identifier: serviceZBMPedSVfR
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

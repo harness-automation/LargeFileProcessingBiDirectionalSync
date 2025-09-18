@@ -1,0 +1,8 @@
+service:
+  name: servicecDCVLwrFpr
+  identifier: servicecDCVLwrFpr
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

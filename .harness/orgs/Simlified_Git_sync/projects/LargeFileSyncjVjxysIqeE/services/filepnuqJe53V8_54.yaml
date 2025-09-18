@@ -1,0 +1,8 @@
+service:
+  name: serviceeHZ02v5kMl
+  identifier: serviceeHZ02v5kMl
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

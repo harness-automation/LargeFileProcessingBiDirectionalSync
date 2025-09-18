@@ -1,0 +1,8 @@
+service:
+  name: serviceJmo51p0HBb
+  identifier: serviceJmo51p0HBb
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

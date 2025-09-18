@@ -1,0 +1,8 @@
+service:
+  name: service37GhGdh2DP
+  identifier: service37GhGdh2DP
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

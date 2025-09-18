@@ -1,0 +1,8 @@
+service:
+  name: serviceDiaGlCSXYG
+  identifier: serviceDiaGlCSXYG
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

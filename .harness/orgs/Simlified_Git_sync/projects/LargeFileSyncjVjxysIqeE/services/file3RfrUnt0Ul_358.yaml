@@ -1,0 +1,8 @@
+service:
+  name: serviceLj33Bpedga
+  identifier: serviceLj33Bpedga
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

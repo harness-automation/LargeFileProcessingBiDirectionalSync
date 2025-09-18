@@ -1,0 +1,8 @@
+service:
+  name: serviceT48698dIWA
+  identifier: serviceT48698dIWA
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

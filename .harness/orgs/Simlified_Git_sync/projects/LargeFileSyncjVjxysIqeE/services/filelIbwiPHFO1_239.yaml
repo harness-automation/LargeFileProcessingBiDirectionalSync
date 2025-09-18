@@ -1,0 +1,8 @@
+service:
+  name: serviceB2LI2LQnVR
+  identifier: serviceB2LI2LQnVR
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

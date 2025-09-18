@@ -1,0 +1,8 @@
+service:
+  name: serviceLKds4MiC04
+  identifier: serviceLKds4MiC04
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

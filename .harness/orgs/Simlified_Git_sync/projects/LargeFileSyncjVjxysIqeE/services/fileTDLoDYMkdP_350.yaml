@@ -1,0 +1,8 @@
+service:
+  name: serviceTXPg1ClGbz
+  identifier: serviceTXPg1ClGbz
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

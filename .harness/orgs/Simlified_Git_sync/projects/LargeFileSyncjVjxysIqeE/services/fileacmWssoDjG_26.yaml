@@ -1,0 +1,8 @@
+service:
+  name: serviceH86pODXPVC
+  identifier: serviceH86pODXPVC
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

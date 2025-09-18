@@ -1,0 +1,8 @@
+service:
+  name: servicermiW7107T8
+  identifier: servicermiW7107T8
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

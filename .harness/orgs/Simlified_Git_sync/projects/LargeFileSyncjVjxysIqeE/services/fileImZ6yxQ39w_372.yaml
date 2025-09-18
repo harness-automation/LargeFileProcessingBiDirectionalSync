@@ -1,0 +1,8 @@
+service:
+  name: servicempuIqSmKuR
+  identifier: servicempuIqSmKuR
+  projectIdentifier: LargeFileSyncjVjxysIqeE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
