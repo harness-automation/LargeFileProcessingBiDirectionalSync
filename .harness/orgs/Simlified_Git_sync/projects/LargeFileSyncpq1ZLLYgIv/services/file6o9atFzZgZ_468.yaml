@@ -1,0 +1,8 @@
+service:
+  name: serviceFr12lFtMeF
+  identifier: serviceFr12lFtMeF
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

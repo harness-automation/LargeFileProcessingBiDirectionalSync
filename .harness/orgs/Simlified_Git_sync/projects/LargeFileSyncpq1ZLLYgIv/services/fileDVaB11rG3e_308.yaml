@@ -1,0 +1,8 @@
+service:
+  name: servicepanPH2ePF4
+  identifier: servicepanPH2ePF4
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

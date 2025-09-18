@@ -1,0 +1,8 @@
+service:
+  name: serviceYNCsgASSjA
+  identifier: serviceYNCsgASSjA
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

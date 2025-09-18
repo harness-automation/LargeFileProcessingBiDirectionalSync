@@ -1,0 +1,8 @@
+service:
+  name: serviceTFRtmdp1v0
+  identifier: serviceTFRtmdp1v0
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

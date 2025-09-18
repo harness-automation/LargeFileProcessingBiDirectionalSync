@@ -1,0 +1,8 @@
+service:
+  name: serviceM10DpyOrP9
+  identifier: serviceM10DpyOrP9
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceaiJ176lDzm
+  identifier: serviceaiJ176lDzm
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

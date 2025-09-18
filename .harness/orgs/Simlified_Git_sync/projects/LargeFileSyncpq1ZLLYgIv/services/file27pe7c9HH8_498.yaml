@@ -1,0 +1,8 @@
+service:
+  name: servicedcpzs6107R
+  identifier: servicedcpzs6107R
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

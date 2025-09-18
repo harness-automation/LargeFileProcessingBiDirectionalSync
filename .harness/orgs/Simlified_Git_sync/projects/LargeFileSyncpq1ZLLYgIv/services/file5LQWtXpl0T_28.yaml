@@ -1,0 +1,8 @@
+service:
+  name: serviceKGokSPI663
+  identifier: serviceKGokSPI663
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

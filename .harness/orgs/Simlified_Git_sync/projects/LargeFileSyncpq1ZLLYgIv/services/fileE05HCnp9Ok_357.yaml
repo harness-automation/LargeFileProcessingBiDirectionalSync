@@ -1,0 +1,8 @@
+service:
+  name: serviceSGAUP70OSh
+  identifier: serviceSGAUP70OSh
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

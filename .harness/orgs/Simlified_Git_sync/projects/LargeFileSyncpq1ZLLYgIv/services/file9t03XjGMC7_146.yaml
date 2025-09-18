@@ -1,0 +1,8 @@
+service:
+  name: serviceCHI4VWjkdn
+  identifier: serviceCHI4VWjkdn
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceev32T2glzc
+  identifier: serviceev32T2glzc
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

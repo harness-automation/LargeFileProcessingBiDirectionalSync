@@ -1,0 +1,8 @@
+service:
+  name: serviceORlPE8LiPB
+  identifier: serviceORlPE8LiPB
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceKN2BFiL552
+  identifier: serviceKN2BFiL552
+  projectIdentifier: LargeFileSyncpq1ZLLYgIv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
