@@ -1,0 +1,8 @@
+service:
+  name: serviceInlMEHKI4T
+  identifier: serviceInlMEHKI4T
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

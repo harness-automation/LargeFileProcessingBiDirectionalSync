@@ -1,0 +1,8 @@
+service:
+  name: servicepp5MXUNA1F
+  identifier: servicepp5MXUNA1F
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

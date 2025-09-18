@@ -1,0 +1,8 @@
+service:
+  name: serviceIMQm5K44r3
+  identifier: serviceIMQm5K44r3
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

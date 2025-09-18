@@ -1,0 +1,8 @@
+service:
+  name: serviceqbWTrl1icp
+  identifier: serviceqbWTrl1icp
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

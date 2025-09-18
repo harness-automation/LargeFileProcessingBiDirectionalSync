@@ -1,0 +1,8 @@
+service:
+  name: serviceRj1lxIdyio
+  identifier: serviceRj1lxIdyio
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

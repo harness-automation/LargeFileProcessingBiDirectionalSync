@@ -1,0 +1,8 @@
+service:
+  name: serviceWBuSPac0F7
+  identifier: serviceWBuSPac0F7
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

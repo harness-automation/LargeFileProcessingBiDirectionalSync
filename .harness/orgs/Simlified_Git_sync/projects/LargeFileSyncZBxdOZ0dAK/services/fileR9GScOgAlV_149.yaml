@@ -1,0 +1,8 @@
+service:
+  name: serviceVatmxZh1B3
+  identifier: serviceVatmxZh1B3
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

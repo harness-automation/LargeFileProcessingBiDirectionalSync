@@ -1,0 +1,8 @@
+service:
+  name: serviceiBM1Bk1IFA
+  identifier: serviceiBM1Bk1IFA
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

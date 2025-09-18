@@ -1,0 +1,8 @@
+service:
+  name: servicecA3CLwmnbv
+  identifier: servicecA3CLwmnbv
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

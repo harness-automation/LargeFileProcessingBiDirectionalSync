@@ -1,0 +1,8 @@
+service:
+  name: servicezMV2SVeBLl
+  identifier: servicezMV2SVeBLl
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceMk0HydgRMG
+  identifier: serviceMk0HydgRMG
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

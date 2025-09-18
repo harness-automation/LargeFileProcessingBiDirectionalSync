@@ -1,0 +1,8 @@
+service:
+  name: servicehpyBg0ERpZ
+  identifier: servicehpyBg0ERpZ
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

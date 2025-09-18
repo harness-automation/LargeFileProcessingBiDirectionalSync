@@ -1,0 +1,8 @@
+service:
+  name: serviceLgKKu5OVIz
+  identifier: serviceLgKKu5OVIz
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

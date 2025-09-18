@@ -1,0 +1,8 @@
+service:
+  name: serviceZF19RUM20J
+  identifier: serviceZF19RUM20J
+  projectIdentifier: LargeFileSyncZBxdOZ0dAK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
