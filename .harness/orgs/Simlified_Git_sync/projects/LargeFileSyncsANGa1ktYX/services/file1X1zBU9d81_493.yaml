@@ -1,0 +1,8 @@
+service:
+  name: services129NP47UG
+  identifier: services129NP47UG
+  projectIdentifier: LargeFileSyncsANGa1ktYX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

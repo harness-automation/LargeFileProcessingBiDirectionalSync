@@ -1,0 +1,8 @@
+service:
+  name: serviceDbIaPZubGy
+  identifier: serviceDbIaPZubGy
+  projectIdentifier: LargeFileSyncsANGa1ktYX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFX24aHPrST
+  identifier: serviceFX24aHPrST
+  projectIdentifier: LargeFileSyncsANGa1ktYX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

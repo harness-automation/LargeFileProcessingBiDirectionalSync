@@ -1,0 +1,8 @@
+service:
+  name: serviceCZMkr4btXS
+  identifier: serviceCZMkr4btXS
+  projectIdentifier: LargeFileSyncsANGa1ktYX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

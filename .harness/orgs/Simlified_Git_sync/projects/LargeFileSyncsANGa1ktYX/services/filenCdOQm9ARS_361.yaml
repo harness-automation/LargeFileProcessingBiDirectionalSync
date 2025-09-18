@@ -1,0 +1,8 @@
+service:
+  name: serviceMv79NiTA2s
+  identifier: serviceMv79NiTA2s
+  projectIdentifier: LargeFileSyncsANGa1ktYX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

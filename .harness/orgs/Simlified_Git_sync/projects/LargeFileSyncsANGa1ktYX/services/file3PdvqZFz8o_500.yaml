@@ -1,0 +1,8 @@
+service:
+  name: service0hRBC90w2b
+  identifier: service0hRBC90w2b
+  projectIdentifier: LargeFileSyncsANGa1ktYX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

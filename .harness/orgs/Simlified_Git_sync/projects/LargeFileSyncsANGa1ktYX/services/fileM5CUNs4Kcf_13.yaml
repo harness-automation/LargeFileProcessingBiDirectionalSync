@@ -1,0 +1,8 @@
+service:
+  name: service7WB4Enagof
+  identifier: service7WB4Enagof
+  projectIdentifier: LargeFileSyncsANGa1ktYX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

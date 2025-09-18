@@ -1,0 +1,8 @@
+service:
+  name: service3VHmQ5DLIP
+  identifier: service3VHmQ5DLIP
+  projectIdentifier: LargeFileSyncsANGa1ktYX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

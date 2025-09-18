@@ -1,0 +1,8 @@
+service:
+  name: serviceKvP816ZotO
+  identifier: serviceKvP816ZotO
+  projectIdentifier: LargeFileSyncsANGa1ktYX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

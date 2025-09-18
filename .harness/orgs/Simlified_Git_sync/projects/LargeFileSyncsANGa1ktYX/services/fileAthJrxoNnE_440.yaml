@@ -1,0 +1,8 @@
+service:
+  name: serviceErN32ABCv9
+  identifier: serviceErN32ABCv9
+  projectIdentifier: LargeFileSyncsANGa1ktYX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

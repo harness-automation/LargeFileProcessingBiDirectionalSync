@@ -1,0 +1,8 @@
+service:
+  name: serviceNWF7FOLgKU
+  identifier: serviceNWF7FOLgKU
+  projectIdentifier: LargeFileSyncsANGa1ktYX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
