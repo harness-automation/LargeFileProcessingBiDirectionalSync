@@ -1,0 +1,8 @@
+service:
+  name: serviceAEOm5Pmhto
+  identifier: serviceAEOm5Pmhto
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

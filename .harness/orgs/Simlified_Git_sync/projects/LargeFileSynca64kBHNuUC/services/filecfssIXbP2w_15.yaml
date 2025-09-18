@@ -1,0 +1,8 @@
+service:
+  name: serviceMEBL6cRn37
+  identifier: serviceMEBL6cRn37
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

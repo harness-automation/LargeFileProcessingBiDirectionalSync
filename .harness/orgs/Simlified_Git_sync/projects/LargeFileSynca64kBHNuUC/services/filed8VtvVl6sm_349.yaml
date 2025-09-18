@@ -1,0 +1,8 @@
+service:
+  name: serviceGn846KpDpp
+  identifier: serviceGn846KpDpp
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicevW609G143M
+  identifier: servicevW609G143M
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

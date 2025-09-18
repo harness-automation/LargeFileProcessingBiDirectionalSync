@@ -1,0 +1,8 @@
+service:
+  name: serviceK5727TEwk3
+  identifier: serviceK5727TEwk3
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

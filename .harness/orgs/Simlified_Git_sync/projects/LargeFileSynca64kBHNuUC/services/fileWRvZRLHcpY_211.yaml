@@ -1,0 +1,8 @@
+service:
+  name: servicej20KvrsELT
+  identifier: servicej20KvrsELT
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

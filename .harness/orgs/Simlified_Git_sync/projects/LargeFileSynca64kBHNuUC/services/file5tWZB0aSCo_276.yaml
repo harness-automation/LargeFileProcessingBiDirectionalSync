@@ -1,0 +1,8 @@
+service:
+  name: servicexcn419eY40
+  identifier: servicexcn419eY40
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

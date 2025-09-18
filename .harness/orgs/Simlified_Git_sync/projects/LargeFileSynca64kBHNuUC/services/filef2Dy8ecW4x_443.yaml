@@ -1,0 +1,8 @@
+service:
+  name: serviceNDNG5sMXB3
+  identifier: serviceNDNG5sMXB3
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

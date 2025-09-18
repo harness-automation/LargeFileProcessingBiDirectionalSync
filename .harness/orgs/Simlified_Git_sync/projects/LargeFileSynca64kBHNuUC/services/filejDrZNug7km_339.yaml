@@ -1,0 +1,8 @@
+service:
+  name: service7915fh94DB
+  identifier: service7915fh94DB
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

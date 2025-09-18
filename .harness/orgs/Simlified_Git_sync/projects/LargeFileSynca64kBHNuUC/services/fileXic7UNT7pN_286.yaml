@@ -1,0 +1,8 @@
+service:
+  name: serviceKf73NCdim4
+  identifier: serviceKf73NCdim4
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

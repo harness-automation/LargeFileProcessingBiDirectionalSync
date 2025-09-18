@@ -1,0 +1,8 @@
+service:
+  name: servicel3gIxxskyv
+  identifier: servicel3gIxxskyv
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

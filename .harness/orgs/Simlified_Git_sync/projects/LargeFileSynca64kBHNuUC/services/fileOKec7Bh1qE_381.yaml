@@ -1,0 +1,8 @@
+service:
+  name: servicecqSbJTwhm1
+  identifier: servicecqSbJTwhm1
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

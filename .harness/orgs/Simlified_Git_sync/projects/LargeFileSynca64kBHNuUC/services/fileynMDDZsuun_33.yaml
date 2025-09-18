@@ -1,0 +1,8 @@
+service:
+  name: serviceDEF2O2GtUM
+  identifier: serviceDEF2O2GtUM
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

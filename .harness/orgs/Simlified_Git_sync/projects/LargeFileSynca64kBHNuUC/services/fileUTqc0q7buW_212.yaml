@@ -1,0 +1,8 @@
+service:
+  name: servicepQoSi1I7V2
+  identifier: servicepQoSi1I7V2
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

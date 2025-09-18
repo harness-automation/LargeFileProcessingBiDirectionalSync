@@ -1,0 +1,8 @@
+service:
+  name: serviceYg2aioMCVB
+  identifier: serviceYg2aioMCVB
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

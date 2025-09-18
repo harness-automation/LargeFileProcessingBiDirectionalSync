@@ -1,0 +1,8 @@
+service:
+  name: servicezRH5M58Ws2
+  identifier: servicezRH5M58Ws2
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceOG5SeQuxpi
+  identifier: serviceOG5SeQuxpi
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

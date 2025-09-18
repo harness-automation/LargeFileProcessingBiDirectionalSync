@@ -1,0 +1,8 @@
+service:
+  name: servicegowoNuzeFc
+  identifier: servicegowoNuzeFc
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

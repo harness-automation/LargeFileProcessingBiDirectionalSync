@@ -1,0 +1,8 @@
+service:
+  name: serviceYuQtWACp1e
+  identifier: serviceYuQtWACp1e
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

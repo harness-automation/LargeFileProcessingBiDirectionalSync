@@ -1,0 +1,8 @@
+service:
+  name: serviceLbxEmCI7T2
+  identifier: serviceLbxEmCI7T2
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

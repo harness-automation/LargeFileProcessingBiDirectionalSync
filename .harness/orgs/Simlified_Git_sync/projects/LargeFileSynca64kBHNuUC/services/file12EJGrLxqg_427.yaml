@@ -1,0 +1,8 @@
+service:
+  name: serviceE3DPyqyXRi
+  identifier: serviceE3DPyqyXRi
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

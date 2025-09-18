@@ -1,0 +1,8 @@
+service:
+  name: servicecmOf5Ljinn
+  identifier: servicecmOf5Ljinn
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

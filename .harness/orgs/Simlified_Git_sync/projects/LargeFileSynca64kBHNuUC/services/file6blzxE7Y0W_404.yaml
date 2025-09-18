@@ -1,0 +1,8 @@
+service:
+  name: serviceItx56UVATi
+  identifier: serviceItx56UVATi
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

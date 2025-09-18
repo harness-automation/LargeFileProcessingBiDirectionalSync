@@ -1,0 +1,8 @@
+service:
+  name: serviceHFMZa3LJA4
+  identifier: serviceHFMZa3LJA4
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

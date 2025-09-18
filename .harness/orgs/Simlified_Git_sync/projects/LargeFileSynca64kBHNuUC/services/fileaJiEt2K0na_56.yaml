@@ -1,0 +1,8 @@
+service:
+  name: servicePRTUdEleaR
+  identifier: servicePRTUdEleaR
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

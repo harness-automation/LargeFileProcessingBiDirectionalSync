@@ -1,0 +1,8 @@
+service:
+  name: servicerKm7MLYLbO
+  identifier: servicerKm7MLYLbO
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

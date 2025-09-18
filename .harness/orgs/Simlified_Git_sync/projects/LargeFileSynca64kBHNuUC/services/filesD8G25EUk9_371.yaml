@@ -1,0 +1,8 @@
+service:
+  name: serviceSWMyv14ZMf
+  identifier: serviceSWMyv14ZMf
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

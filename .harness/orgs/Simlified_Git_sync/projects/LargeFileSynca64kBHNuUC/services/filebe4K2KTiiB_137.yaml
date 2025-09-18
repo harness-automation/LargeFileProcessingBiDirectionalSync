@@ -1,0 +1,8 @@
+service:
+  name: serviceLdSOX7txgO
+  identifier: serviceLdSOX7txgO
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

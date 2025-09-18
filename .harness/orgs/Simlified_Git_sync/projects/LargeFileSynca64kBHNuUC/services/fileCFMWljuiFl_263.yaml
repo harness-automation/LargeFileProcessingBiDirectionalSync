@@ -1,0 +1,8 @@
+service:
+  name: serviceNkN27fulLm
+  identifier: serviceNkN27fulLm
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

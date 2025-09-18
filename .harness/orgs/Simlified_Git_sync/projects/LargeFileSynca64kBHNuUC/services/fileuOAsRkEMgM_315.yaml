@@ -1,0 +1,8 @@
+service:
+  name: serviceNbNE2AgtiU
+  identifier: serviceNbNE2AgtiU
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

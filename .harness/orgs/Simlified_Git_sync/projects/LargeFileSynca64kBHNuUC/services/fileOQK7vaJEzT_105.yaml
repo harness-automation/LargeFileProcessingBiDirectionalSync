@@ -1,0 +1,8 @@
+service:
+  name: serviceS56guAntnc
+  identifier: serviceS56guAntnc
+  projectIdentifier: LargeFileSynca64kBHNuUC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
