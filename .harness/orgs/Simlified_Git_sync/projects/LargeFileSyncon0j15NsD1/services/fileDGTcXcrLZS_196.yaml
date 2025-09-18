@@ -1,0 +1,8 @@
+service:
+  name: serviceHEXnYtoGMG
+  identifier: serviceHEXnYtoGMG
+  projectIdentifier: LargeFileSyncon0j15NsD1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

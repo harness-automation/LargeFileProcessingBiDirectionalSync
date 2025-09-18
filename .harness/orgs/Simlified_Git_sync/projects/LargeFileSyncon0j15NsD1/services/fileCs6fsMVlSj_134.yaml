@@ -1,0 +1,8 @@
+service:
+  name: serviceygva4RpiFC
+  identifier: serviceygva4RpiFC
+  projectIdentifier: LargeFileSyncon0j15NsD1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

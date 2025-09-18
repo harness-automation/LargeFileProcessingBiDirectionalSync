@@ -1,0 +1,8 @@
+service:
+  name: serviceGDLeD0v4ny
+  identifier: serviceGDLeD0v4ny
+  projectIdentifier: LargeFileSyncon0j15NsD1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

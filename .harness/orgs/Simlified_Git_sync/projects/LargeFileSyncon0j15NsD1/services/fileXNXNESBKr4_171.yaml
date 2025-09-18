@@ -1,0 +1,8 @@
+service:
+  name: serviceTS6tHSET52
+  identifier: serviceTS6tHSET52
+  projectIdentifier: LargeFileSyncon0j15NsD1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

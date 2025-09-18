@@ -1,0 +1,8 @@
+service:
+  name: servicerFNOTWO6R1
+  identifier: servicerFNOTWO6R1
+  projectIdentifier: LargeFileSyncon0j15NsD1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

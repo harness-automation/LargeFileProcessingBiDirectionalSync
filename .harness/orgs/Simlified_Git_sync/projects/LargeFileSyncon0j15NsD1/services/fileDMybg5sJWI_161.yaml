@@ -1,0 +1,8 @@
+service:
+  name: serviceRnmGFkN1E4
+  identifier: serviceRnmGFkN1E4
+  projectIdentifier: LargeFileSyncon0j15NsD1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
