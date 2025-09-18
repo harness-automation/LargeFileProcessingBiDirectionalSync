@@ -1,0 +1,8 @@
+service:
+  name: serviceTClFASBZMX
+  identifier: serviceTClFASBZMX
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

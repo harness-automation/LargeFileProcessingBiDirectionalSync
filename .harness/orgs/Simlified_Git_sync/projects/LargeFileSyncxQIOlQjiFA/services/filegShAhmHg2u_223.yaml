@@ -1,0 +1,8 @@
+service:
+  name: serviceSefoz8VPap
+  identifier: serviceSefoz8VPap
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service17LtKisSGU
+  identifier: service17LtKisSGU
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

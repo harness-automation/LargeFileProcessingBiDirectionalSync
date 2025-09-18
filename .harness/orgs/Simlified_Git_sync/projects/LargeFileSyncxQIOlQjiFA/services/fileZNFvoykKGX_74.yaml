@@ -1,0 +1,8 @@
+service:
+  name: serviceEybLUID3V5
+  identifier: serviceEybLUID3V5
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

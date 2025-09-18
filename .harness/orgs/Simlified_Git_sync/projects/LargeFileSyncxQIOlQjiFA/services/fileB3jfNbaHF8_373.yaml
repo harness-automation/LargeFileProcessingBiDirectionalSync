@@ -1,0 +1,8 @@
+service:
+  name: service3980FrKNE4
+  identifier: service3980FrKNE4
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

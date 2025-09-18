@@ -1,0 +1,8 @@
+service:
+  name: serviceQPR4FF7meu
+  identifier: serviceQPR4FF7meu
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

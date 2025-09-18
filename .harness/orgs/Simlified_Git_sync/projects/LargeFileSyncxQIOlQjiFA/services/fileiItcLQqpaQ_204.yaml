@@ -1,0 +1,8 @@
+service:
+  name: serviceYNm0RC2RKa
+  identifier: serviceYNm0RC2RKa
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

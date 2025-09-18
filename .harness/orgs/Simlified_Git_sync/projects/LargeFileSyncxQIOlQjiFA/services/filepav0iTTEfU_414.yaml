@@ -1,0 +1,8 @@
+service:
+  name: serviceRBaQCiRER4
+  identifier: serviceRBaQCiRER4
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

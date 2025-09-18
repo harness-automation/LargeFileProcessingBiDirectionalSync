@@ -1,0 +1,8 @@
+service:
+  name: serviceFMDnFt566c
+  identifier: serviceFMDnFt566c
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

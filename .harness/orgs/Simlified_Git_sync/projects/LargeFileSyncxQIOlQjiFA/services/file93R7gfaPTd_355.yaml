@@ -1,0 +1,8 @@
+service:
+  name: serviceORO002t9Mv
+  identifier: serviceORO002t9Mv
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

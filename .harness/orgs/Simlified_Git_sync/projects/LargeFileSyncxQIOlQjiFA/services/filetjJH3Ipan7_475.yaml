@@ -1,0 +1,8 @@
+service:
+  name: serviceAMdRFYqods
+  identifier: serviceAMdRFYqods
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

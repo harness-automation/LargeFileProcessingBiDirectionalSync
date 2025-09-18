@@ -1,0 +1,8 @@
+service:
+  name: serviceTV1ApTta2o
+  identifier: serviceTV1ApTta2o
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

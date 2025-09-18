@@ -1,0 +1,8 @@
+service:
+  name: servicexJAL40gZRR
+  identifier: servicexJAL40gZRR
+  projectIdentifier: LargeFileSyncxQIOlQjiFA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
