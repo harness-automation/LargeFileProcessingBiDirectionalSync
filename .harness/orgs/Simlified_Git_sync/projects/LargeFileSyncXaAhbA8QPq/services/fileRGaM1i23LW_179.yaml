@@ -1,0 +1,8 @@
+service:
+  name: serviceSLEDhoU2cA
+  identifier: serviceSLEDhoU2cA
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

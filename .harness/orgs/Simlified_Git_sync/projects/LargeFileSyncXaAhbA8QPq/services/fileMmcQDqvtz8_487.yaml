@@ -1,0 +1,8 @@
+service:
+  name: serviceFQ38A4FpWi
+  identifier: serviceFQ38A4FpWi
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

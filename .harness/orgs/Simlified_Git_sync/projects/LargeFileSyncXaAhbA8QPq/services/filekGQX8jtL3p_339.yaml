@@ -1,0 +1,8 @@
+service:
+  name: servicerek1YaBKMC
+  identifier: servicerek1YaBKMC
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

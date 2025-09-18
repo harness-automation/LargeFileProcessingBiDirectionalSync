@@ -1,0 +1,8 @@
+service:
+  name: serviceGyu92ICGPV
+  identifier: serviceGyu92ICGPV
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

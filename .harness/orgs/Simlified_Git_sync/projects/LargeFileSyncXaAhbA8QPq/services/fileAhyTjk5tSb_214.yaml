@@ -1,0 +1,8 @@
+service:
+  name: servicecpiTHrHm5b
+  identifier: servicecpiTHrHm5b
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

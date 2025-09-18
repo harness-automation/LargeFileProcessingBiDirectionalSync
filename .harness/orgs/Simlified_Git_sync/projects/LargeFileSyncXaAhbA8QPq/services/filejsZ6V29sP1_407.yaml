@@ -1,0 +1,8 @@
+service:
+  name: serviceGZ4YabAdp5
+  identifier: serviceGZ4YabAdp5
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

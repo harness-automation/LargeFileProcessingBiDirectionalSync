@@ -1,0 +1,8 @@
+service:
+  name: serviceNcmib4OK5d
+  identifier: serviceNcmib4OK5d
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

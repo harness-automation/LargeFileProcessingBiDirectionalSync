@@ -1,0 +1,8 @@
+service:
+  name: servicePXPKmx7RP3
+  identifier: servicePXPKmx7RP3
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

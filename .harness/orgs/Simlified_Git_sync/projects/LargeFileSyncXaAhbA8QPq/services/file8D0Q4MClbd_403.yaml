@@ -1,0 +1,8 @@
+service:
+  name: serviceiqxCf40Moc
+  identifier: serviceiqxCf40Moc
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

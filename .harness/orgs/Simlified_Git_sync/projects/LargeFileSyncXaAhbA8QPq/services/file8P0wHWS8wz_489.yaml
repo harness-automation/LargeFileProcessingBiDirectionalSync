@@ -1,0 +1,8 @@
+service:
+  name: serviceCr66MBbNCO
+  identifier: serviceCr66MBbNCO
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

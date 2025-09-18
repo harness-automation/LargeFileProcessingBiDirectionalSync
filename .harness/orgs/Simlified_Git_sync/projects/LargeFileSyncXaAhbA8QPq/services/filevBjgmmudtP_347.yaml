@@ -1,0 +1,8 @@
+service:
+  name: servicen58Gu226g1
+  identifier: servicen58Gu226g1
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

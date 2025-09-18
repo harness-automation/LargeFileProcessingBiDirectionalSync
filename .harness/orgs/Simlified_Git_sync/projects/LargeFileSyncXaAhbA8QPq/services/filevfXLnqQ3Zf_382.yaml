@@ -1,0 +1,8 @@
+service:
+  name: serviceMSLFDV8U67
+  identifier: serviceMSLFDV8U67
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

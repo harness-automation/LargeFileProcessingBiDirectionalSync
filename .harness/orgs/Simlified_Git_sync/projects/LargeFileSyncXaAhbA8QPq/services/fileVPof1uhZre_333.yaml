@@ -1,0 +1,8 @@
+service:
+  name: servicerjNETyDRU5
+  identifier: servicerjNETyDRU5
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

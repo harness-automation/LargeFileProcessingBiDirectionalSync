@@ -1,0 +1,8 @@
+service:
+  name: serviceM40xNUIG1i
+  identifier: serviceM40xNUIG1i
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

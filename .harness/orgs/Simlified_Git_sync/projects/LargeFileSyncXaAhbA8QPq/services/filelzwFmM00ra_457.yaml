@@ -1,0 +1,8 @@
+service:
+  name: servicesCVC23nNot
+  identifier: servicesCVC23nNot
+  projectIdentifier: LargeFileSyncXaAhbA8QPq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
