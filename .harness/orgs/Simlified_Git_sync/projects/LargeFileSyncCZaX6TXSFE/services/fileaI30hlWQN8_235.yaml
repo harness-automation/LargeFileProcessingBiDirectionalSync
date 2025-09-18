@@ -1,0 +1,8 @@
+service:
+  name: service9X84UENtaa
+  identifier: service9X84UENtaa
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

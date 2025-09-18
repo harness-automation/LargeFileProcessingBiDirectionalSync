@@ -1,0 +1,8 @@
+service:
+  name: servicen4VCGhGESN
+  identifier: servicen4VCGhGESN
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service0Nbs40se95
+  identifier: service0Nbs40se95
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

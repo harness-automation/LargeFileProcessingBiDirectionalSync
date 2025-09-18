@@ -1,0 +1,8 @@
+service:
+  name: serviceF3ROk5lOaS
+  identifier: serviceF3ROk5lOaS
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

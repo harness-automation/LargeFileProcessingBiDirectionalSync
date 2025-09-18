@@ -1,0 +1,8 @@
+service:
+  name: serviceTJ2dc03BJA
+  identifier: serviceTJ2dc03BJA
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

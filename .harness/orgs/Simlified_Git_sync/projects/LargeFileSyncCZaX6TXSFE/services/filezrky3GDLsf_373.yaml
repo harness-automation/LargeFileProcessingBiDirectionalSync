@@ -1,0 +1,8 @@
+service:
+  name: serviceBhohaQ5muI
+  identifier: serviceBhohaQ5muI
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

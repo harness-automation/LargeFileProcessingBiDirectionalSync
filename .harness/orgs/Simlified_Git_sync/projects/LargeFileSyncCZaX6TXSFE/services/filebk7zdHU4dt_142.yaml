@@ -1,0 +1,8 @@
+service:
+  name: serviceLvlXoAGpo4
+  identifier: serviceLvlXoAGpo4
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

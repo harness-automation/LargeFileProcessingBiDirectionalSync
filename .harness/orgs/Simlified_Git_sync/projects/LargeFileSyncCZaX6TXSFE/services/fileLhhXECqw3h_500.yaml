@@ -1,0 +1,8 @@
+service:
+  name: servicem4PSZ20nhU
+  identifier: servicem4PSZ20nhU
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

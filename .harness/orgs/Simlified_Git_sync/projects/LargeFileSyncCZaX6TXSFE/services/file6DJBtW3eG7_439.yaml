@@ -1,0 +1,8 @@
+service:
+  name: serviceIhbV8pusEb
+  identifier: serviceIhbV8pusEb
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

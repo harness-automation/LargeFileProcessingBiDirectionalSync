@@ -1,0 +1,8 @@
+service:
+  name: servicepubNb0hR3g
+  identifier: servicepubNb0hR3g
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

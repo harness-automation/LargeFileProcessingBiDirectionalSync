@@ -1,0 +1,8 @@
+service:
+  name: serviceNec4WRM2QR
+  identifier: serviceNec4WRM2QR
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

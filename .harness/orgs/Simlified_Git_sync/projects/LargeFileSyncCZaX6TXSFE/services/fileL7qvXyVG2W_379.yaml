@@ -1,0 +1,8 @@
+service:
+  name: serviceNC48zZ2Qgo
+  identifier: serviceNC48zZ2Qgo
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

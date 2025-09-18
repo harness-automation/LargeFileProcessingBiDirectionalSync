@@ -1,0 +1,8 @@
+service:
+  name: servicee338750mnf
+  identifier: servicee338750mnf
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

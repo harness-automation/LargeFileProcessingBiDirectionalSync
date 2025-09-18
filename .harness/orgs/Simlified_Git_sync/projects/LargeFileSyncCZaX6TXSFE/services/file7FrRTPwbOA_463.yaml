@@ -1,0 +1,8 @@
+service:
+  name: servicexVEioPReU2
+  identifier: servicexVEioPReU2
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

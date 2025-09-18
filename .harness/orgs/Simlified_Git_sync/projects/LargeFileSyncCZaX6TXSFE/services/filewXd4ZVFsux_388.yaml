@@ -1,0 +1,8 @@
+service:
+  name: servicejEOPD4uxAB
+  identifier: servicejEOPD4uxAB
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

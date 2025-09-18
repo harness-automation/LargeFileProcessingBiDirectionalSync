@@ -1,0 +1,8 @@
+service:
+  name: service9RbyNcUErv
+  identifier: service9RbyNcUErv
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

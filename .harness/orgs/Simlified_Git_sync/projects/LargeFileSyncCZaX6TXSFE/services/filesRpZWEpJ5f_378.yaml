@@ -1,0 +1,8 @@
+service:
+  name: servicekMSys3VRS2
+  identifier: servicekMSys3VRS2
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceJEp2QOILXK
+  identifier: serviceJEp2QOILXK
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

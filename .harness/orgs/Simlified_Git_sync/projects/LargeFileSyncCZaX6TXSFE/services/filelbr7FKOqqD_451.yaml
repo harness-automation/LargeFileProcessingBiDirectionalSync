@@ -1,0 +1,8 @@
+service:
+  name: serviceDMDoEwF2SV
+  identifier: serviceDMDoEwF2SV
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

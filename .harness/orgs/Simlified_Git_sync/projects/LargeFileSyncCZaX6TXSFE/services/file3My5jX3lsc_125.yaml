@@ -1,0 +1,8 @@
+service:
+  name: serviceVNYgnPVaWx
+  identifier: serviceVNYgnPVaWx
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

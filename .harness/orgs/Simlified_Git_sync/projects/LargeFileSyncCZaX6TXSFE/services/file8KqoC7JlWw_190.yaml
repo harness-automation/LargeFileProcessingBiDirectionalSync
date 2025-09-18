@@ -1,0 +1,8 @@
+service:
+  name: serviceNgl54Hs1Da
+  identifier: serviceNgl54Hs1Da
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

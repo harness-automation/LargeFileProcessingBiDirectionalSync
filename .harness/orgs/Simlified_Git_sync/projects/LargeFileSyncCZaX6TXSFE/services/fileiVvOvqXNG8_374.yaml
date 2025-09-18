@@ -1,0 +1,8 @@
+service:
+  name: serviceMt2KaZZol6
+  identifier: serviceMt2KaZZol6
+  projectIdentifier: LargeFileSyncCZaX6TXSFE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
