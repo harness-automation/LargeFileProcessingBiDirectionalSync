@@ -1,0 +1,8 @@
+service:
+  name: serviceOPIRG4Iphx
+  identifier: serviceOPIRG4Iphx
+  projectIdentifier: LargeFileSynctb6oMk8DfH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

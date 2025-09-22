@@ -1,0 +1,8 @@
+service:
+  name: serviceACsvMv5WZM
+  identifier: serviceACsvMv5WZM
+  projectIdentifier: LargeFileSynctb6oMk8DfH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceNGxMp8rlml
+  identifier: serviceNGxMp8rlml
+  projectIdentifier: LargeFileSynctb6oMk8DfH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

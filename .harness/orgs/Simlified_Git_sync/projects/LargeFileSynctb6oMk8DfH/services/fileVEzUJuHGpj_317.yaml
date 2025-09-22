@@ -1,0 +1,8 @@
+service:
+  name: serviceITxQM2odic
+  identifier: serviceITxQM2odic
+  projectIdentifier: LargeFileSynctb6oMk8DfH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
