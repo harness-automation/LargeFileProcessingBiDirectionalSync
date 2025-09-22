@@ -1,0 +1,8 @@
+service:
+  name: service71VuZRLvEL
+  identifier: service71VuZRLvEL
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

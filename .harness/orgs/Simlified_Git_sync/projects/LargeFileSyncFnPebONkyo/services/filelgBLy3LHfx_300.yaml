@@ -1,0 +1,8 @@
+service:
+  name: serviceKhiOC87w0W
+  identifier: serviceKhiOC87w0W
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

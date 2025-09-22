@@ -1,0 +1,8 @@
+service:
+  name: serviceFbWCTge6WG
+  identifier: serviceFbWCTge6WG
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

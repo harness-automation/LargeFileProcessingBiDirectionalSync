@@ -1,0 +1,8 @@
+service:
+  name: serviceEfes3qyDF4
+  identifier: serviceEfes3qyDF4
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

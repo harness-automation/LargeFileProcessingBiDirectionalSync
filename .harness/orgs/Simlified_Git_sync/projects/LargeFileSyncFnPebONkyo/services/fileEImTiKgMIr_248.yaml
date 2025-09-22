@@ -1,0 +1,8 @@
+service:
+  name: servicer3MYJBu8LS
+  identifier: servicer3MYJBu8LS
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

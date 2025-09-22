@@ -1,0 +1,8 @@
+service:
+  name: serviceebuLV3oXPz
+  identifier: serviceebuLV3oXPz
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

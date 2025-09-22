@@ -1,0 +1,8 @@
+service:
+  name: servicekEWI24N7hh
+  identifier: servicekEWI24N7hh
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

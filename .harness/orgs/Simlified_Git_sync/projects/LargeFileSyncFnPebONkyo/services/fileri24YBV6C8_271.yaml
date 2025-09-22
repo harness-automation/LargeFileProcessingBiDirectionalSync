@@ -1,0 +1,8 @@
+service:
+  name: serviceRCmnpajo8y
+  identifier: serviceRCmnpajo8y
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicegV695RMiOm
+  identifier: servicegV695RMiOm
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service6fk4CWDHCm
+  identifier: service6fk4CWDHCm
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

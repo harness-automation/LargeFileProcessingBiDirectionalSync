@@ -1,0 +1,8 @@
+service:
+  name: serviceEPU68gL6ge
+  identifier: serviceEPU68gL6ge
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

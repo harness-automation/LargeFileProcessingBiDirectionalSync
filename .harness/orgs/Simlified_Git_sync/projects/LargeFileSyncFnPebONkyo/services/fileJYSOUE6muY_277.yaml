@@ -1,0 +1,8 @@
+service:
+  name: serviceVImzkr05Z8
+  identifier: serviceVImzkr05Z8
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

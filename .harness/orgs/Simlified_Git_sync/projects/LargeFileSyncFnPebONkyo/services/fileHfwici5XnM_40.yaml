@@ -1,0 +1,8 @@
+service:
+  name: serviceiz7OxiAM8j
+  identifier: serviceiz7OxiAM8j
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

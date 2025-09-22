@@ -1,0 +1,8 @@
+service:
+  name: serviceBdVR6qPaMq
+  identifier: serviceBdVR6qPaMq
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

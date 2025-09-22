@@ -1,0 +1,8 @@
+service:
+  name: servicepGirOt180a
+  identifier: servicepGirOt180a
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

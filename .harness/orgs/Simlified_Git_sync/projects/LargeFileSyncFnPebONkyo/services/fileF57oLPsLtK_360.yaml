@@ -1,0 +1,8 @@
+service:
+  name: servicevCXQROhRRG
+  identifier: servicevCXQROhRRG
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

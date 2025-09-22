@@ -1,0 +1,8 @@
+service:
+  name: serviceJH8Nt24PSA
+  identifier: serviceJH8Nt24PSA
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

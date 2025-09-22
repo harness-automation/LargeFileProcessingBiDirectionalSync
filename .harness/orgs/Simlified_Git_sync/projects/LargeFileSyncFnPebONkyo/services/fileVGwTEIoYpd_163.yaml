@@ -1,0 +1,8 @@
+service:
+  name: serviceNDoMG5JJRM
+  identifier: serviceNDoMG5JJRM
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

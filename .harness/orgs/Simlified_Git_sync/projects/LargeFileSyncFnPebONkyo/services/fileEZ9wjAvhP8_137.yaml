@@ -1,0 +1,8 @@
+service:
+  name: serviceTv0IVSa60G
+  identifier: serviceTv0IVSa60G
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

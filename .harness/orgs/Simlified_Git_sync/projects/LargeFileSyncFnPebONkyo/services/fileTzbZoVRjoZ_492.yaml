@@ -1,0 +1,8 @@
+service:
+  name: servicezp503votk0
+  identifier: servicezp503votk0
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

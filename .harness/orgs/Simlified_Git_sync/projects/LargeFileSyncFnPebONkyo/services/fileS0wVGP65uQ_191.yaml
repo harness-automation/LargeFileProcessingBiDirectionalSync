@@ -1,0 +1,8 @@
+service:
+  name: serviceM24qftvmnS
+  identifier: serviceM24qftvmnS
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

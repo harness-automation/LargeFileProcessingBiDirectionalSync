@@ -1,0 +1,8 @@
+service:
+  name: serviceRk32FZ6yWr
+  identifier: serviceRk32FZ6yWr
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

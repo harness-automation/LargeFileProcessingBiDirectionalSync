@@ -1,0 +1,8 @@
+service:
+  name: serviceTM1T3BqnLo
+  identifier: serviceTM1T3BqnLo
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

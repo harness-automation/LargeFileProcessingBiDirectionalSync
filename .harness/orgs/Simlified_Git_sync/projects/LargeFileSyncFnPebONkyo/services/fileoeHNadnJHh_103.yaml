@@ -1,0 +1,8 @@
+service:
+  name: servicevMnd60Vn7E
+  identifier: servicevMnd60Vn7E
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

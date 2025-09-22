@@ -1,0 +1,8 @@
+service:
+  name: serviceYuub1CTBfM
+  identifier: serviceYuub1CTBfM
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

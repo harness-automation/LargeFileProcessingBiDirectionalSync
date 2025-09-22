@@ -1,0 +1,8 @@
+service:
+  name: serviceCcY9HWsPv9
+  identifier: serviceCcY9HWsPv9
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

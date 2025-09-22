@@ -1,0 +1,8 @@
+service:
+  name: serviceM9rrrCRtp4
+  identifier: serviceM9rrrCRtp4
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

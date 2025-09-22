@@ -1,0 +1,8 @@
+service:
+  name: serviceUIV2Jb78Zt
+  identifier: serviceUIV2Jb78Zt
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

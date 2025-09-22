@@ -1,0 +1,8 @@
+service:
+  name: servicejltCN80AfC
+  identifier: servicejltCN80AfC
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

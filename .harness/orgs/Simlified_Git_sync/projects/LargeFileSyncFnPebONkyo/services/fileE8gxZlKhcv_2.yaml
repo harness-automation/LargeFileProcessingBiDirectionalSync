@@ -1,0 +1,8 @@
+service:
+  name: serviceOICk1baTOO
+  identifier: serviceOICk1baTOO
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

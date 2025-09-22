@@ -1,0 +1,8 @@
+service:
+  name: servicekkeNF4zYOA
+  identifier: servicekkeNF4zYOA
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

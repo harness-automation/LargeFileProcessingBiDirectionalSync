@@ -1,0 +1,8 @@
+service:
+  name: serviceFBMPrFzaAP
+  identifier: serviceFBMPrFzaAP
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

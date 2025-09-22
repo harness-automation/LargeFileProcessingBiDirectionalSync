@@ -1,0 +1,8 @@
+service:
+  name: serviceRnfCAN6hc0
+  identifier: serviceRnfCAN6hc0
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

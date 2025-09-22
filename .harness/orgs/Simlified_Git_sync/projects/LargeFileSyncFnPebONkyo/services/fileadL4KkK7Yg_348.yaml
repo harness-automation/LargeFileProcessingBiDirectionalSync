@@ -1,0 +1,8 @@
+service:
+  name: serviceI2TmP3BAiR
+  identifier: serviceI2TmP3BAiR
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

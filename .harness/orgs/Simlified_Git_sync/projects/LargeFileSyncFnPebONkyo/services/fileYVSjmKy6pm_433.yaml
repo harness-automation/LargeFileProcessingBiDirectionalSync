@@ -1,0 +1,8 @@
+service:
+  name: serviceEDTA0d0eTk
+  identifier: serviceEDTA0d0eTk
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service8PPsES3BsR
+  identifier: service8PPsES3BsR
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

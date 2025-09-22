@@ -1,0 +1,8 @@
+service:
+  name: serviceE2xLD7BCcj
+  identifier: serviceE2xLD7BCcj
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

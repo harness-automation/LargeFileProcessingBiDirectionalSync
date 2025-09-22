@@ -1,0 +1,8 @@
+service:
+  name: serviceQjNX3AbRCK
+  identifier: serviceQjNX3AbRCK
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

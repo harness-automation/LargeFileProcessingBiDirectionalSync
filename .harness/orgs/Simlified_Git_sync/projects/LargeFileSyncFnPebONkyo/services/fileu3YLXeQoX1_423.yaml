@@ -1,0 +1,8 @@
+service:
+  name: serviceD4Zxarpy81
+  identifier: serviceD4Zxarpy81
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

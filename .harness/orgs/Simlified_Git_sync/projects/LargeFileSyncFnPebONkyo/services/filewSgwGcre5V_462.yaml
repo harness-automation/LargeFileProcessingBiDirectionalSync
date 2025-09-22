@@ -1,0 +1,8 @@
+service:
+  name: serviceVGxLNBbRIt
+  identifier: serviceVGxLNBbRIt
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

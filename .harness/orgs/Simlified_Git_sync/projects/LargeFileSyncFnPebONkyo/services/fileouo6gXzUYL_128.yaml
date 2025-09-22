@@ -1,0 +1,8 @@
+service:
+  name: servicehm95uF81LX
+  identifier: servicehm95uF81LX
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

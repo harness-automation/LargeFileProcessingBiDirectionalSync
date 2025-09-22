@@ -1,0 +1,8 @@
+service:
+  name: servicesen90ZXnmn
+  identifier: servicesen90ZXnmn
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

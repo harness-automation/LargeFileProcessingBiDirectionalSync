@@ -1,0 +1,8 @@
+service:
+  name: serviceticujKfrox
+  identifier: serviceticujKfrox
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

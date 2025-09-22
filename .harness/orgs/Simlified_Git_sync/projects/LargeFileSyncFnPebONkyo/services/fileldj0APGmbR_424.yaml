@@ -1,0 +1,8 @@
+service:
+  name: serviceVdjEpGN8UC
+  identifier: serviceVdjEpGN8UC
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

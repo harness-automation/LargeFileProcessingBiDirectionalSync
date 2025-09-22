@@ -1,0 +1,8 @@
+service:
+  name: servicekKK19RFOJa
+  identifier: servicekKK19RFOJa
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

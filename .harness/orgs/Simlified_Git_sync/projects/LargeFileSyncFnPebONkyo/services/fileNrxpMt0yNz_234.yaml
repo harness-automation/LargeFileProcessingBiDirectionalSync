@@ -1,0 +1,8 @@
+service:
+  name: serviceiu3768QXen
+  identifier: serviceiu3768QXen
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

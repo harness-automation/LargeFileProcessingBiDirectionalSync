@@ -1,0 +1,8 @@
+service:
+  name: serviceUPH3i4a81X
+  identifier: serviceUPH3i4a81X
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

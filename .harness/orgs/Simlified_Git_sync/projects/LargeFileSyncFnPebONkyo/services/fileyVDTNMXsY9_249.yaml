@@ -1,0 +1,8 @@
+service:
+  name: serviceAAJv4NO34V
+  identifier: serviceAAJv4NO34V
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

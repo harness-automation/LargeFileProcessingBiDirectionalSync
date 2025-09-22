@@ -1,0 +1,8 @@
+service:
+  name: serviceez4971SESE
+  identifier: serviceez4971SESE
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

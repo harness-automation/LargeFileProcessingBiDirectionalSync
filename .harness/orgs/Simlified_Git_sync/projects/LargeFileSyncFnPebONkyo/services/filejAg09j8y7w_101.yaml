@@ -1,0 +1,8 @@
+service:
+  name: servicePlDTaHk1kd
+  identifier: servicePlDTaHk1kd
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

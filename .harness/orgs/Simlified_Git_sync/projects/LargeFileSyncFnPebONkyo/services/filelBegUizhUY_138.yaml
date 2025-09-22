@@ -1,0 +1,8 @@
+service:
+  name: servicepKXjNet2TU
+  identifier: servicepKXjNet2TU
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicetyIGArL0rP
+  identifier: servicetyIGArL0rP
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceRvUEFBuK4P
+  identifier: serviceRvUEFBuK4P
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

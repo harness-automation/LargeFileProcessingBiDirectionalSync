@@ -1,0 +1,8 @@
+service:
+  name: servicePLeR6CQpiB
+  identifier: servicePLeR6CQpiB
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

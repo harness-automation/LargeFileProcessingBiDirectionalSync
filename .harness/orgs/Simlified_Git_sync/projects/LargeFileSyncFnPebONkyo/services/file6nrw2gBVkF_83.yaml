@@ -1,0 +1,8 @@
+service:
+  name: serviceoLv0IMkcu4
+  identifier: serviceoLv0IMkcu4
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

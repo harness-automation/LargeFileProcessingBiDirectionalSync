@@ -1,0 +1,8 @@
+service:
+  name: serviceT74ejQ94OI
+  identifier: serviceT74ejQ94OI
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

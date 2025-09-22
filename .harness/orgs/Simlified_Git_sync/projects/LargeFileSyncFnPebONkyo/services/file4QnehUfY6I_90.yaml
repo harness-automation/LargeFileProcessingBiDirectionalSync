@@ -1,0 +1,8 @@
+service:
+  name: servicevCh2uEntgh
+  identifier: servicevCh2uEntgh
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

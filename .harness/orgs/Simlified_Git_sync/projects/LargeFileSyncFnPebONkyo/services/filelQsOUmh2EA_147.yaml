@@ -1,0 +1,8 @@
+service:
+  name: serviceVoGpHjmSg2
+  identifier: serviceVoGpHjmSg2
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAZ2PDHx0SI
+  identifier: serviceAZ2PDHx0SI
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

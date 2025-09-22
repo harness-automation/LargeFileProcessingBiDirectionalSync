@@ -1,0 +1,8 @@
+service:
+  name: servicem88RYqjjc2
+  identifier: servicem88RYqjjc2
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

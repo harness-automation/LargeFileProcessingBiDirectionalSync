@@ -1,0 +1,8 @@
+service:
+  name: serviceXx3dON1Mx1
+  identifier: serviceXx3dON1Mx1
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

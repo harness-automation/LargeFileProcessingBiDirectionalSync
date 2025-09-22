@@ -1,0 +1,8 @@
+service:
+  name: serviceXUf2tsfs1l
+  identifier: serviceXUf2tsfs1l
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

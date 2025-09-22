@@ -1,0 +1,8 @@
+service:
+  name: servicea0HOJuqads
+  identifier: servicea0HOJuqads
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

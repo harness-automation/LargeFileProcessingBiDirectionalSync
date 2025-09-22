@@ -1,0 +1,8 @@
+service:
+  name: serviceYA6ANybS5i
+  identifier: serviceYA6ANybS5i
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

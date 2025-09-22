@@ -1,0 +1,8 @@
+service:
+  name: serviceLfystBapxb
+  identifier: serviceLfystBapxb
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

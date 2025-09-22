@@ -1,0 +1,8 @@
+service:
+  name: servicemDV4BVESTe
+  identifier: servicemDV4BVESTe
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

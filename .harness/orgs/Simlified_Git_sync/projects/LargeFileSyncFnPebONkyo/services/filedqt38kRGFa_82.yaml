@@ -1,0 +1,8 @@
+service:
+  name: servicens1t72wHX3
+  identifier: servicens1t72wHX3
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service2OgdRDdPHE
+  identifier: service2OgdRDdPHE
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

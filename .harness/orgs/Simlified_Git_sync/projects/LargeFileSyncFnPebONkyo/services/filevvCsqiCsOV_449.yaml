@@ -1,0 +1,8 @@
+service:
+  name: serviceLVbamqLR1b
+  identifier: serviceLVbamqLR1b
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

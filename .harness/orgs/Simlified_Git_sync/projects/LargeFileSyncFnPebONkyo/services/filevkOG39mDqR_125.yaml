@@ -1,0 +1,8 @@
+service:
+  name: serviceHQ82hI2HAX
+  identifier: serviceHQ82hI2HAX
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

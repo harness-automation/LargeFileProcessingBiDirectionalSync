@@ -1,0 +1,8 @@
+service:
+  name: service23PmLLm4kh
+  identifier: service23PmLLm4kh
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

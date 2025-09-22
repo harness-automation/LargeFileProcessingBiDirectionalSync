@@ -1,0 +1,8 @@
+service:
+  name: servicedzmGT90tsu
+  identifier: servicedzmGT90tsu
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

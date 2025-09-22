@@ -1,0 +1,8 @@
+service:
+  name: servicefl172p6dLM
+  identifier: servicefl172p6dLM
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

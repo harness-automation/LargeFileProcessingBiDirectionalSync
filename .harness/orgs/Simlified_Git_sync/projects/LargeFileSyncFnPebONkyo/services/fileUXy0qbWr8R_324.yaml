@@ -1,0 +1,8 @@
+service:
+  name: serviceeyAXfBry2E
+  identifier: serviceeyAXfBry2E
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

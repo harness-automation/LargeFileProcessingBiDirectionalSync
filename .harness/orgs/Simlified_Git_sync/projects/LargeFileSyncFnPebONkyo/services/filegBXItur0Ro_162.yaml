@@ -1,0 +1,8 @@
+service:
+  name: serviceZ8EkDg1hrS
+  identifier: serviceZ8EkDg1hrS
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceB8w99IRQaP
+  identifier: serviceB8w99IRQaP
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

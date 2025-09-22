@@ -1,0 +1,8 @@
+service:
+  name: servicec9fxNFEPBT
+  identifier: servicec9fxNFEPBT
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceC2SjsMKaD2
+  identifier: serviceC2SjsMKaD2
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

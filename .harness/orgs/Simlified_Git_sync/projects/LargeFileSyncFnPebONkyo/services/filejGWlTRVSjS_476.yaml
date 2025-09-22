@@ -1,0 +1,8 @@
+service:
+  name: servicehrJ7CR7R8T
+  identifier: servicehrJ7CR7R8T
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

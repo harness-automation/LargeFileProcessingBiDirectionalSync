@@ -1,0 +1,8 @@
+service:
+  name: serviceDyiYA62HLA
+  identifier: serviceDyiYA62HLA
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

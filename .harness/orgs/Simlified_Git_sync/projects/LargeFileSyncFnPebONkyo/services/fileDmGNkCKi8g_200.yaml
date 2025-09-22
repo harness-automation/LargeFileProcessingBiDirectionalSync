@@ -1,0 +1,8 @@
+service:
+  name: serviceMFwzO71L3x
+  identifier: serviceMFwzO71L3x
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

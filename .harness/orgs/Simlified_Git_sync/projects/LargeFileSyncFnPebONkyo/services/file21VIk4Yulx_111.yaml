@@ -1,0 +1,8 @@
+service:
+  name: servicefGtf4scthz
+  identifier: servicefGtf4scthz
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

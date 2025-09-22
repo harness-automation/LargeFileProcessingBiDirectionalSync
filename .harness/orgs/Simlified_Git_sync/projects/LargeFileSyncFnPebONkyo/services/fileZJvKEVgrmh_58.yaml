@@ -1,0 +1,8 @@
+service:
+  name: serviceMeihK8iLSV
+  identifier: serviceMeihK8iLSV
+  projectIdentifier: LargeFileSyncFnPebONkyo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
