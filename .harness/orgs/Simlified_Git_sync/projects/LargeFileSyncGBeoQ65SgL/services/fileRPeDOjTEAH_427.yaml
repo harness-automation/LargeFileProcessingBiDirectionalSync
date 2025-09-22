@@ -1,0 +1,8 @@
+service:
+  name: serviceiq2X84eEV5
+  identifier: serviceiq2X84eEV5
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicebtQ8Sp6Fsu
+  identifier: servicebtQ8Sp6Fsu
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

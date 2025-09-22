@@ -1,0 +1,8 @@
+service:
+  name: serviceD589ctbTdH
+  identifier: serviceD589ctbTdH
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

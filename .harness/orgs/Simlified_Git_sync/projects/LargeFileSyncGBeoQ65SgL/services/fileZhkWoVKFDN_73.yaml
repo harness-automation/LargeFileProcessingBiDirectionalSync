@@ -1,0 +1,8 @@
+service:
+  name: servicehmYSeTFlb0
+  identifier: servicehmYSeTFlb0
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

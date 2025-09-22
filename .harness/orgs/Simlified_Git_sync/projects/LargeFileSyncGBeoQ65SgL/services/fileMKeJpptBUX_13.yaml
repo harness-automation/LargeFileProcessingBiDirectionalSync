@@ -1,0 +1,8 @@
+service:
+  name: serviceVDCZIwh5a2
+  identifier: serviceVDCZIwh5a2
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

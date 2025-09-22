@@ -1,0 +1,8 @@
+service:
+  name: serviceuiaNcMir06
+  identifier: serviceuiaNcMir06
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

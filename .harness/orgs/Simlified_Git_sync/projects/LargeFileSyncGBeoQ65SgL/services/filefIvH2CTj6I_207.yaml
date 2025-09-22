@@ -1,0 +1,8 @@
+service:
+  name: serviceXeFLes1jN1
+  identifier: serviceXeFLes1jN1
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

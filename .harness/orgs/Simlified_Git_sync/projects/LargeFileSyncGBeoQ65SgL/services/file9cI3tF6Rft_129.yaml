@@ -1,0 +1,8 @@
+service:
+  name: servicepaC42c5nS8
+  identifier: servicepaC42c5nS8
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

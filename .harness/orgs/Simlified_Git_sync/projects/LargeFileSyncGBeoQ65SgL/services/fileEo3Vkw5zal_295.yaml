@@ -1,0 +1,8 @@
+service:
+  name: serviceABDIeZi93N
+  identifier: serviceABDIeZi93N
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

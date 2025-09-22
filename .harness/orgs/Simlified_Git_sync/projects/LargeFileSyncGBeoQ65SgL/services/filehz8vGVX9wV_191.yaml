@@ -1,0 +1,8 @@
+service:
+  name: servicel521BgP0Gz
+  identifier: servicel521BgP0Gz
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

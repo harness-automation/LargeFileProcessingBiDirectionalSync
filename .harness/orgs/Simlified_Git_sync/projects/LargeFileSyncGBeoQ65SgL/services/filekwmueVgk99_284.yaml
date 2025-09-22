@@ -1,0 +1,8 @@
+service:
+  name: serviceRcf3LlvfBO
+  identifier: serviceRcf3LlvfBO
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

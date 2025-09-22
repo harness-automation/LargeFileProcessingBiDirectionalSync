@@ -1,0 +1,8 @@
+service:
+  name: serviceErphDx0Gus
+  identifier: serviceErphDx0Gus
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

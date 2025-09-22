@@ -1,0 +1,8 @@
+service:
+  name: serviceMI4NEwuBBA
+  identifier: serviceMI4NEwuBBA
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

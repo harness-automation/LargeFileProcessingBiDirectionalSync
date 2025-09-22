@@ -1,0 +1,8 @@
+service:
+  name: serviceRL98IGaL6Z
+  identifier: serviceRL98IGaL6Z
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

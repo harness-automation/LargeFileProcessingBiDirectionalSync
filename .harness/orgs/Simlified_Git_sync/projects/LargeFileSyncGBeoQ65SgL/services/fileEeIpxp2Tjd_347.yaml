@@ -1,0 +1,8 @@
+service:
+  name: serviceZbdbs6B4sP
+  identifier: serviceZbdbs6B4sP
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service6DZIY20ERd
+  identifier: service6DZIY20ERd
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

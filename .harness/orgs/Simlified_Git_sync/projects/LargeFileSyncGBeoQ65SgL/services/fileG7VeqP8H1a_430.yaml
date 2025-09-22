@@ -1,0 +1,8 @@
+service:
+  name: servicelul70SGT70
+  identifier: servicelul70SGT70
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

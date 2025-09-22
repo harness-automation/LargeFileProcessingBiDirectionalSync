@@ -1,0 +1,8 @@
+service:
+  name: serviceBQO2EkUaPn
+  identifier: serviceBQO2EkUaPn
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

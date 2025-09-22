@@ -1,0 +1,8 @@
+service:
+  name: servicewOdy0WiGEM
+  identifier: servicewOdy0WiGEM
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

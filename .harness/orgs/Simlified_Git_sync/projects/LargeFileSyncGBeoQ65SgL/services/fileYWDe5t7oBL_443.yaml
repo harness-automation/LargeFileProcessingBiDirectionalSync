@@ -1,0 +1,8 @@
+service:
+  name: servicer1CizSP3ot
+  identifier: servicer1CizSP3ot
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

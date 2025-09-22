@@ -1,0 +1,8 @@
+service:
+  name: serviceeBEClE0c1x
+  identifier: serviceeBEClE0c1x
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

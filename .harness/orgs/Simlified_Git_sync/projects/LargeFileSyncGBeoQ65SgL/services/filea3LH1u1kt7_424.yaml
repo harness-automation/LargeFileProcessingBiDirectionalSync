@@ -1,0 +1,8 @@
+service:
+  name: servicewcTppi1gpC
+  identifier: servicewcTppi1gpC
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

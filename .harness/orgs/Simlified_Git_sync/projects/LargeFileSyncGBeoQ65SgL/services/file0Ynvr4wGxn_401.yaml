@@ -1,0 +1,8 @@
+service:
+  name: serviceEOzSl46DSK
+  identifier: serviceEOzSl46DSK
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

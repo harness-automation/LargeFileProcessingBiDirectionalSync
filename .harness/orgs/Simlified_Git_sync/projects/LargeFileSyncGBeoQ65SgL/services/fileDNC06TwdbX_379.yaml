@@ -1,0 +1,8 @@
+service:
+  name: serviceiB5NjDw404
+  identifier: serviceiB5NjDw404
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

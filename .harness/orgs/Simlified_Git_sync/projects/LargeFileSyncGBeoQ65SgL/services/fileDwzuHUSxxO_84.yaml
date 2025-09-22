@@ -1,0 +1,8 @@
+service:
+  name: serviceMaVPoVDkm1
+  identifier: serviceMaVPoVDkm1
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceDJI5jPiMLo
+  identifier: serviceDJI5jPiMLo
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

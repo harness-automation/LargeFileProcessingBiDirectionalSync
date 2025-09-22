@@ -1,0 +1,8 @@
+service:
+  name: serviceDh70NPR1Nj
+  identifier: serviceDh70NPR1Nj
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

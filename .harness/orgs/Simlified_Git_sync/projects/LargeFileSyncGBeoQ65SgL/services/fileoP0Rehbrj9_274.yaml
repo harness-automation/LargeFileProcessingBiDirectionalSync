@@ -1,0 +1,8 @@
+service:
+  name: servicePmqt43mMZR
+  identifier: servicePmqt43mMZR
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicefRaa3534OD
+  identifier: servicefRaa3534OD
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

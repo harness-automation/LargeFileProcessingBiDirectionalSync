@@ -1,0 +1,8 @@
+service:
+  name: serviceLAo225eYn8
+  identifier: serviceLAo225eYn8
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

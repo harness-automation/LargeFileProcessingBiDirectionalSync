@@ -1,0 +1,8 @@
+service:
+  name: servicesRVDqKmbw3
+  identifier: servicesRVDqKmbw3
+  projectIdentifier: LargeFileSyncGBeoQ65SgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
