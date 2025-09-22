@@ -1,0 +1,8 @@
+service:
+  name: serviceVZaLNA6pj2
+  identifier: serviceVZaLNA6pj2
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

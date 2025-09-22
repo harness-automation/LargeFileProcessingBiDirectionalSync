@@ -1,0 +1,8 @@
+service:
+  name: servicedbvG91eluR
+  identifier: servicedbvG91eluR
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

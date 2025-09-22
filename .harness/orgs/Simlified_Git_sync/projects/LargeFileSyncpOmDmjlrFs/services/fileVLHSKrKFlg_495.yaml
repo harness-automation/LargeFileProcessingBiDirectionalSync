@@ -1,0 +1,8 @@
+service:
+  name: servicetlBx6ipv9d
+  identifier: servicetlBx6ipv9d
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

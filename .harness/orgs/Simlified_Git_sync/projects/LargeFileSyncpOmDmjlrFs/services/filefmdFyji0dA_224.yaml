@@ -1,0 +1,8 @@
+service:
+  name: serviceWalTE0eFBW
+  identifier: serviceWalTE0eFBW
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

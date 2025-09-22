@@ -1,0 +1,8 @@
+service:
+  name: service23glvIKa4F
+  identifier: service23glvIKa4F
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

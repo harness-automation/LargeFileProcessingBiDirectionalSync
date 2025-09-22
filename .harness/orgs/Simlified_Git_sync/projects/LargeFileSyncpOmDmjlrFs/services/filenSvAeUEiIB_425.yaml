@@ -1,0 +1,8 @@
+service:
+  name: servicexcSEANMRWm
+  identifier: servicexcSEANMRWm
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

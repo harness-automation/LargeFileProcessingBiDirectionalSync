@@ -1,0 +1,8 @@
+service:
+  name: serviceR3ROEAyUEp
+  identifier: serviceR3ROEAyUEp
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

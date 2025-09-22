@@ -1,0 +1,8 @@
+service:
+  name: servicePWi4gDKpuT
+  identifier: servicePWi4gDKpuT
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

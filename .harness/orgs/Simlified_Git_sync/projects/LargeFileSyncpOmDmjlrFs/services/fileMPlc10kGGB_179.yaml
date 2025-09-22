@@ -1,0 +1,8 @@
+service:
+  name: serviceiMpD1Qd2Km
+  identifier: serviceiMpD1Qd2Km
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceCtOv893Qut
+  identifier: serviceCtOv893Qut
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

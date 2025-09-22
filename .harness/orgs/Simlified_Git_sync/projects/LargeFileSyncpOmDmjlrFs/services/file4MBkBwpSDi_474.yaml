@@ -1,0 +1,8 @@
+service:
+  name: servicevmVbR5lgme
+  identifier: servicevmVbR5lgme
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

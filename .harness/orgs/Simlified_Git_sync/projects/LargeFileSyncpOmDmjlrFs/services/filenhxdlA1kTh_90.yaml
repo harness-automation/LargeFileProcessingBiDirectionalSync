@@ -1,0 +1,8 @@
+service:
+  name: servicezEfpNGD3b4
+  identifier: servicezEfpNGD3b4
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

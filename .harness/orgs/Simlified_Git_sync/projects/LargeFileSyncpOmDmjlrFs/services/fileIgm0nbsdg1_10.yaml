@@ -1,0 +1,8 @@
+service:
+  name: serviceXMNU1xVFD6
+  identifier: serviceXMNU1xVFD6
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceWS0cawN90D
+  identifier: serviceWS0cawN90D
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

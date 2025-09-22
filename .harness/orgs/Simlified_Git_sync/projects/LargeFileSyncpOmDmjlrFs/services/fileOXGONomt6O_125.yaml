@@ -1,0 +1,8 @@
+service:
+  name: serviceTflyjir6aD
+  identifier: serviceTflyjir6aD
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

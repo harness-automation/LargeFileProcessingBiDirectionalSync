@@ -1,0 +1,8 @@
+service:
+  name: serviceR24bLcpJsC
+  identifier: serviceR24bLcpJsC
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

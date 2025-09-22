@@ -1,0 +1,8 @@
+service:
+  name: servicewgai1dvoT4
+  identifier: servicewgai1dvoT4
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

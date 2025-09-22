@@ -1,0 +1,8 @@
+service:
+  name: serviceDThtPnfaz9
+  identifier: serviceDThtPnfaz9
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

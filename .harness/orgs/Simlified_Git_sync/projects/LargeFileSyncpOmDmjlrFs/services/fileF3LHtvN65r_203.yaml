@@ -1,0 +1,8 @@
+service:
+  name: serviceeqA7rgovio
+  identifier: serviceeqA7rgovio
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

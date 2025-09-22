@@ -1,0 +1,8 @@
+service:
+  name: serviceTmiXb7l60s
+  identifier: serviceTmiXb7l60s
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

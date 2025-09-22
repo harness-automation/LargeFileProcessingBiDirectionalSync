@@ -1,0 +1,8 @@
+service:
+  name: servicemdW2k38Pnr
+  identifier: servicemdW2k38Pnr
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

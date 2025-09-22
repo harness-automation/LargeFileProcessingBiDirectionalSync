@@ -1,0 +1,8 @@
+service:
+  name: serviceUnGc2kBoAZ
+  identifier: serviceUnGc2kBoAZ
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

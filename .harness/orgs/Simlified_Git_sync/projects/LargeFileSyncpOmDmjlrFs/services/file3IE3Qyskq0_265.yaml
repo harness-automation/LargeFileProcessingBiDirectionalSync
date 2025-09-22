@@ -1,0 +1,8 @@
+service:
+  name: serviceoMPdc6VK3K
+  identifier: serviceoMPdc6VK3K
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

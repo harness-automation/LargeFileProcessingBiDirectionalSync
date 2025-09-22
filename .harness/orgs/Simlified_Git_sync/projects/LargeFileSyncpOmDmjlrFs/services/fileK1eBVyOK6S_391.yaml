@@ -1,0 +1,8 @@
+service:
+  name: serviced2mKSOC1wu
+  identifier: serviced2mKSOC1wu
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service3agpda1Keh
+  identifier: service3agpda1Keh
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

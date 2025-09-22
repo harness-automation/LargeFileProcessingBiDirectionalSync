@@ -1,0 +1,8 @@
+service:
+  name: serviceBIW15Cr7lU
+  identifier: serviceBIW15Cr7lU
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

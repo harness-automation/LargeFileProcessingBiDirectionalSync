@@ -1,0 +1,8 @@
+service:
+  name: servicevClImdFSTZ
+  identifier: servicevClImdFSTZ
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

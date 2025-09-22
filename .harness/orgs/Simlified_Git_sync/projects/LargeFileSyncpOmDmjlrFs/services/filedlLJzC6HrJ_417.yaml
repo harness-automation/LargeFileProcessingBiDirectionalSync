@@ -1,0 +1,8 @@
+service:
+  name: serviceKZ8lTAvPAS
+  identifier: serviceKZ8lTAvPAS
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

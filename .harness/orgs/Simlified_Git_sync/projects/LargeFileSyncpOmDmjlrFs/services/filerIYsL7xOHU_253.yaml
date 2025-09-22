@@ -1,0 +1,8 @@
+service:
+  name: serviceXE7lxCutvE
+  identifier: serviceXE7lxCutvE
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

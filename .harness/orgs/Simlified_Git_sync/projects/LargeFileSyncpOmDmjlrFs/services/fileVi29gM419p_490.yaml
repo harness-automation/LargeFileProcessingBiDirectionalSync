@@ -1,0 +1,8 @@
+service:
+  name: serviceci2Zluccs1
+  identifier: serviceci2Zluccs1
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

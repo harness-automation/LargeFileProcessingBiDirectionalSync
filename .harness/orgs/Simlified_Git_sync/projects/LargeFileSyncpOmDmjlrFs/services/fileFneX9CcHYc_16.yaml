@@ -1,0 +1,8 @@
+service:
+  name: serviceTkpCt2NdWv
+  identifier: serviceTkpCt2NdWv
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

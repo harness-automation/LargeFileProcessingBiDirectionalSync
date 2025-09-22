@@ -1,0 +1,8 @@
+service:
+  name: serviceQUaaziGVO6
+  identifier: serviceQUaaziGVO6
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

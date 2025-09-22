@@ -1,0 +1,8 @@
+service:
+  name: serviceipBUsve6Pq
+  identifier: serviceipBUsve6Pq
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceSVOfpLBv4W
+  identifier: serviceSVOfpLBv4W
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

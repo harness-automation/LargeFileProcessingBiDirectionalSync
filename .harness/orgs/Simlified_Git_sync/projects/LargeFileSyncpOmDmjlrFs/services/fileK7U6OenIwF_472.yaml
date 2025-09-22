@@ -1,0 +1,8 @@
+service:
+  name: serviceosCaSeam48
+  identifier: serviceosCaSeam48
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

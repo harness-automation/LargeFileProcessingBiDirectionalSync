@@ -1,0 +1,8 @@
+service:
+  name: serviceJS800eMoyw
+  identifier: serviceJS800eMoyw
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

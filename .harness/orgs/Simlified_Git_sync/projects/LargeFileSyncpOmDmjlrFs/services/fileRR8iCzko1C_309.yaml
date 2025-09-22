@@ -1,0 +1,8 @@
+service:
+  name: servicePPcw1C5aRX
+  identifier: servicePPcw1C5aRX
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicekdThy7pXMk
+  identifier: servicekdThy7pXMk
+  projectIdentifier: LargeFileSyncpOmDmjlrFs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
