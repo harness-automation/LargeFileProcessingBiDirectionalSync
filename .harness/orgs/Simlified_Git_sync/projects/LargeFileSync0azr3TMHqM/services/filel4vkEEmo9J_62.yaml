@@ -1,0 +1,8 @@
+service:
+  name: servicefRhoRRv0UI
+  identifier: servicefRhoRRv0UI
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

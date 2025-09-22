@@ -1,0 +1,8 @@
+service:
+  name: servicepoeCLdGn9B
+  identifier: servicepoeCLdGn9B
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

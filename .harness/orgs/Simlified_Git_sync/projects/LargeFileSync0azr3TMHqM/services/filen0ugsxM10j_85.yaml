@@ -1,0 +1,8 @@
+service:
+  name: serviceWk3842UIys
+  identifier: serviceWk3842UIys
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePtR862Ggfm
+  identifier: servicePtR862Ggfm
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

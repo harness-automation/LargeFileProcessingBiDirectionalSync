@@ -1,0 +1,8 @@
+service:
+  name: servicedRSNyn185L
+  identifier: servicedRSNyn185L
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

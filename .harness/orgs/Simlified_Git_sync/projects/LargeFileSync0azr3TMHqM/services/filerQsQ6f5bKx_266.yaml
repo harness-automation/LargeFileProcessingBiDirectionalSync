@@ -1,0 +1,8 @@
+service:
+  name: serviceukJPjE5CP1
+  identifier: serviceukJPjE5CP1
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

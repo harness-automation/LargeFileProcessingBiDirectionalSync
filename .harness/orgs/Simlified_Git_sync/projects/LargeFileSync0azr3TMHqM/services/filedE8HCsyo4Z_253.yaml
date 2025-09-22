@@ -1,0 +1,8 @@
+service:
+  name: serviceMIkapg43pd
+  identifier: serviceMIkapg43pd
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

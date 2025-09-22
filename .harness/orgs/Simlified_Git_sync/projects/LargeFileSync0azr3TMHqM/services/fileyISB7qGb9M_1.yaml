@@ -1,0 +1,8 @@
+service:
+  name: serviceprVeux0FHI
+  identifier: serviceprVeux0FHI
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

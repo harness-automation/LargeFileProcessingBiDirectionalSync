@@ -1,0 +1,8 @@
+service:
+  name: service84f4PIimbb
+  identifier: service84f4PIimbb
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

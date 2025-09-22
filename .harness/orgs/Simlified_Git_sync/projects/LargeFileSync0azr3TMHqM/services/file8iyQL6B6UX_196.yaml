@@ -1,0 +1,8 @@
+service:
+  name: serviceXTrS659ivf
+  identifier: serviceXTrS659ivf
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

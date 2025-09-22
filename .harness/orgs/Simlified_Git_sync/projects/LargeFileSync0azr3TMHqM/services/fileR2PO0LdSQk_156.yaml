@@ -1,0 +1,8 @@
+service:
+  name: servicePCiNv6RtCL
+  identifier: servicePCiNv6RtCL
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

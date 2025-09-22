@@ -1,0 +1,8 @@
+service:
+  name: servicecIEl2Irs2I
+  identifier: servicecIEl2Irs2I
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

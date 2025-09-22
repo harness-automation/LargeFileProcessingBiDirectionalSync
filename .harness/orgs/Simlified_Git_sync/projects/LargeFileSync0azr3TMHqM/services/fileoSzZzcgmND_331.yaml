@@ -1,0 +1,8 @@
+service:
+  name: servicelmWSnV46NI
+  identifier: servicelmWSnV46NI
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

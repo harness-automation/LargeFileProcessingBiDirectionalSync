@@ -1,0 +1,8 @@
+service:
+  name: serviceruyPe6mapo
+  identifier: serviceruyPe6mapo
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

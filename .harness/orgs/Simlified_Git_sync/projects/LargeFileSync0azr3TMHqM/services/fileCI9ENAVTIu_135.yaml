@@ -1,0 +1,8 @@
+service:
+  name: service4UrgpovaPn
+  identifier: service4UrgpovaPn
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

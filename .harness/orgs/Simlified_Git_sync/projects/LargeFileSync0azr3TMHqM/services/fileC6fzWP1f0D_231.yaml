@@ -1,0 +1,8 @@
+service:
+  name: service1II2IkraDv
+  identifier: service1II2IkraDv
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

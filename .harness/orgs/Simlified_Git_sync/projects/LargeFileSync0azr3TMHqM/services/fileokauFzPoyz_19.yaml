@@ -1,0 +1,8 @@
+service:
+  name: serviceQPiWP7rPf1
+  identifier: serviceQPiWP7rPf1
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

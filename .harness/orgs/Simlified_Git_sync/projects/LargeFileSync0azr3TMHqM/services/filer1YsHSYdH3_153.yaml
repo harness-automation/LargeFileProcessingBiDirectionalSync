@@ -1,0 +1,8 @@
+service:
+  name: servicez8RPyDyTxt
+  identifier: servicez8RPyDyTxt
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

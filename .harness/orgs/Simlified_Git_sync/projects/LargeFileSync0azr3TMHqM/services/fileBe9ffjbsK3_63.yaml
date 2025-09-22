@@ -1,0 +1,8 @@
+service:
+  name: serviceOTb6BvTRao
+  identifier: serviceOTb6BvTRao
+  projectIdentifier: LargeFileSync0azr3TMHqM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
