@@ -1,0 +1,8 @@
+service:
+  name: service12Gms54l15
+  identifier: service12Gms54l15
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

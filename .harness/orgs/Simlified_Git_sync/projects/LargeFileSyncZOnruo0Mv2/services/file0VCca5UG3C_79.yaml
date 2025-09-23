@@ -1,0 +1,8 @@
+service:
+  name: serviceETm6vbkwc3
+  identifier: serviceETm6vbkwc3
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

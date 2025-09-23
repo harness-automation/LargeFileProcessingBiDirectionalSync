@@ -1,0 +1,8 @@
+service:
+  name: serviceNA8Dmgguyk
+  identifier: serviceNA8Dmgguyk
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

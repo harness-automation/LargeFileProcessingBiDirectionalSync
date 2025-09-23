@@ -1,0 +1,8 @@
+service:
+  name: serviced1VwsUiNWr
+  identifier: serviced1VwsUiNWr
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

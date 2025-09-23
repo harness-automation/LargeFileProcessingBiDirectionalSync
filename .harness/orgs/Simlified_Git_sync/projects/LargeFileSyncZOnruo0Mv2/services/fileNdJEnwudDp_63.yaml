@@ -1,0 +1,8 @@
+service:
+  name: service7Utr5TaPAk
+  identifier: service7Utr5TaPAk
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

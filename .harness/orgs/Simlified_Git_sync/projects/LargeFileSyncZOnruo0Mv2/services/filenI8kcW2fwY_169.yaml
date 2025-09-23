@@ -1,0 +1,8 @@
+service:
+  name: serviceD55ILkdUN3
+  identifier: serviceD55ILkdUN3
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

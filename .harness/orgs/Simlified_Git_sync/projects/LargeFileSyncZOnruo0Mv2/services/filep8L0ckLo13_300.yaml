@@ -1,0 +1,8 @@
+service:
+  name: servicepaF7PCBHP5
+  identifier: servicepaF7PCBHP5
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

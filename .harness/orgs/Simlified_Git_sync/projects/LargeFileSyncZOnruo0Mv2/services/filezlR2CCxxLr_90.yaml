@@ -1,0 +1,8 @@
+service:
+  name: serviceTbLfPi29qp
+  identifier: serviceTbLfPi29qp
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

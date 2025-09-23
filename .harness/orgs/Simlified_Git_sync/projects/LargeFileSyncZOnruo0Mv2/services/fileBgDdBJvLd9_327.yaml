@@ -1,0 +1,8 @@
+service:
+  name: serviceW6FrAcwacy
+  identifier: serviceW6FrAcwacy
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

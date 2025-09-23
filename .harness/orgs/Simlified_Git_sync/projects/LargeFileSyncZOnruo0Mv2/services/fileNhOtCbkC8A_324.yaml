@@ -1,0 +1,8 @@
+service:
+  name: services7mtTA65Gg
+  identifier: services7mtTA65Gg
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

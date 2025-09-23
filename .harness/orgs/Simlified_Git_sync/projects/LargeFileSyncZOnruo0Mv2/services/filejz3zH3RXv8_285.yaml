@@ -1,0 +1,8 @@
+service:
+  name: servicebfhof42ZLm
+  identifier: servicebfhof42ZLm
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

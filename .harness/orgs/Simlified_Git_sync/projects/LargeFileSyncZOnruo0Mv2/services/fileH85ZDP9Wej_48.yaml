@@ -1,0 +1,8 @@
+service:
+  name: serviceWEDfb0Gx33
+  identifier: serviceWEDfb0Gx33
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service4CHPBAS8zd
+  identifier: service4CHPBAS8zd
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

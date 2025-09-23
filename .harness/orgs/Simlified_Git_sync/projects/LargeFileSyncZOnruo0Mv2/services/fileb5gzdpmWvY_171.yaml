@@ -1,0 +1,8 @@
+service:
+  name: servicetAgi1ok26b
+  identifier: servicetAgi1ok26b
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceR31XaBAMR7
+  identifier: serviceR31XaBAMR7
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

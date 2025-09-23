@@ -1,0 +1,8 @@
+service:
+  name: serviceP2BPUpm9EB
+  identifier: serviceP2BPUpm9EB
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

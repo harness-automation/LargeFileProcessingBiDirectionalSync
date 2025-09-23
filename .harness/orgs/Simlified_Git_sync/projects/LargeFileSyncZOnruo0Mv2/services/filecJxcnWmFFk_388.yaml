@@ -1,0 +1,8 @@
+service:
+  name: serviceGIiBGFT00b
+  identifier: serviceGIiBGFT00b
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

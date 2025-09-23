@@ -1,0 +1,8 @@
+service:
+  name: serviceSmq3fkQePS
+  identifier: serviceSmq3fkQePS
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

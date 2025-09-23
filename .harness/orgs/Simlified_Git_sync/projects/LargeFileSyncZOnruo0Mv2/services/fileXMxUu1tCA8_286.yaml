@@ -1,0 +1,8 @@
+service:
+  name: servicevMCS23b1sd
+  identifier: servicevMCS23b1sd
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicejaarlA82OM
+  identifier: servicejaarlA82OM
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

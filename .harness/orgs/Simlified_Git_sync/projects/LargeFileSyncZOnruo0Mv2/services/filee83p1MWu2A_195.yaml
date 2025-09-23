@@ -1,0 +1,8 @@
+service:
+  name: serviceWlsu51sZJX
+  identifier: serviceWlsu51sZJX
+  projectIdentifier: LargeFileSyncZOnruo0Mv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
