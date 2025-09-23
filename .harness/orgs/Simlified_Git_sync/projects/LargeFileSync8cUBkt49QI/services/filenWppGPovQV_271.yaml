@@ -1,0 +1,8 @@
+service:
+  name: serviceNYVFD5F51q
+  identifier: serviceNYVFD5F51q
+  projectIdentifier: LargeFileSync8cUBkt49QI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

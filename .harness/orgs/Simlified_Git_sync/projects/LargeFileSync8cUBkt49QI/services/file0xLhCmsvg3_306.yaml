@@ -1,0 +1,8 @@
+service:
+  name: serviceOdvIo25VCF
+  identifier: serviceOdvIo25VCF
+  projectIdentifier: LargeFileSync8cUBkt49QI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

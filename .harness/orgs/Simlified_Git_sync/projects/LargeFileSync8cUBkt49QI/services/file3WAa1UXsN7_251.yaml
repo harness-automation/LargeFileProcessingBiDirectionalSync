@@ -1,0 +1,8 @@
+service:
+  name: servicedOKz34lnax
+  identifier: servicedOKz34lnax
+  projectIdentifier: LargeFileSync8cUBkt49QI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicerGRPC9Ho81
+  identifier: servicerGRPC9Ho81
+  projectIdentifier: LargeFileSync8cUBkt49QI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

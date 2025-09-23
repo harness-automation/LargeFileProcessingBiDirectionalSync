@@ -1,0 +1,8 @@
+service:
+  name: serviceFU2280Lj2x
+  identifier: serviceFU2280Lj2x
+  projectIdentifier: LargeFileSync8cUBkt49QI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicempiqnD2305
+  identifier: servicempiqnD2305
+  projectIdentifier: LargeFileSync8cUBkt49QI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

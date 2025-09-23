@@ -1,0 +1,8 @@
+service:
+  name: serviceAR77sStwfd
+  identifier: serviceAR77sStwfd
+  projectIdentifier: LargeFileSync8cUBkt49QI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

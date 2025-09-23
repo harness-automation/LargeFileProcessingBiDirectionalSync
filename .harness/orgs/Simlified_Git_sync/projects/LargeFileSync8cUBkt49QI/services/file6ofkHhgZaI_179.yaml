@@ -1,0 +1,8 @@
+service:
+  name: serviceKaBKejYKmO
+  identifier: serviceKaBKejYKmO
+  projectIdentifier: LargeFileSync8cUBkt49QI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

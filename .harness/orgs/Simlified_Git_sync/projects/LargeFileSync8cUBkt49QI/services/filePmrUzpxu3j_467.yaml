@@ -1,0 +1,8 @@
+service:
+  name: servicejxxupD90v2
+  identifier: servicejxxupD90v2
+  projectIdentifier: LargeFileSync8cUBkt49QI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

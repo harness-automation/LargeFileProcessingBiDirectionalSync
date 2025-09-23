@@ -1,0 +1,8 @@
+service:
+  name: servicetvdKy41psc
+  identifier: servicetvdKy41psc
+  projectIdentifier: LargeFileSync8cUBkt49QI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
