@@ -1,0 +1,8 @@
+service:
+  name: serviceJFCMBcc3zo
+  identifier: serviceJFCMBcc3zo
+  projectIdentifier: LargeFileSync0uS8a4mA5i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

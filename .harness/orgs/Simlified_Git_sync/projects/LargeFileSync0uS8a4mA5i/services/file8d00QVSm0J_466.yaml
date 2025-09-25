@@ -1,0 +1,8 @@
+service:
+  name: service2Hs50Huz6o
+  identifier: service2Hs50Huz6o
+  projectIdentifier: LargeFileSync0uS8a4mA5i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
