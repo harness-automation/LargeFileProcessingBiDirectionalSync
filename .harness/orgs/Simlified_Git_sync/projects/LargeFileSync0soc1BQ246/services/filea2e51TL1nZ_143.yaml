@@ -1,0 +1,8 @@
+service:
+  name: serviceVLGuy8Pg71
+  identifier: serviceVLGuy8Pg71
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

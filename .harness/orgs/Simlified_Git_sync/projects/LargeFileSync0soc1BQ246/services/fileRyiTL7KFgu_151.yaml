@@ -1,0 +1,8 @@
+service:
+  name: servicedWan2fkWdj
+  identifier: servicedWan2fkWdj
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

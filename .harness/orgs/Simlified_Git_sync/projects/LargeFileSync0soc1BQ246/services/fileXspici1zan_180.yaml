@@ -1,0 +1,8 @@
+service:
+  name: serviceLSNIuDX67C
+  identifier: serviceLSNIuDX67C
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

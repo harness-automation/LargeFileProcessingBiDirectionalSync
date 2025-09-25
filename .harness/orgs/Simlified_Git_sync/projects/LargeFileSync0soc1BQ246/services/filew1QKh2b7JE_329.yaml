@@ -1,0 +1,8 @@
+service:
+  name: serviceBrg51KPEik
+  identifier: serviceBrg51KPEik
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service74vPEMGLX7
+  identifier: service74vPEMGLX7
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

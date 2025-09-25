@@ -1,0 +1,8 @@
+service:
+  name: serviceNA16gaCctg
+  identifier: serviceNA16gaCctg
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

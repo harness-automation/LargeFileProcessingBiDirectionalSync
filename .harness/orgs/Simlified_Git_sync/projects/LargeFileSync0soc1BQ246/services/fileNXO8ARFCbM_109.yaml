@@ -1,0 +1,8 @@
+service:
+  name: serviced95NHDrWpD
+  identifier: serviced95NHDrWpD
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

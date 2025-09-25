@@ -1,0 +1,8 @@
+service:
+  name: servicemcE0p3EP62
+  identifier: servicemcE0p3EP62
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

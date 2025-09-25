@@ -1,0 +1,8 @@
+service:
+  name: serviceVRC7OArtps
+  identifier: serviceVRC7OArtps
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

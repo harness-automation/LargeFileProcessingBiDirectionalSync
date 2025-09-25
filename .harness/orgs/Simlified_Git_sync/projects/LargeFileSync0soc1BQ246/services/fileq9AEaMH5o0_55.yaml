@@ -1,0 +1,8 @@
+service:
+  name: servicezatg96VBRt
+  identifier: servicezatg96VBRt
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

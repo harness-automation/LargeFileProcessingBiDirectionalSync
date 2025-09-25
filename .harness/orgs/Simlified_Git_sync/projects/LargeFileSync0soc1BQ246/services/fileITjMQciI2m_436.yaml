@@ -1,0 +1,8 @@
+service:
+  name: servicePrGHL2l6i1
+  identifier: servicePrGHL2l6i1
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

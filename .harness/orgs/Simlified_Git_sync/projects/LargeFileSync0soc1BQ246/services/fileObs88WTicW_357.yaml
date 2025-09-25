@@ -1,0 +1,8 @@
+service:
+  name: servicedu4Inty3s6
+  identifier: servicedu4Inty3s6
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

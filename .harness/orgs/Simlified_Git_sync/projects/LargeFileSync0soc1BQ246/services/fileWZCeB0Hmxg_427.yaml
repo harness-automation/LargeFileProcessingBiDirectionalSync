@@ -1,0 +1,8 @@
+service:
+  name: serviceDlal1vrsIc
+  identifier: serviceDlal1vrsIc
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

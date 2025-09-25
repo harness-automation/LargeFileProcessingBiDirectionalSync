@@ -1,0 +1,8 @@
+service:
+  name: service7yEnKAMpa4
+  identifier: service7yEnKAMpa4
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

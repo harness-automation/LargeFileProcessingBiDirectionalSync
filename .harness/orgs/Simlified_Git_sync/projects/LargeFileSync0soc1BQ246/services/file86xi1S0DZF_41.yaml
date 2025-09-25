@@ -1,0 +1,8 @@
+service:
+  name: serviceFGw50y81AS
+  identifier: serviceFGw50y81AS
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

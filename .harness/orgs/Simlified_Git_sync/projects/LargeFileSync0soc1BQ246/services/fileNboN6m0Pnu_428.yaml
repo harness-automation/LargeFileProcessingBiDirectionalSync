@@ -1,0 +1,8 @@
+service:
+  name: service3k1pDivvEg
+  identifier: service3k1pDivvEg
+  projectIdentifier: LargeFileSync0soc1BQ246
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
