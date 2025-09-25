@@ -1,0 +1,8 @@
+service:
+  name: serviceRsOasAl2Rq
+  identifier: serviceRsOasAl2Rq
+  projectIdentifier: LargeFileSyncYrH8MXj7L1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

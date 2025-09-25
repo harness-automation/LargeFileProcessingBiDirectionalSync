@@ -1,0 +1,8 @@
+service:
+  name: servicehs2VuljYun
+  identifier: servicehs2VuljYun
+  projectIdentifier: LargeFileSyncYrH8MXj7L1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
