@@ -1,0 +1,8 @@
+service:
+  name: serviceEn1ux2PYJO
+  identifier: serviceEn1ux2PYJO
+  projectIdentifier: LargeFileSyncJjUeeky7L7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

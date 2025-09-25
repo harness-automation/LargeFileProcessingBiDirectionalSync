@@ -1,0 +1,8 @@
+service:
+  name: serviceRsSdmTM0Dq
+  identifier: serviceRsSdmTM0Dq
+  projectIdentifier: LargeFileSyncJjUeeky7L7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

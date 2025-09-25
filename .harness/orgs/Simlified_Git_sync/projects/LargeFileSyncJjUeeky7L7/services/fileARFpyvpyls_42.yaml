@@ -1,0 +1,8 @@
+service:
+  name: serviceLyLysM65S3
+  identifier: serviceLyLysM65S3
+  projectIdentifier: LargeFileSyncJjUeeky7L7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

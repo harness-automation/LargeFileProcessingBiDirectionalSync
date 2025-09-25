@@ -1,0 +1,8 @@
+service:
+  name: serviceGisNbz20Uf
+  identifier: serviceGisNbz20Uf
+  projectIdentifier: LargeFileSyncJjUeeky7L7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

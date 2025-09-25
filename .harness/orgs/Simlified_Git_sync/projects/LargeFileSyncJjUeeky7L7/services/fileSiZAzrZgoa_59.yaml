@@ -1,0 +1,8 @@
+service:
+  name: servicemlHOb1G8UP
+  identifier: servicemlHOb1G8UP
+  projectIdentifier: LargeFileSyncJjUeeky7L7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

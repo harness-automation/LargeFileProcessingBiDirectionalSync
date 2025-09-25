@@ -1,0 +1,8 @@
+service:
+  name: servicezMFK90kcer
+  identifier: servicezMFK90kcer
+  projectIdentifier: LargeFileSyncJjUeeky7L7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
