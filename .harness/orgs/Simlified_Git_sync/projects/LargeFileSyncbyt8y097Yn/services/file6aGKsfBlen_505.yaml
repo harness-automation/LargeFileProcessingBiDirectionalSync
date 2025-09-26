@@ -1,0 +1,8 @@
+service:
+  name: serviceCSRew4492t
+  identifier: serviceCSRew4492t
+  projectIdentifier: LargeFileSyncbyt8y097Yn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
