@@ -1,0 +1,8 @@
+service:
+  name: servicebfGV2lunOo
+  identifier: servicebfGV2lunOo
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceNuxqFDptmv
+  identifier: serviceNuxqFDptmv
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceH9CasDUcIp
+  identifier: serviceH9CasDUcIp
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

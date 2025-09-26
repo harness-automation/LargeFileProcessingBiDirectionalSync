@@ -1,0 +1,8 @@
+service:
+  name: servicefHMVrC2Pbv
+  identifier: servicefHMVrC2Pbv
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAUNXT2WVn8
+  identifier: serviceAUNXT2WVn8
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceG2XTXveVfE
+  identifier: serviceG2XTXveVfE
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

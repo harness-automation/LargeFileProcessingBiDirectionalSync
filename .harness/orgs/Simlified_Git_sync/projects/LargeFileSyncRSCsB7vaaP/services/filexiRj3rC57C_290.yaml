@@ -1,0 +1,8 @@
+service:
+  name: serviceASgBY34IpF
+  identifier: serviceASgBY34IpF
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

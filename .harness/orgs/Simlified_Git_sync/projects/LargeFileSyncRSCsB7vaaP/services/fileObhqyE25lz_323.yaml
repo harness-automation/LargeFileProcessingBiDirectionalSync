@@ -1,0 +1,8 @@
+service:
+  name: serviceB2MLfyMzVd
+  identifier: serviceB2MLfyMzVd
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

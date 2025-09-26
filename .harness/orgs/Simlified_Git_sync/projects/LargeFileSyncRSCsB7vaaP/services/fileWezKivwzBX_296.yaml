@@ -1,0 +1,8 @@
+service:
+  name: serviceBECIRxy8ih
+  identifier: serviceBECIRxy8ih
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

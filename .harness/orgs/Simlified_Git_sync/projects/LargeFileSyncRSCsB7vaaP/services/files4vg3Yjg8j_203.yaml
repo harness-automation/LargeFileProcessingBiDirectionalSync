@@ -1,0 +1,8 @@
+service:
+  name: serviceNv4Mp15HwL
+  identifier: serviceNv4Mp15HwL
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

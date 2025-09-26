@@ -1,0 +1,8 @@
+service:
+  name: serviceYt8126aNgL
+  identifier: serviceYt8126aNgL
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

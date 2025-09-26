@@ -1,0 +1,8 @@
+service:
+  name: serviceDbo7v5JbH2
+  identifier: serviceDbo7v5JbH2
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

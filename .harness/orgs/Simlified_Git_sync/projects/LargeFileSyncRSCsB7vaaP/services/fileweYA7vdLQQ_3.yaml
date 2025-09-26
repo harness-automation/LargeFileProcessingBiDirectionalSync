@@ -1,0 +1,8 @@
+service:
+  name: serviceng1wpGkLXT
+  identifier: serviceng1wpGkLXT
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

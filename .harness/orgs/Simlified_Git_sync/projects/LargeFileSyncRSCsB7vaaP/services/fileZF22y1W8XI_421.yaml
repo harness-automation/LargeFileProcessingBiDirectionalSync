@@ -1,0 +1,8 @@
+service:
+  name: servicebag5GCKF1T
+  identifier: servicebag5GCKF1T
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

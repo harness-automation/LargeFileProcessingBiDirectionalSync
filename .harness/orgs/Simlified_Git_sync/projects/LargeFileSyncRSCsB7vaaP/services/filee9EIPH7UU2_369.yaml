@@ -1,0 +1,8 @@
+service:
+  name: servicePSFwaSh36c
+  identifier: servicePSFwaSh36c
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

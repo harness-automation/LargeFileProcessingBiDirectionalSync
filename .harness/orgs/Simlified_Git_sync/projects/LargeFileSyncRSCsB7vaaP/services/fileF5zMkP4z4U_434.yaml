@@ -1,0 +1,8 @@
+service:
+  name: serviceGAu27300Jg
+  identifier: serviceGAu27300Jg
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

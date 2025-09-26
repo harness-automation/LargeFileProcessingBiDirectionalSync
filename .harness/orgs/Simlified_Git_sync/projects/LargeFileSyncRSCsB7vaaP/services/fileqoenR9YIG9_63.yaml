@@ -1,0 +1,8 @@
+service:
+  name: serviceem1Ftk86n4
+  identifier: serviceem1Ftk86n4
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

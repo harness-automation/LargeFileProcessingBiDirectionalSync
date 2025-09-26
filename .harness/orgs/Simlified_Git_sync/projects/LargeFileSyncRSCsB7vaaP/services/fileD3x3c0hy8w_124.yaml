@@ -1,0 +1,8 @@
+service:
+  name: servicezaSicSG241
+  identifier: servicezaSicSG241
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

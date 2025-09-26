@@ -1,0 +1,8 @@
+service:
+  name: service77XAvhmRLq
+  identifier: service77XAvhmRLq
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

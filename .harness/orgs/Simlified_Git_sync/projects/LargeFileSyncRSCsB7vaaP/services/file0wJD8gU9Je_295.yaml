@@ -1,0 +1,8 @@
+service:
+  name: serviceLd75VbcgHP
+  identifier: serviceLd75VbcgHP
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

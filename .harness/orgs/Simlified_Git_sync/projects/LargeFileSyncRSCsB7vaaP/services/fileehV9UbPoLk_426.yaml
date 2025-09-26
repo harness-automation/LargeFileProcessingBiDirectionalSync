@@ -1,0 +1,8 @@
+service:
+  name: servicemx2kWTkOqi
+  identifier: servicemx2kWTkOqi
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

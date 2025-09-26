@@ -1,0 +1,8 @@
+service:
+  name: servicetMTaVTM5G3
+  identifier: servicetMTaVTM5G3
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

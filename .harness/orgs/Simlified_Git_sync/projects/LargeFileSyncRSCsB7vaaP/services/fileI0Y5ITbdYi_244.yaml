@@ -1,0 +1,8 @@
+service:
+  name: serviceDDW2Q64rL2
+  identifier: serviceDDW2Q64rL2
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceRlLRE5GCSo
+  identifier: serviceRlLRE5GCSo
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

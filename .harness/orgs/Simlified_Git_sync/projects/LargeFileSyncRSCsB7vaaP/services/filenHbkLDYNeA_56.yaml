@@ -1,0 +1,8 @@
+service:
+  name: serviceiROJMyF2FF
+  identifier: serviceiROJMyF2FF
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

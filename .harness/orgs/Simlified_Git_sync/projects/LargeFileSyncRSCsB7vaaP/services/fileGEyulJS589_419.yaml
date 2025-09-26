@@ -1,0 +1,8 @@
+service:
+  name: serviceK5GPSLkHA3
+  identifier: serviceK5GPSLkHA3
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceJWhMLbmt7Z
+  identifier: serviceJWhMLbmt7Z
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

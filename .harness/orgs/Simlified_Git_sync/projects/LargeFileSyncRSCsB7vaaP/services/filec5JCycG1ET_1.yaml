@@ -1,0 +1,8 @@
+service:
+  name: serviceEMXgrsfP3t
+  identifier: serviceEMXgrsfP3t
+  projectIdentifier: LargeFileSyncRSCsB7vaaP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
