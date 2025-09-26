@@ -1,0 +1,8 @@
+service:
+  name: serviceurTNvc2ZL1
+  identifier: serviceurTNvc2ZL1
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

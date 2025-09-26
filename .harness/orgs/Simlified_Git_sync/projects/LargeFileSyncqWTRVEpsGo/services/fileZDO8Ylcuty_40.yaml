@@ -1,0 +1,8 @@
+service:
+  name: serviceh6lCEZPwnE
+  identifier: serviceh6lCEZPwnE
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

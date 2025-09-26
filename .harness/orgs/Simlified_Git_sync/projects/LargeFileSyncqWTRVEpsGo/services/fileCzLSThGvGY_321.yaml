@@ -1,0 +1,8 @@
+service:
+  name: serviceabSW6a7XAO
+  identifier: serviceabSW6a7XAO
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

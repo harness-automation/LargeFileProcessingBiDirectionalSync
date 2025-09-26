@@ -1,0 +1,8 @@
+service:
+  name: service64IXvDgZIk
+  identifier: service64IXvDgZIk
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

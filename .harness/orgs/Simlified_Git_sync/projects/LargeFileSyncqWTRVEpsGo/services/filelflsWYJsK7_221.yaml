@@ -1,0 +1,8 @@
+service:
+  name: serviceWtJQmQ161M
+  identifier: serviceWtJQmQ161M
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

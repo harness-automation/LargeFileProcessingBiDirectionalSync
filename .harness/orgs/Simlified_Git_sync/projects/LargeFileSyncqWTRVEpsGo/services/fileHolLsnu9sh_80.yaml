@@ -1,0 +1,8 @@
+service:
+  name: serviceunWLktKH6i
+  identifier: serviceunWLktKH6i
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

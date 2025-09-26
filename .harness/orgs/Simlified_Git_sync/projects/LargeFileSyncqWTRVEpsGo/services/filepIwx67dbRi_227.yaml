@@ -1,0 +1,8 @@
+service:
+  name: serviceb4CnqosPP6
+  identifier: serviceb4CnqosPP6
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

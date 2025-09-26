@@ -1,0 +1,8 @@
+service:
+  name: service15tfbgeTQX
+  identifier: service15tfbgeTQX
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

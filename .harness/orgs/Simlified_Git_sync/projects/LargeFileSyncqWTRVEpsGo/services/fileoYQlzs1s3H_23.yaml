@@ -1,0 +1,8 @@
+service:
+  name: serviceGKlehp4ftV
+  identifier: serviceGKlehp4ftV
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

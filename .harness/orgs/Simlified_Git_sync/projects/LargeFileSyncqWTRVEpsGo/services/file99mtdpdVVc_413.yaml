@@ -1,0 +1,8 @@
+service:
+  name: serviceC2TrEf8OMC
+  identifier: serviceC2TrEf8OMC
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

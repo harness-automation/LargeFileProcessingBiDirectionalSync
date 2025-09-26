@@ -1,0 +1,8 @@
+service:
+  name: serviceG59SM2XbOT
+  identifier: serviceG59SM2XbOT
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicevT5ARUB9JP
+  identifier: servicevT5ARUB9JP
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

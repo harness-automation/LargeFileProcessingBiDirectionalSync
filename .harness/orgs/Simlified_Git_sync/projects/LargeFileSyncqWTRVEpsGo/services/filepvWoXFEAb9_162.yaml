@@ -1,0 +1,8 @@
+service:
+  name: servicethRk04blO7
+  identifier: servicethRk04blO7
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

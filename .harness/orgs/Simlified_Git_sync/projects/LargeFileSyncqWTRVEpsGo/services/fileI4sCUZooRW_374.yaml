@@ -1,0 +1,8 @@
+service:
+  name: service70lnwcSMKC
+  identifier: service70lnwcSMKC
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

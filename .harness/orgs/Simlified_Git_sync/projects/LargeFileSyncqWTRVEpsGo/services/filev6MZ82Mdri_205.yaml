@@ -1,0 +1,8 @@
+service:
+  name: service4pUmHGKtoR
+  identifier: service4pUmHGKtoR
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

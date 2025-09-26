@@ -1,0 +1,8 @@
+service:
+  name: servicesSWECE1Ffi
+  identifier: servicesSWECE1Ffi
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

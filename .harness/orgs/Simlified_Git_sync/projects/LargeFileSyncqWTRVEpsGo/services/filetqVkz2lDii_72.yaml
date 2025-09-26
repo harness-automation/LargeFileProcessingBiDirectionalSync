@@ -1,0 +1,8 @@
+service:
+  name: serviceEOwit5Eanv
+  identifier: serviceEOwit5Eanv
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

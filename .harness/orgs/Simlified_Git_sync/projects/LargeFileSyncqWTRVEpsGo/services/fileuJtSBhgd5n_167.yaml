@@ -1,0 +1,8 @@
+service:
+  name: servicegVTza4HDTy
+  identifier: servicegVTza4HDTy
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

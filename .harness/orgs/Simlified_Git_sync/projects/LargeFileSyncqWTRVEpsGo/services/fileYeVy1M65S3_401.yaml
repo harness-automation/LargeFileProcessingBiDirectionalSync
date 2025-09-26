@@ -1,0 +1,8 @@
+service:
+  name: serviceZg4BP8rEGA
+  identifier: serviceZg4BP8rEGA
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

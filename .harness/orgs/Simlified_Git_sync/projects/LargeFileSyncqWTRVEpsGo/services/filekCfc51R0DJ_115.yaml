@@ -1,0 +1,8 @@
+service:
+  name: servicehtusPV4okV
+  identifier: servicehtusPV4okV
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

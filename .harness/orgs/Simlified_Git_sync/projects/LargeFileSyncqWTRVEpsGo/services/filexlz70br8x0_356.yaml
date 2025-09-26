@@ -1,0 +1,8 @@
+service:
+  name: serviceosFP9IUE1Q
+  identifier: serviceosFP9IUE1Q
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicegp0KbPCtlE
+  identifier: servicegp0KbPCtlE
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

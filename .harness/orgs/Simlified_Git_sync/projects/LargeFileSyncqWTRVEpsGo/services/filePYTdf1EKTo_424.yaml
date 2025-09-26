@@ -1,0 +1,8 @@
+service:
+  name: serviceUP67aS1R6R
+  identifier: serviceUP67aS1R6R
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

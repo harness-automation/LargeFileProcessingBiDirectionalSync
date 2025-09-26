@@ -1,0 +1,8 @@
+service:
+  name: servicexJM4IO22oa
+  identifier: servicexJM4IO22oa
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAUaMEUpdL6
+  identifier: serviceAUaMEUpdL6
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

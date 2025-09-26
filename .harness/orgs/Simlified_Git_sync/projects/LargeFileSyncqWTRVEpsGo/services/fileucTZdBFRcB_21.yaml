@@ -1,0 +1,8 @@
+service:
+  name: service16WHGIRl6U
+  identifier: service16WHGIRl6U
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

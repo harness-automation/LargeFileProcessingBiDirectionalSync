@@ -1,0 +1,8 @@
+service:
+  name: serviceMGJwtT34MR
+  identifier: serviceMGJwtT34MR
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

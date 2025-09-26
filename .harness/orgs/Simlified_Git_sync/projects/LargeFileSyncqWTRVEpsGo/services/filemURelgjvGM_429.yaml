@@ -1,0 +1,8 @@
+service:
+  name: serviceTUTTK4GZCV
+  identifier: serviceTUTTK4GZCV
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

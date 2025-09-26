@@ -1,0 +1,8 @@
+service:
+  name: serviceBynPik3rWT
+  identifier: serviceBynPik3rWT
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

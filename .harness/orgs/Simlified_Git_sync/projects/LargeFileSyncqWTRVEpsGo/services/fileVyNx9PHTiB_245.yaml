@@ -1,0 +1,8 @@
+service:
+  name: serviceDIKildA2UD
+  identifier: serviceDIKildA2UD
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

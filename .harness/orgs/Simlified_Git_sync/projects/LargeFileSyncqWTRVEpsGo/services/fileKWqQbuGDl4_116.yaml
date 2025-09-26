@@ -1,0 +1,8 @@
+service:
+  name: serviceCMCpyNR0q8
+  identifier: serviceCMCpyNR0q8
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

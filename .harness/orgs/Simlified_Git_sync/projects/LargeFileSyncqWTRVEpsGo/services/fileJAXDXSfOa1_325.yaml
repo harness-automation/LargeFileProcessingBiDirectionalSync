@@ -1,0 +1,8 @@
+service:
+  name: servicedEPK2MgYhV
+  identifier: servicedEPK2MgYhV
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceQDVFAU0Aps
+  identifier: serviceQDVFAU0Aps
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

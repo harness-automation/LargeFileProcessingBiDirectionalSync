@@ -1,0 +1,8 @@
+service:
+  name: service4DSGp2JYAR
+  identifier: service4DSGp2JYAR
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

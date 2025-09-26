@@ -1,0 +1,8 @@
+service:
+  name: serviceXIRNy33DRN
+  identifier: serviceXIRNy33DRN
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

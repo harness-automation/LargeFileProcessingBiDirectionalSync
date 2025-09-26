@@ -1,0 +1,8 @@
+service:
+  name: serviceVepoDZD4JA
+  identifier: serviceVepoDZD4JA
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

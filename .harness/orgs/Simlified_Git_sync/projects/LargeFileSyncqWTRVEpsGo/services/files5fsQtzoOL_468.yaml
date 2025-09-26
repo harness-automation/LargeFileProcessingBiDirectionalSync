@@ -1,0 +1,8 @@
+service:
+  name: service7BHEmAdRV6
+  identifier: service7BHEmAdRV6
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

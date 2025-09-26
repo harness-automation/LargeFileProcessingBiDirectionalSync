@@ -1,0 +1,8 @@
+service:
+  name: servicepo2Z8lFOIB
+  identifier: servicepo2Z8lFOIB
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

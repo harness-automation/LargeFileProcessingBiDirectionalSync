@@ -1,0 +1,8 @@
+service:
+  name: serviceQrDeRkcd2c
+  identifier: serviceQrDeRkcd2c
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

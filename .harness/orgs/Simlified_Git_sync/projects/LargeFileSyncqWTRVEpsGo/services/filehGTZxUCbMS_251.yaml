@@ -1,0 +1,8 @@
+service:
+  name: service8fnad8IMEL
+  identifier: service8fnad8IMEL
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

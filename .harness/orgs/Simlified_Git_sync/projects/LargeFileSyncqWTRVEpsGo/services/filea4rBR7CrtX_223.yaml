@@ -1,0 +1,8 @@
+service:
+  name: service2pvobuMpWA
+  identifier: service2pvobuMpWA
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

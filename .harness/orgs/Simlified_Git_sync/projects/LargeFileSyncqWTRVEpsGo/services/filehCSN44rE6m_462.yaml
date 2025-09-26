@@ -1,0 +1,8 @@
+service:
+  name: serviceEw850l5OeV
+  identifier: serviceEw850l5OeV
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

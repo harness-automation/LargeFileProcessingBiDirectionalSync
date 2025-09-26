@@ -1,0 +1,8 @@
+service:
+  name: serviceKy1Fk1GWBP
+  identifier: serviceKy1Fk1GWBP
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

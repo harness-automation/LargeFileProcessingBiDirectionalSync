@@ -1,0 +1,8 @@
+service:
+  name: servicejWM35yk7Tb
+  identifier: servicejWM35yk7Tb
+  projectIdentifier: LargeFileSyncqWTRVEpsGo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
