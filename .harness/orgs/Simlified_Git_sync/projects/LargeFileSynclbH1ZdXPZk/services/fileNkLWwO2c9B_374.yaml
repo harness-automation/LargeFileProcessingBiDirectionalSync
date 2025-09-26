@@ -1,0 +1,8 @@
+service:
+  name: servicen1kPhCIBL8
+  identifier: servicen1kPhCIBL8
+  projectIdentifier: LargeFileSynclbH1ZdXPZk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

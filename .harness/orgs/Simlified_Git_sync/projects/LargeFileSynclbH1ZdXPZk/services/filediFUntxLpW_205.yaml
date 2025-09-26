@@ -1,0 +1,8 @@
+service:
+  name: servicec3Wp261Wwn
+  identifier: servicec3Wp261Wwn
+  projectIdentifier: LargeFileSynclbH1ZdXPZk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

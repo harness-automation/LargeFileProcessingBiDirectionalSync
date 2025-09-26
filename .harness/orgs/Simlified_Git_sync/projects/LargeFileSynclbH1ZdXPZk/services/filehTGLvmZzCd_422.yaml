@@ -1,0 +1,8 @@
+service:
+  name: servicenVT3VCHEfi
+  identifier: servicenVT3VCHEfi
+  projectIdentifier: LargeFileSynclbH1ZdXPZk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

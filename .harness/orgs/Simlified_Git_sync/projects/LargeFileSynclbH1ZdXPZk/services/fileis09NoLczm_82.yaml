@@ -1,0 +1,8 @@
+service:
+  name: servicemp1xwRA2VB
+  identifier: servicemp1xwRA2VB
+  projectIdentifier: LargeFileSynclbH1ZdXPZk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

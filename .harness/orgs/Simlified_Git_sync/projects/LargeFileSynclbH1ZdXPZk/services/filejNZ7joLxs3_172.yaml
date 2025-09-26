@@ -1,0 +1,8 @@
+service:
+  name: serviceZMOLG2XBbc
+  identifier: serviceZMOLG2XBbc
+  projectIdentifier: LargeFileSynclbH1ZdXPZk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

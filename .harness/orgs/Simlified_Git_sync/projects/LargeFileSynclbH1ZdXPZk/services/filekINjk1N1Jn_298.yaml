@@ -1,0 +1,8 @@
+service:
+  name: serviceEEHRPaxz3s
+  identifier: serviceEEHRPaxz3s
+  projectIdentifier: LargeFileSynclbH1ZdXPZk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

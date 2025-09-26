@@ -1,0 +1,8 @@
+service:
+  name: serviceApo4bw0KTC
+  identifier: serviceApo4bw0KTC
+  projectIdentifier: LargeFileSynclbH1ZdXPZk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

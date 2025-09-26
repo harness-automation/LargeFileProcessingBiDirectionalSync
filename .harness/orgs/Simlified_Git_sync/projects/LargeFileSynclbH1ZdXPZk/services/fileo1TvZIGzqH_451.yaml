@@ -1,0 +1,8 @@
+service:
+  name: servicefpmL11wPaD
+  identifier: servicefpmL11wPaD
+  projectIdentifier: LargeFileSynclbH1ZdXPZk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
