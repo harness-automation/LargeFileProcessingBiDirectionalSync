@@ -1,0 +1,8 @@
+service:
+  name: serviceXJPrdk98TE
+  identifier: serviceXJPrdk98TE
+  projectIdentifier: LargeFileSynciz8Dt6kVpR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

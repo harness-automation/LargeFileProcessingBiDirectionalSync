@@ -1,0 +1,8 @@
+service:
+  name: serviceQLATNe0Png
+  identifier: serviceQLATNe0Png
+  projectIdentifier: LargeFileSynciz8Dt6kVpR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

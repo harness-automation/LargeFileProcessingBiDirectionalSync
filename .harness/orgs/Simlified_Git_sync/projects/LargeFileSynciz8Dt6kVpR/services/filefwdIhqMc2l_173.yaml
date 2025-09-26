@@ -1,0 +1,8 @@
+service:
+  name: service52zvaNObk6
+  identifier: service52zvaNObk6
+  projectIdentifier: LargeFileSynciz8Dt6kVpR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

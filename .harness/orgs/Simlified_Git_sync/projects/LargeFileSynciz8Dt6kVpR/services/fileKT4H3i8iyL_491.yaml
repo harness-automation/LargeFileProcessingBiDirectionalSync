@@ -1,0 +1,8 @@
+service:
+  name: servicefAtaBmMGTV
+  identifier: servicefAtaBmMGTV
+  projectIdentifier: LargeFileSynciz8Dt6kVpR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

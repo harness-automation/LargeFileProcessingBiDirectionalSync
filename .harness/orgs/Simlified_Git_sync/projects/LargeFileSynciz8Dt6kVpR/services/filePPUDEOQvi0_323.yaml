@@ -1,0 +1,8 @@
+service:
+  name: serviceJ5rZllBoot
+  identifier: serviceJ5rZllBoot
+  projectIdentifier: LargeFileSynciz8Dt6kVpR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

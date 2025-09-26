@@ -1,0 +1,8 @@
+service:
+  name: servicePcr6NtQW18
+  identifier: servicePcr6NtQW18
+  projectIdentifier: LargeFileSynciz8Dt6kVpR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

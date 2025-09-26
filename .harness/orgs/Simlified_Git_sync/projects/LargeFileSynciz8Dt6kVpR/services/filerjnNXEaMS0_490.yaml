@@ -1,0 +1,8 @@
+service:
+  name: serviceUR3MedlScH
+  identifier: serviceUR3MedlScH
+  projectIdentifier: LargeFileSynciz8Dt6kVpR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

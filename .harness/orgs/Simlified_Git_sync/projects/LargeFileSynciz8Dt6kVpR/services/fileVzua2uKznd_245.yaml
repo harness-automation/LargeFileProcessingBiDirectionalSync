@@ -1,0 +1,8 @@
+service:
+  name: service4HeeAWAFiK
+  identifier: service4HeeAWAFiK
+  projectIdentifier: LargeFileSynciz8Dt6kVpR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

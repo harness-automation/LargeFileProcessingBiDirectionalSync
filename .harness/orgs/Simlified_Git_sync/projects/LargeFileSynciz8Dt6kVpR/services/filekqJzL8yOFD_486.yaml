@@ -1,0 +1,8 @@
+service:
+  name: service240D13liCR
+  identifier: service240D13liCR
+  projectIdentifier: LargeFileSynciz8Dt6kVpR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

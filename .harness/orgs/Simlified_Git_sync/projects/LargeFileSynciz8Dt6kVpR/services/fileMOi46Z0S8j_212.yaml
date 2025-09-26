@@ -1,0 +1,8 @@
+service:
+  name: servicee2NaD21hat
+  identifier: servicee2NaD21hat
+  projectIdentifier: LargeFileSynciz8Dt6kVpR
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
