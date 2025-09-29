@@ -1,0 +1,8 @@
+service:
+  name: serviceP2NxCNGUCp
+  identifier: serviceP2NxCNGUCp
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

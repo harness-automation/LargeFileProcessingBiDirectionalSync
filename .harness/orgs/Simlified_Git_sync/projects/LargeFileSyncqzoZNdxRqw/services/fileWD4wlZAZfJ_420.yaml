@@ -1,0 +1,8 @@
+service:
+  name: serviceFTTEMpb6Th
+  identifier: serviceFTTEMpb6Th
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

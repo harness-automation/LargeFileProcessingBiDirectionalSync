@@ -1,0 +1,8 @@
+service:
+  name: serviceT7FALEOncf
+  identifier: serviceT7FALEOncf
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

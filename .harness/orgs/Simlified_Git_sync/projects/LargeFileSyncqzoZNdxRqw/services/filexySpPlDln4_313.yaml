@@ -1,0 +1,8 @@
+service:
+  name: serviceEwpWOJSVRF
+  identifier: serviceEwpWOJSVRF
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTDbTU4p6Wi
+  identifier: serviceTDbTU4p6Wi
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

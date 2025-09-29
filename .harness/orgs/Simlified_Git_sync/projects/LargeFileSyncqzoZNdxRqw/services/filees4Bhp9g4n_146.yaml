@@ -1,0 +1,8 @@
+service:
+  name: servicerVSPWQ2O17
+  identifier: servicerVSPWQ2O17
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

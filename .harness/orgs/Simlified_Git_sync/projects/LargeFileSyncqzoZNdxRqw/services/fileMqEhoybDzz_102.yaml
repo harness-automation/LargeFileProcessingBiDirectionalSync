@@ -1,0 +1,8 @@
+service:
+  name: serviceXTPMPEcfdt
+  identifier: serviceXTPMPEcfdt
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

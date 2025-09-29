@@ -1,0 +1,8 @@
+service:
+  name: serviceDNlrb2lQKO
+  identifier: serviceDNlrb2lQKO
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

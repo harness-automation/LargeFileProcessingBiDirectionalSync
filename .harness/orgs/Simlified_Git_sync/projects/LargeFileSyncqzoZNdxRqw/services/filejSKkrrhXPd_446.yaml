@@ -1,0 +1,8 @@
+service:
+  name: servicegXGexAmcsk
+  identifier: servicegXGexAmcsk
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

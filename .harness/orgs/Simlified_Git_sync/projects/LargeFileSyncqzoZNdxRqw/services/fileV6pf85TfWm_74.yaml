@@ -1,0 +1,8 @@
+service:
+  name: serviceVMwsQlt9mi
+  identifier: serviceVMwsQlt9mi
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

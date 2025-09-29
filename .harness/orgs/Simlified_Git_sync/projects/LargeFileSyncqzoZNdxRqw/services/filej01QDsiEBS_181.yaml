@@ -1,0 +1,8 @@
+service:
+  name: serviceApfCL1RL6a
+  identifier: serviceApfCL1RL6a
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

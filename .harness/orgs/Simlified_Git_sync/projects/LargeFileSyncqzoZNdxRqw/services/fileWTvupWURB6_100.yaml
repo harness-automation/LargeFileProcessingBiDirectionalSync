@@ -1,0 +1,8 @@
+service:
+  name: service9q997Gbscp
+  identifier: service9q997Gbscp
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

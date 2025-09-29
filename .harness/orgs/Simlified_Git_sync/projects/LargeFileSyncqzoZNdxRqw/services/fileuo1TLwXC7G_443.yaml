@@ -1,0 +1,8 @@
+service:
+  name: servicegBlGP6OloG
+  identifier: servicegBlGP6OloG
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

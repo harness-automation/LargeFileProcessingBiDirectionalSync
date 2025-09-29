@@ -1,0 +1,8 @@
+service:
+  name: serviceRN20756zAU
+  identifier: serviceRN20756zAU
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

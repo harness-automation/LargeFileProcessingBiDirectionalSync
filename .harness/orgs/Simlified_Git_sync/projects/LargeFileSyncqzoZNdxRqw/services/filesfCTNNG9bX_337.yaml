@@ -1,0 +1,8 @@
+service:
+  name: serviceVMmAZHO8nn
+  identifier: serviceVMmAZHO8nn
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

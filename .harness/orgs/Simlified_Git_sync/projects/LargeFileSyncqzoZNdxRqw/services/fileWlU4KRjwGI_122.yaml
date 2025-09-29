@@ -1,0 +1,8 @@
+service:
+  name: serviceRsl432WdRz
+  identifier: serviceRsl432WdRz
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

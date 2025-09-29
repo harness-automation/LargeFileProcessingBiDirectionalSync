@@ -1,0 +1,8 @@
+service:
+  name: servicedbnGBPO19g
+  identifier: servicedbnGBPO19g
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

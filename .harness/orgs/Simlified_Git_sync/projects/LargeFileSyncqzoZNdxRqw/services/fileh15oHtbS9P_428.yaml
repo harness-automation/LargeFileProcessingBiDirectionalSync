@@ -1,0 +1,8 @@
+service:
+  name: serviceIOL1UpMAc5
+  identifier: serviceIOL1UpMAc5
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

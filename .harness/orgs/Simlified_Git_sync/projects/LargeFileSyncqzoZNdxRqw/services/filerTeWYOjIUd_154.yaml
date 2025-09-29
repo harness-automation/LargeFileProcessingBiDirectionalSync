@@ -1,0 +1,8 @@
+service:
+  name: servicesQ0DjRP32g
+  identifier: servicesQ0DjRP32g
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

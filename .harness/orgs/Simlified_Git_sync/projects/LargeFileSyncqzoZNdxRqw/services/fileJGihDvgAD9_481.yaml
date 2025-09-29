@@ -1,0 +1,8 @@
+service:
+  name: servicenQimrcRR34
+  identifier: servicenQimrcRR34
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

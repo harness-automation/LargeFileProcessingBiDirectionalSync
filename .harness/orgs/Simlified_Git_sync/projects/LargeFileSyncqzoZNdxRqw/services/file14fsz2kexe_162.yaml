@@ -1,0 +1,8 @@
+service:
+  name: serviceT16ywkAbIP
+  identifier: serviceT16ywkAbIP
+  projectIdentifier: LargeFileSyncqzoZNdxRqw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
