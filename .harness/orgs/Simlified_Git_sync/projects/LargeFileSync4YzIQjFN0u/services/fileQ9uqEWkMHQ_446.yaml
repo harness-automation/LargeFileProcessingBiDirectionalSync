@@ -1,0 +1,8 @@
+service:
+  name: serviceT3nBUmJUTo
+  identifier: serviceT3nBUmJUTo
+  projectIdentifier: LargeFileSync4YzIQjFN0u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

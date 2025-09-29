@@ -1,0 +1,8 @@
+service:
+  name: serviceCE9DialH7v
+  identifier: serviceCE9DialH7v
+  projectIdentifier: LargeFileSync4YzIQjFN0u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

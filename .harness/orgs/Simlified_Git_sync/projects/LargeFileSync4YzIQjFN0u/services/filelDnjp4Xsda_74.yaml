@@ -1,0 +1,8 @@
+service:
+  name: serviceANRlNMP5IS
+  identifier: serviceANRlNMP5IS
+  projectIdentifier: LargeFileSync4YzIQjFN0u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

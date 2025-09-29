@@ -1,0 +1,8 @@
+service:
+  name: servicex159ekKprv
+  identifier: servicex159ekKprv
+  projectIdentifier: LargeFileSync4YzIQjFN0u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

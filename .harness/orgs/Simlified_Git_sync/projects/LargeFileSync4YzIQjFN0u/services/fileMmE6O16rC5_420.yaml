@@ -1,0 +1,8 @@
+service:
+  name: servicePh6VebiLox
+  identifier: servicePh6VebiLox
+  projectIdentifier: LargeFileSync4YzIQjFN0u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service68792PZKBi
+  identifier: service68792PZKBi
+  projectIdentifier: LargeFileSync4YzIQjFN0u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

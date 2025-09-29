@@ -1,0 +1,8 @@
+service:
+  name: serviceMy72HTq2IS
+  identifier: serviceMy72HTq2IS
+  projectIdentifier: LargeFileSync4YzIQjFN0u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
