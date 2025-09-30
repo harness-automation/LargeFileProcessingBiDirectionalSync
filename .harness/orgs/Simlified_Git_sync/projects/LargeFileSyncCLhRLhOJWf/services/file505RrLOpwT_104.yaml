@@ -1,0 +1,8 @@
+service:
+  name: servicej5eaUSACSE
+  identifier: servicej5eaUSACSE
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

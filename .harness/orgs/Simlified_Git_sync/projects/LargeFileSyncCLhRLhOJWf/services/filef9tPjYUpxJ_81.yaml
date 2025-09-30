@@ -1,0 +1,8 @@
+service:
+  name: servicerDsh2a7xmA
+  identifier: servicerDsh2a7xmA
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

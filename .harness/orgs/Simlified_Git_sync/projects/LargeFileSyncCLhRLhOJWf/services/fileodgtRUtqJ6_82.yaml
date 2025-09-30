@@ -1,0 +1,8 @@
+service:
+  name: servicefxiWliB2Q0
+  identifier: servicefxiWliB2Q0
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

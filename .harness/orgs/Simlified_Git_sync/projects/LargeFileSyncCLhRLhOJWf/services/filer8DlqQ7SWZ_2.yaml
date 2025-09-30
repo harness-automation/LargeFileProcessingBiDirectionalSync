@@ -1,0 +1,8 @@
+service:
+  name: servicex6KUO4RAIC
+  identifier: servicex6KUO4RAIC
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

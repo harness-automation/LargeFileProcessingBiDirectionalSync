@@ -1,0 +1,8 @@
+service:
+  name: serviceayzenf55G2
+  identifier: serviceayzenf55G2
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

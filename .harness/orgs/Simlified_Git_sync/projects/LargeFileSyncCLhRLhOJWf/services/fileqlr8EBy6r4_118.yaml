@@ -1,0 +1,8 @@
+service:
+  name: service711GWexdeW
+  identifier: service711GWexdeW
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

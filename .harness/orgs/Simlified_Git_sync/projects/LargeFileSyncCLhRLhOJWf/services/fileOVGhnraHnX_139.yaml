@@ -1,0 +1,8 @@
+service:
+  name: serviceFc6QVRGutk
+  identifier: serviceFc6QVRGutk
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicedggWP61rRe
+  identifier: servicedggWP61rRe
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

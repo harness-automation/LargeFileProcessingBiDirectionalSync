@@ -1,0 +1,8 @@
+service:
+  name: serviceriS0vnoiut
+  identifier: serviceriS0vnoiut
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

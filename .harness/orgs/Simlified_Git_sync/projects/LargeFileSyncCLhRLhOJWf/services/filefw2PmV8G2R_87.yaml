@@ -1,0 +1,8 @@
+service:
+  name: serviceraLA0Sbs0J
+  identifier: serviceraLA0Sbs0J
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePHBCio7Dnb
+  identifier: servicePHBCio7Dnb
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

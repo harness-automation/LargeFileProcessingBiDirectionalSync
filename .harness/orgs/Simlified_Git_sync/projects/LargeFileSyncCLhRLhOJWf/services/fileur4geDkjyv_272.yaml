@@ -1,0 +1,8 @@
+service:
+  name: servicer3mngsYBDi
+  identifier: servicer3mngsYBDi
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceUIa2rooHAD
+  identifier: serviceUIa2rooHAD
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

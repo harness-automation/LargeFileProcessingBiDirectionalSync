@@ -1,0 +1,8 @@
+service:
+  name: servicePlyOwxMC9f
+  identifier: servicePlyOwxMC9f
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

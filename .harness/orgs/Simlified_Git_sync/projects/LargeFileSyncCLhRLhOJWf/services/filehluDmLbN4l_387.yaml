@@ -1,0 +1,8 @@
+service:
+  name: serviceIRRIAe1NGO
+  identifier: serviceIRRIAe1NGO
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

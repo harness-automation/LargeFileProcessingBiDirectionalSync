@@ -1,0 +1,8 @@
+service:
+  name: servicesViE7kVBdm
+  identifier: servicesViE7kVBdm
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

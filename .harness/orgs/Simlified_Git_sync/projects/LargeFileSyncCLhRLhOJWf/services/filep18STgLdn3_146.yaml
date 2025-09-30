@@ -1,0 +1,8 @@
+service:
+  name: serviceBD1v934Wak
+  identifier: serviceBD1v934Wak
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

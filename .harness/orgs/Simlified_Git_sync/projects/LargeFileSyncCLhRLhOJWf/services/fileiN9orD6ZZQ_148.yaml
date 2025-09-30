@@ -1,0 +1,8 @@
+service:
+  name: service2gorugVh2N
+  identifier: service2gorugVh2N
+  projectIdentifier: LargeFileSyncCLhRLhOJWf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
