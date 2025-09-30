@@ -1,0 +1,8 @@
+service:
+  name: serviceZOr1PhLK7d
+  identifier: serviceZOr1PhLK7d
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceVMA8YMbBFm
+  identifier: serviceVMA8YMbBFm
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

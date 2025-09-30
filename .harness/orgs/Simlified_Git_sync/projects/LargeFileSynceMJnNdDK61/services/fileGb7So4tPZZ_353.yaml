@@ -1,0 +1,8 @@
+service:
+  name: servicezmbI8TEhLV
+  identifier: servicezmbI8TEhLV
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

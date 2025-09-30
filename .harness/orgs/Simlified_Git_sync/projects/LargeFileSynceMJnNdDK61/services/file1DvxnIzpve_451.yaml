@@ -1,0 +1,8 @@
+service:
+  name: servicen7VBUxRiSK
+  identifier: servicen7VBUxRiSK
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

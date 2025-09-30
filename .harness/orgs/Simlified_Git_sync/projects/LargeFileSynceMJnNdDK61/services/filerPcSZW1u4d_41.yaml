@@ -1,0 +1,8 @@
+service:
+  name: servicedDX4TyTjuN
+  identifier: servicedDX4TyTjuN
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

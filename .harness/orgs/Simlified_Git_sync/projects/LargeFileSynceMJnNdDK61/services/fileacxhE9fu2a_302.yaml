@@ -1,0 +1,8 @@
+service:
+  name: serviceOIPBVI9mzm
+  identifier: serviceOIPBVI9mzm
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

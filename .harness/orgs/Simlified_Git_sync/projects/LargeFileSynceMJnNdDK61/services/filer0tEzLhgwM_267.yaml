@@ -1,0 +1,8 @@
+service:
+  name: service415oa6cmsC
+  identifier: service415oa6cmsC
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

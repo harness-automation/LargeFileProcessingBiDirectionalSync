@@ -1,0 +1,8 @@
+service:
+  name: serviceio9jN2xcpd
+  identifier: serviceio9jN2xcpd
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

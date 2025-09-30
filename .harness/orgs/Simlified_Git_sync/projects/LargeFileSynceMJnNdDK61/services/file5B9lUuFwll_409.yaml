@@ -1,0 +1,8 @@
+service:
+  name: serviceEgc71D12z6
+  identifier: serviceEgc71D12z6
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

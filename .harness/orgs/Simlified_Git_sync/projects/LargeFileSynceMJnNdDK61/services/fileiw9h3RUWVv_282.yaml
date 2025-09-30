@@ -1,0 +1,8 @@
+service:
+  name: servicekWuW2T80PH
+  identifier: servicekWuW2T80PH
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

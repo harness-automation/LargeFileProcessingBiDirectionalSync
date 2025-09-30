@@ -1,0 +1,8 @@
+service:
+  name: servicebgLzWAYM47
+  identifier: servicebgLzWAYM47
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

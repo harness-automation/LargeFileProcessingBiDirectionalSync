@@ -1,0 +1,8 @@
+service:
+  name: servicer3w64oOnDF
+  identifier: servicer3w64oOnDF
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

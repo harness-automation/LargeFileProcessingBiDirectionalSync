@@ -1,0 +1,8 @@
+service:
+  name: servicexNADT2dxs4
+  identifier: servicexNADT2dxs4
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

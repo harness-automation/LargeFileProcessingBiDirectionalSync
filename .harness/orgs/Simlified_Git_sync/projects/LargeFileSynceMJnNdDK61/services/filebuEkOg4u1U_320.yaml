@@ -1,0 +1,8 @@
+service:
+  name: serviceHwBvRC8HTk
+  identifier: serviceHwBvRC8HTk
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

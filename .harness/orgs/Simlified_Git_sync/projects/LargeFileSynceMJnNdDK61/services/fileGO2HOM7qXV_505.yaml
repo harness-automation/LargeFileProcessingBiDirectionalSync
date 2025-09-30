@@ -1,0 +1,8 @@
+service:
+  name: serviceuRiMY48Z3F
+  identifier: serviceuRiMY48Z3F
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

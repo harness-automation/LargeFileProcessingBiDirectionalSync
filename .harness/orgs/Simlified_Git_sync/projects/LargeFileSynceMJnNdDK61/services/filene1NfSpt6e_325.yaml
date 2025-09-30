@@ -1,0 +1,8 @@
+service:
+  name: serviceLTX2D6U59w
+  identifier: serviceLTX2D6U59w
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

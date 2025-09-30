@@ -1,0 +1,8 @@
+service:
+  name: serviceCLhbe2sbap
+  identifier: serviceCLhbe2sbap
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

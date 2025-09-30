@@ -1,0 +1,8 @@
+service:
+  name: serviceJrAO4IIgpa
+  identifier: serviceJrAO4IIgpa
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

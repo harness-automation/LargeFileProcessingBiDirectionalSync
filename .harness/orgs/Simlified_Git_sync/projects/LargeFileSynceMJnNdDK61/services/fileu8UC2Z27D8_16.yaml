@@ -1,0 +1,8 @@
+service:
+  name: servicenQDb74iCQN
+  identifier: servicenQDb74iCQN
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

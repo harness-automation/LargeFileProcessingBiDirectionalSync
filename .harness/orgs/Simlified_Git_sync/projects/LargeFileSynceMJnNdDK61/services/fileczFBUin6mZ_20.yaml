@@ -1,0 +1,8 @@
+service:
+  name: serviceDPR13HYpr5
+  identifier: serviceDPR13HYpr5
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

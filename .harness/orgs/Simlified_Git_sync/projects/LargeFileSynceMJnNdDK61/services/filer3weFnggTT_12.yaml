@@ -1,0 +1,8 @@
+service:
+  name: servicevvhdm74dsN
+  identifier: servicevvhdm74dsN
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

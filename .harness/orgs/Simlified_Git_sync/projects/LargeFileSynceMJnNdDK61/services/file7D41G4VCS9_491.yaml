@@ -1,0 +1,8 @@
+service:
+  name: servicenk4BmU23sz
+  identifier: servicenk4BmU23sz
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

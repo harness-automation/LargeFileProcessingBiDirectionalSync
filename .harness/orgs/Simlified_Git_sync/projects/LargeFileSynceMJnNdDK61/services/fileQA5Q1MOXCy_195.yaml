@@ -1,0 +1,8 @@
+service:
+  name: serviceROKy1RcIKS
+  identifier: serviceROKy1RcIKS
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

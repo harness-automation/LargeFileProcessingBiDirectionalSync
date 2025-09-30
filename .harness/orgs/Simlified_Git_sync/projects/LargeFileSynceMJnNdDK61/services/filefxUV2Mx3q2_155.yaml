@@ -1,0 +1,8 @@
+service:
+  name: servicefQaSK2lowj
+  identifier: servicefQaSK2lowj
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

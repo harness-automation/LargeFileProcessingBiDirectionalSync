@@ -1,0 +1,8 @@
+service:
+  name: serviceoaMidcU12g
+  identifier: serviceoaMidcU12g
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

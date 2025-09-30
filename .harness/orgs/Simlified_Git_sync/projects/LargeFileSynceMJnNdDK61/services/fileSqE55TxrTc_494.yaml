@@ -1,0 +1,8 @@
+service:
+  name: serviceci3VM3FUTd
+  identifier: serviceci3VM3FUTd
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

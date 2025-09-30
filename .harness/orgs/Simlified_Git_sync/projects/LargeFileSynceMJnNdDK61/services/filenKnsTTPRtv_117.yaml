@@ -1,0 +1,8 @@
+service:
+  name: serviceWyzX4NAWa4
+  identifier: serviceWyzX4NAWa4
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

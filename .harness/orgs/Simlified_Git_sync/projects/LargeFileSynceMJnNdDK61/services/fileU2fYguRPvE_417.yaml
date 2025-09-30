@@ -1,0 +1,8 @@
+service:
+  name: serviceQLdv274LZS
+  identifier: serviceQLdv274LZS
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTcXTZ2iOir
+  identifier: serviceTcXTZ2iOir
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

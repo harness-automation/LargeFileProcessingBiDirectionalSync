@@ -1,0 +1,8 @@
+service:
+  name: serviceiA8796fWM6
+  identifier: serviceiA8796fWM6
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

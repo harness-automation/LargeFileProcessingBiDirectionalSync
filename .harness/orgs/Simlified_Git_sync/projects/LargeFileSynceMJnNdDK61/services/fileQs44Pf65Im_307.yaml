@@ -1,0 +1,8 @@
+service:
+  name: serviceos7wG8pPTI
+  identifier: serviceos7wG8pPTI
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

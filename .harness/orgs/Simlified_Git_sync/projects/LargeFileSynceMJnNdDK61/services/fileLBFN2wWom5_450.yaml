@@ -1,0 +1,8 @@
+service:
+  name: servicefg97ZT4nmq
+  identifier: servicefg97ZT4nmq
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

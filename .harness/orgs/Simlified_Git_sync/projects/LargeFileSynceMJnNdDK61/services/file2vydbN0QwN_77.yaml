@@ -1,0 +1,8 @@
+service:
+  name: servicecJkXTPM971
+  identifier: servicecJkXTPM971
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

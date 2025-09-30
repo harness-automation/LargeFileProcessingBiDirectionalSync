@@ -1,0 +1,8 @@
+service:
+  name: serviceNARAy6Ug1p
+  identifier: serviceNARAy6Ug1p
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

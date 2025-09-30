@@ -1,0 +1,8 @@
+service:
+  name: serviceevCmf46Njp
+  identifier: serviceevCmf46Njp
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicej1Fp950RIR
+  identifier: servicej1Fp950RIR
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

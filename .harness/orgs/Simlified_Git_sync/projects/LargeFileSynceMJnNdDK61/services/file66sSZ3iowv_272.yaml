@@ -1,0 +1,8 @@
+service:
+  name: servicePnx13SFZc1
+  identifier: servicePnx13SFZc1
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

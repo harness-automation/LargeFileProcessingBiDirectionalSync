@@ -1,0 +1,8 @@
+service:
+  name: service0xGXeCFjIp
+  identifier: service0xGXeCFjIp
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePXBr0hCIs3
+  identifier: servicePXBr0hCIs3
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

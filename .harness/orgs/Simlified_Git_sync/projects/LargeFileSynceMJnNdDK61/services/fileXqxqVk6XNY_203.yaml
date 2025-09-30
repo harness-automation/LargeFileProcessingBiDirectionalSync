@@ -1,0 +1,8 @@
+service:
+  name: serviceckS5Scnuht
+  identifier: serviceckS5Scnuht
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

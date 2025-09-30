@@ -1,0 +1,8 @@
+service:
+  name: service46RMl2AQie
+  identifier: service46RMl2AQie
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

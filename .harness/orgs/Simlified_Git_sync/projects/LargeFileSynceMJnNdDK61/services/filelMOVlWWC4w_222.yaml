@@ -1,0 +1,8 @@
+service:
+  name: servicezbglih4UK7
+  identifier: servicezbglih4UK7
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

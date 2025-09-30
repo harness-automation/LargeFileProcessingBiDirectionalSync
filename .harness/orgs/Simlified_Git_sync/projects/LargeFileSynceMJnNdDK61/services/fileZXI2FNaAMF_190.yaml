@@ -1,0 +1,8 @@
+service:
+  name: servicenBI8suGVma
+  identifier: servicenBI8suGVma
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

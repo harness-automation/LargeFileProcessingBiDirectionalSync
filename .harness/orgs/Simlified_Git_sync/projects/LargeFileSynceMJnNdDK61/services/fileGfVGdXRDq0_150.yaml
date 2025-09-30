@@ -1,0 +1,8 @@
+service:
+  name: servicefA47VSyZmS
+  identifier: servicefA47VSyZmS
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicedlnF9Ls8fs
+  identifier: servicedlnF9Ls8fs
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicevPrIo25DTK
+  identifier: servicevPrIo25DTK
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceNvtgVOIM3B
+  identifier: serviceNvtgVOIM3B
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

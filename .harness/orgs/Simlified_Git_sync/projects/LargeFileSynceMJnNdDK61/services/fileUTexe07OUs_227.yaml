@@ -1,0 +1,8 @@
+service:
+  name: serviceHO743fN1T4
+  identifier: serviceHO743fN1T4
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

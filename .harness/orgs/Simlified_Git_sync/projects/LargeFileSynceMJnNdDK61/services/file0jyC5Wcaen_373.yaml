@@ -1,0 +1,8 @@
+service:
+  name: serviceMXgqt61PoC
+  identifier: serviceMXgqt61PoC
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

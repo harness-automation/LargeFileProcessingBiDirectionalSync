@@ -1,0 +1,8 @@
+service:
+  name: servicepiMQbwiXv6
+  identifier: servicepiMQbwiXv6
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

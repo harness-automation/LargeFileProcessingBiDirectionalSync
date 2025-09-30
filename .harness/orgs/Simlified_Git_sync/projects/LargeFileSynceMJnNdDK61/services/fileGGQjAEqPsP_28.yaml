@@ -1,0 +1,8 @@
+service:
+  name: serviceNXx21SQDWq
+  identifier: serviceNXx21SQDWq
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

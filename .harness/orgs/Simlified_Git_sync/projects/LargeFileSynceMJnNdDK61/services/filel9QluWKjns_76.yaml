@@ -1,0 +1,8 @@
+service:
+  name: serviceXVAtPTDja4
+  identifier: serviceXVAtPTDja4
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

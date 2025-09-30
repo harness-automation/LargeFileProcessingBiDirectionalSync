@@ -1,0 +1,8 @@
+service:
+  name: serviceE3T7zVPm1A
+  identifier: serviceE3T7zVPm1A
+  projectIdentifier: LargeFileSynceMJnNdDK61
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
