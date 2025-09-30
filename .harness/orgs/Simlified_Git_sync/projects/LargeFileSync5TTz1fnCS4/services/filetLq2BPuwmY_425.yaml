@@ -1,0 +1,8 @@
+service:
+  name: serviceLg2RYOGHZb
+  identifier: serviceLg2RYOGHZb
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

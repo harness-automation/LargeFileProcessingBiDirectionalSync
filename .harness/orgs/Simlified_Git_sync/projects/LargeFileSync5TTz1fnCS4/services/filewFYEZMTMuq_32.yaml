@@ -1,0 +1,8 @@
+service:
+  name: serviceuo97Jt3sln
+  identifier: serviceuo97Jt3sln
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

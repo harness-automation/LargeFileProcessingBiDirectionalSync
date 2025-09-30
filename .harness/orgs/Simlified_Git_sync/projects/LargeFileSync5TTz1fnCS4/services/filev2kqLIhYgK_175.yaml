@@ -1,0 +1,8 @@
+service:
+  name: servicea91PpVawM6
+  identifier: servicea91PpVawM6
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

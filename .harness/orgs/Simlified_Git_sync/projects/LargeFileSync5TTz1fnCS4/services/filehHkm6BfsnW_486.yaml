@@ -1,0 +1,8 @@
+service:
+  name: servicefiotmtfu4R
+  identifier: servicefiotmtfu4R
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

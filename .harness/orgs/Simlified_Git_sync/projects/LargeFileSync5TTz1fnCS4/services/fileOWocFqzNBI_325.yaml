@@ -1,0 +1,8 @@
+service:
+  name: servicelMi48Io9cr
+  identifier: servicelMi48Io9cr
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

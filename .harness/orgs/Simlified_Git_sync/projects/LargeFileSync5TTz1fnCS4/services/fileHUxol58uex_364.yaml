@@ -1,0 +1,8 @@
+service:
+  name: serviceB8YMP4Dhz6
+  identifier: serviceB8YMP4Dhz6
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

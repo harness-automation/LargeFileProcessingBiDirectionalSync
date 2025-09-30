@@ -1,0 +1,8 @@
+service:
+  name: service1PdBIT0vSE
+  identifier: service1PdBIT0vSE
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

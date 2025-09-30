@@ -1,0 +1,8 @@
+service:
+  name: serviceFOTSt4e188
+  identifier: serviceFOTSt4e188
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicee42CzrWMQ9
+  identifier: servicee42CzrWMQ9
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

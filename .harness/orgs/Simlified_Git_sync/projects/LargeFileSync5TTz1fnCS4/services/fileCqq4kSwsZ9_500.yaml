@@ -1,0 +1,8 @@
+service:
+  name: serviceKmY23T2AtA
+  identifier: serviceKmY23T2AtA
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service2ITTP954RW
+  identifier: service2ITTP954RW
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

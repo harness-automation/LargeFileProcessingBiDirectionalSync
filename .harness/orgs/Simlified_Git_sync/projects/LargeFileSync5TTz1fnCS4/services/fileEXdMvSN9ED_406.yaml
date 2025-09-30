@@ -1,0 +1,8 @@
+service:
+  name: serviceDpik8KsFap
+  identifier: serviceDpik8KsFap
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

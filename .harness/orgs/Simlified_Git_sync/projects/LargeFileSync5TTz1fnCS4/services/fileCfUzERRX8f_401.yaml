@@ -1,0 +1,8 @@
+service:
+  name: servicengdxBp1fuA
+  identifier: servicengdxBp1fuA
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

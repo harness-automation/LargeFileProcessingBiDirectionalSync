@@ -1,0 +1,8 @@
+service:
+  name: servicee26J4U6pai
+  identifier: servicee26J4U6pai
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

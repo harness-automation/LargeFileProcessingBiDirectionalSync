@@ -1,0 +1,8 @@
+service:
+  name: servicesHL50NrKoo
+  identifier: servicesHL50NrKoo
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

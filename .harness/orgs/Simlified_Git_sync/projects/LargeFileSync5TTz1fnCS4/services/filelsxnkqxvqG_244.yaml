@@ -1,0 +1,8 @@
+service:
+  name: servicelDk5iBaPI1
+  identifier: servicelDk5iBaPI1
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

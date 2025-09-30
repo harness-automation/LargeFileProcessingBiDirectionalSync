@@ -1,0 +1,8 @@
+service:
+  name: serviceDypZAW1vVU
+  identifier: serviceDypZAW1vVU
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

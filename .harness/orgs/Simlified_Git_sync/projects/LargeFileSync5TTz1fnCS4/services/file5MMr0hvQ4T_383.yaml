@@ -1,0 +1,8 @@
+service:
+  name: serviceDgEMro4KX3
+  identifier: serviceDgEMro4KX3
+  projectIdentifier: LargeFileSync5TTz1fnCS4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
