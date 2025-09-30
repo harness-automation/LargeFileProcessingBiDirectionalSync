@@ -1,0 +1,8 @@
+service:
+  name: serviceIVr2KuULUo
+  identifier: serviceIVr2KuULUo
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

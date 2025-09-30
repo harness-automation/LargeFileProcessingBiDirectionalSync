@@ -1,0 +1,8 @@
+service:
+  name: service34LXG24KiK
+  identifier: service34LXG24KiK
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

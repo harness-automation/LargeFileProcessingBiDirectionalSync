@@ -1,0 +1,8 @@
+service:
+  name: serviceSrna3Go1pp
+  identifier: serviceSrna3Go1pp
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

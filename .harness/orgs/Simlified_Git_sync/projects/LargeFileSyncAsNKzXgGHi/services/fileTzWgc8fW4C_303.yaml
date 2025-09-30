@@ -1,0 +1,8 @@
+service:
+  name: serviceAR1urlcBqo
+  identifier: serviceAR1urlcBqo
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

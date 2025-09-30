@@ -1,0 +1,8 @@
+service:
+  name: serviceT8VPMe2cPL
+  identifier: serviceT8VPMe2cPL
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

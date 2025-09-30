@@ -1,0 +1,8 @@
+service:
+  name: servicemsSMdP2zon
+  identifier: servicemsSMdP2zon
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

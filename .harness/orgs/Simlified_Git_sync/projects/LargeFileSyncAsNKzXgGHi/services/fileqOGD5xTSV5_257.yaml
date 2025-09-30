@@ -1,0 +1,8 @@
+service:
+  name: serviceshABsyDpo3
+  identifier: serviceshABsyDpo3
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

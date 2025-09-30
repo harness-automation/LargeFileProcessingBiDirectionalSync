@@ -1,0 +1,8 @@
+service:
+  name: serviceUmYXLrexWM
+  identifier: serviceUmYXLrexWM
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

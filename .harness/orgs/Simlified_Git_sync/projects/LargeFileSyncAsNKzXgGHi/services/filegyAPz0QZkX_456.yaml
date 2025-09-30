@@ -1,0 +1,8 @@
+service:
+  name: serviceOqM5NdOEMl
+  identifier: serviceOqM5NdOEMl
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

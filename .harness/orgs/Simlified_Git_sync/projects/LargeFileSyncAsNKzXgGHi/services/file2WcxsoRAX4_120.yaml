@@ -1,0 +1,8 @@
+service:
+  name: service2LYes1NuQp
+  identifier: service2LYes1NuQp
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

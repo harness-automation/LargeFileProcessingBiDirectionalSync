@@ -1,0 +1,8 @@
+service:
+  name: serviceUDSNU3TTRl
+  identifier: serviceUDSNU3TTRl
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

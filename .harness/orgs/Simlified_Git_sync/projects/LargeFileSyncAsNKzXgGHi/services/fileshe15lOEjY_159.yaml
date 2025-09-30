@@ -1,0 +1,8 @@
+service:
+  name: service0aPL2IBmsO
+  identifier: service0aPL2IBmsO
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

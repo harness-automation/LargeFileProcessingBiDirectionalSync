@@ -1,0 +1,8 @@
+service:
+  name: servicelBog1U1N0r
+  identifier: servicelBog1U1N0r
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

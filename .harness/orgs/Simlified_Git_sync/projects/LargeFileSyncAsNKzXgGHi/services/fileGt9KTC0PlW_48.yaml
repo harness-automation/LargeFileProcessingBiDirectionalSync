@@ -1,0 +1,8 @@
+service:
+  name: servicegmYEM1VMH9
+  identifier: servicegmYEM1VMH9
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

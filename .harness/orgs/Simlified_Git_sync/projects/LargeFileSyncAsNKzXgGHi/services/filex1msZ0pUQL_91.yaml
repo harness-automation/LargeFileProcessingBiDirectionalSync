@@ -1,0 +1,8 @@
+service:
+  name: servicehDPn23nydk
+  identifier: servicehDPn23nydk
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

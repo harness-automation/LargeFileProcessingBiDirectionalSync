@@ -1,0 +1,8 @@
+service:
+  name: serviceGXbw36pcrj
+  identifier: serviceGXbw36pcrj
+  projectIdentifier: LargeFileSyncAsNKzXgGHi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
