@@ -1,0 +1,8 @@
+service:
+  name: servicecvhp7RPACQ
+  identifier: servicecvhp7RPACQ
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

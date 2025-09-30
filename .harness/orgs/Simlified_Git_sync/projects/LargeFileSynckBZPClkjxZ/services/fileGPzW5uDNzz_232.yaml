@@ -1,0 +1,8 @@
+service:
+  name: serviceMRnp970Lpm
+  identifier: serviceMRnp970Lpm
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

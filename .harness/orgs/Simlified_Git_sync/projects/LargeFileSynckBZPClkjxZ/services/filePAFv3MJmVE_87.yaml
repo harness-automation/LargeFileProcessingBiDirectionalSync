@@ -1,0 +1,8 @@
+service:
+  name: serviceXKuLtiOKau
+  identifier: serviceXKuLtiOKau
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

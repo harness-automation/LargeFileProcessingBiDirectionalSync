@@ -1,0 +1,8 @@
+service:
+  name: serviceRmPv1zDBnr
+  identifier: serviceRmPv1zDBnr
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

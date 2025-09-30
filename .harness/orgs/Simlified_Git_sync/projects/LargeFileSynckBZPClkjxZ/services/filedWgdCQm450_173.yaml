@@ -1,0 +1,8 @@
+service:
+  name: servicedGID11Ylph
+  identifier: servicedGID11Ylph
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

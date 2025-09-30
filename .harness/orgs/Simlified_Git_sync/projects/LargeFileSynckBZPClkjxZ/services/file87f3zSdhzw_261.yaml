@@ -1,0 +1,8 @@
+service:
+  name: servicemT5aMoERYr
+  identifier: servicemT5aMoERYr
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

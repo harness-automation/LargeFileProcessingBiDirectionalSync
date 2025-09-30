@@ -1,0 +1,8 @@
+service:
+  name: serviceXrnAol2vOj
+  identifier: serviceXrnAol2vOj
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

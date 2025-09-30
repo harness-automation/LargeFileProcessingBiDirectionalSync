@@ -1,0 +1,8 @@
+service:
+  name: serviceDSNA8yje56
+  identifier: serviceDSNA8yje56
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

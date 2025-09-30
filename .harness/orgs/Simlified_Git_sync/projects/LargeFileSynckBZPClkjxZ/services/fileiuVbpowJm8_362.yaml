@@ -1,0 +1,8 @@
+service:
+  name: servicebmspmX9E8z
+  identifier: servicebmspmX9E8z
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

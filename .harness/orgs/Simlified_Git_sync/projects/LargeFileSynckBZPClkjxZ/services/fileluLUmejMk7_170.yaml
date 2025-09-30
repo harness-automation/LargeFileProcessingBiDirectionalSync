@@ -1,0 +1,8 @@
+service:
+  name: serviceCcu4DiaizW
+  identifier: serviceCcu4DiaizW
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePQ5uEyeUmS
+  identifier: servicePQ5uEyeUmS
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

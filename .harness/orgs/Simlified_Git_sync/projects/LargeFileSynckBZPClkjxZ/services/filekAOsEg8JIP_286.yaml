@@ -1,0 +1,8 @@
+service:
+  name: serviceOSAcO3DUYU
+  identifier: serviceOSAcO3DUYU
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

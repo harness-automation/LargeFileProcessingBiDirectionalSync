@@ -1,0 +1,8 @@
+service:
+  name: serviceTYFPWCD4hv
+  identifier: serviceTYFPWCD4hv
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

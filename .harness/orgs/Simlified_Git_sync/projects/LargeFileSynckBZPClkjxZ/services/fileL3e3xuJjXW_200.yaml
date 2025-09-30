@@ -1,0 +1,8 @@
+service:
+  name: serviceCBzRyphL1I
+  identifier: serviceCBzRyphL1I
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

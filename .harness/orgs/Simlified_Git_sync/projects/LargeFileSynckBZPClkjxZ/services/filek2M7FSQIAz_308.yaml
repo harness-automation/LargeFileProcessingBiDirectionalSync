@@ -1,0 +1,8 @@
+service:
+  name: servicehfWQwHOMCD
+  identifier: servicehfWQwHOMCD
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

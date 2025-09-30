@@ -1,0 +1,8 @@
+service:
+  name: servicets2AuSFA4m
+  identifier: servicets2AuSFA4m
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

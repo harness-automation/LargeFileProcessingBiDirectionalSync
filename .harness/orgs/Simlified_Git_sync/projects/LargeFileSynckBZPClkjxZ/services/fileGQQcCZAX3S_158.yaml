@@ -1,0 +1,8 @@
+service:
+  name: serviceS2DUrTHRoW
+  identifier: serviceS2DUrTHRoW
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

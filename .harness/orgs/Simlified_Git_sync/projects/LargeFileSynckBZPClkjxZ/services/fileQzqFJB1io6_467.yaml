@@ -1,0 +1,8 @@
+service:
+  name: servicebo2cSCC4b2
+  identifier: servicebo2cSCC4b2
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

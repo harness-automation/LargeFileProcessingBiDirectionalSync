@@ -1,0 +1,8 @@
+service:
+  name: serviceI689GMTODK
+  identifier: serviceI689GMTODK
+  projectIdentifier: LargeFileSynckBZPClkjxZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
