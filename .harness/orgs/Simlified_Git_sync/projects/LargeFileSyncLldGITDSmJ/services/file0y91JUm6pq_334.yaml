@@ -1,0 +1,8 @@
+service:
+  name: serviceclkA6cFS4J
+  identifier: serviceclkA6cFS4J
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

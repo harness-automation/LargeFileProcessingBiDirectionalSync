@@ -1,0 +1,8 @@
+service:
+  name: servicevbcWRg2GlD
+  identifier: servicevbcWRg2GlD
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

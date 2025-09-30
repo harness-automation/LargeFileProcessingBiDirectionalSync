@@ -1,0 +1,8 @@
+service:
+  name: servicepyMPsU7qRm
+  identifier: servicepyMPsU7qRm
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

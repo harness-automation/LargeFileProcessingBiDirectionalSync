@@ -1,0 +1,8 @@
+service:
+  name: servicehzdgku7IiA
+  identifier: servicehzdgku7IiA
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

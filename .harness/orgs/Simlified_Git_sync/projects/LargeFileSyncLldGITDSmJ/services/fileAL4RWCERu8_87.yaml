@@ -1,0 +1,8 @@
+service:
+  name: servicegen7PutfPC
+  identifier: servicegen7PutfPC
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

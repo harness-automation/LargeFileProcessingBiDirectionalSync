@@ -1,0 +1,8 @@
+service:
+  name: serviceOcphw1VXa5
+  identifier: serviceOcphw1VXa5
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

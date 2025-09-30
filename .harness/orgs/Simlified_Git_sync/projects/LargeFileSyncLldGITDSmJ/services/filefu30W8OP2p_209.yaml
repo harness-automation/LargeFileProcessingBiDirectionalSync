@@ -1,0 +1,8 @@
+service:
+  name: serviceqELYsF10Tz
+  identifier: serviceqELYsF10Tz
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

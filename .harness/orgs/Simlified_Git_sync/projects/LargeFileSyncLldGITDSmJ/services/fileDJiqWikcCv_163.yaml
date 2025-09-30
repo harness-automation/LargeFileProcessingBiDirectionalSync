@@ -1,0 +1,8 @@
+service:
+  name: servicezTdMys4DYS
+  identifier: servicezTdMys4DYS
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

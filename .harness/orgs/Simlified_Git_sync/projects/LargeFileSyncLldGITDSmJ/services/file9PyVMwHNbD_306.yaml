@@ -1,0 +1,8 @@
+service:
+  name: servicePBSrvQhn10
+  identifier: servicePBSrvQhn10
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePUDkhdv4vM
+  identifier: servicePUDkhdv4vM
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

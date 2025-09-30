@@ -1,0 +1,8 @@
+service:
+  name: serviceEpkgITt0Fn
+  identifier: serviceEpkgITt0Fn
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

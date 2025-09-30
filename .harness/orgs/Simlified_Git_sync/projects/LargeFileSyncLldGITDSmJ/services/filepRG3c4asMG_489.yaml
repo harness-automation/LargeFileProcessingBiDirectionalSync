@@ -1,0 +1,8 @@
+service:
+  name: serviceRvySFi90o8
+  identifier: serviceRvySFi90o8
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service9MEXE20LBM
+  identifier: service9MEXE20LBM
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

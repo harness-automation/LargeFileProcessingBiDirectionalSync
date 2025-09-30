@@ -1,0 +1,8 @@
+service:
+  name: servicer9NbrVAN4S
+  identifier: servicer9NbrVAN4S
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

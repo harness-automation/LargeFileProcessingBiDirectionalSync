@@ -1,0 +1,8 @@
+service:
+  name: servicebmf6fA2slf
+  identifier: servicebmf6fA2slf
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

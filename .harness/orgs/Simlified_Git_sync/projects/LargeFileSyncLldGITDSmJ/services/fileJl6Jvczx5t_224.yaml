@@ -1,0 +1,8 @@
+service:
+  name: serviceoCDvkforQR
+  identifier: serviceoCDvkforQR
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

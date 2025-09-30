@@ -1,0 +1,8 @@
+service:
+  name: servicerz5833xURa
+  identifier: servicerz5833xURa
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

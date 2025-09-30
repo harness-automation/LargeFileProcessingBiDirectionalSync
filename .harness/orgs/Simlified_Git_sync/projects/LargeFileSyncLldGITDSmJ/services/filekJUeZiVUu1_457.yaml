@@ -1,0 +1,8 @@
+service:
+  name: servicemgfFzrog6s
+  identifier: servicemgfFzrog6s
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

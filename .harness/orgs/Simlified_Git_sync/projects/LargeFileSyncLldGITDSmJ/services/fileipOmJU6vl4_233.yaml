@@ -1,0 +1,8 @@
+service:
+  name: serviceuCHpuD58mB
+  identifier: serviceuCHpuD58mB
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceDvcrlJsDfV
+  identifier: serviceDvcrlJsDfV
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

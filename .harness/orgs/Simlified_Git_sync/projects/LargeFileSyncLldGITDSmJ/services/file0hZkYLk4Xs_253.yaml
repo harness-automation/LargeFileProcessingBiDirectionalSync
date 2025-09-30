@@ -1,0 +1,8 @@
+service:
+  name: service4WodN8vi8w
+  identifier: service4WodN8vi8w
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicemfgiml5qnE
+  identifier: servicemfgiml5qnE
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

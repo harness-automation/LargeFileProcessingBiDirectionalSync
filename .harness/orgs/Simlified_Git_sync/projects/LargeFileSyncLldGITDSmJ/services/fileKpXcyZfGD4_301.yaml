@@ -1,0 +1,8 @@
+service:
+  name: servicerCweG5OGEv
+  identifier: servicerCweG5OGEv
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

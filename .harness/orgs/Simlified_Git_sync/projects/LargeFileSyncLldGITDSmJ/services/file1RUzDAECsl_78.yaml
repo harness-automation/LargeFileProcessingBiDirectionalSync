@@ -1,0 +1,8 @@
+service:
+  name: servicewiBvN1LFCs
+  identifier: servicewiBvN1LFCs
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

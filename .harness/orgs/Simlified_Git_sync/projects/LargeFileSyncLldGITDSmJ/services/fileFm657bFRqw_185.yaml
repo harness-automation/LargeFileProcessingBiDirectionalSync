@@ -1,0 +1,8 @@
+service:
+  name: serviceFERCs4WzHk
+  identifier: serviceFERCs4WzHk
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

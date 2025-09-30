@@ -1,0 +1,8 @@
+service:
+  name: serviceLSvOnfPESO
+  identifier: serviceLSvOnfPESO
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

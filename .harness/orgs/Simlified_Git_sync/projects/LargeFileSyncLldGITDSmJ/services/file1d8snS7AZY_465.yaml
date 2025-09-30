@@ -1,0 +1,8 @@
+service:
+  name: service7u4MVXiroN
+  identifier: service7u4MVXiroN
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

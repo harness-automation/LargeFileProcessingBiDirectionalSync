@@ -1,0 +1,8 @@
+service:
+  name: servicercVz7jzxVv
+  identifier: servicercVz7jzxVv
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

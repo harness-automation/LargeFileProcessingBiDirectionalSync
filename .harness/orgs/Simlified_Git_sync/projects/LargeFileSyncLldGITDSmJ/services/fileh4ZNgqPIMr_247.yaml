@@ -1,0 +1,8 @@
+service:
+  name: serviceP35ZSAztnb
+  identifier: serviceP35ZSAztnb
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

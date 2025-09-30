@@ -1,0 +1,8 @@
+service:
+  name: serviceMtRbIMpPJ1
+  identifier: serviceMtRbIMpPJ1
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

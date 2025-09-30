@@ -1,0 +1,8 @@
+service:
+  name: service3SecRlSIdL
+  identifier: service3SecRlSIdL
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

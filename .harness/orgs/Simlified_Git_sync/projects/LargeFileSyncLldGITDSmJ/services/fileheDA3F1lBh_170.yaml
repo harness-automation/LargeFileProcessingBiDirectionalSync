@@ -1,0 +1,8 @@
+service:
+  name: serviceocRu1jgF71
+  identifier: serviceocRu1jgF71
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

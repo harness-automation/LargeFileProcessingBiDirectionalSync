@@ -1,0 +1,8 @@
+service:
+  name: serviceZMcoS8LPYD
+  identifier: serviceZMcoS8LPYD
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

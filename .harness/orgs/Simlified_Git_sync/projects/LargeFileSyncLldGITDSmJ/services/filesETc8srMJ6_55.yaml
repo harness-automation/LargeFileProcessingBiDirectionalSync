@@ -1,0 +1,8 @@
+service:
+  name: serviceZghaS38NQA
+  identifier: serviceZghaS38NQA
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

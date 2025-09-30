@@ -1,0 +1,8 @@
+service:
+  name: servicebuOriV8LLW
+  identifier: servicebuOriV8LLW
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

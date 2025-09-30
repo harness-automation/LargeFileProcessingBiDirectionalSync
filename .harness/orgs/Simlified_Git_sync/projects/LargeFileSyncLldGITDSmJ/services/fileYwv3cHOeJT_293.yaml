@@ -1,0 +1,8 @@
+service:
+  name: service78C60PuevC
+  identifier: service78C60PuevC
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

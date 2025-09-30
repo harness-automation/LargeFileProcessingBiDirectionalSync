@@ -1,0 +1,8 @@
+service:
+  name: servicehDVZE5rLMp
+  identifier: servicehDVZE5rLMp
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

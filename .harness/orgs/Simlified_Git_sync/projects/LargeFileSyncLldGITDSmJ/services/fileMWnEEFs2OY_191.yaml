@@ -1,0 +1,8 @@
+service:
+  name: service4DrplFATUx
+  identifier: service4DrplFATUx
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

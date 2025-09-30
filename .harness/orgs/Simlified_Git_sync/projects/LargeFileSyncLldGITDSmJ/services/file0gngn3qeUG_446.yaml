@@ -1,0 +1,8 @@
+service:
+  name: serviceXt1AMBFmif
+  identifier: serviceXt1AMBFmif
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

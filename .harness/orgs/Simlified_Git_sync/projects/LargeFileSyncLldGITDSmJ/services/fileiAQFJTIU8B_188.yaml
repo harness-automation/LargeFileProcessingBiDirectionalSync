@@ -1,0 +1,8 @@
+service:
+  name: serviceDfdaDjNtB7
+  identifier: serviceDfdaDjNtB7
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

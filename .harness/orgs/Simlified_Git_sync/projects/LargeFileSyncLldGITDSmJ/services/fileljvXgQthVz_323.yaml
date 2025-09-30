@@ -1,0 +1,8 @@
+service:
+  name: serviced4Ep030w6I
+  identifier: serviced4Ep030w6I
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

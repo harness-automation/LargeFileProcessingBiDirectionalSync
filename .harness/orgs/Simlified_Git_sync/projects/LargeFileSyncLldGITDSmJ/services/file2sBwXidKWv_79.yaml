@@ -1,0 +1,8 @@
+service:
+  name: servicewotpenTc5T
+  identifier: servicewotpenTc5T
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

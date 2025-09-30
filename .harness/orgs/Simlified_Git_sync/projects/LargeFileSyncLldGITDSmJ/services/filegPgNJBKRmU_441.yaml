@@ -1,0 +1,8 @@
+service:
+  name: serviceDvIpo2Ba4J
+  identifier: serviceDvIpo2Ba4J
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicem73vc6HEiQ
+  identifier: servicem73vc6HEiQ
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service25nCt2Sbmb
+  identifier: service25nCt2Sbmb
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

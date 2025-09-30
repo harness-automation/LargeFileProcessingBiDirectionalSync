@@ -1,0 +1,8 @@
+service:
+  name: serviceCoSILQG1MW
+  identifier: serviceCoSILQG1MW
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

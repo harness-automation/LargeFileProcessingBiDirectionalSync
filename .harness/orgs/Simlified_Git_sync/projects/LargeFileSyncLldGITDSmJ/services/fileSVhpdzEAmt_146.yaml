@@ -1,0 +1,8 @@
+service:
+  name: servicepKP1aBKTcL
+  identifier: servicepKP1aBKTcL
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

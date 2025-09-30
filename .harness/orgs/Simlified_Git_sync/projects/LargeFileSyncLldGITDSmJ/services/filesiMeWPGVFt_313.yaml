@@ -1,0 +1,8 @@
+service:
+  name: serviceT7ly4LJMP1
+  identifier: serviceT7ly4LJMP1
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceNUNVzNeKBv
+  identifier: serviceNUNVzNeKBv
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

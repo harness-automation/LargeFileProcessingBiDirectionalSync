@@ -1,0 +1,8 @@
+service:
+  name: serviceWPPj7wzQoa
+  identifier: serviceWPPj7wzQoa
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

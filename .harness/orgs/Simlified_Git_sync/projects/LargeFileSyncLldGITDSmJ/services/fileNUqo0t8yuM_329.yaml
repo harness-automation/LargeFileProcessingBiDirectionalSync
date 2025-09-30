@@ -1,0 +1,8 @@
+service:
+  name: serviceLIO13WXCJ2
+  identifier: serviceLIO13WXCJ2
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

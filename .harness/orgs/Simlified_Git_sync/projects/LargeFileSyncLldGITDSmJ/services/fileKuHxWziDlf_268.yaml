@@ -1,0 +1,8 @@
+service:
+  name: serviceJ76UsMqC2L
+  identifier: serviceJ76UsMqC2L
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

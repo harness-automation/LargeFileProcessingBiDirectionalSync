@@ -1,0 +1,8 @@
+service:
+  name: serviced2he0CaBrO
+  identifier: serviced2he0CaBrO
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

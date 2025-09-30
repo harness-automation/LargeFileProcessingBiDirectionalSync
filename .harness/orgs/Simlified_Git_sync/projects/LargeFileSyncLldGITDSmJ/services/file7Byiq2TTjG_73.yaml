@@ -1,0 +1,8 @@
+service:
+  name: serviceMfsD5xHB25
+  identifier: serviceMfsD5xHB25
+  projectIdentifier: LargeFileSyncLldGITDSmJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
