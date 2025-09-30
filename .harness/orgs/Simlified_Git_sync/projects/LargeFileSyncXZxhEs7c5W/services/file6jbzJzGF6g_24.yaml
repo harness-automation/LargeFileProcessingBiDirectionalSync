@@ -1,0 +1,8 @@
+service:
+  name: servicetluoAVE9M8
+  identifier: servicetluoAVE9M8
+  projectIdentifier: LargeFileSyncXZxhEs7c5W
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

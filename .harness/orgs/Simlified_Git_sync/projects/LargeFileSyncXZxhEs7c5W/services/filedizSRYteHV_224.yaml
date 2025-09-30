@@ -1,0 +1,8 @@
+service:
+  name: serviceL2ap96mKns
+  identifier: serviceL2ap96mKns
+  projectIdentifier: LargeFileSyncXZxhEs7c5W
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

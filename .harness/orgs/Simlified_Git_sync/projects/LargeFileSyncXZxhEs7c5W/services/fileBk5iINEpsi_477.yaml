@@ -1,0 +1,8 @@
+service:
+  name: servicepdsFOD2uIs
+  identifier: servicepdsFOD2uIs
+  projectIdentifier: LargeFileSyncXZxhEs7c5W
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

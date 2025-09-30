@@ -1,0 +1,8 @@
+service:
+  name: servicexKR4451mud
+  identifier: servicexKR4451mud
+  projectIdentifier: LargeFileSyncXZxhEs7c5W
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
