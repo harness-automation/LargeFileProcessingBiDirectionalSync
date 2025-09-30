@@ -1,0 +1,8 @@
+service:
+  name: servicetEmrFDn50E
+  identifier: servicetEmrFDn50E
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

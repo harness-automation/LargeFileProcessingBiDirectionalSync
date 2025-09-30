@@ -1,0 +1,8 @@
+service:
+  name: servicePFNtS32hDo
+  identifier: servicePFNtS32hDo
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

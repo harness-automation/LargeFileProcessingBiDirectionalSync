@@ -1,0 +1,8 @@
+service:
+  name: serviceaXLRVCA4Ro
+  identifier: serviceaXLRVCA4Ro
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

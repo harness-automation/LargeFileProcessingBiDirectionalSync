@@ -1,0 +1,8 @@
+service:
+  name: servicePvOVmm15cI
+  identifier: servicePvOVmm15cI
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

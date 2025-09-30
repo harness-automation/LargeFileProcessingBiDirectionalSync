@@ -1,0 +1,8 @@
+service:
+  name: serviceWQTGP9Gnuf
+  identifier: serviceWQTGP9Gnuf
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

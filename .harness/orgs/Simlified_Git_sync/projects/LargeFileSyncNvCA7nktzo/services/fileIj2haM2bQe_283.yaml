@@ -1,0 +1,8 @@
+service:
+  name: serviceFZ9mfLigdl
+  identifier: serviceFZ9mfLigdl
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

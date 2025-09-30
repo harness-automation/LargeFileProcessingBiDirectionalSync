@@ -1,0 +1,8 @@
+service:
+  name: service8E219NF4EN
+  identifier: service8E219NF4EN
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

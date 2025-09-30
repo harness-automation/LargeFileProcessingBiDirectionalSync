@@ -1,0 +1,8 @@
+service:
+  name: serviceb98DcThgtI
+  identifier: serviceb98DcThgtI
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

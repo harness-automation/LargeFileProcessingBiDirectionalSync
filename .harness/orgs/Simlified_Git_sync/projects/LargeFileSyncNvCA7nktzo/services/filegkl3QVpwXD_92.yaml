@@ -1,0 +1,8 @@
+service:
+  name: servicepg82S3ofZe
+  identifier: servicepg82S3ofZe
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

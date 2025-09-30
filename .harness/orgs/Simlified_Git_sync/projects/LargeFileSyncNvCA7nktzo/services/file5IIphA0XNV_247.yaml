@@ -1,0 +1,8 @@
+service:
+  name: servicelZg4N35MCi
+  identifier: servicelZg4N35MCi
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

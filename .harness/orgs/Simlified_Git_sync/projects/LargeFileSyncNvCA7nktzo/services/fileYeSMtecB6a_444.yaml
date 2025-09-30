@@ -1,0 +1,8 @@
+service:
+  name: servicefsOH0MuOA5
+  identifier: servicefsOH0MuOA5
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

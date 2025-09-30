@@ -1,0 +1,8 @@
+service:
+  name: serviceU7iBTpeyte
+  identifier: serviceU7iBTpeyte
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

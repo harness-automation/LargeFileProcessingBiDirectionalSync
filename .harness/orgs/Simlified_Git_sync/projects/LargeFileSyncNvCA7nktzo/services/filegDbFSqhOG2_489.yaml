@@ -1,0 +1,8 @@
+service:
+  name: serviceb59WGFaWMO
+  identifier: serviceb59WGFaWMO
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

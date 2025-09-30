@@ -1,0 +1,8 @@
+service:
+  name: servicekA68HnEewl
+  identifier: servicekA68HnEewl
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

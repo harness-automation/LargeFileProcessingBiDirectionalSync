@@ -1,0 +1,8 @@
+service:
+  name: serviceyaVu4TAksi
+  identifier: serviceyaVu4TAksi
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

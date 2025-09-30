@@ -1,0 +1,8 @@
+service:
+  name: service1DpilMMeIl
+  identifier: service1DpilMMeIl
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

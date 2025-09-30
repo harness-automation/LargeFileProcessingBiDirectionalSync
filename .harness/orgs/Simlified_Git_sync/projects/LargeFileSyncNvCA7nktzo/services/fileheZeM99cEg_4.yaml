@@ -1,0 +1,8 @@
+service:
+  name: serviceEHPaJ5Py3S
+  identifier: serviceEHPaJ5Py3S
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

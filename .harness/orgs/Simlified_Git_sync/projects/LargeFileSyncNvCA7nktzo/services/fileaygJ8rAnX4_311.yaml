@@ -1,0 +1,8 @@
+service:
+  name: serviceWsg2WtjApR
+  identifier: serviceWsg2WtjApR
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

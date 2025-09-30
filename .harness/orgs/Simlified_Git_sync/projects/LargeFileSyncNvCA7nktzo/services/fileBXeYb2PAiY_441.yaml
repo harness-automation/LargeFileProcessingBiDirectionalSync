@@ -1,0 +1,8 @@
+service:
+  name: service3d46PPJl14
+  identifier: service3d46PPJl14
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceZmtArsLl7W
+  identifier: serviceZmtArsLl7W
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

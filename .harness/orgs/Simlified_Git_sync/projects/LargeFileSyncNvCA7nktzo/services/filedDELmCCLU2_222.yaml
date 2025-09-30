@@ -1,0 +1,8 @@
+service:
+  name: serviceHnSHLu1Fup
+  identifier: serviceHnSHLu1Fup
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

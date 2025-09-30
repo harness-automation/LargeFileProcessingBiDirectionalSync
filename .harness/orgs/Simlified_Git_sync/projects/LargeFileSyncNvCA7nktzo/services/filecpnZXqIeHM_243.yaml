@@ -1,0 +1,8 @@
+service:
+  name: serviceHQZ051T61R
+  identifier: serviceHQZ051T61R
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

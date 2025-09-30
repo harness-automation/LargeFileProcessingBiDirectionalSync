@@ -1,0 +1,8 @@
+service:
+  name: servicej2MPAuCFmN
+  identifier: servicej2MPAuCFmN
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

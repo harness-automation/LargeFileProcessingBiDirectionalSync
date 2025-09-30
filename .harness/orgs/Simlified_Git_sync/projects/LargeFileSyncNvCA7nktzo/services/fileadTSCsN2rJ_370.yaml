@@ -1,0 +1,8 @@
+service:
+  name: serviceJaYop46imk
+  identifier: serviceJaYop46imk
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

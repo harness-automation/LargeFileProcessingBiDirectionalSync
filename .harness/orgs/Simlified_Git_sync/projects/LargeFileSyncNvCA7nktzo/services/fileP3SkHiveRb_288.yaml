@@ -1,0 +1,8 @@
+service:
+  name: servicea3v021cIhz
+  identifier: servicea3v021cIhz
+  projectIdentifier: LargeFileSyncNvCA7nktzo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
