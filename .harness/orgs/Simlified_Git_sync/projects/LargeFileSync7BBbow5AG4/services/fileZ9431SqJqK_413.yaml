@@ -1,0 +1,8 @@
+service:
+  name: servicex345awl3aq
+  identifier: servicex345awl3aq
+  projectIdentifier: LargeFileSync7BBbow5AG4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

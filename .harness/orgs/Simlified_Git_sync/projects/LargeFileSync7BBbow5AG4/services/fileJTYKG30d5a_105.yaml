@@ -1,0 +1,8 @@
+service:
+  name: service1RFYOLipuX
+  identifier: service1RFYOLipuX
+  projectIdentifier: LargeFileSync7BBbow5AG4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

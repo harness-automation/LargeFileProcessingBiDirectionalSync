@@ -1,0 +1,8 @@
+service:
+  name: service8eOCex2k1U
+  identifier: service8eOCex2k1U
+  projectIdentifier: LargeFileSync7BBbow5AG4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

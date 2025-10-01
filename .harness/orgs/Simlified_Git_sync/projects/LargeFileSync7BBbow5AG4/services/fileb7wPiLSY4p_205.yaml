@@ -1,0 +1,8 @@
+service:
+  name: serviceZL97L96FID
+  identifier: serviceZL97L96FID
+  projectIdentifier: LargeFileSync7BBbow5AG4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

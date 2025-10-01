@@ -1,0 +1,8 @@
+service:
+  name: serviceHZPXg2pHtb
+  identifier: serviceHZPXg2pHtb
+  projectIdentifier: LargeFileSync7BBbow5AG4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

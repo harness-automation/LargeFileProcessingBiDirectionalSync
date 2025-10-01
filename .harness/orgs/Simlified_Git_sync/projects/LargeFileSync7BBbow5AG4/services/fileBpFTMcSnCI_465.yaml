@@ -1,0 +1,8 @@
+service:
+  name: service56Gc776jvf
+  identifier: service56Gc776jvf
+  projectIdentifier: LargeFileSync7BBbow5AG4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

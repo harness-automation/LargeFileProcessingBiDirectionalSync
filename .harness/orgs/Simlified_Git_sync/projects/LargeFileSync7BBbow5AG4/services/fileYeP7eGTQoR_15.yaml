@@ -1,0 +1,8 @@
+service:
+  name: serviceRPA0vi80GT
+  identifier: serviceRPA0vi80GT
+  projectIdentifier: LargeFileSync7BBbow5AG4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

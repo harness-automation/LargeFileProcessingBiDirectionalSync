@@ -1,0 +1,8 @@
+service:
+  name: servicePluP52Hm2c
+  identifier: servicePluP52Hm2c
+  projectIdentifier: LargeFileSync7BBbow5AG4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
