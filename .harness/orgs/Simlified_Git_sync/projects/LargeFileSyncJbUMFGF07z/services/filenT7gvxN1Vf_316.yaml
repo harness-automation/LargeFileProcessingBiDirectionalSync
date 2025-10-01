@@ -1,0 +1,8 @@
+service:
+  name: serviceeu80CKtMP7
+  identifier: serviceeu80CKtMP7
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

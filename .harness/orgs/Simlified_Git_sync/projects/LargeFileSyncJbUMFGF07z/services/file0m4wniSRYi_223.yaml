@@ -1,0 +1,8 @@
+service:
+  name: servicerad0eRYZIm
+  identifier: servicerad0eRYZIm
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

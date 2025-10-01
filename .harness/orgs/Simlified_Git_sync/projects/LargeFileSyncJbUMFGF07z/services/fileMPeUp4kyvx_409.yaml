@@ -1,0 +1,8 @@
+service:
+  name: serviceMyS2y0aFTB
+  identifier: serviceMyS2y0aFTB
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

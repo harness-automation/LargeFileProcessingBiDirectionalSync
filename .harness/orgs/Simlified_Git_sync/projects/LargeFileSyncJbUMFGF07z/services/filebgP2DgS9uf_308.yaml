@@ -1,0 +1,8 @@
+service:
+  name: service29c2MIFKOH
+  identifier: service29c2MIFKOH
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicegWSUBtk3IL
+  identifier: servicegWSUBtk3IL
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

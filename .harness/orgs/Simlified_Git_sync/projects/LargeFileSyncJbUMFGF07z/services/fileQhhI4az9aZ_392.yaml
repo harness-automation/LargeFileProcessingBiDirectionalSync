@@ -1,0 +1,8 @@
+service:
+  name: serviceaqVGS51ApX
+  identifier: serviceaqVGS51ApX
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePmBly1q54k
+  identifier: servicePmBly1q54k
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

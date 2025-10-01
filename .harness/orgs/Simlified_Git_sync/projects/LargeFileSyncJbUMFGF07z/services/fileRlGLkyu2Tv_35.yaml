@@ -1,0 +1,8 @@
+service:
+  name: serviceAbs4Sp7xnn
+  identifier: serviceAbs4Sp7xnn
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

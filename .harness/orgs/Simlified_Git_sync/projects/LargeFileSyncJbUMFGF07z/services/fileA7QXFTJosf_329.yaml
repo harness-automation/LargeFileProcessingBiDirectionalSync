@@ -1,0 +1,8 @@
+service:
+  name: serviceOPFtlaC6Wd
+  identifier: serviceOPFtlaC6Wd
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

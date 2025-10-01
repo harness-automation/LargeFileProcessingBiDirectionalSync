@@ -1,0 +1,8 @@
+service:
+  name: servicefxIB2d0TcH
+  identifier: servicefxIB2d0TcH
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

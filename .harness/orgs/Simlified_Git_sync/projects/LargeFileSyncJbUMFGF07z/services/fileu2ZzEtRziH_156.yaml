@@ -1,0 +1,8 @@
+service:
+  name: servicegpT2JTMnhA
+  identifier: servicegpT2JTMnhA
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

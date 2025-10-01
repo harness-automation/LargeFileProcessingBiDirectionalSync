@@ -1,0 +1,8 @@
+service:
+  name: serviceBobzLMohVh
+  identifier: serviceBobzLMohVh
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicezQERIFT65t
+  identifier: servicezQERIFT65t
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

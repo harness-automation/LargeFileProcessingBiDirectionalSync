@@ -1,0 +1,8 @@
+service:
+  name: servicezBoVtchDMO
+  identifier: servicezBoVtchDMO
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

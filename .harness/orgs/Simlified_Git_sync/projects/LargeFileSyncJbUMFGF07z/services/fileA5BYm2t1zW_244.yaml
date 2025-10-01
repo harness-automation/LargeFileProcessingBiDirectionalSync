@@ -1,0 +1,8 @@
+service:
+  name: serviceArk1jxsUC6
+  identifier: serviceArk1jxsUC6
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

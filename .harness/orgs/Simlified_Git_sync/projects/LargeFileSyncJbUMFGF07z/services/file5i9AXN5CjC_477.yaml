@@ -1,0 +1,8 @@
+service:
+  name: serviceHLY98psGeK
+  identifier: serviceHLY98psGeK
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicekCTMAFS8mY
+  identifier: servicekCTMAFS8mY
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicem4CS526n3W
+  identifier: servicem4CS526n3W
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

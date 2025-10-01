@@ -1,0 +1,8 @@
+service:
+  name: servicezqag1USsAF
+  identifier: servicezqag1USsAF
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

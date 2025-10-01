@@ -1,0 +1,8 @@
+service:
+  name: serviceTW1CDPuPBA
+  identifier: serviceTW1CDPuPBA
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceIgavEmvqGn
+  identifier: serviceIgavEmvqGn
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

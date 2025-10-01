@@ -1,0 +1,8 @@
+service:
+  name: serviceuiogAlzm1S
+  identifier: serviceuiogAlzm1S
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

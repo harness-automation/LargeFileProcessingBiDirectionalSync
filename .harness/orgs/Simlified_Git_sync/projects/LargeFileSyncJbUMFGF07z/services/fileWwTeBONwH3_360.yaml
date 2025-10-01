@@ -1,0 +1,8 @@
+service:
+  name: servicenAhUliCON8
+  identifier: servicenAhUliCON8
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAPBAsZ4Ew1
+  identifier: serviceAPBAsZ4Ew1
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

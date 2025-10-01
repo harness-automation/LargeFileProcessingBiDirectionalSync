@@ -1,0 +1,8 @@
+service:
+  name: servicedpux54ojbj
+  identifier: servicedpux54ojbj
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

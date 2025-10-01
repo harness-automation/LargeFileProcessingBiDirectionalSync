@@ -1,0 +1,8 @@
+service:
+  name: serviceQECmcK75Pm
+  identifier: serviceQECmcK75Pm
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

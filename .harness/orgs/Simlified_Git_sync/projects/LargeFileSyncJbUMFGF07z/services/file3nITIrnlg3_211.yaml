@@ -1,0 +1,8 @@
+service:
+  name: servicecQpFN2DiVM
+  identifier: servicecQpFN2DiVM
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicem110Ud5QTa
+  identifier: servicem110Ud5QTa
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

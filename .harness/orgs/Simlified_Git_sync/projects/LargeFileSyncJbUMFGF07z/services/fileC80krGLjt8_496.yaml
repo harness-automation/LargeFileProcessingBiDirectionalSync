@@ -1,0 +1,8 @@
+service:
+  name: serviceocpp42n95o
+  identifier: serviceocpp42n95o
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicefr2yw82WH1
+  identifier: servicefr2yw82WH1
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

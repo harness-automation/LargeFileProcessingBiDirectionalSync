@@ -1,0 +1,8 @@
+service:
+  name: servicewSR51maWeZ
+  identifier: servicewSR51maWeZ
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

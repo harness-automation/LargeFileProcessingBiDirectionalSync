@@ -1,0 +1,8 @@
+service:
+  name: servicep37BHus2R6
+  identifier: servicep37BHus2R6
+  projectIdentifier: LargeFileSyncJbUMFGF07z
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
