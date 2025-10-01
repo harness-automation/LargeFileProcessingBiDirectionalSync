@@ -1,0 +1,8 @@
+service:
+  name: serviceNDR3wrHUpp
+  identifier: serviceNDR3wrHUpp
+  projectIdentifier: LargeFileSyncy6kkVQRhGA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

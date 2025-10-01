@@ -1,0 +1,8 @@
+service:
+  name: serviceTI3kWFVtlR
+  identifier: serviceTI3kWFVtlR
+  projectIdentifier: LargeFileSyncy6kkVQRhGA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

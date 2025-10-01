@@ -1,0 +1,8 @@
+service:
+  name: serviceCBDHT12hsw
+  identifier: serviceCBDHT12hsw
+  projectIdentifier: LargeFileSyncy6kkVQRhGA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

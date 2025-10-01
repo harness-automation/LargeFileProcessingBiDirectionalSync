@@ -1,0 +1,8 @@
+service:
+  name: servicennbi61RWl2
+  identifier: servicennbi61RWl2
+  projectIdentifier: LargeFileSyncy6kkVQRhGA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

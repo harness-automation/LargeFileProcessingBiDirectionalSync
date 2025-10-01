@@ -1,0 +1,8 @@
+service:
+  name: serviceoNVNx06v1e
+  identifier: serviceoNVNx06v1e
+  projectIdentifier: LargeFileSyncy6kkVQRhGA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

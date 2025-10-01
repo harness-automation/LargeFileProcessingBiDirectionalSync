@@ -1,0 +1,8 @@
+service:
+  name: serviceNXVPr03GmS
+  identifier: serviceNXVPr03GmS
+  projectIdentifier: LargeFileSyncy6kkVQRhGA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

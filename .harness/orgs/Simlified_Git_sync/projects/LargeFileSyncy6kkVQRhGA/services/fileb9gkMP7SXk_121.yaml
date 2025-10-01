@@ -1,0 +1,8 @@
+service:
+  name: serviceOdfV1rpxy2
+  identifier: serviceOdfV1rpxy2
+  projectIdentifier: LargeFileSyncy6kkVQRhGA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFp1MIVBjWR
+  identifier: serviceFp1MIVBjWR
+  projectIdentifier: LargeFileSyncy6kkVQRhGA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicerUEyitNajd
+  identifier: servicerUEyitNajd
+  projectIdentifier: LargeFileSyncy6kkVQRhGA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

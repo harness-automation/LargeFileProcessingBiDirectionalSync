@@ -1,0 +1,8 @@
+service:
+  name: serviceue24VTm2AT
+  identifier: serviceue24VTm2AT
+  projectIdentifier: LargeFileSyncy6kkVQRhGA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

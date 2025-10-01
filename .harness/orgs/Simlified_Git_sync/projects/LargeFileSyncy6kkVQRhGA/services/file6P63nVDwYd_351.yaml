@@ -1,0 +1,8 @@
+service:
+  name: servicegst437tB00
+  identifier: servicegst437tB00
+  projectIdentifier: LargeFileSyncy6kkVQRhGA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
