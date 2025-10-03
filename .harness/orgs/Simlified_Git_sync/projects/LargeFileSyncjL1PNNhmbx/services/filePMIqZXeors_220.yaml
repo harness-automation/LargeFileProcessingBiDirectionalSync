@@ -1,0 +1,8 @@
+service:
+  name: serviceLsk2dpMwgk
+  identifier: serviceLsk2dpMwgk
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

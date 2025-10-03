@@ -1,0 +1,8 @@
+service:
+  name: serviceMadNL4Vrkh
+  identifier: serviceMadNL4Vrkh
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

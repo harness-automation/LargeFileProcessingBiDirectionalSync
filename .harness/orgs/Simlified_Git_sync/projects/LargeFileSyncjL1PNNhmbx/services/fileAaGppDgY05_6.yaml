@@ -1,0 +1,8 @@
+service:
+  name: serviceiesKfpohtr
+  identifier: serviceiesKfpohtr
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

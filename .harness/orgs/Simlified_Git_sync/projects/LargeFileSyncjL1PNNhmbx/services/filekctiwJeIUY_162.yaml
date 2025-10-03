@@ -1,0 +1,8 @@
+service:
+  name: service6ARRFOUP3k
+  identifier: service6ARRFOUP3k
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

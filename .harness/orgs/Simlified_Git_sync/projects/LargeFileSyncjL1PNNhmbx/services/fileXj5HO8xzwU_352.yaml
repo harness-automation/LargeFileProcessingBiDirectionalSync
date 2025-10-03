@@ -1,0 +1,8 @@
+service:
+  name: servicedRZ103vf8P
+  identifier: servicedRZ103vf8P
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

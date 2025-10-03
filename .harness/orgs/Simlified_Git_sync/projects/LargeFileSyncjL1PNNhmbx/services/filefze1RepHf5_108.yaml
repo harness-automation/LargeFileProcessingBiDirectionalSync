@@ -1,0 +1,8 @@
+service:
+  name: serviceMvrCE1Y901
+  identifier: serviceMvrCE1Y901
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

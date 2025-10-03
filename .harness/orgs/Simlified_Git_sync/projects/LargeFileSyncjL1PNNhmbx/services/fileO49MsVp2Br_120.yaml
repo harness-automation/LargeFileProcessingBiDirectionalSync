@@ -1,0 +1,8 @@
+service:
+  name: serviceaviu9cy1ub
+  identifier: serviceaviu9cy1ub
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

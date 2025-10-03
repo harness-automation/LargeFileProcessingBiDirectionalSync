@@ -1,0 +1,8 @@
+service:
+  name: service4BiorcckNT
+  identifier: service4BiorcckNT
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

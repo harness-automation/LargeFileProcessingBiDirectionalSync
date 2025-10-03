@@ -1,0 +1,8 @@
+service:
+  name: serviceCe47AzcLQa
+  identifier: serviceCe47AzcLQa
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

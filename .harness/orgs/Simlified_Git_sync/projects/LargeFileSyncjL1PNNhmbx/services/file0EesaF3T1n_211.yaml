@@ -1,0 +1,8 @@
+service:
+  name: servicecvdytoNv2o
+  identifier: servicecvdytoNv2o
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

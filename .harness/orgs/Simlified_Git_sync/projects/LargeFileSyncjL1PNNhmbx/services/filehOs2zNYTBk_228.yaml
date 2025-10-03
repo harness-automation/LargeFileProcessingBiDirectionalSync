@@ -1,0 +1,8 @@
+service:
+  name: serviceupzuDPj1mA
+  identifier: serviceupzuDPj1mA
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

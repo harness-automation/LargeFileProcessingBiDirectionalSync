@@ -1,0 +1,8 @@
+service:
+  name: servicexCfFixJM9Z
+  identifier: servicexCfFixJM9Z
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

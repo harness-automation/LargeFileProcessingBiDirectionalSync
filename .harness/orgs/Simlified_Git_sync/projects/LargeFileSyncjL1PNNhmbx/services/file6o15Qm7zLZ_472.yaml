@@ -1,0 +1,8 @@
+service:
+  name: servicecEp4MS2pbO
+  identifier: servicecEp4MS2pbO
+  projectIdentifier: LargeFileSyncjL1PNNhmbx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
