@@ -1,0 +1,8 @@
+service:
+  name: servicefvMPllj3ou
+  identifier: servicefvMPllj3ou
+  projectIdentifier: LargeFileSyncQ0EVU9i8hY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

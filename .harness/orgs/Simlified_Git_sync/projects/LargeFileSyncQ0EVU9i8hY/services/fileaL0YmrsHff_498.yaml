@@ -1,0 +1,8 @@
+service:
+  name: serviceVxfFCB42iP
+  identifier: serviceVxfFCB42iP
+  projectIdentifier: LargeFileSyncQ0EVU9i8hY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
