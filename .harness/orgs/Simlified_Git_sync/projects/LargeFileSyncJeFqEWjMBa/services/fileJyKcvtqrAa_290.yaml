@@ -1,0 +1,8 @@
+service:
+  name: serviceLCvEMMRoFD
+  identifier: serviceLCvEMMRoFD
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

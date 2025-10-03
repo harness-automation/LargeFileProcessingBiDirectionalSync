@@ -1,0 +1,8 @@
+service:
+  name: serviceUai0YbFayL
+  identifier: serviceUai0YbFayL
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceRT0pkeOfcu
+  identifier: serviceRT0pkeOfcu
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

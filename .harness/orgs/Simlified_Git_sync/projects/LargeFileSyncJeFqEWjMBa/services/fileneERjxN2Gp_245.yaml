@@ -1,0 +1,8 @@
+service:
+  name: serviceeMFTZJ86Xd
+  identifier: serviceeMFTZJ86Xd
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

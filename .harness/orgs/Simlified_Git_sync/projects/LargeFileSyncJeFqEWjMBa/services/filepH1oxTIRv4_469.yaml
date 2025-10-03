@@ -1,0 +1,8 @@
+service:
+  name: serviceLOtGEsajf3
+  identifier: serviceLOtGEsajf3
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

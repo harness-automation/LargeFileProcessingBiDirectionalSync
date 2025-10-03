@@ -1,0 +1,8 @@
+service:
+  name: serviceMuOHstx2v0
+  identifier: serviceMuOHstx2v0
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

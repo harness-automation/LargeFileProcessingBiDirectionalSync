@@ -1,0 +1,8 @@
+service:
+  name: servicenLUTEJFru8
+  identifier: servicenLUTEJFru8
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

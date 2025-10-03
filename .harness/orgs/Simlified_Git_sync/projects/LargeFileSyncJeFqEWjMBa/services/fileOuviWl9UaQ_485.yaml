@@ -1,0 +1,8 @@
+service:
+  name: serviceyELDK10Hdb
+  identifier: serviceyELDK10Hdb
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

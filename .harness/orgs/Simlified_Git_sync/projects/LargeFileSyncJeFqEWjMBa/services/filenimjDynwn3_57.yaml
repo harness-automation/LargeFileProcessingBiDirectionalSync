@@ -1,0 +1,8 @@
+service:
+  name: serviceInAWTcdKCi
+  identifier: serviceInAWTcdKCi
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

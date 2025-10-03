@@ -1,0 +1,8 @@
+service:
+  name: serviceji0723wvnk
+  identifier: serviceji0723wvnk
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

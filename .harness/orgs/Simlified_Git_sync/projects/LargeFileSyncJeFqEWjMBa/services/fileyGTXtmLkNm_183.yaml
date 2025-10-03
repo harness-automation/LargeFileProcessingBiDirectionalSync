@@ -1,0 +1,8 @@
+service:
+  name: servicePTFNcshD30
+  identifier: servicePTFNcshD30
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

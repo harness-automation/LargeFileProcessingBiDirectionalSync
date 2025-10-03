@@ -1,0 +1,8 @@
+service:
+  name: servicerFLhR3pLAn
+  identifier: servicerFLhR3pLAn
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

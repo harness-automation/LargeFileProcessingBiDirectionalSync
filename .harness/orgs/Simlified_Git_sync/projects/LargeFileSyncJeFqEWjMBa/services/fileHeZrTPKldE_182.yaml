@@ -1,0 +1,8 @@
+service:
+  name: serviceGet00XeN36
+  identifier: serviceGet00XeN36
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

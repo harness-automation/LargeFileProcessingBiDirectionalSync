@@ -1,0 +1,8 @@
+service:
+  name: serviceb2ThW11diU
+  identifier: serviceb2ThW11diU
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

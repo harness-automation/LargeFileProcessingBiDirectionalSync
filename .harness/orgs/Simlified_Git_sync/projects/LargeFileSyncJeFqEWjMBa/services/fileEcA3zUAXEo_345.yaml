@@ -1,0 +1,8 @@
+service:
+  name: serviceyEcRPBepAD
+  identifier: serviceyEcRPBepAD
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

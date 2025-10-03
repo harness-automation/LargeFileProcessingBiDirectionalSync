@@ -1,0 +1,8 @@
+service:
+  name: serviceLPBbdWX22I
+  identifier: serviceLPBbdWX22I
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceCeuzymv0JT
+  identifier: serviceCeuzymv0JT
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

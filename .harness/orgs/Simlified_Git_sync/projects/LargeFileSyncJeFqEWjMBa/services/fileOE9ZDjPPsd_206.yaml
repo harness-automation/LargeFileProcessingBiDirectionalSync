@@ -1,0 +1,8 @@
+service:
+  name: serviceMtRBGwZhwa
+  identifier: serviceMtRBGwZhwa
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

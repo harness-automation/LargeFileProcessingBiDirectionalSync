@@ -1,0 +1,8 @@
+service:
+  name: serviceAtpUdbDlvj
+  identifier: serviceAtpUdbDlvj
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

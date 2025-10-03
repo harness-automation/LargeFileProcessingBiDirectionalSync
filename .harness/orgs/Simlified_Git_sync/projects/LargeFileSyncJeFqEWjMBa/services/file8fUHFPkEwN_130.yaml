@@ -1,0 +1,8 @@
+service:
+  name: serviceJrwd4klZeL
+  identifier: serviceJrwd4klZeL
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

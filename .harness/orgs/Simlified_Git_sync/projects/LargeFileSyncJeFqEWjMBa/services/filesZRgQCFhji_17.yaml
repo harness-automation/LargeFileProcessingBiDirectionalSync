@@ -1,0 +1,8 @@
+service:
+  name: serviceKmw41MU2Ws
+  identifier: serviceKmw41MU2Ws
+  projectIdentifier: LargeFileSyncJeFqEWjMBa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
