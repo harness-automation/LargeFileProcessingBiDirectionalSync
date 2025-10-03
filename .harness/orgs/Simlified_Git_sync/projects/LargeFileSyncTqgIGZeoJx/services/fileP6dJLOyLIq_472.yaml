@@ -1,0 +1,8 @@
+service:
+  name: serviceEIIBpj10sM
+  identifier: serviceEIIBpj10sM
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFNI6XLweMQ
+  identifier: serviceFNI6XLweMQ
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

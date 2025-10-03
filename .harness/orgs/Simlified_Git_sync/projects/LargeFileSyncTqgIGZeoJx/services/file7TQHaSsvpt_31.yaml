@@ -1,0 +1,8 @@
+service:
+  name: serviceTKtD3ULARh
+  identifier: serviceTKtD3ULARh
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

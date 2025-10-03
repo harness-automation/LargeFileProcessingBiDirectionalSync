@@ -1,0 +1,8 @@
+service:
+  name: serviceDRDN3xe6me
+  identifier: serviceDRDN3xe6me
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

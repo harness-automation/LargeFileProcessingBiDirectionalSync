@@ -1,0 +1,8 @@
+service:
+  name: serviceCrBL3AZClm
+  identifier: serviceCrBL3AZClm
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

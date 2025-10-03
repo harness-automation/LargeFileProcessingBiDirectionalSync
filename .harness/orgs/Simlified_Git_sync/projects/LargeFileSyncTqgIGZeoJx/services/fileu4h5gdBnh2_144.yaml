@@ -1,0 +1,8 @@
+service:
+  name: serviceamus4IM7an
+  identifier: serviceamus4IM7an
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

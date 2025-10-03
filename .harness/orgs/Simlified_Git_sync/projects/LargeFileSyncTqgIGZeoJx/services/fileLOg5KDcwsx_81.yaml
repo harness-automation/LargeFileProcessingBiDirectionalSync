@@ -1,0 +1,8 @@
+service:
+  name: serviceBiHRe2v7uc
+  identifier: serviceBiHRe2v7uc
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

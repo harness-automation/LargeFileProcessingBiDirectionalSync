@@ -1,0 +1,8 @@
+service:
+  name: serviceTARncA90jK
+  identifier: serviceTARncA90jK
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

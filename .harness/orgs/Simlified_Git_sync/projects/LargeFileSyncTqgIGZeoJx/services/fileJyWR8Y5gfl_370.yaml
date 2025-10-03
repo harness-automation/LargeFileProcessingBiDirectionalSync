@@ -1,0 +1,8 @@
+service:
+  name: serviceLEUKzuPA7G
+  identifier: serviceLEUKzuPA7G
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

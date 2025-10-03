@@ -1,0 +1,8 @@
+service:
+  name: serviceEffiof7Jfq
+  identifier: serviceEffiof7Jfq
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

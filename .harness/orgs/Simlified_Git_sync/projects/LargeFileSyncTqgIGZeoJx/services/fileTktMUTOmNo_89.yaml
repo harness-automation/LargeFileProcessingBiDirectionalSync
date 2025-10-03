@@ -1,0 +1,8 @@
+service:
+  name: serviceeBanHd7iPS
+  identifier: serviceeBanHd7iPS
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

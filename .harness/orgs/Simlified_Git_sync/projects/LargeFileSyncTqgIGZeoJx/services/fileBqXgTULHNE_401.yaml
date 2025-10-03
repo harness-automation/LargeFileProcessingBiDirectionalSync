@@ -1,0 +1,8 @@
+service:
+  name: servicePk7SoTI4XC
+  identifier: servicePk7SoTI4XC
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

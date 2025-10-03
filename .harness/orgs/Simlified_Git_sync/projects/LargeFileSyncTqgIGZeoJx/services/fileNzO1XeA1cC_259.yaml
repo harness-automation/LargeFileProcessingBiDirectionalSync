@@ -1,0 +1,8 @@
+service:
+  name: serviceFItgM10aie
+  identifier: serviceFItgM10aie
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

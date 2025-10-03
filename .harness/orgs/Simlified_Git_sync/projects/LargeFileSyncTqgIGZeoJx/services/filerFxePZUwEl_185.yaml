@@ -1,0 +1,8 @@
+service:
+  name: serviceT41STlDMGF
+  identifier: serviceT41STlDMGF
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

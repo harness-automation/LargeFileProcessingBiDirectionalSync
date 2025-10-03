@@ -1,0 +1,8 @@
+service:
+  name: servicelLWBEOPL6W
+  identifier: servicelLWBEOPL6W
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

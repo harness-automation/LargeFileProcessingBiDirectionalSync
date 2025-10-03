@@ -1,0 +1,8 @@
+service:
+  name: servicedYO2UrNOEN
+  identifier: servicedYO2UrNOEN
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

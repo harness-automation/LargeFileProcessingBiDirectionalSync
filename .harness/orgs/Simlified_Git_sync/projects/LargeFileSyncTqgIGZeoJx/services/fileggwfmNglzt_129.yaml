@@ -1,0 +1,8 @@
+service:
+  name: servicerEL1OikE8g
+  identifier: servicerEL1OikE8g
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

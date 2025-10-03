@@ -1,0 +1,8 @@
+service:
+  name: serviceKvSlsMSxom
+  identifier: serviceKvSlsMSxom
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

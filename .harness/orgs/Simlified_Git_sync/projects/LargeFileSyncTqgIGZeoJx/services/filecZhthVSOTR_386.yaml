@@ -1,0 +1,8 @@
+service:
+  name: serviceKFI50oSo2T
+  identifier: serviceKFI50oSo2T
+  projectIdentifier: LargeFileSyncTqgIGZeoJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
