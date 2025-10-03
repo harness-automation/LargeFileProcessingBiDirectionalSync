@@ -1,0 +1,8 @@
+service:
+  name: service80Dku65GOt
+  identifier: service80Dku65GOt
+  projectIdentifier: LargeFileSync7vj4IzU9wi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

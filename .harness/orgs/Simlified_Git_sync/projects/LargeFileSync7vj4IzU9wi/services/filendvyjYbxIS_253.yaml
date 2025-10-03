@@ -1,0 +1,8 @@
+service:
+  name: serviceCMud11rs4D
+  identifier: serviceCMud11rs4D
+  projectIdentifier: LargeFileSync7vj4IzU9wi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicelkPPA6ALpO
+  identifier: servicelkPPA6ALpO
+  projectIdentifier: LargeFileSync7vj4IzU9wi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
