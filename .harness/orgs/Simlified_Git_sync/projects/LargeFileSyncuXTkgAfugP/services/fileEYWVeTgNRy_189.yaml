@@ -1,0 +1,8 @@
+service:
+  name: serviceXSJ4s2emiT
+  identifier: serviceXSJ4s2emiT
+  projectIdentifier: LargeFileSyncuXTkgAfugP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

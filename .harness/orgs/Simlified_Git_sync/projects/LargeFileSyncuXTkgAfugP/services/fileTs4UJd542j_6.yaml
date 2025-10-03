@@ -1,0 +1,8 @@
+service:
+  name: servicexAlV16Rxd8
+  identifier: servicexAlV16Rxd8
+  projectIdentifier: LargeFileSyncuXTkgAfugP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

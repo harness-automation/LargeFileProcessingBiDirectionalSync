@@ -1,0 +1,8 @@
+service:
+  name: serviceGDKU8MXSN2
+  identifier: serviceGDKU8MXSN2
+  projectIdentifier: LargeFileSyncuXTkgAfugP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

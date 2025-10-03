@@ -1,0 +1,8 @@
+service:
+  name: service2gSD04AmFF
+  identifier: service2gSD04AmFF
+  projectIdentifier: LargeFileSyncuXTkgAfugP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

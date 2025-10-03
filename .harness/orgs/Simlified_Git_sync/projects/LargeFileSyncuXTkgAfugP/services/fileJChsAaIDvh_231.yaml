@@ -1,0 +1,8 @@
+service:
+  name: serviceueSo03rYGD
+  identifier: serviceueSo03rYGD
+  projectIdentifier: LargeFileSyncuXTkgAfugP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

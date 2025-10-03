@@ -1,0 +1,8 @@
+service:
+  name: servicesV73ufs2pg
+  identifier: servicesV73ufs2pg
+  projectIdentifier: LargeFileSyncuXTkgAfugP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

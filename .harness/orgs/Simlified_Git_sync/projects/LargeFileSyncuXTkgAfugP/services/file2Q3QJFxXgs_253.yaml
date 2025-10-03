@@ -1,0 +1,8 @@
+service:
+  name: servicerKz68tcKL2
+  identifier: servicerKz68tcKL2
+  projectIdentifier: LargeFileSyncuXTkgAfugP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

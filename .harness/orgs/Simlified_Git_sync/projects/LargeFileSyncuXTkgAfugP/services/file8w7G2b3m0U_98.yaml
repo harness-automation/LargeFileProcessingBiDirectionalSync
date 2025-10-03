@@ -1,0 +1,8 @@
+service:
+  name: servicehNBMsmaZlA
+  identifier: servicehNBMsmaZlA
+  projectIdentifier: LargeFileSyncuXTkgAfugP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

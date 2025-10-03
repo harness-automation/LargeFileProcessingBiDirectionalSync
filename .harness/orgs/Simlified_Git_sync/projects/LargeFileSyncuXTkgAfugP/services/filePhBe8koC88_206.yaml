@@ -1,0 +1,8 @@
+service:
+  name: service930SyXRYUF
+  identifier: service930SyXRYUF
+  projectIdentifier: LargeFileSyncuXTkgAfugP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
