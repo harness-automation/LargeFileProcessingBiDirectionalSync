@@ -1,0 +1,8 @@
+service:
+  name: serviceUHX86k03Pr
+  identifier: serviceUHX86k03Pr
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

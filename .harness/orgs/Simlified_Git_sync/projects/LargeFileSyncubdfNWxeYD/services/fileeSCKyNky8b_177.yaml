@@ -1,0 +1,8 @@
+service:
+  name: serviceInvptCEEbd
+  identifier: serviceInvptCEEbd
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

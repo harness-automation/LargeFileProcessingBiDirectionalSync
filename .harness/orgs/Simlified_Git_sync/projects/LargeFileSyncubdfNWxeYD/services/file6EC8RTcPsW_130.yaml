@@ -1,0 +1,8 @@
+service:
+  name: serviceEDYNr47Ry1
+  identifier: serviceEDYNr47Ry1
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

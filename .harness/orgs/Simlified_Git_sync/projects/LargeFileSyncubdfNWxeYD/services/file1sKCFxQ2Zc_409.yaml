@@ -1,0 +1,8 @@
+service:
+  name: servicesHCiS3Ylpp
+  identifier: servicesHCiS3Ylpp
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

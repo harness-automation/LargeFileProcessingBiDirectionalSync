@@ -1,0 +1,8 @@
+service:
+  name: service2rkMNTJFox
+  identifier: service2rkMNTJFox
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

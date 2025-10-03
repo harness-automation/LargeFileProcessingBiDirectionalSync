@@ -1,0 +1,8 @@
+service:
+  name: serviceSdl7cBKMma
+  identifier: serviceSdl7cBKMma
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

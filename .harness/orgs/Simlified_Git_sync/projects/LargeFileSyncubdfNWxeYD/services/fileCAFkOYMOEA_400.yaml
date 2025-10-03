@@ -1,0 +1,8 @@
+service:
+  name: servicep5hBuMVaST
+  identifier: servicep5hBuMVaST
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

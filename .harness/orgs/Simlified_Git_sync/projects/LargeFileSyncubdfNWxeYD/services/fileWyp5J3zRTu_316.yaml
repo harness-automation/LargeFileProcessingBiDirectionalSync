@@ -1,0 +1,8 @@
+service:
+  name: servicePSJ7X45cup
+  identifier: servicePSJ7X45cup
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

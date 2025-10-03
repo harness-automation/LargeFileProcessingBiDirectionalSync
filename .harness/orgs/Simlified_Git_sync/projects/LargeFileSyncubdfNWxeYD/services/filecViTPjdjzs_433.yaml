@@ -1,0 +1,8 @@
+service:
+  name: servicewA2LIDAH31
+  identifier: servicewA2LIDAH31
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

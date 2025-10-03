@@ -1,0 +1,8 @@
+service:
+  name: serviceHk67IpxDbo
+  identifier: serviceHk67IpxDbo
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

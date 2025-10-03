@@ -1,0 +1,8 @@
+service:
+  name: serviceM1REalMkpj
+  identifier: serviceM1REalMkpj
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

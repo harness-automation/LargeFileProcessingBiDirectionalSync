@@ -1,0 +1,8 @@
+service:
+  name: servicescfAU35RSx
+  identifier: servicescfAU35RSx
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

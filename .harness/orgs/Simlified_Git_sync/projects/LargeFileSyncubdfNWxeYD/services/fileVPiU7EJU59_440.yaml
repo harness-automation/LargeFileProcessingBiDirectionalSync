@@ -1,0 +1,8 @@
+service:
+  name: serviceH3LF60iFhp
+  identifier: serviceH3LF60iFhp
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

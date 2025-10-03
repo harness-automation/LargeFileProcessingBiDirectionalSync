@@ -1,0 +1,8 @@
+service:
+  name: serviceKawLsS22rQ
+  identifier: serviceKawLsS22rQ
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

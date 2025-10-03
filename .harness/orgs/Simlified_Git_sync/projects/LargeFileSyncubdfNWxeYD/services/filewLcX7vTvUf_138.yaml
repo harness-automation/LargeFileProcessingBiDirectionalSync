@@ -1,0 +1,8 @@
+service:
+  name: serviceImmRCp2x8R
+  identifier: serviceImmRCp2x8R
+  projectIdentifier: LargeFileSyncubdfNWxeYD
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
