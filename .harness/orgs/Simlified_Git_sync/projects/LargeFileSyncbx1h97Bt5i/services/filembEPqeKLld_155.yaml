@@ -1,0 +1,8 @@
+service:
+  name: service81SwLRnuWD
+  identifier: service81SwLRnuWD
+  projectIdentifier: LargeFileSyncbx1h97Bt5i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

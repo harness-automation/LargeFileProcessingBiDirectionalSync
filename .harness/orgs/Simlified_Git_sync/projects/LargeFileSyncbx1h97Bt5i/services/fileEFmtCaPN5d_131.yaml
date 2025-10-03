@@ -1,0 +1,8 @@
+service:
+  name: serviceKmpb4AEA5N
+  identifier: serviceKmpb4AEA5N
+  projectIdentifier: LargeFileSyncbx1h97Bt5i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

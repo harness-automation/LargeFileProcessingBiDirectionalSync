@@ -1,0 +1,8 @@
+service:
+  name: serviceBFRL1kvx2W
+  identifier: serviceBFRL1kvx2W
+  projectIdentifier: LargeFileSyncbx1h97Bt5i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

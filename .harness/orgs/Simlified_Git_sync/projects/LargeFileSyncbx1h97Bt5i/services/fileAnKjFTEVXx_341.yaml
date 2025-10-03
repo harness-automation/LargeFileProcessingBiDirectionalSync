@@ -1,0 +1,8 @@
+service:
+  name: servicekbRxp9ZIgi
+  identifier: servicekbRxp9ZIgi
+  projectIdentifier: LargeFileSyncbx1h97Bt5i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
