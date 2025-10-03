@@ -1,0 +1,8 @@
+service:
+  name: serviceTBS1Tjx4Wl
+  identifier: serviceTBS1Tjx4Wl
+  projectIdentifier: LargeFileSynck3JmOEUcxJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceP4VaDp95ON
+  identifier: serviceP4VaDp95ON
+  projectIdentifier: LargeFileSynck3JmOEUcxJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

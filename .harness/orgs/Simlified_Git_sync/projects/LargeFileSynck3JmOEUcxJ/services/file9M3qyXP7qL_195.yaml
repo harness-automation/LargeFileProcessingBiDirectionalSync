@@ -1,0 +1,8 @@
+service:
+  name: service11GCHlA8ti
+  identifier: service11GCHlA8ti
+  projectIdentifier: LargeFileSynck3JmOEUcxJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicenV0ActRIX6
+  identifier: servicenV0ActRIX6
+  projectIdentifier: LargeFileSynck3JmOEUcxJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

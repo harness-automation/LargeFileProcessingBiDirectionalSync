@@ -1,0 +1,8 @@
+service:
+  name: serviceHugu82hATr
+  identifier: serviceHugu82hATr
+  projectIdentifier: LargeFileSynck3JmOEUcxJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceHVKba888dl
+  identifier: serviceHVKba888dl
+  projectIdentifier: LargeFileSynck3JmOEUcxJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

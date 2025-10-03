@@ -1,0 +1,8 @@
+service:
+  name: servicepmFGNll1rb
+  identifier: servicepmFGNll1rb
+  projectIdentifier: LargeFileSynck3JmOEUcxJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

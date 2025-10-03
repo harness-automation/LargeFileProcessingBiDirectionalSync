@@ -1,0 +1,8 @@
+service:
+  name: serviceRizwMWFrs7
+  identifier: serviceRizwMWFrs7
+  projectIdentifier: LargeFileSynck3JmOEUcxJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceIxaso0l19a
+  identifier: serviceIxaso0l19a
+  projectIdentifier: LargeFileSynck3JmOEUcxJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

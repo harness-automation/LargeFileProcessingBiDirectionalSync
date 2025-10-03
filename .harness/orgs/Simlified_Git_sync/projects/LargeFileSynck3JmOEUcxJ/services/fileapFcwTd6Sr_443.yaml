@@ -1,0 +1,8 @@
+service:
+  name: serviceRKR45DkyLS
+  identifier: serviceRKR45DkyLS
+  projectIdentifier: LargeFileSynck3JmOEUcxJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

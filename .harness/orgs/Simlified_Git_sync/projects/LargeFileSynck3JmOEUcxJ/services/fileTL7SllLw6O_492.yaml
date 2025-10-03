@@ -1,0 +1,8 @@
+service:
+  name: servicesHYg12MNws
+  identifier: servicesHYg12MNws
+  projectIdentifier: LargeFileSynck3JmOEUcxJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicedMcDqNMu2p
+  identifier: servicedMcDqNMu2p
+  projectIdentifier: LargeFileSynck3JmOEUcxJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
