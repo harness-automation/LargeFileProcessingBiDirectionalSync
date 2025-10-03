@@ -1,0 +1,8 @@
+service:
+  name: serviceLHPzmb4ANz
+  identifier: serviceLHPzmb4ANz
+  projectIdentifier: LargeFileSyncg5QIpLciQU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

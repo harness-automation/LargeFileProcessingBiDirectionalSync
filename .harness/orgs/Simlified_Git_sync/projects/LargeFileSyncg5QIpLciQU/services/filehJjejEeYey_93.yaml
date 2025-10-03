@@ -1,0 +1,8 @@
+service:
+  name: service8E4ACffpLI
+  identifier: service8E4ACffpLI
+  projectIdentifier: LargeFileSyncg5QIpLciQU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

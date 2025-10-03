@@ -1,0 +1,8 @@
+service:
+  name: serviceiEW2IpKMvr
+  identifier: serviceiEW2IpKMvr
+  projectIdentifier: LargeFileSyncg5QIpLciQU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

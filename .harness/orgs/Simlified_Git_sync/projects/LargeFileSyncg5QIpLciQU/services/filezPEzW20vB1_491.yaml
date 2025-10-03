@@ -1,0 +1,8 @@
+service:
+  name: serviceFmE2CHzsvk
+  identifier: serviceFmE2CHzsvk
+  projectIdentifier: LargeFileSyncg5QIpLciQU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

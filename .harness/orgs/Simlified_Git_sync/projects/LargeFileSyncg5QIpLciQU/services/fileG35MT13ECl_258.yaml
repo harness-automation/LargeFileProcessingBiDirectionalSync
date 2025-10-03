@@ -1,0 +1,8 @@
+service:
+  name: servicewGA7ma2iaA
+  identifier: servicewGA7ma2iaA
+  projectIdentifier: LargeFileSyncg5QIpLciQU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

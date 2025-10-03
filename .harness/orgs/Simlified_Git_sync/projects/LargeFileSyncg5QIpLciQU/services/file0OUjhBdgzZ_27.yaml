@@ -1,0 +1,8 @@
+service:
+  name: servicerFn3kBOFPV
+  identifier: servicerFn3kBOFPV
+  projectIdentifier: LargeFileSyncg5QIpLciQU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

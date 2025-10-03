@@ -1,0 +1,8 @@
+service:
+  name: servicebw75LNu8js
+  identifier: servicebw75LNu8js
+  projectIdentifier: LargeFileSyncg5QIpLciQU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

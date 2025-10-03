@@ -1,0 +1,8 @@
+service:
+  name: servicecj9LapKBeC
+  identifier: servicecj9LapKBeC
+  projectIdentifier: LargeFileSyncg5QIpLciQU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

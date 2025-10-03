@@ -1,0 +1,8 @@
+service:
+  name: serviceNgwG1IIzPm
+  identifier: serviceNgwG1IIzPm
+  projectIdentifier: LargeFileSyncg5QIpLciQU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

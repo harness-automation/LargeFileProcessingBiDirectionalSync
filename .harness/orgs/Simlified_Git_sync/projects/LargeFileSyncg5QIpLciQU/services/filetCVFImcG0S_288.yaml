@@ -1,0 +1,8 @@
+service:
+  name: serviceX2J43pC6rp
+  identifier: serviceX2J43pC6rp
+  projectIdentifier: LargeFileSyncg5QIpLciQU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

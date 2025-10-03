@@ -1,0 +1,8 @@
+service:
+  name: serviceAmadf92KVz
+  identifier: serviceAmadf92KVz
+  projectIdentifier: LargeFileSyncg5QIpLciQU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

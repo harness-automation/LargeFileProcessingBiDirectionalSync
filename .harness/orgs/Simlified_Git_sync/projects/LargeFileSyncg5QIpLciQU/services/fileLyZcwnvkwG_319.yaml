@@ -1,0 +1,8 @@
+service:
+  name: serviceAKsePw5Tl2
+  identifier: serviceAKsePw5Tl2
+  projectIdentifier: LargeFileSyncg5QIpLciQU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
