@@ -1,0 +1,8 @@
+service:
+  name: serviceItO9COMap2
+  identifier: serviceItO9COMap2
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

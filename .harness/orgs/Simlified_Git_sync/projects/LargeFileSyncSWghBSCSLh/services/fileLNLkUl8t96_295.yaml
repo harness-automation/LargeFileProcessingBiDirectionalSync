@@ -1,0 +1,8 @@
+service:
+  name: servicetZpdrx80YO
+  identifier: servicetZpdrx80YO
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

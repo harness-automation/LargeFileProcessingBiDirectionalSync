@@ -1,0 +1,8 @@
+service:
+  name: servicekBO3dlsae4
+  identifier: servicekBO3dlsae4
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

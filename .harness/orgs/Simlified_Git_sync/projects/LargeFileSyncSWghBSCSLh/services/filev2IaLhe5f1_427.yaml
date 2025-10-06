@@ -1,0 +1,8 @@
+service:
+  name: serviceHQAGs1Tpm6
+  identifier: serviceHQAGs1Tpm6
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

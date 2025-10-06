@@ -1,0 +1,8 @@
+service:
+  name: servicewME6mocfiS
+  identifier: servicewME6mocfiS
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

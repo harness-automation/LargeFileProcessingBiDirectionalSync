@@ -1,0 +1,8 @@
+service:
+  name: serviceK1lMP7rSRx
+  identifier: serviceK1lMP7rSRx
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceatRk5GANvi
+  identifier: serviceatRk5GANvi
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

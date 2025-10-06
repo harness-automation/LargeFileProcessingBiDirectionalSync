@@ -1,0 +1,8 @@
+service:
+  name: serviceZbp5otSrsT
+  identifier: serviceZbp5otSrsT
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

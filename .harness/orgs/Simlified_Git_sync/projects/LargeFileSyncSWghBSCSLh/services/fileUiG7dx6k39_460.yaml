@@ -1,0 +1,8 @@
+service:
+  name: serviceeNEsPMTIjp
+  identifier: serviceeNEsPMTIjp
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

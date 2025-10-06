@@ -1,0 +1,8 @@
+service:
+  name: serviceHOUwlEpLQc
+  identifier: serviceHOUwlEpLQc
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

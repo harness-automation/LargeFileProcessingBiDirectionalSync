@@ -1,0 +1,8 @@
+service:
+  name: servicep50sx83Q2f
+  identifier: servicep50sx83Q2f
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

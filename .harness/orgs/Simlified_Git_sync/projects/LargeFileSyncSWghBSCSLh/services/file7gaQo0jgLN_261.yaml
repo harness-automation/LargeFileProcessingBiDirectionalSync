@@ -1,0 +1,8 @@
+service:
+  name: serviceVmV86X30fH
+  identifier: serviceVmV86X30fH
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

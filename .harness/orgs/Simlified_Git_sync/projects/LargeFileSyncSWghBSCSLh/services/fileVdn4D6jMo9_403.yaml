@@ -1,0 +1,8 @@
+service:
+  name: servicedFA49sZw3R
+  identifier: servicedFA49sZw3R
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

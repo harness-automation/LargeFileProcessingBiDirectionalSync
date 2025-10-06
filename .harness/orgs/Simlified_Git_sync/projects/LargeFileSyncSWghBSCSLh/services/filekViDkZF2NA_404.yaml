@@ -1,0 +1,8 @@
+service:
+  name: serviceWwVIo4nuj2
+  identifier: serviceWwVIo4nuj2
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

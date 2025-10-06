@@ -1,0 +1,8 @@
+service:
+  name: servicecpPtG18UVA
+  identifier: servicecpPtG18UVA
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

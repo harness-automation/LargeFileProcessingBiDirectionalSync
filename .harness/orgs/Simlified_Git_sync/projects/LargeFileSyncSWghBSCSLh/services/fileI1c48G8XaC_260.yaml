@@ -1,0 +1,8 @@
+service:
+  name: servicegfJhApYN4j
+  identifier: servicegfJhApYN4j
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

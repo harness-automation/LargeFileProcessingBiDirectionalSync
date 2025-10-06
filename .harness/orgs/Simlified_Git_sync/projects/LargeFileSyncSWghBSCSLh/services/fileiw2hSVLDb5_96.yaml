@@ -1,0 +1,8 @@
+service:
+  name: servicelCnmb6MsfA
+  identifier: servicelCnmb6MsfA
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

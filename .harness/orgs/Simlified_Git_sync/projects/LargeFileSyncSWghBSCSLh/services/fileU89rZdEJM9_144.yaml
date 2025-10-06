@@ -1,0 +1,8 @@
+service:
+  name: serviceeex3Ov1SNw
+  identifier: serviceeex3Ov1SNw
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

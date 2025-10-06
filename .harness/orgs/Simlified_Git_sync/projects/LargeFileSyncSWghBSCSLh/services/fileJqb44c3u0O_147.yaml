@@ -1,0 +1,8 @@
+service:
+  name: serviceFOS13jppk5
+  identifier: serviceFOS13jppk5
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

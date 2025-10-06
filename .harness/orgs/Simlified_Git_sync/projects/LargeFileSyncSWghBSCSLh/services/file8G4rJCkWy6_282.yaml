@@ -1,0 +1,8 @@
+service:
+  name: serviceuxu762EHPb
+  identifier: serviceuxu762EHPb
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

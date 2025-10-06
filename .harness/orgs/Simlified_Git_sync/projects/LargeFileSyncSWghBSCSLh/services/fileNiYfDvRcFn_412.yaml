@@ -1,0 +1,8 @@
+service:
+  name: service0K3942p2pE
+  identifier: service0K3942p2pE
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

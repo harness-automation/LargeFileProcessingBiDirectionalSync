@@ -1,0 +1,8 @@
+service:
+  name: serviceMikP2VDm5q
+  identifier: serviceMikP2VDm5q
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

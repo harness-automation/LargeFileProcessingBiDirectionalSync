@@ -1,0 +1,8 @@
+service:
+  name: serviceNCNMO8p77b
+  identifier: serviceNCNMO8p77b
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

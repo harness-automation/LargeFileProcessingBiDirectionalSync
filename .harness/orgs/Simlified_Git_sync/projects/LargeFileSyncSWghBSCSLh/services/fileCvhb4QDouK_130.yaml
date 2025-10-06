@@ -1,0 +1,8 @@
+service:
+  name: serviceDz9a296Uml
+  identifier: serviceDz9a296Uml
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

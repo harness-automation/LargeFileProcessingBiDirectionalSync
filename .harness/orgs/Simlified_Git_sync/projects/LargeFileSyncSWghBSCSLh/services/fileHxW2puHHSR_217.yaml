@@ -1,0 +1,8 @@
+service:
+  name: servicePJDp307vIY
+  identifier: servicePJDp307vIY
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

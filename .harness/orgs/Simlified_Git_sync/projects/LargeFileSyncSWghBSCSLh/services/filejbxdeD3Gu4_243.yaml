@@ -1,0 +1,8 @@
+service:
+  name: serviceF3knWIeCPP
+  identifier: serviceF3knWIeCPP
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

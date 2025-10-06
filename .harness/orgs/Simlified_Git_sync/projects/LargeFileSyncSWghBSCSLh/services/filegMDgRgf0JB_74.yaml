@@ -1,0 +1,8 @@
+service:
+  name: servicepoUx3vxfCP
+  identifier: servicepoUx3vxfCP
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

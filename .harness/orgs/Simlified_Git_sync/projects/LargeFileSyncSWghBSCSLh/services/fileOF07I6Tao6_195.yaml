@@ -1,0 +1,8 @@
+service:
+  name: serviceSIK7kvIRsM
+  identifier: serviceSIK7kvIRsM
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

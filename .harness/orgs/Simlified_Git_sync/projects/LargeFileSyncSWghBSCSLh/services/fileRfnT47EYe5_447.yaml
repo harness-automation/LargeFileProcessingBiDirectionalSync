@@ -1,0 +1,8 @@
+service:
+  name: service2VMVRLiyx3
+  identifier: service2VMVRLiyx3
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

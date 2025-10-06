@@ -1,0 +1,8 @@
+service:
+  name: servicelvlrQ8DeIM
+  identifier: servicelvlrQ8DeIM
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

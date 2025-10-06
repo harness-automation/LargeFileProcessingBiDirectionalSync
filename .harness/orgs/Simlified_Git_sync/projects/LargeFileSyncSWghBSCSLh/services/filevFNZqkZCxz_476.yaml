@@ -1,0 +1,8 @@
+service:
+  name: servicewjaSFRgPPZ
+  identifier: servicewjaSFRgPPZ
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicejtmiQGWi3s
+  identifier: servicejtmiQGWi3s
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

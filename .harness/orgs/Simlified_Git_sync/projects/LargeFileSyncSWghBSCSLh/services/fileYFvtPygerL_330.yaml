@@ -1,0 +1,8 @@
+service:
+  name: serviceUnPmw8bFi5
+  identifier: serviceUnPmw8bFi5
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

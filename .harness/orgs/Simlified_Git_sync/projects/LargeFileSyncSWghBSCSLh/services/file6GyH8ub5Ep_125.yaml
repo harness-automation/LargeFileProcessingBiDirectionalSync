@@ -1,0 +1,8 @@
+service:
+  name: serviceNIs9DmbEl3
+  identifier: serviceNIs9DmbEl3
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

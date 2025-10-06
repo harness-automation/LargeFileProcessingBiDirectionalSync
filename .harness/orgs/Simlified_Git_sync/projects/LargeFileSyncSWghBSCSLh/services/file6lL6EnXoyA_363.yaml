@@ -1,0 +1,8 @@
+service:
+  name: servicei3MarxIFhH
+  identifier: servicei3MarxIFhH
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

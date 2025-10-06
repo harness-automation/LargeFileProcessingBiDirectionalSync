@@ -1,0 +1,8 @@
+service:
+  name: servicemeKNgQz3Q4
+  identifier: servicemeKNgQz3Q4
+  projectIdentifier: LargeFileSyncSWghBSCSLh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
