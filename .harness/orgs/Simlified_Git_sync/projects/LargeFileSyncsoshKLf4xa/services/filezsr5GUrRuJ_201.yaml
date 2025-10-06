@@ -1,0 +1,8 @@
+service:
+  name: servicerCIBNji6v2
+  identifier: servicerCIBNji6v2
+  projectIdentifier: LargeFileSyncsoshKLf4xa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

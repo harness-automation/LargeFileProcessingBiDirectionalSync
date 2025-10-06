@@ -1,0 +1,8 @@
+service:
+  name: serviceRHM6bAcVcX
+  identifier: serviceRHM6bAcVcX
+  projectIdentifier: LargeFileSyncsoshKLf4xa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

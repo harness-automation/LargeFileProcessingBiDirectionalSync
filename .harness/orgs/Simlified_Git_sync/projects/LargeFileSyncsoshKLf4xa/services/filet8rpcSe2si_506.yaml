@@ -1,0 +1,8 @@
+service:
+  name: servicep5zSIC1520
+  identifier: servicep5zSIC1520
+  projectIdentifier: LargeFileSyncsoshKLf4xa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

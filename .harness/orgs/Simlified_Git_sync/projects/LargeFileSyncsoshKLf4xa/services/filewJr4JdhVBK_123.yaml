@@ -1,0 +1,8 @@
+service:
+  name: service2p70MSrx6i
+  identifier: service2p70MSrx6i
+  projectIdentifier: LargeFileSyncsoshKLf4xa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

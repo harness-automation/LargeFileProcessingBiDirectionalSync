@@ -1,0 +1,8 @@
+service:
+  name: serviceWydmND2Zfp
+  identifier: serviceWydmND2Zfp
+  projectIdentifier: LargeFileSyncsoshKLf4xa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceKFJTcp34ta
+  identifier: serviceKFJTcp34ta
+  projectIdentifier: LargeFileSyncsoshKLf4xa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

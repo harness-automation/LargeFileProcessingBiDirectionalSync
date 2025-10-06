@@ -1,0 +1,8 @@
+service:
+  name: serviceNytIH85qAR
+  identifier: serviceNytIH85qAR
+  projectIdentifier: LargeFileSyncsoshKLf4xa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

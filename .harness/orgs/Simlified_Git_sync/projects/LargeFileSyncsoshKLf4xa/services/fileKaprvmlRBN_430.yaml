@@ -1,0 +1,8 @@
+service:
+  name: serviceSXpy4getbn
+  identifier: serviceSXpy4getbn
+  projectIdentifier: LargeFileSyncsoshKLf4xa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

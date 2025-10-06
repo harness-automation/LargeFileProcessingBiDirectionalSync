@@ -1,0 +1,8 @@
+service:
+  name: serviceKEWmqu2LRm
+  identifier: serviceKEWmqu2LRm
+  projectIdentifier: LargeFileSyncsoshKLf4xa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

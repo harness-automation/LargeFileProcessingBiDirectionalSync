@@ -1,0 +1,8 @@
+service:
+  name: serviceFiS3NQ322G
+  identifier: serviceFiS3NQ322G
+  projectIdentifier: LargeFileSyncsoshKLf4xa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
