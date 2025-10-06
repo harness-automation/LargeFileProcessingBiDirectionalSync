@@ -1,0 +1,8 @@
+service:
+  name: servicem2380j6xLE
+  identifier: servicem2380j6xLE
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

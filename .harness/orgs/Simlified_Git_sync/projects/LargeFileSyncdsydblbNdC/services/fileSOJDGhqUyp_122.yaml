@@ -1,0 +1,8 @@
+service:
+  name: servicemCVMDJSv4F
+  identifier: servicemCVMDJSv4F
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

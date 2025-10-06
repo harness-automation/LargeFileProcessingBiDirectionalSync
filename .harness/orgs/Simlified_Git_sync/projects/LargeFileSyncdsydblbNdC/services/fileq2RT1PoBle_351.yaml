@@ -1,0 +1,8 @@
+service:
+  name: serviceOXIZV63tEU
+  identifier: serviceOXIZV63tEU
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

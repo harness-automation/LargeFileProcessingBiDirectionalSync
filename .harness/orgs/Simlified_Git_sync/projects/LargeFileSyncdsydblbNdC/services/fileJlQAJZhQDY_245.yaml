@@ -1,0 +1,8 @@
+service:
+  name: serviceiOCeSFP8VK
+  identifier: serviceiOCeSFP8VK
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceMozpJMwF1D
+  identifier: serviceMozpJMwF1D
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

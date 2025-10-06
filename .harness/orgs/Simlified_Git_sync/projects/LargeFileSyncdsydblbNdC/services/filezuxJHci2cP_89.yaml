@@ -1,0 +1,8 @@
+service:
+  name: serviceburi2nuLXo
+  identifier: serviceburi2nuLXo
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

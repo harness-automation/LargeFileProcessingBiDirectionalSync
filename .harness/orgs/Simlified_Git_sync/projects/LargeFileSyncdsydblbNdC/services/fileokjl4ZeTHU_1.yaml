@@ -1,0 +1,8 @@
+service:
+  name: service68FT6nEkiv
+  identifier: service68FT6nEkiv
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

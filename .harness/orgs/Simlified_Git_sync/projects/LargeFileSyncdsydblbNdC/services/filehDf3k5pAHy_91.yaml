@@ -1,0 +1,8 @@
+service:
+  name: serviceLZj2DWLRMC
+  identifier: serviceLZj2DWLRMC
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

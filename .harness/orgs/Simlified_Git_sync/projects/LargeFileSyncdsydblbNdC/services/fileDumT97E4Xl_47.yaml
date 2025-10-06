@@ -1,0 +1,8 @@
+service:
+  name: serviceDGebRQmT4y
+  identifier: serviceDGebRQmT4y
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

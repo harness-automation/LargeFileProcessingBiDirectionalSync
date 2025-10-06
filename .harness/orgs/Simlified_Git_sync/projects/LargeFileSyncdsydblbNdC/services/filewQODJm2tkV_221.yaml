@@ -1,0 +1,8 @@
+service:
+  name: serviceW35np2D4YP
+  identifier: serviceW35np2D4YP
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

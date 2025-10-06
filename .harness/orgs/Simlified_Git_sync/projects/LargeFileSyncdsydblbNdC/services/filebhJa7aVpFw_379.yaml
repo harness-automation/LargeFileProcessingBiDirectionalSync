@@ -1,0 +1,8 @@
+service:
+  name: servicem8rGTGRavi
+  identifier: servicem8rGTGRavi
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

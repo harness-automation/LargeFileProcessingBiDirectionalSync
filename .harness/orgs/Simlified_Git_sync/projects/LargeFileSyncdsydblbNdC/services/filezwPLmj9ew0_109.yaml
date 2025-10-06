@@ -1,0 +1,8 @@
+service:
+  name: serviceMia35knrdQ
+  identifier: serviceMia35knrdQ
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

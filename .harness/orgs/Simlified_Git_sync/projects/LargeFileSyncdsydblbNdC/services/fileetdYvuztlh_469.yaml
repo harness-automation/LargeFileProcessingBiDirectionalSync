@@ -1,0 +1,8 @@
+service:
+  name: servicet4MT1r35Kv
+  identifier: servicet4MT1r35Kv
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicepXesiaJsK5
+  identifier: servicepXesiaJsK5
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

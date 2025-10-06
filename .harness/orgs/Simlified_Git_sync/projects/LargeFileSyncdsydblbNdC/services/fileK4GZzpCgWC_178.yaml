@@ -1,0 +1,8 @@
+service:
+  name: servicesSd448l2fx
+  identifier: servicesSd448l2fx
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

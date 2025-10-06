@@ -1,0 +1,8 @@
+service:
+  name: servicedbeRwdpfr0
+  identifier: servicedbeRwdpfr0
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

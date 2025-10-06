@@ -1,0 +1,8 @@
+service:
+  name: serviceNium0rybrv
+  identifier: serviceNium0rybrv
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

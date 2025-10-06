@@ -1,0 +1,8 @@
+service:
+  name: service1nRUA28Iga
+  identifier: service1nRUA28Iga
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

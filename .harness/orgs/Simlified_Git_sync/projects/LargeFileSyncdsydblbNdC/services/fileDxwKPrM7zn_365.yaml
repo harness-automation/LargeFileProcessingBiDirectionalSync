@@ -1,0 +1,8 @@
+service:
+  name: serviceVNMrMyM9i5
+  identifier: serviceVNMrMyM9i5
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceKviIoDyNUQ
+  identifier: serviceKviIoDyNUQ
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

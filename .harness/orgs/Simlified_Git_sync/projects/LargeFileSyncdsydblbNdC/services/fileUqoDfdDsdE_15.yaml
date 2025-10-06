@@ -1,0 +1,8 @@
+service:
+  name: servicecfQ13LiN6B
+  identifier: servicecfQ13LiN6B
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

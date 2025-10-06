@@ -1,0 +1,8 @@
+service:
+  name: serviceDTaeSPIdNp
+  identifier: serviceDTaeSPIdNp
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

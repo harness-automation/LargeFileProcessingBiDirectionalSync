@@ -1,0 +1,8 @@
+service:
+  name: servicerACPVh1ciB
+  identifier: servicerACPVh1ciB
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceDk4WMR1Ux6
+  identifier: serviceDk4WMR1Ux6
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

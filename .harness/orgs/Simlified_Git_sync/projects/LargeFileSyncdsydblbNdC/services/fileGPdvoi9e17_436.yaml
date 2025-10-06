@@ -1,0 +1,8 @@
+service:
+  name: serviceyAd8NURLdd
+  identifier: serviceyAd8NURLdd
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

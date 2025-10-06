@@ -1,0 +1,8 @@
+service:
+  name: servicenrmdla2MSC
+  identifier: servicenrmdla2MSC
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

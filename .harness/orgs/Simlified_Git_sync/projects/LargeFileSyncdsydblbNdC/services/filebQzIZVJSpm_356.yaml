@@ -1,0 +1,8 @@
+service:
+  name: servicezNFgfic2pg
+  identifier: servicezNFgfic2pg
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

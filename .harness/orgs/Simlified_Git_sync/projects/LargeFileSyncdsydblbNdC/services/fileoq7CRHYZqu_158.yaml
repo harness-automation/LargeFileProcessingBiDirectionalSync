@@ -1,0 +1,8 @@
+service:
+  name: serviceNpArkJZZI6
+  identifier: serviceNpArkJZZI6
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

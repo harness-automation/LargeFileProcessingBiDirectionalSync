@@ -1,0 +1,8 @@
+service:
+  name: serviceX53V2e679d
+  identifier: serviceX53V2e679d
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

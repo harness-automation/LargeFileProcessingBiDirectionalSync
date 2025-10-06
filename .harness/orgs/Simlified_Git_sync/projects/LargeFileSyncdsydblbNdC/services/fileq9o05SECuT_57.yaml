@@ -1,0 +1,8 @@
+service:
+  name: serviceRmoUtmHt7c
+  identifier: serviceRmoUtmHt7c
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

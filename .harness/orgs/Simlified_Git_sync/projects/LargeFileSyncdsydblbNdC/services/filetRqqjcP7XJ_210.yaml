@@ -1,0 +1,8 @@
+service:
+  name: serviceMulG5weglY
+  identifier: serviceMulG5weglY
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

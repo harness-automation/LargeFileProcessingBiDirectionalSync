@@ -1,0 +1,8 @@
+service:
+  name: serviceflyaG6mA9W
+  identifier: serviceflyaG6mA9W
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

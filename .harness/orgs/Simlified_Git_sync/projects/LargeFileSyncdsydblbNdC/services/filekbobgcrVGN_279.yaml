@@ -1,0 +1,8 @@
+service:
+  name: servicew96IcaChXm
+  identifier: servicew96IcaChXm
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

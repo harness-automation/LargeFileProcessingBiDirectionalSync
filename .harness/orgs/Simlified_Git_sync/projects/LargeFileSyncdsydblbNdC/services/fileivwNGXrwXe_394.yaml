@@ -1,0 +1,8 @@
+service:
+  name: serviceASN417WLUa
+  identifier: serviceASN417WLUa
+  projectIdentifier: LargeFileSyncdsydblbNdC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
