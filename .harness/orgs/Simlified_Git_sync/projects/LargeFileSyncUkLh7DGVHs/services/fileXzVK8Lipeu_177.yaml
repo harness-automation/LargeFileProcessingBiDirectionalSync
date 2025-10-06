@@ -1,0 +1,8 @@
+service:
+  name: serviceWeBK0apcIw
+  identifier: serviceWeBK0apcIw
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceBAkyajik5b
+  identifier: serviceBAkyajik5b
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

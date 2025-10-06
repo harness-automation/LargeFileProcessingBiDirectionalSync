@@ -1,0 +1,8 @@
+service:
+  name: serviceNecCbYPA1x
+  identifier: serviceNecCbYPA1x
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

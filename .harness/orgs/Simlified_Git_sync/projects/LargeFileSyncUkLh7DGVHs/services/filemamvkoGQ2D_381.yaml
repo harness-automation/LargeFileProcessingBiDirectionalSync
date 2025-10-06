@@ -1,0 +1,8 @@
+service:
+  name: serviceD5On9sphp6
+  identifier: serviceD5On9sphp6
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

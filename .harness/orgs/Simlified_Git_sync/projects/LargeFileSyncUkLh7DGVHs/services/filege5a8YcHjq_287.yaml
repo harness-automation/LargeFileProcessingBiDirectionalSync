@@ -1,0 +1,8 @@
+service:
+  name: serviceHLrlURt08n
+  identifier: serviceHLrlURt08n
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

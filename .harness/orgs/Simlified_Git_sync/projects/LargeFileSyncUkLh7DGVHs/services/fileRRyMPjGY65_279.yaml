@@ -1,0 +1,8 @@
+service:
+  name: serviceALmi3FfBiD
+  identifier: serviceALmi3FfBiD
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

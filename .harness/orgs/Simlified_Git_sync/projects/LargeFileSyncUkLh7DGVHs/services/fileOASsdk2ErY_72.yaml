@@ -1,0 +1,8 @@
+service:
+  name: serviceL72mrWYGpT
+  identifier: serviceL72mrWYGpT
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

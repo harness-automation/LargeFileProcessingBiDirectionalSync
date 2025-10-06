@@ -1,0 +1,8 @@
+service:
+  name: serviceedu0FaonNb
+  identifier: serviceedu0FaonNb
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

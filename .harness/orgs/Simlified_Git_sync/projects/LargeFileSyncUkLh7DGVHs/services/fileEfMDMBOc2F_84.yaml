@@ -1,0 +1,8 @@
+service:
+  name: serviceVufi58bGEs
+  identifier: serviceVufi58bGEs
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

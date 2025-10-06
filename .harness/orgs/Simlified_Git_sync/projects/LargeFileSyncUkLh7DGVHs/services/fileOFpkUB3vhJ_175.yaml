@@ -1,0 +1,8 @@
+service:
+  name: service31lrpd5TpD
+  identifier: service31lrpd5TpD
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

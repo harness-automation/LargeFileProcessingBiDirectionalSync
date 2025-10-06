@@ -1,0 +1,8 @@
+service:
+  name: servicejbIN1oW2sp
+  identifier: servicejbIN1oW2sp
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

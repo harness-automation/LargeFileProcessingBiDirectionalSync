@@ -1,0 +1,8 @@
+service:
+  name: serviceQo225oriVK
+  identifier: serviceQo225oriVK
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

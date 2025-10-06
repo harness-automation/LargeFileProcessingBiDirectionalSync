@@ -1,0 +1,8 @@
+service:
+  name: servicexVvgTwomp4
+  identifier: servicexVvgTwomp4
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

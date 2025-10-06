@@ -1,0 +1,8 @@
+service:
+  name: serviceoq5IKvaip4
+  identifier: serviceoq5IKvaip4
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

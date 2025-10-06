@@ -1,0 +1,8 @@
+service:
+  name: servicedcbMTYAB5a
+  identifier: servicedcbMTYAB5a
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

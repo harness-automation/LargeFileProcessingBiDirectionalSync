@@ -1,0 +1,8 @@
+service:
+  name: serviceJ5BFUmPApe
+  identifier: serviceJ5BFUmPApe
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

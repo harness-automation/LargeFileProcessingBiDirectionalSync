@@ -1,0 +1,8 @@
+service:
+  name: service1fp82Rlrv3
+  identifier: service1fp82Rlrv3
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

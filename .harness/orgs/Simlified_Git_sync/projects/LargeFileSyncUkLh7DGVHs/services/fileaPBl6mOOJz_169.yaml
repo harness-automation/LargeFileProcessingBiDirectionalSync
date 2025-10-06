@@ -1,0 +1,8 @@
+service:
+  name: service22tvUK5SKV
+  identifier: service22tvUK5SKV
+  projectIdentifier: LargeFileSyncUkLh7DGVHs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
