@@ -1,0 +1,8 @@
+service:
+  name: serviceTvmkJv2g86
+  identifier: serviceTvmkJv2g86
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

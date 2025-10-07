@@ -1,0 +1,8 @@
+service:
+  name: servicewSLu1mogvo
+  identifier: servicewSLu1mogvo
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

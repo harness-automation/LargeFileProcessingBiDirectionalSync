@@ -1,0 +1,8 @@
+service:
+  name: servicewIcoksU2GP
+  identifier: servicewIcoksU2GP
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

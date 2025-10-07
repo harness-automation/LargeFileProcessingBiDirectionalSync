@@ -1,0 +1,8 @@
+service:
+  name: servicez2aha1EXN2
+  identifier: servicez2aha1EXN2
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

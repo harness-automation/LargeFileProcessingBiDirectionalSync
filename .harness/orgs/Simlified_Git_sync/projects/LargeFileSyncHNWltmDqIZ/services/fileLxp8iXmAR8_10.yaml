@@ -1,0 +1,8 @@
+service:
+  name: serviceel42DzDzwT
+  identifier: serviceel42DzDzwT
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

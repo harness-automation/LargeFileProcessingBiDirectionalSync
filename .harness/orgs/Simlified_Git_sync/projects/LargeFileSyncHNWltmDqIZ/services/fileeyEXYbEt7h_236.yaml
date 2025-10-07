@@ -1,0 +1,8 @@
+service:
+  name: serviceAu1kSPI7CU
+  identifier: serviceAu1kSPI7CU
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

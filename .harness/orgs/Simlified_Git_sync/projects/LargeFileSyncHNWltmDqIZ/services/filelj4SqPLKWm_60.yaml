@@ -1,0 +1,8 @@
+service:
+  name: servicey50kREmhQo
+  identifier: servicey50kREmhQo
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

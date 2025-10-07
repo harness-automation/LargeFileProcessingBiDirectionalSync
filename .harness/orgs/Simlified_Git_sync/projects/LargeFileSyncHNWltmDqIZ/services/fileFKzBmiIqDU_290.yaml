@@ -1,0 +1,8 @@
+service:
+  name: servicemtjrBaTrcD
+  identifier: servicemtjrBaTrcD
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceQkPC308LBR
+  identifier: serviceQkPC308LBR
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

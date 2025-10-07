@@ -1,0 +1,8 @@
+service:
+  name: servicenEPTK5DDB5
+  identifier: servicenEPTK5DDB5
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

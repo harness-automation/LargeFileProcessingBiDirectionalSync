@@ -1,0 +1,8 @@
+service:
+  name: serviceGtbW4SOvFL
+  identifier: serviceGtbW4SOvFL
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceVBZnXsmKkL
+  identifier: serviceVBZnXsmKkL
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

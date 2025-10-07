@@ -1,0 +1,8 @@
+service:
+  name: serviceeauT8vaQzD
+  identifier: serviceeauT8vaQzD
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

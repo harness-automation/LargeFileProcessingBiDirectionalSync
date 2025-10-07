@@ -1,0 +1,8 @@
+service:
+  name: serviceCpl4sVR9EL
+  identifier: serviceCpl4sVR9EL
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

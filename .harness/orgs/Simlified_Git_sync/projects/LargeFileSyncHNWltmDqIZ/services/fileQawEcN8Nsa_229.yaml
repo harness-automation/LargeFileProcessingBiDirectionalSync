@@ -1,0 +1,8 @@
+service:
+  name: serviceCryKCkp5CW
+  identifier: serviceCryKCkp5CW
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

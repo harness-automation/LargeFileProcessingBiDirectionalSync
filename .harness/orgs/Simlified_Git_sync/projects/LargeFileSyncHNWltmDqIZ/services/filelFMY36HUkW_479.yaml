@@ -1,0 +1,8 @@
+service:
+  name: servicemcH2BmBouB
+  identifier: servicemcH2BmBouB
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceUF3VuEWEiL
+  identifier: serviceUF3VuEWEiL
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

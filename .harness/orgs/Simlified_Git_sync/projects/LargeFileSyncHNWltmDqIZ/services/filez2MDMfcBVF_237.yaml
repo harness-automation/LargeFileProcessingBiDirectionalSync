@@ -1,0 +1,8 @@
+service:
+  name: servicesGpsOQReB8
+  identifier: servicesGpsOQReB8
+  projectIdentifier: LargeFileSyncHNWltmDqIZ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
