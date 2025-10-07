@@ -1,0 +1,8 @@
+service:
+  name: servicepssA1MDV3w
+  identifier: servicepssA1MDV3w
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

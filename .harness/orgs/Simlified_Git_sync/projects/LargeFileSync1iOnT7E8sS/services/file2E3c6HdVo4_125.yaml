@@ -1,0 +1,8 @@
+service:
+  name: serviceHGRlTydu8l
+  identifier: serviceHGRlTydu8l
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

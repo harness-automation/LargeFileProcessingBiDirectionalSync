@@ -1,0 +1,8 @@
+service:
+  name: serviceVgJgGeo37b
+  identifier: serviceVgJgGeo37b
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service5Uzk6G8Tcp
+  identifier: service5Uzk6G8Tcp
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

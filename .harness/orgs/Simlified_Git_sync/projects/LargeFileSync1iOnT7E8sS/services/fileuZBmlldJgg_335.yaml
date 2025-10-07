@@ -1,0 +1,8 @@
+service:
+  name: serviceEThMFLOr5h
+  identifier: serviceEThMFLOr5h
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

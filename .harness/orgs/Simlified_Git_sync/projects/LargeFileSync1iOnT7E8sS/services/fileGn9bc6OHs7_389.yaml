@@ -1,0 +1,8 @@
+service:
+  name: servicePcpap6XjdW
+  identifier: servicePcpap6XjdW
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

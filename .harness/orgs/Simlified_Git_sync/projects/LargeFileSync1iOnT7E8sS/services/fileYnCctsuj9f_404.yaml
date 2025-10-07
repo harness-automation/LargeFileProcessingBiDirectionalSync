@@ -1,0 +1,8 @@
+service:
+  name: servicez3CPaviM9s
+  identifier: servicez3CPaviM9s
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

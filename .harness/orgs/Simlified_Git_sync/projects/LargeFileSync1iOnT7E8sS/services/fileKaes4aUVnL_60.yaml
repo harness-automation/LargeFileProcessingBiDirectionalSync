@@ -1,0 +1,8 @@
+service:
+  name: serviceVk52sEg0Rf
+  identifier: serviceVk52sEg0Rf
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

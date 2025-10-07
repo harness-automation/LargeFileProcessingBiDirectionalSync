@@ -1,0 +1,8 @@
+service:
+  name: servicetOchS9NF3j
+  identifier: servicetOchS9NF3j
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

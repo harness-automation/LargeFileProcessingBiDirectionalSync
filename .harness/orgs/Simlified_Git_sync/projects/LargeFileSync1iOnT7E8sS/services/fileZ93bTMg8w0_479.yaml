@@ -1,0 +1,8 @@
+service:
+  name: servicesGHVva0XAa
+  identifier: servicesGHVva0XAa
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

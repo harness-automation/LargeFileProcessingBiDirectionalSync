@@ -1,0 +1,8 @@
+service:
+  name: service2RBAc6tMIU
+  identifier: service2RBAc6tMIU
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

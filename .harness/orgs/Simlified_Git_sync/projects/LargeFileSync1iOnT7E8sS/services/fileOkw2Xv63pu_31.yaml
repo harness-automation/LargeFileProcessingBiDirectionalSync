@@ -1,0 +1,8 @@
+service:
+  name: service9an01ELOYO
+  identifier: service9an01ELOYO
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

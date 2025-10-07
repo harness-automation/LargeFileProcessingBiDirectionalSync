@@ -1,0 +1,8 @@
+service:
+  name: serviceJ2R2FPot6M
+  identifier: serviceJ2R2FPot6M
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

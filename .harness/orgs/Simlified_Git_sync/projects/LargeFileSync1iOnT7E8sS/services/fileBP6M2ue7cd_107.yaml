@@ -1,0 +1,8 @@
+service:
+  name: servicerBNLPuph8v
+  identifier: servicerBNLPuph8v
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

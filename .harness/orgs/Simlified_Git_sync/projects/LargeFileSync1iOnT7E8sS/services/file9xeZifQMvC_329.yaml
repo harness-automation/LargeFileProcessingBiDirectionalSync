@@ -1,0 +1,8 @@
+service:
+  name: serviceRntS3B1Dbt
+  identifier: serviceRntS3B1Dbt
+  projectIdentifier: LargeFileSync1iOnT7E8sS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
