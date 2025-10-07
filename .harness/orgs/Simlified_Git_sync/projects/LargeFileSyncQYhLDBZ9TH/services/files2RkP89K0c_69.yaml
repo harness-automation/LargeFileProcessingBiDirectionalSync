@@ -1,0 +1,8 @@
+service:
+  name: serviceX40M2wiDwt
+  identifier: serviceX40M2wiDwt
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

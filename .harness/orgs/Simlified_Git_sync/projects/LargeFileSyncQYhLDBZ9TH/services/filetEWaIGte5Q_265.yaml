@@ -1,0 +1,8 @@
+service:
+  name: servicegptO30d2FE
+  identifier: servicegptO30d2FE
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

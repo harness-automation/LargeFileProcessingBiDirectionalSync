@@ -1,0 +1,8 @@
+service:
+  name: serviceWFrdjHeOCR
+  identifier: serviceWFrdjHeOCR
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

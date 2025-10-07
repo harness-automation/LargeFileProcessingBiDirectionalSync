@@ -1,0 +1,8 @@
+service:
+  name: servicevVenuPhECn
+  identifier: servicevVenuPhECn
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

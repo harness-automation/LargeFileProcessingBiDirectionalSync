@@ -1,0 +1,8 @@
+service:
+  name: serviceTODUrWl1Bl
+  identifier: serviceTODUrWl1Bl
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

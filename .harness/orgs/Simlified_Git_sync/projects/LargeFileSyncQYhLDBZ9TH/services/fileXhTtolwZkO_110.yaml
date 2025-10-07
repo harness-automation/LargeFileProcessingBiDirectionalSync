@@ -1,0 +1,8 @@
+service:
+  name: serviceVNbrAdb3V1
+  identifier: serviceVNbrAdb3V1
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

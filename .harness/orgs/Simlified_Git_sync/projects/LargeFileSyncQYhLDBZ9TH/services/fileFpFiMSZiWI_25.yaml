@@ -1,0 +1,8 @@
+service:
+  name: serviceRbke5LwTK5
+  identifier: serviceRbke5LwTK5
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

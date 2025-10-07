@@ -1,0 +1,8 @@
+service:
+  name: serviceZMPFZ9PDTR
+  identifier: serviceZMPFZ9PDTR
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

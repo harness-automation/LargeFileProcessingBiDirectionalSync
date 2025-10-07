@@ -1,0 +1,8 @@
+service:
+  name: serviceFRT2oiBqa5
+  identifier: serviceFRT2oiBqa5
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

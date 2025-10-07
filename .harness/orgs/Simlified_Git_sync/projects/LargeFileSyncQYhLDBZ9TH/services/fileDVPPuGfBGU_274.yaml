@@ -1,0 +1,8 @@
+service:
+  name: serviceCA267k2vwF
+  identifier: serviceCA267k2vwF
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

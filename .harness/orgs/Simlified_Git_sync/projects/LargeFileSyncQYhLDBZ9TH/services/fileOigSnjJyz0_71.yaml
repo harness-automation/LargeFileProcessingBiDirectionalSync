@@ -1,0 +1,8 @@
+service:
+  name: serviceTF1taJ3OsP
+  identifier: serviceTF1taJ3OsP
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

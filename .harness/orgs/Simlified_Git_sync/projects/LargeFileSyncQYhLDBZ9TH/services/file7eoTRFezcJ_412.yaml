@@ -1,0 +1,8 @@
+service:
+  name: servicehew5TEniBM
+  identifier: servicehew5TEniBM
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAMKkrC1BAU
+  identifier: serviceAMKkrC1BAU
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

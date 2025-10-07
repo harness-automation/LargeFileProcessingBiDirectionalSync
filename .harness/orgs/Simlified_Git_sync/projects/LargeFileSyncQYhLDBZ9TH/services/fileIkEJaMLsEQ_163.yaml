@@ -1,0 +1,8 @@
+service:
+  name: serviceDCdr7dnPEG
+  identifier: serviceDCdr7dnPEG
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

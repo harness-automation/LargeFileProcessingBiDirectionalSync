@@ -1,0 +1,8 @@
+service:
+  name: servicebsbT76H1a4
+  identifier: servicebsbT76H1a4
+  projectIdentifier: LargeFileSyncQYhLDBZ9TH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
