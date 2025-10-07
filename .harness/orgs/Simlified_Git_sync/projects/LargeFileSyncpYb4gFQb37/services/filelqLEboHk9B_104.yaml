@@ -1,0 +1,8 @@
+service:
+  name: servicePKlyuai1sC
+  identifier: servicePKlyuai1sC
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

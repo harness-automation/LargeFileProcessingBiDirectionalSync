@@ -1,0 +1,8 @@
+service:
+  name: servicefNpmP4RWcA
+  identifier: servicefNpmP4RWcA
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAxu2AddFeQ
+  identifier: serviceAxu2AddFeQ
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

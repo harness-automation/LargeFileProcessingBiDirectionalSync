@@ -1,0 +1,8 @@
+service:
+  name: serviceDBOTDng3Ic
+  identifier: serviceDBOTDng3Ic
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

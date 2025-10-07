@@ -1,0 +1,8 @@
+service:
+  name: servicePHcD3PDIM7
+  identifier: servicePHcD3PDIM7
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceeergmeDru2
+  identifier: serviceeergmeDru2
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

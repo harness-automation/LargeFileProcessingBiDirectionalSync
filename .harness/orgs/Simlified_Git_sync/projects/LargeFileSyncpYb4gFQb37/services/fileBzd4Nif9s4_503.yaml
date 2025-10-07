@@ -1,0 +1,8 @@
+service:
+  name: serviceMwBudo90Lc
+  identifier: serviceMwBudo90Lc
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

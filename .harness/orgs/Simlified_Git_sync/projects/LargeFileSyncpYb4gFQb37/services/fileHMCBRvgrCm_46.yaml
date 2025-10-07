@@ -1,0 +1,8 @@
+service:
+  name: servicetHg39kZoRT
+  identifier: servicetHg39kZoRT
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

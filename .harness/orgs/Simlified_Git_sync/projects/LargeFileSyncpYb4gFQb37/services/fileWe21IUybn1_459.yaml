@@ -1,0 +1,8 @@
+service:
+  name: servicedCp950MuUV
+  identifier: servicedCp950MuUV
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

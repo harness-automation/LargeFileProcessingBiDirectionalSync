@@ -1,0 +1,8 @@
+service:
+  name: servicew96RZwLAun
+  identifier: servicew96RZwLAun
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

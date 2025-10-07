@@ -1,0 +1,8 @@
+service:
+  name: service89URAP3e4t
+  identifier: service89URAP3e4t
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

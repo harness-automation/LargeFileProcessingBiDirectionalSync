@@ -1,0 +1,8 @@
+service:
+  name: serviceeM94M7WtnK
+  identifier: serviceeM94M7WtnK
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

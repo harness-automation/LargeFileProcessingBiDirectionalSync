@@ -1,0 +1,8 @@
+service:
+  name: serviceNPndf600d5
+  identifier: serviceNPndf600d5
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

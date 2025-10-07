@@ -1,0 +1,8 @@
+service:
+  name: serviceimu25SGNbR
+  identifier: serviceimu25SGNbR
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

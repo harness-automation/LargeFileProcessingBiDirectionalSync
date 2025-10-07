@@ -1,0 +1,8 @@
+service:
+  name: serviceLaRk1Ejuik
+  identifier: serviceLaRk1Ejuik
+  projectIdentifier: LargeFileSyncpYb4gFQb37
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
