@@ -1,0 +1,8 @@
+service:
+  name: serviceFWr0f7Xfap
+  identifier: serviceFWr0f7Xfap
+  projectIdentifier: LargeFileSync4WUlbYgmM5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

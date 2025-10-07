@@ -1,0 +1,8 @@
+service:
+  name: serviceoe2TiocsXu
+  identifier: serviceoe2TiocsXu
+  projectIdentifier: LargeFileSync4WUlbYgmM5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAiJEMfDBFy
+  identifier: serviceAiJEMfDBFy
+  projectIdentifier: LargeFileSync4WUlbYgmM5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

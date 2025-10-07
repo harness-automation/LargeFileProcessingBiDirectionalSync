@@ -1,0 +1,8 @@
+service:
+  name: service8AaMSulEc5
+  identifier: service8AaMSulEc5
+  projectIdentifier: LargeFileSync4WUlbYgmM5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

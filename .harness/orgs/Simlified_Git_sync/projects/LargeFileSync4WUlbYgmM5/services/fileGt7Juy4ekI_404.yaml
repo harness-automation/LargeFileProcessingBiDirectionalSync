@@ -1,0 +1,8 @@
+service:
+  name: serviceBGrprfn3a2
+  identifier: serviceBGrprfn3a2
+  projectIdentifier: LargeFileSync4WUlbYgmM5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

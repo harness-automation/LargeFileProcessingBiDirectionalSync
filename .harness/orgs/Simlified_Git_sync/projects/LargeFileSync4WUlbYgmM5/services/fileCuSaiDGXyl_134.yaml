@@ -1,0 +1,8 @@
+service:
+  name: serviceFOXS9PX2B4
+  identifier: serviceFOXS9PX2B4
+  projectIdentifier: LargeFileSync4WUlbYgmM5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

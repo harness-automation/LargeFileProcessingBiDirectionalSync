@@ -1,0 +1,8 @@
+service:
+  name: servicem8dnx33VpD
+  identifier: servicem8dnx33VpD
+  projectIdentifier: LargeFileSync4WUlbYgmM5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

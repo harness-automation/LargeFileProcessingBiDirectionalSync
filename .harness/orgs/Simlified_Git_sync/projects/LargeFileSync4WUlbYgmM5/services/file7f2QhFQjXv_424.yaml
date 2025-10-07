@@ -1,0 +1,8 @@
+service:
+  name: servicetVHWG5LUPC
+  identifier: servicetVHWG5LUPC
+  projectIdentifier: LargeFileSync4WUlbYgmM5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
