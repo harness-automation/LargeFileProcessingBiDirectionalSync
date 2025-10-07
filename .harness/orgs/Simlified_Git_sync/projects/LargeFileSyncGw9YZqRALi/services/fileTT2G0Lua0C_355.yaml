@@ -1,0 +1,8 @@
+service:
+  name: servicerxGSU79cmp
+  identifier: servicerxGSU79cmp
+  projectIdentifier: LargeFileSyncGw9YZqRALi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

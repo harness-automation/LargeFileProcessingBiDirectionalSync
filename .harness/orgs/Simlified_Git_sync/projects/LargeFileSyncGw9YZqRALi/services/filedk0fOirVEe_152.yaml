@@ -1,0 +1,8 @@
+service:
+  name: serviceJNzVs4RUoE
+  identifier: serviceJNzVs4RUoE
+  projectIdentifier: LargeFileSyncGw9YZqRALi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

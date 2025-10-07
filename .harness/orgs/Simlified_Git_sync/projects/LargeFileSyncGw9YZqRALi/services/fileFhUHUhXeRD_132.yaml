@@ -1,0 +1,8 @@
+service:
+  name: servicezvl4Lscr2k
+  identifier: servicezvl4Lscr2k
+  projectIdentifier: LargeFileSyncGw9YZqRALi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

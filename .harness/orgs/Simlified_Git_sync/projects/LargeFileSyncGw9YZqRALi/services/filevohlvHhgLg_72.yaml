@@ -1,0 +1,8 @@
+service:
+  name: serviceHlSakdo8M4
+  identifier: serviceHlSakdo8M4
+  projectIdentifier: LargeFileSyncGw9YZqRALi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

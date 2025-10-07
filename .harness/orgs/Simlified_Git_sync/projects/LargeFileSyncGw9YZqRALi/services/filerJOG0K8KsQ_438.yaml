@@ -1,0 +1,8 @@
+service:
+  name: servicerfGn3l24Tk
+  identifier: servicerfGn3l24Tk
+  projectIdentifier: LargeFileSyncGw9YZqRALi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

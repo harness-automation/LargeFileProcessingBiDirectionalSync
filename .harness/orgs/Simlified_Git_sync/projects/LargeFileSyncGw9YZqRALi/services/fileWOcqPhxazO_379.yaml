@@ -1,0 +1,8 @@
+service:
+  name: servicemaTg1oLZ62
+  identifier: servicemaTg1oLZ62
+  projectIdentifier: LargeFileSyncGw9YZqRALi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

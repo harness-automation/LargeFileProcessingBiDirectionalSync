@@ -1,0 +1,8 @@
+service:
+  name: serviceOpKU4Cmh43
+  identifier: serviceOpKU4Cmh43
+  projectIdentifier: LargeFileSyncGw9YZqRALi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

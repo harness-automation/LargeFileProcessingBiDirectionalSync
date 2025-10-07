@@ -1,0 +1,8 @@
+service:
+  name: serviceVBCPa12OIM
+  identifier: serviceVBCPa12OIM
+  projectIdentifier: LargeFileSyncGw9YZqRALi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

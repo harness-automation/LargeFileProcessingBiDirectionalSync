@@ -1,0 +1,8 @@
+service:
+  name: serviceMBO6f61KbE
+  identifier: serviceMBO6f61KbE
+  projectIdentifier: LargeFileSyncGw9YZqRALi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
