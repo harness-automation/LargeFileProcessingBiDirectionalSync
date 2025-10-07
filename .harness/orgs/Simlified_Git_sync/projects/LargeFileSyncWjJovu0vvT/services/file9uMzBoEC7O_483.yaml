@@ -1,0 +1,8 @@
+service:
+  name: serviceBGSolD2crE
+  identifier: serviceBGSolD2crE
+  projectIdentifier: LargeFileSyncWjJovu0vvT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicera3cYInEsd
+  identifier: servicera3cYInEsd
+  projectIdentifier: LargeFileSyncWjJovu0vvT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceWPlsf2An05
+  identifier: serviceWPlsf2An05
+  projectIdentifier: LargeFileSyncWjJovu0vvT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicefxa163QnDB
+  identifier: servicefxa163QnDB
+  projectIdentifier: LargeFileSyncWjJovu0vvT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
