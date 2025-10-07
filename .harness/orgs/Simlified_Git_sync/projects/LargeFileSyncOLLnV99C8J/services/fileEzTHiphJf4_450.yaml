@@ -1,0 +1,8 @@
+service:
+  name: servicelbhIEA6ilf
+  identifier: servicelbhIEA6ilf
+  projectIdentifier: LargeFileSyncOLLnV99C8J
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

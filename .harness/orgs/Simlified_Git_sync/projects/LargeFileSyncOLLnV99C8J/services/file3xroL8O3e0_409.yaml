@@ -1,0 +1,8 @@
+service:
+  name: serviceWf6ofHCwls
+  identifier: serviceWf6ofHCwls
+  projectIdentifier: LargeFileSyncOLLnV99C8J
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

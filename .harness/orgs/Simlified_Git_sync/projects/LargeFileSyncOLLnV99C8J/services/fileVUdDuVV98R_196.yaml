@@ -1,0 +1,8 @@
+service:
+  name: serviceFMYSSpK6L9
+  identifier: serviceFMYSSpK6L9
+  projectIdentifier: LargeFileSyncOLLnV99C8J
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceauIHRW79h2
+  identifier: serviceauIHRW79h2
+  projectIdentifier: LargeFileSyncOLLnV99C8J
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
