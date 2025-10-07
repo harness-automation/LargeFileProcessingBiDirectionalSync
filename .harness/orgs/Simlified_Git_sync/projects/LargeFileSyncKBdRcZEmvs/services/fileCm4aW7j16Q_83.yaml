@@ -1,0 +1,8 @@
+service:
+  name: servicexg6mbSVU9Z
+  identifier: servicexg6mbSVU9Z
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

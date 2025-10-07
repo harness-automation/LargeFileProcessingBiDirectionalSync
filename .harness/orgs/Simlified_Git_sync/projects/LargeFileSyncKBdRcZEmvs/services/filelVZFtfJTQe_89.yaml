@@ -1,0 +1,8 @@
+service:
+  name: servicerum1Ay281p
+  identifier: servicerum1Ay281p
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

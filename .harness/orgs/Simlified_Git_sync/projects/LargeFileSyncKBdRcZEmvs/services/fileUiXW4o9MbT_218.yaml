@@ -1,0 +1,8 @@
+service:
+  name: servicemqZFayFb2r
+  identifier: servicemqZFayFb2r
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

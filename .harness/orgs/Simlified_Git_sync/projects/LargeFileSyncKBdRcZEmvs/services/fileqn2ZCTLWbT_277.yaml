@@ -1,0 +1,8 @@
+service:
+  name: serviceHnvJAM316l
+  identifier: serviceHnvJAM316l
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

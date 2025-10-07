@@ -1,0 +1,8 @@
+service:
+  name: servicetueKI1UUgK
+  identifier: servicetueKI1UUgK
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

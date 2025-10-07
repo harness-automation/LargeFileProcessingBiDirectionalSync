@@ -1,0 +1,8 @@
+service:
+  name: servicecpoTaV5dWs
+  identifier: servicecpoTaV5dWs
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

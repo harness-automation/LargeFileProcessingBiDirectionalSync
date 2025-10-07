@@ -1,0 +1,8 @@
+service:
+  name: servicelA4AsXtjMT
+  identifier: servicelA4AsXtjMT
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

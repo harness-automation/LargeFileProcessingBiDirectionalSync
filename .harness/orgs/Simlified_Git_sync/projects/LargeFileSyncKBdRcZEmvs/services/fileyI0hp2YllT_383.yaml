@@ -1,0 +1,8 @@
+service:
+  name: serviceJE6WDR0Sdb
+  identifier: serviceJE6WDR0Sdb
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

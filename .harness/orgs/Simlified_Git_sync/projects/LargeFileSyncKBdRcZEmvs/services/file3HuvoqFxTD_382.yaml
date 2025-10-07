@@ -1,0 +1,8 @@
+service:
+  name: service2jcqRcM32n
+  identifier: service2jcqRcM32n
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

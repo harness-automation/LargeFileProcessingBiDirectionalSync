@@ -1,0 +1,8 @@
+service:
+  name: serviceWrMELqFbP2
+  identifier: serviceWrMELqFbP2
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

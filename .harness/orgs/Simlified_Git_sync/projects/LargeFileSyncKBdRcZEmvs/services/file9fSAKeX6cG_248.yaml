@@ -1,0 +1,8 @@
+service:
+  name: servicepqnmszvr5U
+  identifier: servicepqnmszvr5U
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

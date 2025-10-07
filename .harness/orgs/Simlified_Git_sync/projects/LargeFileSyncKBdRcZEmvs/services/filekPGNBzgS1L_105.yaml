@@ -1,0 +1,8 @@
+service:
+  name: serviceC2LSKm1jPI
+  identifier: serviceC2LSKm1jPI
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

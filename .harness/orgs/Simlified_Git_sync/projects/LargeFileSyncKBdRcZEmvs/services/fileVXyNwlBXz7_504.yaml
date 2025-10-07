@@ -1,0 +1,8 @@
+service:
+  name: servicerKk5fJmMUn
+  identifier: servicerKk5fJmMUn
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

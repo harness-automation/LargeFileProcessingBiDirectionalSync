@@ -1,0 +1,8 @@
+service:
+  name: servicerqT342kUaX
+  identifier: servicerqT342kUaX
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

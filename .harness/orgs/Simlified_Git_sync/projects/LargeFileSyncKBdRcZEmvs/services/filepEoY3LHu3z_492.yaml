@@ -1,0 +1,8 @@
+service:
+  name: servicerZyAM2jk5J
+  identifier: servicerZyAM2jk5J
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

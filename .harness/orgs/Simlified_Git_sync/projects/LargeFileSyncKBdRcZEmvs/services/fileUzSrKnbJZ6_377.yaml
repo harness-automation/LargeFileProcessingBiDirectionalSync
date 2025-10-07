@@ -1,0 +1,8 @@
+service:
+  name: serviceWcwIp37CrP
+  identifier: serviceWcwIp37CrP
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

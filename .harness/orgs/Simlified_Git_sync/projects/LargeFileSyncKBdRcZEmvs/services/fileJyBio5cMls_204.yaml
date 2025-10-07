@@ -1,0 +1,8 @@
+service:
+  name: serviceJPTaaLAkZ3
+  identifier: serviceJPTaaLAkZ3
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

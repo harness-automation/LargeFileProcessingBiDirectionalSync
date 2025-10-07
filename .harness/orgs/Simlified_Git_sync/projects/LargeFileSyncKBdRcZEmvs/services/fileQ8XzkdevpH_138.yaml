@@ -1,0 +1,8 @@
+service:
+  name: servicefUNIeFu6LM
+  identifier: servicefUNIeFu6LM
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

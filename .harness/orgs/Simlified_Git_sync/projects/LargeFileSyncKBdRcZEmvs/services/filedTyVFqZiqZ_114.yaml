@@ -1,0 +1,8 @@
+service:
+  name: serviceOWhm02KHQ4
+  identifier: serviceOWhm02KHQ4
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

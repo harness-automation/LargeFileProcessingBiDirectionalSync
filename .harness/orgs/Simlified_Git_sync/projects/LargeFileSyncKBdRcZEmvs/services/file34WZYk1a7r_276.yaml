@@ -1,0 +1,8 @@
+service:
+  name: servicerbty82mDtm
+  identifier: servicerbty82mDtm
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

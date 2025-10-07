@@ -1,0 +1,8 @@
+service:
+  name: serviceOCLPftCuH1
+  identifier: serviceOCLPftCuH1
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

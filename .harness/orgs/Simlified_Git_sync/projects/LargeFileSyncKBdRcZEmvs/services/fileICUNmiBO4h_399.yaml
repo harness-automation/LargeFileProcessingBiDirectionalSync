@@ -1,0 +1,8 @@
+service:
+  name: serviceH45SQuILBy
+  identifier: serviceH45SQuILBy
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

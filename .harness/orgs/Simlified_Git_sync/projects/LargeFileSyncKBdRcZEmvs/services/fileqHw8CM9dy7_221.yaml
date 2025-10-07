@@ -1,0 +1,8 @@
+service:
+  name: serviceDaV0FJxMpd
+  identifier: serviceDaV0FJxMpd
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

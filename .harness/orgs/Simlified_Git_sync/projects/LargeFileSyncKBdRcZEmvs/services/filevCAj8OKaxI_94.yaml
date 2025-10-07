@@ -1,0 +1,8 @@
+service:
+  name: serviceDdNHICb0E5
+  identifier: serviceDdNHICb0E5
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

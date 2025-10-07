@@ -1,0 +1,8 @@
+service:
+  name: serviceXTFEjRSCa3
+  identifier: serviceXTFEjRSCa3
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

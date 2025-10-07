@@ -1,0 +1,8 @@
+service:
+  name: service6FWPaf3LE4
+  identifier: service6FWPaf3LE4
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

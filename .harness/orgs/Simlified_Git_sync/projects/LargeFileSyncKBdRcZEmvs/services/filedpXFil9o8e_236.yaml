@@ -1,0 +1,8 @@
+service:
+  name: servicelVBcDMBd8d
+  identifier: servicelVBcDMBd8d
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceVCB9ZOYKsa
+  identifier: serviceVCB9ZOYKsa
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

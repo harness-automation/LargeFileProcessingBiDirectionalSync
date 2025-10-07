@@ -1,0 +1,8 @@
+service:
+  name: servicerhwigTG62D
+  identifier: servicerhwigTG62D
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

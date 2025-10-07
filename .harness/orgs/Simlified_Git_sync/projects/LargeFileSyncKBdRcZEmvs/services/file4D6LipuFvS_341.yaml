@@ -1,0 +1,8 @@
+service:
+  name: servicegeo1TP8pHF
+  identifier: servicegeo1TP8pHF
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

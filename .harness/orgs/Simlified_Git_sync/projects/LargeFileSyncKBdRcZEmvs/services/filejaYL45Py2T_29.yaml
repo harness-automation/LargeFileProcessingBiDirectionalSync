@@ -1,0 +1,8 @@
+service:
+  name: serviceLOSpKz8Or2
+  identifier: serviceLOSpKz8Or2
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

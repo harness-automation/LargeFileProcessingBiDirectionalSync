@@ -1,0 +1,8 @@
+service:
+  name: servicesYOBW11uWb
+  identifier: servicesYOBW11uWb
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

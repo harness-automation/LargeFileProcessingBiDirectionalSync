@@ -1,0 +1,8 @@
+service:
+  name: serviceAI24VztSFM
+  identifier: serviceAI24VztSFM
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

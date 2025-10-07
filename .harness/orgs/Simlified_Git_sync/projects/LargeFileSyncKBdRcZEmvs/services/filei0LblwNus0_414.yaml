@@ -1,0 +1,8 @@
+service:
+  name: serviceKfOrThifl9
+  identifier: serviceKfOrThifl9
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service1Nyx8KMadi
+  identifier: service1Nyx8KMadi
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

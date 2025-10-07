@@ -1,0 +1,8 @@
+service:
+  name: service2vf85VCRQv
+  identifier: service2vf85VCRQv
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

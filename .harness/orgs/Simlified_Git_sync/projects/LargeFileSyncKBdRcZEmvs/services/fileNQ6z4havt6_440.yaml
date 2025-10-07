@@ -1,0 +1,8 @@
+service:
+  name: servicetA2LTEcBeE
+  identifier: servicetA2LTEcBeE
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

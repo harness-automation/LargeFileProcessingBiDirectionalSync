@@ -1,0 +1,8 @@
+service:
+  name: servicepZ17BYMFy8
+  identifier: servicepZ17BYMFy8
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

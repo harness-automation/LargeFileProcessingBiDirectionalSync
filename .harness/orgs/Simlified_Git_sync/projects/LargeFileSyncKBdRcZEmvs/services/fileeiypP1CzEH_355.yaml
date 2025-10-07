@@ -1,0 +1,8 @@
+service:
+  name: serviceGWKtViONmr
+  identifier: serviceGWKtViONmr
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

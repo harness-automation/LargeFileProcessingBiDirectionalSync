@@ -1,0 +1,8 @@
+service:
+  name: serviceXRlpNesUAz
+  identifier: serviceXRlpNesUAz
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

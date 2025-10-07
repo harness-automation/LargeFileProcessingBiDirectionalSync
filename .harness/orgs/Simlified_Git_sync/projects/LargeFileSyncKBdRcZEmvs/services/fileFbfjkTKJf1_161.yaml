@@ -1,0 +1,8 @@
+service:
+  name: serviceMJ0XuasJGO
+  identifier: serviceMJ0XuasJGO
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

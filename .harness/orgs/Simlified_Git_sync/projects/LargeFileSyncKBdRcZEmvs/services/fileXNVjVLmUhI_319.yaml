@@ -1,0 +1,8 @@
+service:
+  name: servicets21uz0gys
+  identifier: servicets21uz0gys
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

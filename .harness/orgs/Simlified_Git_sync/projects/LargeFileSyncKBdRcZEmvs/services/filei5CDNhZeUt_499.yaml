@@ -1,0 +1,8 @@
+service:
+  name: serviceNeWICQ47JW
+  identifier: serviceNeWICQ47JW
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

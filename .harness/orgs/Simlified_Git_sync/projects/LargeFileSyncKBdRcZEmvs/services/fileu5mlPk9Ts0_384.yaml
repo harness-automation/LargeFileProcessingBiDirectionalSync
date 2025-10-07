@@ -1,0 +1,8 @@
+service:
+  name: servicerFzg7PTMvC
+  identifier: servicerFzg7PTMvC
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

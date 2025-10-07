@@ -1,0 +1,8 @@
+service:
+  name: serviceciMt6T38DY
+  identifier: serviceciMt6T38DY
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

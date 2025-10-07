@@ -1,0 +1,8 @@
+service:
+  name: servicerDNb8cD0AP
+  identifier: servicerDNb8cD0AP
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

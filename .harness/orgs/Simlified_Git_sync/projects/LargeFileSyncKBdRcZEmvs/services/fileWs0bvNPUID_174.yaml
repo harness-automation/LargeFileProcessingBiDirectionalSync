@@ -1,0 +1,8 @@
+service:
+  name: service8syTAu7DPW
+  identifier: service8syTAu7DPW
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

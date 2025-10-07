@@ -1,0 +1,8 @@
+service:
+  name: serviceM6yWAVy2ME
+  identifier: serviceM6yWAVy2ME
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicecljg6kEJDb
+  identifier: servicecljg6kEJDb
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

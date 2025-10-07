@@ -1,0 +1,8 @@
+service:
+  name: serviceCyRIBGXg8S
+  identifier: serviceCyRIBGXg8S
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

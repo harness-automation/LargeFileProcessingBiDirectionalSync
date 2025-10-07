@@ -1,0 +1,8 @@
+service:
+  name: serviceQPiP6zxm7L
+  identifier: serviceQPiP6zxm7L
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

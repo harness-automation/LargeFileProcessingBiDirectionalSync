@@ -1,0 +1,8 @@
+service:
+  name: serviceDeNAex1EoU
+  identifier: serviceDeNAex1EoU
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

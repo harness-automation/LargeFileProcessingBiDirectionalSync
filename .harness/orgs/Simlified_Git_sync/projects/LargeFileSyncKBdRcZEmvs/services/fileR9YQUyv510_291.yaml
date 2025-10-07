@@ -1,0 +1,8 @@
+service:
+  name: serviceTTrOGW4NRm
+  identifier: serviceTTrOGW4NRm
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

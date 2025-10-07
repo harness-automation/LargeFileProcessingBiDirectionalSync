@@ -1,0 +1,8 @@
+service:
+  name: servicekcsbv2cm9Z
+  identifier: servicekcsbv2cm9Z
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

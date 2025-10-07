@@ -1,0 +1,8 @@
+service:
+  name: serviceio4CAL7khR
+  identifier: serviceio4CAL7khR
+  projectIdentifier: LargeFileSyncKBdRcZEmvs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
