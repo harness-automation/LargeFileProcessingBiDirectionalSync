@@ -1,0 +1,8 @@
+service:
+  name: serviceEB3WunUkXl
+  identifier: serviceEB3WunUkXl
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

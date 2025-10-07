@@ -1,0 +1,8 @@
+service:
+  name: serviceDScybDT5nS
+  identifier: serviceDScybDT5nS
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicel32t5lXEGR
+  identifier: servicel32t5lXEGR
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

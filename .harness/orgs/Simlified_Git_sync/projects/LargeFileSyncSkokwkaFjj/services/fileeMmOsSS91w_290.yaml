@@ -1,0 +1,8 @@
+service:
+  name: servicep628EcgKQX
+  identifier: servicep628EcgKQX
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

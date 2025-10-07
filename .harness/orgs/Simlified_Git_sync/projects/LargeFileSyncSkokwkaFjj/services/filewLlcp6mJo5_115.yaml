@@ -1,0 +1,8 @@
+service:
+  name: service4a3ZLOKBAQ
+  identifier: service4a3ZLOKBAQ
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

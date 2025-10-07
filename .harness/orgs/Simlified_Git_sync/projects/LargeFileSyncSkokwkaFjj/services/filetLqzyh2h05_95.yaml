@@ -1,0 +1,8 @@
+service:
+  name: serviceHPED29afhS
+  identifier: serviceHPED29afhS
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

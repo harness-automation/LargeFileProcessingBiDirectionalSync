@@ -1,0 +1,8 @@
+service:
+  name: service55P1esu90Z
+  identifier: service55P1esu90Z
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

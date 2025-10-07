@@ -1,0 +1,8 @@
+service:
+  name: serviceUSJKrTkDRg
+  identifier: serviceUSJKrTkDRg
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

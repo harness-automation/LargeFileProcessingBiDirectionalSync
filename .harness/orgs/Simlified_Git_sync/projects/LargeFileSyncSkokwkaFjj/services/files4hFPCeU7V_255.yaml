@@ -1,0 +1,8 @@
+service:
+  name: servicegRP18Ysf3q
+  identifier: servicegRP18Ysf3q
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

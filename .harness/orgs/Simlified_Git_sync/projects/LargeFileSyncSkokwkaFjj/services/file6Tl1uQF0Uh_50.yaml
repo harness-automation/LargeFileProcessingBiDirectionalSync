@@ -1,0 +1,8 @@
+service:
+  name: serviceEmyMl4TVFg
+  identifier: serviceEmyMl4TVFg
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

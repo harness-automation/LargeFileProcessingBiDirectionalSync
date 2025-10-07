@@ -1,0 +1,8 @@
+service:
+  name: servicesEh40IM8Mq
+  identifier: servicesEh40IM8Mq
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

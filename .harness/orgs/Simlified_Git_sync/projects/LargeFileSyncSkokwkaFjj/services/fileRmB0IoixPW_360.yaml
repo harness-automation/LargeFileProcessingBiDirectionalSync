@@ -1,0 +1,8 @@
+service:
+  name: servicerOvBrAoBoL
+  identifier: servicerOvBrAoBoL
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

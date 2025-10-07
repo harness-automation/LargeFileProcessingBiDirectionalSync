@@ -1,0 +1,8 @@
+service:
+  name: service1AopSonRet
+  identifier: service1AopSonRet
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

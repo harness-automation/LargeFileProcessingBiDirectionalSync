@@ -1,0 +1,8 @@
+service:
+  name: serviceYnWALsVl7r
+  identifier: serviceYnWALsVl7r
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

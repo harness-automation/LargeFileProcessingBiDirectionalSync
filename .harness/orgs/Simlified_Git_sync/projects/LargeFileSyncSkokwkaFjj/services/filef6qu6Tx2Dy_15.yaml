@@ -1,0 +1,8 @@
+service:
+  name: serviceOxcfFp72s9
+  identifier: serviceOxcfFp72s9
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

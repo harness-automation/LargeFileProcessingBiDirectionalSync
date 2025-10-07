@@ -1,0 +1,8 @@
+service:
+  name: servicerGyfOBA9k2
+  identifier: servicerGyfOBA9k2
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

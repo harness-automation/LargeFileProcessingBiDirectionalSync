@@ -1,0 +1,8 @@
+service:
+  name: serviceUAio2DWVX3
+  identifier: serviceUAio2DWVX3
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

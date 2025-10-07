@@ -1,0 +1,8 @@
+service:
+  name: serviceWwp19kd69x
+  identifier: serviceWwp19kd69x
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

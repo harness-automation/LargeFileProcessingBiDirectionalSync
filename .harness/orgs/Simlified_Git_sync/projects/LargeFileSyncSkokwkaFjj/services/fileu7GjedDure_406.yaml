@@ -1,0 +1,8 @@
+service:
+  name: service6UKFomnuIf
+  identifier: service6UKFomnuIf
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

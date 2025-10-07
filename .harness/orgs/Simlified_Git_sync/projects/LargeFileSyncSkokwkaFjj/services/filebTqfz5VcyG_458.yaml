@@ -1,0 +1,8 @@
+service:
+  name: servicekPL31sLUfI
+  identifier: servicekPL31sLUfI
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

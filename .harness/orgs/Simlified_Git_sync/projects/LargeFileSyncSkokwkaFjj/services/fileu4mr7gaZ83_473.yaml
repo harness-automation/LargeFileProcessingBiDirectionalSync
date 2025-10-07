@@ -1,0 +1,8 @@
+service:
+  name: serviceZJV41NQ68T
+  identifier: serviceZJV41NQ68T
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

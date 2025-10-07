@@ -1,0 +1,8 @@
+service:
+  name: servicepgFKTA0cjn
+  identifier: servicepgFKTA0cjn
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

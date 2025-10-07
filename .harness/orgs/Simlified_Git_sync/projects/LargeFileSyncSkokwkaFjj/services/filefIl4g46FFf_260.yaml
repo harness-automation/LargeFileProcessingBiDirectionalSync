@@ -1,0 +1,8 @@
+service:
+  name: serviceEPxr1b2aLU
+  identifier: serviceEPxr1b2aLU
+  projectIdentifier: LargeFileSyncSkokwkaFjj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
