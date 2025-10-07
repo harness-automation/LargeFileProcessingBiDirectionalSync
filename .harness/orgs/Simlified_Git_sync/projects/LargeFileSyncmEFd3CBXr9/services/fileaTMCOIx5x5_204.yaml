@@ -1,0 +1,8 @@
+service:
+  name: serviceLfs7F0zDOW
+  identifier: serviceLfs7F0zDOW
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

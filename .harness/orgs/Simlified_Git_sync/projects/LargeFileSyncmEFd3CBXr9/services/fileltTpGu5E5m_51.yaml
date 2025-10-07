@@ -1,0 +1,8 @@
+service:
+  name: serviceOGb2iKb6S4
+  identifier: serviceOGb2iKb6S4
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

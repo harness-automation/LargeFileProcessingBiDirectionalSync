@@ -1,0 +1,8 @@
+service:
+  name: serviceF17XaN8TRL
+  identifier: serviceF17XaN8TRL
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

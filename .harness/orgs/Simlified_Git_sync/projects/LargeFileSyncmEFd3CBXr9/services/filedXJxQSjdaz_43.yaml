@@ -1,0 +1,8 @@
+service:
+  name: serviceOHIfMlv7XU
+  identifier: serviceOHIfMlv7XU
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicelikvQ5KSLc
+  identifier: servicelikvQ5KSLc
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

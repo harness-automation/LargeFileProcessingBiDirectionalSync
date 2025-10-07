@@ -1,0 +1,8 @@
+service:
+  name: serviceSEopmhTEm7
+  identifier: serviceSEopmhTEm7
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

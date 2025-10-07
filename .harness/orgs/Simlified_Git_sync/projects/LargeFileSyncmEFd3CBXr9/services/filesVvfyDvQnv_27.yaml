@@ -1,0 +1,8 @@
+service:
+  name: servicepvgrV382R1
+  identifier: servicepvgrV382R1
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceNLEF5x1UIt
+  identifier: serviceNLEF5x1UIt
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

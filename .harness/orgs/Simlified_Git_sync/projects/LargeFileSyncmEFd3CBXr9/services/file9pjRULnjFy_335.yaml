@@ -1,0 +1,8 @@
+service:
+  name: serviceigST92ASis
+  identifier: serviceigST92ASis
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

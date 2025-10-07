@@ -1,0 +1,8 @@
+service:
+  name: serviceyAjeoFw2gy
+  identifier: serviceyAjeoFw2gy
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

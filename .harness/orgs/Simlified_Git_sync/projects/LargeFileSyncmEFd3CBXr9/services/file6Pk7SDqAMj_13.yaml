@@ -1,0 +1,8 @@
+service:
+  name: serviceReCpgoL3CZ
+  identifier: serviceReCpgoL3CZ
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

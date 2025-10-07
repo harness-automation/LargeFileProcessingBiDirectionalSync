@@ -1,0 +1,8 @@
+service:
+  name: serviceNTXsz55d71
+  identifier: serviceNTXsz55d71
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

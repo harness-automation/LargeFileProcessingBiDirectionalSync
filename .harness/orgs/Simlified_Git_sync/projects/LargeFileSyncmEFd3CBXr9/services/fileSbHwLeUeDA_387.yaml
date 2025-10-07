@@ -1,0 +1,8 @@
+service:
+  name: serviceZC35Ptuu6W
+  identifier: serviceZC35Ptuu6W
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

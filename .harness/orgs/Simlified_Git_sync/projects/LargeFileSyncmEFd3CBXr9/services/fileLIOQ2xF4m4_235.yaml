@@ -1,0 +1,8 @@
+service:
+  name: serviceqmrdMAllEc
+  identifier: serviceqmrdMAllEc
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

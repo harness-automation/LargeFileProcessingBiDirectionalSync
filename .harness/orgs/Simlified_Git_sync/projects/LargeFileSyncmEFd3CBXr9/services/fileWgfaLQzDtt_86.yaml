@@ -1,0 +1,8 @@
+service:
+  name: serviceVNruj4PvD4
+  identifier: serviceVNruj4PvD4
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

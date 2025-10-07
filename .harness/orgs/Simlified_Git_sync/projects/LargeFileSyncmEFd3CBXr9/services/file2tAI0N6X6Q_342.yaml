@@ -1,0 +1,8 @@
+service:
+  name: serviceGgeVFA8ose
+  identifier: serviceGgeVFA8ose
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

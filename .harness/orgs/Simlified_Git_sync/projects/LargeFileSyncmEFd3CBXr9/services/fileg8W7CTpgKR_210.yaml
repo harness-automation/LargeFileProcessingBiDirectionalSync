@@ -1,0 +1,8 @@
+service:
+  name: serviceF9hMBDPmsI
+  identifier: serviceF9hMBDPmsI
+  projectIdentifier: LargeFileSyncmEFd3CBXr9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
