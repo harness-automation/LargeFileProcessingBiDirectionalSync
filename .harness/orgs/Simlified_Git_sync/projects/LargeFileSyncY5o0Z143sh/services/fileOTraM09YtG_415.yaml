@@ -1,0 +1,8 @@
+service:
+  name: serviceKKFR122LU5
+  identifier: serviceKKFR122LU5
+  projectIdentifier: LargeFileSyncY5o0Z143sh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

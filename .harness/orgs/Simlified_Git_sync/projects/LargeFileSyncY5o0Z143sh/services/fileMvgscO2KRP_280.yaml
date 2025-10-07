@@ -1,0 +1,8 @@
+service:
+  name: serviceOhmJMl8TlC
+  identifier: serviceOhmJMl8TlC
+  projectIdentifier: LargeFileSyncY5o0Z143sh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

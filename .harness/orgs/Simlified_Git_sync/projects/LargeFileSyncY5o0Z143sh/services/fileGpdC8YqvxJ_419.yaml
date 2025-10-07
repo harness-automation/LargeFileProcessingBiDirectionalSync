@@ -1,0 +1,8 @@
+service:
+  name: serviceTZPS3TafWf
+  identifier: serviceTZPS3TafWf
+  projectIdentifier: LargeFileSyncY5o0Z143sh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

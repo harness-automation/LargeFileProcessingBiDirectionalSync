@@ -1,0 +1,8 @@
+service:
+  name: service4gbDReSsCC
+  identifier: service4gbDReSsCC
+  projectIdentifier: LargeFileSyncY5o0Z143sh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
