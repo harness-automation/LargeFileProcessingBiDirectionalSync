@@ -1,0 +1,8 @@
+service:
+  name: serviceRlx2S4VoAI
+  identifier: serviceRlx2S4VoAI
+  projectIdentifier: LargeFileSyncpy0sH7dKJv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

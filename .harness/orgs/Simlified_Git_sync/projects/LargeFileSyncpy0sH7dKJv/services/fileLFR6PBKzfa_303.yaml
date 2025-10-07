@@ -1,0 +1,8 @@
+service:
+  name: serviceod8x2AnzKS
+  identifier: serviceod8x2AnzKS
+  projectIdentifier: LargeFileSyncpy0sH7dKJv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

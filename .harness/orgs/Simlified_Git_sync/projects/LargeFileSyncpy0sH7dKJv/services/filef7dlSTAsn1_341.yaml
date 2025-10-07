@@ -1,0 +1,8 @@
+service:
+  name: serviceJE5ERXiSO2
+  identifier: serviceJE5ERXiSO2
+  projectIdentifier: LargeFileSyncpy0sH7dKJv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

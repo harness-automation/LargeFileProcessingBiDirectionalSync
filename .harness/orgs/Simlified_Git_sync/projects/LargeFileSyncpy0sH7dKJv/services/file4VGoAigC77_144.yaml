@@ -1,0 +1,8 @@
+service:
+  name: serviceornpE1zuji
+  identifier: serviceornpE1zuji
+  projectIdentifier: LargeFileSyncpy0sH7dKJv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

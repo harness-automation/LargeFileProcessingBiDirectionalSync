@@ -1,0 +1,8 @@
+service:
+  name: servicecyNLBPuya2
+  identifier: servicecyNLBPuya2
+  projectIdentifier: LargeFileSyncpy0sH7dKJv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

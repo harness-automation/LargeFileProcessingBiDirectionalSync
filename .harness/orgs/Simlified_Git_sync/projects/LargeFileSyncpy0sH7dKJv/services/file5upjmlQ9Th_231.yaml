@@ -1,0 +1,8 @@
+service:
+  name: serviceT5l120Rp4M
+  identifier: serviceT5l120Rp4M
+  projectIdentifier: LargeFileSyncpy0sH7dKJv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

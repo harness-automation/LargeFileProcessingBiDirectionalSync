@@ -1,0 +1,8 @@
+service:
+  name: serviceWMEMb6IPVG
+  identifier: serviceWMEMb6IPVG
+  projectIdentifier: LargeFileSyncpy0sH7dKJv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

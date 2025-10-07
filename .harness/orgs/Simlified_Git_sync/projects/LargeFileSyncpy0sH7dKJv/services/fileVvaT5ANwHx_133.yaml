@@ -1,0 +1,8 @@
+service:
+  name: service2nr5EgNRiO
+  identifier: service2nr5EgNRiO
+  projectIdentifier: LargeFileSyncpy0sH7dKJv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
