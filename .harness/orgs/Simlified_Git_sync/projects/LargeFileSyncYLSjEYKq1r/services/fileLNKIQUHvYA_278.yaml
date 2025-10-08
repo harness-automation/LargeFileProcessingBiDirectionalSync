@@ -1,0 +1,8 @@
+service:
+  name: serviceJNRmyDyx4u
+  identifier: serviceJNRmyDyx4u
+  projectIdentifier: LargeFileSyncYLSjEYKq1r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

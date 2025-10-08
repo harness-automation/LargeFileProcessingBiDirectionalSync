@@ -1,0 +1,8 @@
+service:
+  name: serviceNsPO2fJFOP
+  identifier: serviceNsPO2fJFOP
+  projectIdentifier: LargeFileSyncYLSjEYKq1r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

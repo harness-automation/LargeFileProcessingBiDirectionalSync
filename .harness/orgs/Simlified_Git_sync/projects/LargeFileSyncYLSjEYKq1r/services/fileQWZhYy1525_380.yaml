@@ -1,0 +1,8 @@
+service:
+  name: serviceXKDUCTIF7a
+  identifier: serviceXKDUCTIF7a
+  projectIdentifier: LargeFileSyncYLSjEYKq1r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

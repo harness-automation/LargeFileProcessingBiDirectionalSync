@@ -1,0 +1,8 @@
+service:
+  name: serviceVRkeMTU609
+  identifier: serviceVRkeMTU609
+  projectIdentifier: LargeFileSyncYLSjEYKq1r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

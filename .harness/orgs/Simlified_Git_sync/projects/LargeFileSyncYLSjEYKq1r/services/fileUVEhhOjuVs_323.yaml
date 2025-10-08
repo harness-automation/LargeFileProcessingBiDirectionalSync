@@ -1,0 +1,8 @@
+service:
+  name: serviceMubiaaJE7C
+  identifier: serviceMubiaaJE7C
+  projectIdentifier: LargeFileSyncYLSjEYKq1r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

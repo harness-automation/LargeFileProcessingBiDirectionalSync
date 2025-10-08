@@ -1,0 +1,8 @@
+service:
+  name: serviceJcsKAN2gTv
+  identifier: serviceJcsKAN2gTv
+  projectIdentifier: LargeFileSyncYLSjEYKq1r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

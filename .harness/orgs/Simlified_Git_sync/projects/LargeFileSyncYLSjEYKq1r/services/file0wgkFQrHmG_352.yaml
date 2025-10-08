@@ -1,0 +1,8 @@
+service:
+  name: servicelgn95rTipL
+  identifier: servicelgn95rTipL
+  projectIdentifier: LargeFileSyncYLSjEYKq1r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

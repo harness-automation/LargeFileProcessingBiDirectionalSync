@@ -1,0 +1,8 @@
+service:
+  name: serviceRzMd73zkpl
+  identifier: serviceRzMd73zkpl
+  projectIdentifier: LargeFileSyncYLSjEYKq1r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

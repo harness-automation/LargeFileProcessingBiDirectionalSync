@@ -1,0 +1,8 @@
+service:
+  name: servicejRS25SEJMy
+  identifier: servicejRS25SEJMy
+  projectIdentifier: LargeFileSyncYLSjEYKq1r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
