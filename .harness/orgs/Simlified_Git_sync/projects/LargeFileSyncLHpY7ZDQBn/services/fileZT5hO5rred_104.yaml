@@ -1,0 +1,8 @@
+service:
+  name: servicen6OPNtsWLi
+  identifier: servicen6OPNtsWLi
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

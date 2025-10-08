@@ -1,0 +1,8 @@
+service:
+  name: serviceD3fcdTop5u
+  identifier: serviceD3fcdTop5u
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

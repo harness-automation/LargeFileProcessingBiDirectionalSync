@@ -1,0 +1,8 @@
+service:
+  name: servicegewGOAX4XR
+  identifier: servicegewGOAX4XR
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

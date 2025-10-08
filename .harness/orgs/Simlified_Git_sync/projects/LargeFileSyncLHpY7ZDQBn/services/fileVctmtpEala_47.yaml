@@ -1,0 +1,8 @@
+service:
+  name: serviceAb3AkpMaCL
+  identifier: serviceAb3AkpMaCL
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

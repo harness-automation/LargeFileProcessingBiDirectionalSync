@@ -1,0 +1,8 @@
+service:
+  name: servicevbCI6GK1AU
+  identifier: servicevbCI6GK1AU
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

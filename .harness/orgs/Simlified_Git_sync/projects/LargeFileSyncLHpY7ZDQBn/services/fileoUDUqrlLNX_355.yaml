@@ -1,0 +1,8 @@
+service:
+  name: serviceHNFMPl0oMT
+  identifier: serviceHNFMPl0oMT
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

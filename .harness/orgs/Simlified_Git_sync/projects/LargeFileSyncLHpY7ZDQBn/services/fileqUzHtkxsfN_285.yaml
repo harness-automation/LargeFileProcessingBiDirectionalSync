@@ -1,0 +1,8 @@
+service:
+  name: serviceDb4LeJsq6j
+  identifier: serviceDb4LeJsq6j
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

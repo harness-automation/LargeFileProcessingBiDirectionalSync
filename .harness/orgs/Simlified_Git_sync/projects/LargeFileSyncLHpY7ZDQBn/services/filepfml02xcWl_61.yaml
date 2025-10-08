@@ -1,0 +1,8 @@
+service:
+  name: serviceRi4qoizDOX
+  identifier: serviceRi4qoizDOX
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

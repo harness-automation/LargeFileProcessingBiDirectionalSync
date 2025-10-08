@@ -1,0 +1,8 @@
+service:
+  name: service33DbC2Mzkt
+  identifier: service33DbC2Mzkt
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

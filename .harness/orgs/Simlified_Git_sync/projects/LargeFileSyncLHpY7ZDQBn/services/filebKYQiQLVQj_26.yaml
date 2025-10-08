@@ -1,0 +1,8 @@
+service:
+  name: servicedOBlNRS17v
+  identifier: servicedOBlNRS17v
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

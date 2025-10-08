@@ -1,0 +1,8 @@
+service:
+  name: serviceJDPMTM91Mv
+  identifier: serviceJDPMTM91Mv
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceRH7seh2Pik
+  identifier: serviceRH7seh2Pik
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicet1X18XOFOX
+  identifier: servicet1X18XOFOX
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

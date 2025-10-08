@@ -1,0 +1,8 @@
+service:
+  name: service3EmuFjeb1A
+  identifier: service3EmuFjeb1A
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

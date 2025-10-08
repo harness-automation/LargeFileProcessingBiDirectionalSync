@@ -1,0 +1,8 @@
+service:
+  name: serviceQGmTZNCyak
+  identifier: serviceQGmTZNCyak
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

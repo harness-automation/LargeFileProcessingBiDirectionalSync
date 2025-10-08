@@ -1,0 +1,8 @@
+service:
+  name: servicelaosdl4jeT
+  identifier: servicelaosdl4jeT
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

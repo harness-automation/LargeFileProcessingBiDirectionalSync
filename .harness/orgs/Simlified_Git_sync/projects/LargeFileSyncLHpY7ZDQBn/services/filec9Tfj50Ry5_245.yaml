@@ -1,0 +1,8 @@
+service:
+  name: serviceCAssQUD61I
+  identifier: serviceCAssQUD61I
+  projectIdentifier: LargeFileSyncLHpY7ZDQBn
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
