@@ -1,0 +1,8 @@
+service:
+  name: service5OfRTXA6e2
+  identifier: service5OfRTXA6e2
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

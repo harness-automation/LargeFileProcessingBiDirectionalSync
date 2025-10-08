@@ -1,0 +1,8 @@
+service:
+  name: serviceEJMn2rsp2n
+  identifier: serviceEJMn2rsp2n
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

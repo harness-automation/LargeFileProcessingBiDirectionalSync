@@ -1,0 +1,8 @@
+service:
+  name: servicezCOt72PPMx
+  identifier: servicezCOt72PPMx
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

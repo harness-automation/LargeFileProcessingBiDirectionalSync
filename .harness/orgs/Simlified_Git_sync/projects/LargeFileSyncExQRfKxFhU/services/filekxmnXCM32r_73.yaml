@@ -1,0 +1,8 @@
+service:
+  name: servicetgdt36MMgn
+  identifier: servicetgdt36MMgn
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

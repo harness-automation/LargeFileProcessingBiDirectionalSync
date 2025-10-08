@@ -1,0 +1,8 @@
+service:
+  name: serviceMJmHblaNV1
+  identifier: serviceMJmHblaNV1
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicesAC5Rbsvm2
+  identifier: servicesAC5Rbsvm2
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

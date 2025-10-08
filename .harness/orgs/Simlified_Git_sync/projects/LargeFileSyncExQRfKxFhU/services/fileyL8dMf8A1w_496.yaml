@@ -1,0 +1,8 @@
+service:
+  name: servicek4zhmboKZF
+  identifier: servicek4zhmboKZF
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

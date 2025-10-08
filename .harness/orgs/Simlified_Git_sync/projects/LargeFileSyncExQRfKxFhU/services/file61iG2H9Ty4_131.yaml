@@ -1,0 +1,8 @@
+service:
+  name: servicej8ntutuam4
+  identifier: servicej8ntutuam4
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

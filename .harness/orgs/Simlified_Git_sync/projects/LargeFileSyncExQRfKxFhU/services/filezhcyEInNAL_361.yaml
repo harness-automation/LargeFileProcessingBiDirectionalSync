@@ -1,0 +1,8 @@
+service:
+  name: servicerSRd2YZ473
+  identifier: servicerSRd2YZ473
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

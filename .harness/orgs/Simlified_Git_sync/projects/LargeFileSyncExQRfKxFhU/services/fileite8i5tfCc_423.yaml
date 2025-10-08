@@ -1,0 +1,8 @@
+service:
+  name: servicenQ7Aus92aD
+  identifier: servicenQ7Aus92aD
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

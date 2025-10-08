@@ -1,0 +1,8 @@
+service:
+  name: serviceat32EkTh4j
+  identifier: serviceat32EkTh4j
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

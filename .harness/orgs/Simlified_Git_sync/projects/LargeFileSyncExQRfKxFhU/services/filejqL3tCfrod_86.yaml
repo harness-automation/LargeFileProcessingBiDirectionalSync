@@ -1,0 +1,8 @@
+service:
+  name: servicewd5Smrk7gD
+  identifier: servicewd5Smrk7gD
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

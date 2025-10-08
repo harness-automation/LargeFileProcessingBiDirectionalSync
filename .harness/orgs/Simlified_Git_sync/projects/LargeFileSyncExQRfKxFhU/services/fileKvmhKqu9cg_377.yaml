@@ -1,0 +1,8 @@
+service:
+  name: serviceucATbl17pv
+  identifier: serviceucATbl17pv
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

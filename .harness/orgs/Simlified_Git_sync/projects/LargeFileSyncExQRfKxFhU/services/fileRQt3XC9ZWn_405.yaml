@@ -1,0 +1,8 @@
+service:
+  name: serviceDyaNEJH3qB
+  identifier: serviceDyaNEJH3qB
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

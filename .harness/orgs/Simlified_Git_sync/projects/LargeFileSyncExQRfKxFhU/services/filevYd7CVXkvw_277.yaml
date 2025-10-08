@@ -1,0 +1,8 @@
+service:
+  name: servicedJPdn4Wnbs
+  identifier: servicedJPdn4Wnbs
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

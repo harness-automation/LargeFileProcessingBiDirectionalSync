@@ -1,0 +1,8 @@
+service:
+  name: serviceOSqLs4DxdK
+  identifier: serviceOSqLs4DxdK
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

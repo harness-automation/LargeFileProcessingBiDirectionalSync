@@ -1,0 +1,8 @@
+service:
+  name: serviceDT2WUVOcTx
+  identifier: serviceDT2WUVOcTx
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

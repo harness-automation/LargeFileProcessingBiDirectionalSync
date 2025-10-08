@@ -1,0 +1,8 @@
+service:
+  name: servicexMQGdroD51
+  identifier: servicexMQGdroD51
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

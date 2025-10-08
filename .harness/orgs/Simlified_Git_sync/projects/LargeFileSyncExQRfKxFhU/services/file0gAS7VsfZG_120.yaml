@@ -1,0 +1,8 @@
+service:
+  name: serviceasmiogExry
+  identifier: serviceasmiogExry
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

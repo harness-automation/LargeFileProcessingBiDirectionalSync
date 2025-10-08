@@ -1,0 +1,8 @@
+service:
+  name: serviceIxyJE2zpID
+  identifier: serviceIxyJE2zpID
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

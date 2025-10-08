@@ -1,0 +1,8 @@
+service:
+  name: serviceLa9u2qWMP2
+  identifier: serviceLa9u2qWMP2
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

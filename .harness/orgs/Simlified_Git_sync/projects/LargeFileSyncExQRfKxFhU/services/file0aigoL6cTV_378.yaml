@@ -1,0 +1,8 @@
+service:
+  name: servicePpm1bIL5DW
+  identifier: servicePpm1bIL5DW
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

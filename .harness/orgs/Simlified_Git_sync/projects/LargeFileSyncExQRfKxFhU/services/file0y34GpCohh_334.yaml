@@ -1,0 +1,8 @@
+service:
+  name: serviceVDcATCD6uX
+  identifier: serviceVDcATCD6uX
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

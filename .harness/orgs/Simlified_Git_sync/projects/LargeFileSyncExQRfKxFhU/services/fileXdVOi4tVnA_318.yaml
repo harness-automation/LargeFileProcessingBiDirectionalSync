@@ -1,0 +1,8 @@
+service:
+  name: serviceAMfa1Ok25I
+  identifier: serviceAMfa1Ok25I
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

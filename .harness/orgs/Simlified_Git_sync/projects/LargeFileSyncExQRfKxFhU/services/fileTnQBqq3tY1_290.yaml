@@ -1,0 +1,8 @@
+service:
+  name: serviceptFLlM7gax
+  identifier: serviceptFLlM7gax
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

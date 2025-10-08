@@ -1,0 +1,8 @@
+service:
+  name: service2DVKubGFC3
+  identifier: service2DVKubGFC3
+  projectIdentifier: LargeFileSyncExQRfKxFhU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
