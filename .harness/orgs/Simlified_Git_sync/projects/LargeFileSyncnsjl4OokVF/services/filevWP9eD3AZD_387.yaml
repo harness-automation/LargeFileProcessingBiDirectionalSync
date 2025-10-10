@@ -1,0 +1,8 @@
+service:
+  name: serviceGT773exqiM
+  identifier: serviceGT773exqiM
+  projectIdentifier: LargeFileSyncnsjl4OokVF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

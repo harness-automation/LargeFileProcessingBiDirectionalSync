@@ -1,0 +1,8 @@
+service:
+  name: servicesb1USAMbAQ
+  identifier: servicesb1USAMbAQ
+  projectIdentifier: LargeFileSyncnsjl4OokVF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service4CMdo2d45l
+  identifier: service4CMdo2d45l
+  projectIdentifier: LargeFileSyncnsjl4OokVF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
