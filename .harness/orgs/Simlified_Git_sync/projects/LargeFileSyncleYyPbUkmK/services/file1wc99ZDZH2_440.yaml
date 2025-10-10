@@ -1,0 +1,8 @@
+service:
+  name: serviceoFls4Vcwix
+  identifier: serviceoFls4Vcwix
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

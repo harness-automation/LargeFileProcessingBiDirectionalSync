@@ -1,0 +1,8 @@
+service:
+  name: servicelblJm6MSxd
+  identifier: servicelblJm6MSxd
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

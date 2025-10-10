@@ -1,0 +1,8 @@
+service:
+  name: serviceeKO20tdWbS
+  identifier: serviceeKO20tdWbS
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

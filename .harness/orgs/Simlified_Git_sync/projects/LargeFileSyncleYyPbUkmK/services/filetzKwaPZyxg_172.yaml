@@ -1,0 +1,8 @@
+service:
+  name: serviceMs61cZQvPc
+  identifier: serviceMs61cZQvPc
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

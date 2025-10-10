@@ -1,0 +1,8 @@
+service:
+  name: servicextTWxDM3O2
+  identifier: servicextTWxDM3O2
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

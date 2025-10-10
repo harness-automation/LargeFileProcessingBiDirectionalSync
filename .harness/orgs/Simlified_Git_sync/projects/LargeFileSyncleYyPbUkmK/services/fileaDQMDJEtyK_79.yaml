@@ -1,0 +1,8 @@
+service:
+  name: service9KOeHwGear
+  identifier: service9KOeHwGear
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

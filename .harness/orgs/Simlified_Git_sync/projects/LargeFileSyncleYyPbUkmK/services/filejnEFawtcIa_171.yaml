@@ -1,0 +1,8 @@
+service:
+  name: servicenEM3PcITaJ
+  identifier: servicenEM3PcITaJ
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service34LDor3CdR
+  identifier: service34LDor3CdR
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

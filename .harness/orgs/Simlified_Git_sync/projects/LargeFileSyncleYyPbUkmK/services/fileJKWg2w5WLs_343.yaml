@@ -1,0 +1,8 @@
+service:
+  name: serviceXfLb5ZmTUe
+  identifier: serviceXfLb5ZmTUe
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

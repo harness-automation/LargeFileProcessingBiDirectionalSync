@@ -1,0 +1,8 @@
+service:
+  name: servicegas25aPp2i
+  identifier: servicegas25aPp2i
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

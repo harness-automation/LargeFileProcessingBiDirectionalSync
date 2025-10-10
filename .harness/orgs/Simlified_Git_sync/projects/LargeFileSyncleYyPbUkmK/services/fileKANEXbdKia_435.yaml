@@ -1,0 +1,8 @@
+service:
+  name: serviceXTE470m49N
+  identifier: serviceXTE470m49N
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

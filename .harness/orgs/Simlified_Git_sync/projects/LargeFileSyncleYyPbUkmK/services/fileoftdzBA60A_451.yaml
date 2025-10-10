@@ -1,0 +1,8 @@
+service:
+  name: servicehTD3Ps606o
+  identifier: servicehTD3Ps606o
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

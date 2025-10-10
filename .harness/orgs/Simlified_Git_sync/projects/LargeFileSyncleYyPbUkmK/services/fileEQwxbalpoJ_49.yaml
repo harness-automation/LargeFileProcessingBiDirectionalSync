@@ -1,0 +1,8 @@
+service:
+  name: servicecVRsusPP0b
+  identifier: servicecVRsusPP0b
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

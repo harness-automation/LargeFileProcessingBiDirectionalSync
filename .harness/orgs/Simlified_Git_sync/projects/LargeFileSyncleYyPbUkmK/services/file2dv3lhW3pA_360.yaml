@@ -1,0 +1,8 @@
+service:
+  name: serviceHHHALYWIP4
+  identifier: serviceHHHALYWIP4
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

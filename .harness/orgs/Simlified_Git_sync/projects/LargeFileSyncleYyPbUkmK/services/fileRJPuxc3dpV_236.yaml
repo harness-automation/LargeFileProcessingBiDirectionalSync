@@ -1,0 +1,8 @@
+service:
+  name: serviceREvDceexff
+  identifier: serviceREvDceexff
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

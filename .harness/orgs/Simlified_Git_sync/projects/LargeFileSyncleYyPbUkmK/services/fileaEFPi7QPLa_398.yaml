@@ -1,0 +1,8 @@
+service:
+  name: serviceq4hi07FROG
+  identifier: serviceq4hi07FROG
+  projectIdentifier: LargeFileSyncleYyPbUkmK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
