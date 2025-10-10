@@ -1,0 +1,8 @@
+service:
+  name: servicesMaxZJO99v
+  identifier: servicesMaxZJO99v
+  projectIdentifier: LargeFileSyncj09KGv9sZg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

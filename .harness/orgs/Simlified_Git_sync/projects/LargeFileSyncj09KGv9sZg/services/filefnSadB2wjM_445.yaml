@@ -1,0 +1,8 @@
+service:
+  name: serviceR1ARVR3KAx
+  identifier: serviceR1ARVR3KAx
+  projectIdentifier: LargeFileSyncj09KGv9sZg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

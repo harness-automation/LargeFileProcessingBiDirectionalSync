@@ -1,0 +1,8 @@
+service:
+  name: serviceIDIGo33IN0
+  identifier: serviceIDIGo33IN0
+  projectIdentifier: LargeFileSyncj09KGv9sZg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

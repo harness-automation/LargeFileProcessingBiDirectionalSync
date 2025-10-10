@@ -1,0 +1,8 @@
+service:
+  name: servicegaVl4vgcmt
+  identifier: servicegaVl4vgcmt
+  projectIdentifier: LargeFileSyncj09KGv9sZg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

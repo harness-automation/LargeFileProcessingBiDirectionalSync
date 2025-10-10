@@ -1,0 +1,8 @@
+service:
+  name: serviceEH2nwrbGLi
+  identifier: serviceEH2nwrbGLi
+  projectIdentifier: LargeFileSyncj09KGv9sZg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

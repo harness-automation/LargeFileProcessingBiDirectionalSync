@@ -1,0 +1,8 @@
+service:
+  name: service3NVPDAWbtu
+  identifier: service3NVPDAWbtu
+  projectIdentifier: LargeFileSyncj09KGv9sZg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

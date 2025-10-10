@@ -1,0 +1,8 @@
+service:
+  name: serviceIO0CFXGTXE
+  identifier: serviceIO0CFXGTXE
+  projectIdentifier: LargeFileSyncj09KGv9sZg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

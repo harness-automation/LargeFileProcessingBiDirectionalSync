@@ -1,0 +1,8 @@
+service:
+  name: serviceSgC222CxtV
+  identifier: serviceSgC222CxtV
+  projectIdentifier: LargeFileSyncj09KGv9sZg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
