@@ -1,0 +1,8 @@
+service:
+  name: service26IBNFFS51
+  identifier: service26IBNFFS51
+  projectIdentifier: LargeFileSyncDj5lj4IWj5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

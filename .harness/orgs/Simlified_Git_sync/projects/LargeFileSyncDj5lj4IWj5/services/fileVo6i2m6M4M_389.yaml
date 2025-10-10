@@ -1,0 +1,8 @@
+service:
+  name: service4KArN13fPU
+  identifier: service4KArN13fPU
+  projectIdentifier: LargeFileSyncDj5lj4IWj5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

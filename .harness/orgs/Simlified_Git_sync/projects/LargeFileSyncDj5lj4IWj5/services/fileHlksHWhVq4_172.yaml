@@ -1,0 +1,8 @@
+service:
+  name: serviceZAMoaj0NSI
+  identifier: serviceZAMoaj0NSI
+  projectIdentifier: LargeFileSyncDj5lj4IWj5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

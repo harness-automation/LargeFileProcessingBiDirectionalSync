@@ -1,0 +1,8 @@
+service:
+  name: serviceaiNGM29Mlv
+  identifier: serviceaiNGM29Mlv
+  projectIdentifier: LargeFileSyncDj5lj4IWj5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
