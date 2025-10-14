@@ -1,0 +1,8 @@
+service:
+  name: service1JTvAt4pod
+  identifier: service1JTvAt4pod
+  projectIdentifier: LargeFileSync9TL41F6jl5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
