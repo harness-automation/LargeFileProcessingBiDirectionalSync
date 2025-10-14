@@ -1,0 +1,8 @@
+service:
+  name: servicesQSryKcobw
+  identifier: servicesQSryKcobw
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

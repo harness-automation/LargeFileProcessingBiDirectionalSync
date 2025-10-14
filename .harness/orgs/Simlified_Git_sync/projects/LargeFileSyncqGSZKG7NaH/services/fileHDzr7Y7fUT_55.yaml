@@ -1,0 +1,8 @@
+service:
+  name: serviceWZd1619s56
+  identifier: serviceWZd1619s56
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

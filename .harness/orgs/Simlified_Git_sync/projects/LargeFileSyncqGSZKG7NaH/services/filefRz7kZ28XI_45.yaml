@@ -1,0 +1,8 @@
+service:
+  name: serviceHcvnBqN253
+  identifier: serviceHcvnBqN253
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

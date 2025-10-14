@@ -1,0 +1,8 @@
+service:
+  name: serviceDuYapp8O45
+  identifier: serviceDuYapp8O45
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

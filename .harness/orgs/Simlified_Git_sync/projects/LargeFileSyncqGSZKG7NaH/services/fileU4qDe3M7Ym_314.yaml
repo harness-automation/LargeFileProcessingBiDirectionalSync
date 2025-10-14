@@ -1,0 +1,8 @@
+service:
+  name: servicerg2R7hlRiP
+  identifier: servicerg2R7hlRiP
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

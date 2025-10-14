@@ -1,0 +1,8 @@
+service:
+  name: serviceOPLRXZJ12S
+  identifier: serviceOPLRXZJ12S
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

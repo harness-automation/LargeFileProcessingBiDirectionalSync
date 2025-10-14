@@ -1,0 +1,8 @@
+service:
+  name: serviceApi4w706VS
+  identifier: serviceApi4w706VS
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceuKA2fungIp
+  identifier: serviceuKA2fungIp
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

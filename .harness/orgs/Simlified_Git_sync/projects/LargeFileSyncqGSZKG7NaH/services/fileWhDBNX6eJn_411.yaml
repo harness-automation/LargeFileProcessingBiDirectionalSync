@@ -1,0 +1,8 @@
+service:
+  name: serviceiQPH20BFLw
+  identifier: serviceiQPH20BFLw
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceomqB3Wd53J
+  identifier: serviceomqB3Wd53J
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

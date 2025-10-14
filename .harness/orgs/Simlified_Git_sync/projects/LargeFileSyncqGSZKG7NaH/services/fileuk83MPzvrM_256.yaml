@@ -1,0 +1,8 @@
+service:
+  name: service89GWgBAPAk
+  identifier: service89GWgBAPAk
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

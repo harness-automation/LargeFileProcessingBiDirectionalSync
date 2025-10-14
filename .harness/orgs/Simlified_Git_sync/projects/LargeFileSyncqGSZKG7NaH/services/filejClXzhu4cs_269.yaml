@@ -1,0 +1,8 @@
+service:
+  name: serviceMO6Bi44P2i
+  identifier: serviceMO6Bi44P2i
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

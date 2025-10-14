@@ -1,0 +1,8 @@
+service:
+  name: servicejfs2J6ape6
+  identifier: servicejfs2J6ape6
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

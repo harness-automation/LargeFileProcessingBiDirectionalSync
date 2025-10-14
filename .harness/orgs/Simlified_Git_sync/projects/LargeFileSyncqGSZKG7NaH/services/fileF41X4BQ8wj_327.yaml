@@ -1,0 +1,8 @@
+service:
+  name: servicerfKY67RiFS
+  identifier: servicerfKY67RiFS
+  projectIdentifier: LargeFileSyncqGSZKG7NaH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
