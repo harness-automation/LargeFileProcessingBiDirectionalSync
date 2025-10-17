@@ -1,0 +1,8 @@
+service:
+  name: serviceWMFb1F6i80
+  identifier: serviceWMFb1F6i80
+  projectIdentifier: LargeFileSyncqQaY7Mbqjl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

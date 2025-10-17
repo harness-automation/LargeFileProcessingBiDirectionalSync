@@ -1,0 +1,8 @@
+service:
+  name: serviceRpk03O48PL
+  identifier: serviceRpk03O48PL
+  projectIdentifier: LargeFileSyncqQaY7Mbqjl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

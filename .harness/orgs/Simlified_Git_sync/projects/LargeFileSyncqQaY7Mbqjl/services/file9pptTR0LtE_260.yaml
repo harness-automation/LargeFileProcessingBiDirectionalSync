@@ -1,0 +1,8 @@
+service:
+  name: serviceb1VnARFBKp
+  identifier: serviceb1VnARFBKp
+  projectIdentifier: LargeFileSyncqQaY7Mbqjl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

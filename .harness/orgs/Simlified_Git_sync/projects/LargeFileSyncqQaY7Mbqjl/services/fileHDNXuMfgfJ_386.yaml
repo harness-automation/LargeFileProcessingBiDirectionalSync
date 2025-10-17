@@ -1,0 +1,8 @@
+service:
+  name: servicewMpg5rmulr
+  identifier: servicewMpg5rmulr
+  projectIdentifier: LargeFileSyncqQaY7Mbqjl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

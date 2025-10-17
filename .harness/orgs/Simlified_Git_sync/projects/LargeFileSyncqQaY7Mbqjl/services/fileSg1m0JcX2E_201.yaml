@@ -1,0 +1,8 @@
+service:
+  name: serviceMVP32YUZEI
+  identifier: serviceMVP32YUZEI
+  projectIdentifier: LargeFileSyncqQaY7Mbqjl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

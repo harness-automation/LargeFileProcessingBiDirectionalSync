@@ -1,0 +1,8 @@
+service:
+  name: serviceNCP7pPXZ9i
+  identifier: serviceNCP7pPXZ9i
+  projectIdentifier: LargeFileSyncqQaY7Mbqjl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTatz4JhOrG
+  identifier: serviceTatz4JhOrG
+  projectIdentifier: LargeFileSyncqQaY7Mbqjl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

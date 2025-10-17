@@ -1,0 +1,8 @@
+service:
+  name: servicencMGT8ssl3
+  identifier: servicencMGT8ssl3
+  projectIdentifier: LargeFileSyncqQaY7Mbqjl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

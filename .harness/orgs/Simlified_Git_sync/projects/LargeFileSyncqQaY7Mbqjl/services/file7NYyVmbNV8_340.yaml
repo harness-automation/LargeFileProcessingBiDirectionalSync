@@ -1,0 +1,8 @@
+service:
+  name: servicePOdHc1NVeR
+  identifier: servicePOdHc1NVeR
+  projectIdentifier: LargeFileSyncqQaY7Mbqjl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
