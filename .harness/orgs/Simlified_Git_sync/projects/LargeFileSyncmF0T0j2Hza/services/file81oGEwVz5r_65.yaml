@@ -1,0 +1,8 @@
+service:
+  name: service2MTG52UnxL
+  identifier: service2MTG52UnxL
+  projectIdentifier: LargeFileSyncmF0T0j2Hza
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

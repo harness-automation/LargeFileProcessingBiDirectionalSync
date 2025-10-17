@@ -1,0 +1,8 @@
+service:
+  name: serviceACAdrsSl3E
+  identifier: serviceACAdrsSl3E
+  projectIdentifier: LargeFileSyncmF0T0j2Hza
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

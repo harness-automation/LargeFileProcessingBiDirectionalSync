@@ -1,0 +1,8 @@
+service:
+  name: serviceEJL82li3bl
+  identifier: serviceEJL82li3bl
+  projectIdentifier: LargeFileSyncmF0T0j2Hza
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

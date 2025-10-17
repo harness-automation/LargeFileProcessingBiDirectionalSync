@@ -1,0 +1,8 @@
+service:
+  name: serviceU2RGDqPlmg
+  identifier: serviceU2RGDqPlmg
+  projectIdentifier: LargeFileSyncmF0T0j2Hza
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

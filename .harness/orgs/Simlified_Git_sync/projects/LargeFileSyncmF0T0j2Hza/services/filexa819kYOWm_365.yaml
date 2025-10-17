@@ -1,0 +1,8 @@
+service:
+  name: serviceQEmmSecF7r
+  identifier: serviceQEmmSecF7r
+  projectIdentifier: LargeFileSyncmF0T0j2Hza
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
