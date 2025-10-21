@@ -1,0 +1,8 @@
+service:
+  name: serviceM3B288mxY8
+  identifier: serviceM3B288mxY8
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

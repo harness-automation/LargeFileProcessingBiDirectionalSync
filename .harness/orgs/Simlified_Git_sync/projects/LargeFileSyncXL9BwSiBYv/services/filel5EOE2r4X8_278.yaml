@@ -1,0 +1,8 @@
+service:
+  name: service4WjVM1Olc5
+  identifier: service4WjVM1Olc5
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

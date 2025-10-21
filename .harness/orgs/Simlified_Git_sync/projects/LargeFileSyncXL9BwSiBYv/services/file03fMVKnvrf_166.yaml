@@ -1,0 +1,8 @@
+service:
+  name: serviceNHe66Xgw3u
+  identifier: serviceNHe66Xgw3u
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

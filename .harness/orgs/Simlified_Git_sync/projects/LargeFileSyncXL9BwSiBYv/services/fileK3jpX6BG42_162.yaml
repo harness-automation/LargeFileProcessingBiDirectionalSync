@@ -1,0 +1,8 @@
+service:
+  name: servicePG7MprJsEq
+  identifier: servicePG7MprJsEq
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

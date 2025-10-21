@@ -1,0 +1,8 @@
+service:
+  name: servicefC3Dwm7Mvm
+  identifier: servicefC3Dwm7Mvm
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

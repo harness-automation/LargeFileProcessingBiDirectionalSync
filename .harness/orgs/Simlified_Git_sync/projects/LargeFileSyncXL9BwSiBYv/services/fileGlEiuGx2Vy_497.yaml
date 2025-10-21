@@ -1,0 +1,8 @@
+service:
+  name: servicerfHy31kXmZ
+  identifier: servicerfHy31kXmZ
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

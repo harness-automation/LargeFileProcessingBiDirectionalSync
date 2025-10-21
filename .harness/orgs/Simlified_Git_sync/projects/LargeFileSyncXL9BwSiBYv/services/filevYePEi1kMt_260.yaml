@@ -1,0 +1,8 @@
+service:
+  name: serviceNVDB0KAlcf
+  identifier: serviceNVDB0KAlcf
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

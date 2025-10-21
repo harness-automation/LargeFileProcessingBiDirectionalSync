@@ -1,0 +1,8 @@
+service:
+  name: serviceenmbP6p2bU
+  identifier: serviceenmbP6p2bU
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

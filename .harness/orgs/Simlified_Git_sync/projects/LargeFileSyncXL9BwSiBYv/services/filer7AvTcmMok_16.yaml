@@ -1,0 +1,8 @@
+service:
+  name: service2L224a6Wiz
+  identifier: service2L224a6Wiz
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

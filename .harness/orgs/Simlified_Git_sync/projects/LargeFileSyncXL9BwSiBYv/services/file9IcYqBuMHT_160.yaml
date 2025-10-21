@@ -1,0 +1,8 @@
+service:
+  name: servicexd924UTaMX
+  identifier: servicexd924UTaMX
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

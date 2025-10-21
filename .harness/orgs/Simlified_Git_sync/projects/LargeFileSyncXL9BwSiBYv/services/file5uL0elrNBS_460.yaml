@@ -1,0 +1,8 @@
+service:
+  name: serviceP952WFmY13
+  identifier: serviceP952WFmY13
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

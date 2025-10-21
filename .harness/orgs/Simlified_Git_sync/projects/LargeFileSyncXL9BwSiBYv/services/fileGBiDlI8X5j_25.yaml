@@ -1,0 +1,8 @@
+service:
+  name: serviceEDoOsRxNG0
+  identifier: serviceEDoOsRxNG0
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

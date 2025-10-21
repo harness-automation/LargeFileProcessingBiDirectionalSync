@@ -1,0 +1,8 @@
+service:
+  name: serviceTklo2VuPl0
+  identifier: serviceTklo2VuPl0
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

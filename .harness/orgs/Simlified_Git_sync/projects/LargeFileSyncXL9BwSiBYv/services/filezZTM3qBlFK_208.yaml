@@ -1,0 +1,8 @@
+service:
+  name: serviceAN13bDiLYB
+  identifier: serviceAN13bDiLYB
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

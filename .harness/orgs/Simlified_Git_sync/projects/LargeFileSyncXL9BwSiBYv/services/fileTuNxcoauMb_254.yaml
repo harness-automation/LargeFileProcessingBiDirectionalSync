@@ -1,0 +1,8 @@
+service:
+  name: servicepmu5Dvh68P
+  identifier: servicepmu5Dvh68P
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceDSXpgeKB9r
+  identifier: serviceDSXpgeKB9r
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceATzZTA5FRS
+  identifier: serviceATzZTA5FRS
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

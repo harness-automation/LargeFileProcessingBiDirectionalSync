@@ -1,0 +1,8 @@
+service:
+  name: serviceNO15PPf24E
+  identifier: serviceNO15PPf24E
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

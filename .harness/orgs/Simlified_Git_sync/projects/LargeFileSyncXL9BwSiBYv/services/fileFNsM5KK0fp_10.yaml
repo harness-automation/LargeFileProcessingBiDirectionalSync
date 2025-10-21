@@ -1,0 +1,8 @@
+service:
+  name: serviceMuiHvzPSAN
+  identifier: serviceMuiHvzPSAN
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

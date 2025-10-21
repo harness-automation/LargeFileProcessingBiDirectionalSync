@@ -1,0 +1,8 @@
+service:
+  name: serviceGrfS65NnHU
+  identifier: serviceGrfS65NnHU
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

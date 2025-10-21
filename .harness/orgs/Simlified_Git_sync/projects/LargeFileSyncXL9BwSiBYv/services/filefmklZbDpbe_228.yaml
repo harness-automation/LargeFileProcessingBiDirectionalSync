@@ -1,0 +1,8 @@
+service:
+  name: servicefQlixf2iGI
+  identifier: servicefQlixf2iGI
+  projectIdentifier: LargeFileSyncXL9BwSiBYv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
