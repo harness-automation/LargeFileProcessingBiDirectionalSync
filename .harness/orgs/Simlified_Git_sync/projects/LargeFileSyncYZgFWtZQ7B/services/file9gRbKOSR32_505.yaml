@@ -1,0 +1,8 @@
+service:
+  name: serviceESlT2nxBnl
+  identifier: serviceESlT2nxBnl
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicefbrrMiKyS9
+  identifier: servicefbrrMiKyS9
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

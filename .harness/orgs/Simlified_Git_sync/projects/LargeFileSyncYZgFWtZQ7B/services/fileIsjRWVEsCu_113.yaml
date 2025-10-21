@@ -1,0 +1,8 @@
+service:
+  name: servicelEmGEM1CGe
+  identifier: servicelEmGEM1CGe
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

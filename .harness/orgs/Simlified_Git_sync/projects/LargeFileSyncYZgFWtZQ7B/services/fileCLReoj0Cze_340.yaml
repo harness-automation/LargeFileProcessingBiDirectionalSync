@@ -1,0 +1,8 @@
+service:
+  name: service60SnWRSMla
+  identifier: service60SnWRSMla
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

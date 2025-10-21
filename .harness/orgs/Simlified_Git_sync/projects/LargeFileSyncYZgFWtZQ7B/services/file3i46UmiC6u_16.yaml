@@ -1,0 +1,8 @@
+service:
+  name: serviceRyAU2ShwJT
+  identifier: serviceRyAU2ShwJT
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

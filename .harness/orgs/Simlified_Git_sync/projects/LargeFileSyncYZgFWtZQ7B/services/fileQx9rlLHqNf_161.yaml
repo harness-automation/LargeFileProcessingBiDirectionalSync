@@ -1,0 +1,8 @@
+service:
+  name: servicempM3CWXIig
+  identifier: servicempM3CWXIig
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

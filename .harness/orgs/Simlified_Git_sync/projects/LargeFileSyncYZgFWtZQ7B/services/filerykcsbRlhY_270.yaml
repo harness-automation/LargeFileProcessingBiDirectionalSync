@@ -1,0 +1,8 @@
+service:
+  name: serviceHsNACbyv5x
+  identifier: serviceHsNACbyv5x
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

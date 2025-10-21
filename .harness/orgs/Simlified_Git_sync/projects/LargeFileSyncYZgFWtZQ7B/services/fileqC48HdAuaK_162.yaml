@@ -1,0 +1,8 @@
+service:
+  name: serviceYCARIM40Pg
+  identifier: serviceYCARIM40Pg
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

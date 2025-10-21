@@ -1,0 +1,8 @@
+service:
+  name: servicektpyL4pnbd
+  identifier: servicektpyL4pnbd
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

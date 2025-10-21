@@ -1,0 +1,8 @@
+service:
+  name: serviceDCkyV51fsV
+  identifier: serviceDCkyV51fsV
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

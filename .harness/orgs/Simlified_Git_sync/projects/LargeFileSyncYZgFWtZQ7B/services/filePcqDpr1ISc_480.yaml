@@ -1,0 +1,8 @@
+service:
+  name: serviceWdTarO6Mr3
+  identifier: serviceWdTarO6Mr3
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

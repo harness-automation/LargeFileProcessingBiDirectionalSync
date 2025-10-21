@@ -1,0 +1,8 @@
+service:
+  name: servicergLPF5roD3
+  identifier: servicergLPF5roD3
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

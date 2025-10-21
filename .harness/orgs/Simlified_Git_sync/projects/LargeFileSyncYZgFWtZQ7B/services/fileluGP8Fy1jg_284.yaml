@@ -1,0 +1,8 @@
+service:
+  name: serviceYVwWK2Cyrt
+  identifier: serviceYVwWK2Cyrt
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

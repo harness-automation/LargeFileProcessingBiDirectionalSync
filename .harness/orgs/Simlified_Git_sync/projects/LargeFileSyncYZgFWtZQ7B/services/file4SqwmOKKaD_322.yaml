@@ -1,0 +1,8 @@
+service:
+  name: servicerDYN4sFvbN
+  identifier: servicerDYN4sFvbN
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

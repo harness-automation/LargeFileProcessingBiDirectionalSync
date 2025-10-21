@@ -1,0 +1,8 @@
+service:
+  name: serviceCWsSSdCL8Z
+  identifier: serviceCWsSSdCL8Z
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

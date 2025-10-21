@@ -1,0 +1,8 @@
+service:
+  name: servicespo0Thep1k
+  identifier: servicespo0Thep1k
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

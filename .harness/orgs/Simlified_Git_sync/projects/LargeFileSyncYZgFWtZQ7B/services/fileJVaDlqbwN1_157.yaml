@@ -1,0 +1,8 @@
+service:
+  name: serviceHgmzTMPG5w
+  identifier: serviceHgmzTMPG5w
+  projectIdentifier: LargeFileSyncYZgFWtZQ7B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
