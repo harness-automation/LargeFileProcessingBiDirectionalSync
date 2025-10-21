@@ -1,0 +1,8 @@
+service:
+  name: serviceOkiMM3VNLX
+  identifier: serviceOkiMM3VNLX
+  projectIdentifier: LargeFileSync2S0KDKbA30
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

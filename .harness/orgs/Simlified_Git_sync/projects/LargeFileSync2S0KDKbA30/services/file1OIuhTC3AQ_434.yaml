@@ -1,0 +1,8 @@
+service:
+  name: serviceSusCL68mjp
+  identifier: serviceSusCL68mjp
+  projectIdentifier: LargeFileSync2S0KDKbA30
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

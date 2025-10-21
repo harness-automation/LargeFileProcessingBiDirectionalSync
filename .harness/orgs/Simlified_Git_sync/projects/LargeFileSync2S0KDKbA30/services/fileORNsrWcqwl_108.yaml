@@ -1,0 +1,8 @@
+service:
+  name: service0i6vNvtPVR
+  identifier: service0i6vNvtPVR
+  projectIdentifier: LargeFileSync2S0KDKbA30
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

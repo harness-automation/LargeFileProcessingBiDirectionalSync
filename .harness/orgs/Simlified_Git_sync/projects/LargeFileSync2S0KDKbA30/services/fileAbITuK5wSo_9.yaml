@@ -1,0 +1,8 @@
+service:
+  name: serviceF51N58nO28
+  identifier: serviceF51N58nO28
+  projectIdentifier: LargeFileSync2S0KDKbA30
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

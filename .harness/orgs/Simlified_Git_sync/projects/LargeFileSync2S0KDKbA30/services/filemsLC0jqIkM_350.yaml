@@ -1,0 +1,8 @@
+service:
+  name: serviceolsPUawb4I
+  identifier: serviceolsPUawb4I
+  projectIdentifier: LargeFileSync2S0KDKbA30
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

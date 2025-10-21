@@ -1,0 +1,8 @@
+service:
+  name: serviceRVB72NXe0T
+  identifier: serviceRVB72NXe0T
+  projectIdentifier: LargeFileSync2S0KDKbA30
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

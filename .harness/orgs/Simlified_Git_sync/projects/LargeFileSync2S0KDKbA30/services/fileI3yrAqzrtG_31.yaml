@@ -1,0 +1,8 @@
+service:
+  name: serviceUmyfb9Zmqv
+  identifier: serviceUmyfb9Zmqv
+  projectIdentifier: LargeFileSync2S0KDKbA30
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

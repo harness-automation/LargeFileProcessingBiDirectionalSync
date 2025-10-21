@@ -1,0 +1,8 @@
+service:
+  name: serviceX5Pg727fRV
+  identifier: serviceX5Pg727fRV
+  projectIdentifier: LargeFileSync2S0KDKbA30
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
