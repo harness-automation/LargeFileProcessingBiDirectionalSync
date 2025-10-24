@@ -1,0 +1,8 @@
+service:
+  name: serviceKDfp7iMX4i
+  identifier: serviceKDfp7iMX4i
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

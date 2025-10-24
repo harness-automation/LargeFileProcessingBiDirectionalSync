@@ -1,0 +1,8 @@
+service:
+  name: serviceGBPqa5ODa4
+  identifier: serviceGBPqa5ODa4
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

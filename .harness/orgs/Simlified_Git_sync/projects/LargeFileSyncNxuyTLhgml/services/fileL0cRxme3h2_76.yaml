@@ -1,0 +1,8 @@
+service:
+  name: serviceTNU0Xa4maX
+  identifier: serviceTNU0Xa4maX
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

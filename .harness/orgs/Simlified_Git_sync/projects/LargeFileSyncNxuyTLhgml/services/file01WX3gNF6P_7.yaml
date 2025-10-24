@@ -1,0 +1,8 @@
+service:
+  name: serviceQfi16LV7sQ
+  identifier: serviceQfi16LV7sQ
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

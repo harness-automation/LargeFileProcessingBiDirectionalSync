@@ -1,0 +1,8 @@
+service:
+  name: serviceGKOF10fh2e
+  identifier: serviceGKOF10fh2e
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

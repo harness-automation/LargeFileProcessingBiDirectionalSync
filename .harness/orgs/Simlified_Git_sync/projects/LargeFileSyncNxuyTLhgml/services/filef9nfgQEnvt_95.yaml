@@ -1,0 +1,8 @@
+service:
+  name: serviceItf25AvzCo
+  identifier: serviceItf25AvzCo
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

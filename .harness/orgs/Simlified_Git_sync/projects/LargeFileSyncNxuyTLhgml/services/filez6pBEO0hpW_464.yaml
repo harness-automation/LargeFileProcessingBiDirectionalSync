@@ -1,0 +1,8 @@
+service:
+  name: serviceabcy02pd3m
+  identifier: serviceabcy02pd3m
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

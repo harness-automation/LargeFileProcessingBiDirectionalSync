@@ -1,0 +1,8 @@
+service:
+  name: service23hysEFbJL
+  identifier: service23hysEFbJL
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

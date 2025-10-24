@@ -1,0 +1,8 @@
+service:
+  name: servicenFpbTum07b
+  identifier: servicenFpbTum07b
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

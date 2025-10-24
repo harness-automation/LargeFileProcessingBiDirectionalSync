@@ -1,0 +1,8 @@
+service:
+  name: servicetU18eBjTAu
+  identifier: servicetU18eBjTAu
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

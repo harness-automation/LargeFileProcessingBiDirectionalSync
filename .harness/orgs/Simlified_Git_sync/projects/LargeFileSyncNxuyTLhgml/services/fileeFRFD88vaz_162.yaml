@@ -1,0 +1,8 @@
+service:
+  name: serviceriY2mooSwn
+  identifier: serviceriY2mooSwn
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

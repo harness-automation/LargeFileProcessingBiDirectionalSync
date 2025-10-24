@@ -1,0 +1,8 @@
+service:
+  name: serviceCOZe724nn7
+  identifier: serviceCOZe724nn7
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceChta5BRXvz
+  identifier: serviceChta5BRXvz
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

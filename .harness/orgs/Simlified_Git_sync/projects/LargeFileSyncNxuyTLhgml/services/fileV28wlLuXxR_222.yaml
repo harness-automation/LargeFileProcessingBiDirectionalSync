@@ -1,0 +1,8 @@
+service:
+  name: serviceFp3IMRyg1c
+  identifier: serviceFp3IMRyg1c
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

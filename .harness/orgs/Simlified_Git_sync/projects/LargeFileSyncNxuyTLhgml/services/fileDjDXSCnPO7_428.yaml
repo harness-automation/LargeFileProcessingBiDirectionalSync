@@ -1,0 +1,8 @@
+service:
+  name: servicelpobWN3n4v
+  identifier: servicelpobWN3n4v
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

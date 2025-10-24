@@ -1,0 +1,8 @@
+service:
+  name: serviceAsmOleIx7S
+  identifier: serviceAsmOleIx7S
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

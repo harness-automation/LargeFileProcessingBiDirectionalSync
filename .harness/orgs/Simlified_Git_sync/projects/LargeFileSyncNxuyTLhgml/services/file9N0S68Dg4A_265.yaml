@@ -1,0 +1,8 @@
+service:
+  name: servicekFFC85KWEU
+  identifier: servicekFFC85KWEU
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceWTfpChbAFO
+  identifier: serviceWTfpChbAFO
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

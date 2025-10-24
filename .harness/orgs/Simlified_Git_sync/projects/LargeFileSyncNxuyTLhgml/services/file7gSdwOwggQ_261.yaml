@@ -1,0 +1,8 @@
+service:
+  name: servicegQA5q7rLPu
+  identifier: servicegQA5q7rLPu
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicetUAM2MknB8
+  identifier: servicetUAM2MknB8
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

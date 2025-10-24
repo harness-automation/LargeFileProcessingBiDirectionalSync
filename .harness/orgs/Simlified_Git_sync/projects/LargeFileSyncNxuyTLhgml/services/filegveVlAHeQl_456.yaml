@@ -1,0 +1,8 @@
+service:
+  name: serviceP1127Lbn0a
+  identifier: serviceP1127Lbn0a
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

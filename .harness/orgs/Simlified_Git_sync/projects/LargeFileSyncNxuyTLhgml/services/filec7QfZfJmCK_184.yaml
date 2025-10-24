@@ -1,0 +1,8 @@
+service:
+  name: serviceT3DCe46Ba2
+  identifier: serviceT3DCe46Ba2
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

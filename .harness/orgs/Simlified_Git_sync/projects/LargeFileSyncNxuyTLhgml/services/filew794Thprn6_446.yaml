@@ -1,0 +1,8 @@
+service:
+  name: serviceNgMLcGT2Dj
+  identifier: serviceNgMLcGT2Dj
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

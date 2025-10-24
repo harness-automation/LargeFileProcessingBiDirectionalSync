@@ -1,0 +1,8 @@
+service:
+  name: serviceAN83n3Ixno
+  identifier: serviceAN83n3Ixno
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

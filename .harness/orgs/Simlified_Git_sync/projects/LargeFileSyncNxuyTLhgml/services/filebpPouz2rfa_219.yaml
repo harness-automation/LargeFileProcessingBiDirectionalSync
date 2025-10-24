@@ -1,0 +1,8 @@
+service:
+  name: serviceQupfIib9OP
+  identifier: serviceQupfIib9OP
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

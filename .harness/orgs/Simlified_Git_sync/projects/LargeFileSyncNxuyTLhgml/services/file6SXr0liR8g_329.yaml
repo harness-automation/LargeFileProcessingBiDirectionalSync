@@ -1,0 +1,8 @@
+service:
+  name: serviceAnHOWJMESS
+  identifier: serviceAnHOWJMESS
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePT736w24C5
+  identifier: servicePT736w24C5
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

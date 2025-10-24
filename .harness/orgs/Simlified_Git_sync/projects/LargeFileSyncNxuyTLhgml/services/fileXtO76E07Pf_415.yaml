@@ -1,0 +1,8 @@
+service:
+  name: serviceM6B4tlM30J
+  identifier: serviceM6B4tlM30J
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

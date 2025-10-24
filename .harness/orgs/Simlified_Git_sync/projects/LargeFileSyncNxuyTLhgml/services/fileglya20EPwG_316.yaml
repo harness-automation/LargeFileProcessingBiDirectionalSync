@@ -1,0 +1,8 @@
+service:
+  name: serviceVza4sLn91o
+  identifier: serviceVza4sLn91o
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

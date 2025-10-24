@@ -1,0 +1,8 @@
+service:
+  name: service5WMobruiKn
+  identifier: service5WMobruiKn
+  projectIdentifier: LargeFileSyncNxuyTLhgml
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
