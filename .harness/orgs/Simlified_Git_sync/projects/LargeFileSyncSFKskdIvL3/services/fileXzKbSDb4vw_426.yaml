@@ -1,0 +1,8 @@
+service:
+  name: serviceDNV68WSzvK
+  identifier: serviceDNV68WSzvK
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

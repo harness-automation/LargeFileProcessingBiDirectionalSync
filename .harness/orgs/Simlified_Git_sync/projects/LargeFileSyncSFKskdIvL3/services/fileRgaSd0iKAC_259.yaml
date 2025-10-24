@@ -1,0 +1,8 @@
+service:
+  name: serviceGtcpeG9NBt
+  identifier: serviceGtcpeG9NBt
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

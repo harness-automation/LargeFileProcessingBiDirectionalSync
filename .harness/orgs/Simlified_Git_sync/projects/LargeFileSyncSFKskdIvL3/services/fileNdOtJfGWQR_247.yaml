@@ -1,0 +1,8 @@
+service:
+  name: serviceHozDtgGV1E
+  identifier: serviceHozDtgGV1E
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceZbdak5WOoT
+  identifier: serviceZbdak5WOoT
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

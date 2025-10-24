@@ -1,0 +1,8 @@
+service:
+  name: serviceE30GF7PijI
+  identifier: serviceE30GF7PijI
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

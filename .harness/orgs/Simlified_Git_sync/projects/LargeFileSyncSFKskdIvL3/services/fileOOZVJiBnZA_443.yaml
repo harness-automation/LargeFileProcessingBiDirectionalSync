@@ -1,0 +1,8 @@
+service:
+  name: services4JAZvUmoc
+  identifier: services4JAZvUmoc
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceVRAsaUT6Lw
+  identifier: serviceVRAsaUT6Lw
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

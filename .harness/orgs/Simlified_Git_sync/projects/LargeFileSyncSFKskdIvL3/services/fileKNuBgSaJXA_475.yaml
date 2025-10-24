@@ -1,0 +1,8 @@
+service:
+  name: servicemir5cvZZ4Q
+  identifier: servicemir5cvZZ4Q
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

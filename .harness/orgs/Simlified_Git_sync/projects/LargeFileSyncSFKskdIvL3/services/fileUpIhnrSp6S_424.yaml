@@ -1,0 +1,8 @@
+service:
+  name: servicegcuTRFRPlV
+  identifier: servicegcuTRFRPlV
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

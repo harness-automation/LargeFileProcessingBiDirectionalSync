@@ -1,0 +1,8 @@
+service:
+  name: serviceyFNGiT7T53
+  identifier: serviceyFNGiT7T53
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

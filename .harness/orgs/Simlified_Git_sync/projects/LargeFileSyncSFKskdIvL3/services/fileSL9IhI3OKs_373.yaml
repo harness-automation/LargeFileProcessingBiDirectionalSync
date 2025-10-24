@@ -1,0 +1,8 @@
+service:
+  name: serviceZyjlss2Rgi
+  identifier: serviceZyjlss2Rgi
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

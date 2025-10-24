@@ -1,0 +1,8 @@
+service:
+  name: serviceNOgPulqKr1
+  identifier: serviceNOgPulqKr1
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

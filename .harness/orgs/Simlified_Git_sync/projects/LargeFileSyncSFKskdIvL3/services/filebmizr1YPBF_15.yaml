@@ -1,0 +1,8 @@
+service:
+  name: serviceIgum4BNlRM
+  identifier: serviceIgum4BNlRM
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

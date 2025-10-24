@@ -1,0 +1,8 @@
+service:
+  name: servicerWwPmgLQ1O
+  identifier: servicerWwPmgLQ1O
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

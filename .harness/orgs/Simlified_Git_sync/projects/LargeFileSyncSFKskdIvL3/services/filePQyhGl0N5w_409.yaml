@@ -1,0 +1,8 @@
+service:
+  name: serviceH9IMt1RDyo
+  identifier: serviceH9IMt1RDyo
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceEXglWb5jcT
+  identifier: serviceEXglWb5jcT
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

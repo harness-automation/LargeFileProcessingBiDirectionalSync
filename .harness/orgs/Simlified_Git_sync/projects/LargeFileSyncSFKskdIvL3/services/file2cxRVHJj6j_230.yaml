@@ -1,0 +1,8 @@
+service:
+  name: serviceCN5k8eWS64
+  identifier: serviceCN5k8eWS64
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

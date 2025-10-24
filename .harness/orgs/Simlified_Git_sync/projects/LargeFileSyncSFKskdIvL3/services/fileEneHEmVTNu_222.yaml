@@ -1,0 +1,8 @@
+service:
+  name: servicerw79gWEpif
+  identifier: servicerw79gWEpif
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

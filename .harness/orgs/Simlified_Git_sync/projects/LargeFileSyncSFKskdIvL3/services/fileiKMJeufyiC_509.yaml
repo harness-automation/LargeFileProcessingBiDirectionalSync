@@ -1,0 +1,8 @@
+service:
+  name: serviceMks2VFbaYA
+  identifier: serviceMks2VFbaYA
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

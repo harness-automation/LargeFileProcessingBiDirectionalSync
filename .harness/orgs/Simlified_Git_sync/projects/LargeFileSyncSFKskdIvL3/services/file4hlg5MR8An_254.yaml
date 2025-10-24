@@ -1,0 +1,8 @@
+service:
+  name: serviceXEMga7Vm6d
+  identifier: serviceXEMga7Vm6d
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

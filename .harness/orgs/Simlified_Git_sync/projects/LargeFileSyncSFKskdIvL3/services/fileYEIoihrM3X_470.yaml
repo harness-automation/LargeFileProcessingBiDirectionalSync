@@ -1,0 +1,8 @@
+service:
+  name: serviceCK9VcRiFPO
+  identifier: serviceCK9VcRiFPO
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

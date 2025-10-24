@@ -1,0 +1,8 @@
+service:
+  name: serviceFtPhm5f3Fz
+  identifier: serviceFtPhm5f3Fz
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

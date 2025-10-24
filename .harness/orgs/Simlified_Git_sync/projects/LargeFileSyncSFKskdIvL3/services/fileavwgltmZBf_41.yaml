@@ -1,0 +1,8 @@
+service:
+  name: serviceclgMQD7Dm5
+  identifier: serviceclgMQD7Dm5
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

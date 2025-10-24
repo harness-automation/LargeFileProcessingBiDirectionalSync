@@ -1,0 +1,8 @@
+service:
+  name: servicengk1SVO44u
+  identifier: servicengk1SVO44u
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

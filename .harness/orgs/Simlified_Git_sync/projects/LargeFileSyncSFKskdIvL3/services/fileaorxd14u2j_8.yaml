@@ -1,0 +1,8 @@
+service:
+  name: service8rexAm89HS
+  identifier: service8rexAm89HS
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceanafoM2J26
+  identifier: serviceanafoM2J26
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

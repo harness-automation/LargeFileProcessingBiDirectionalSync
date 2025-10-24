@@ -1,0 +1,8 @@
+service:
+  name: service3YB48onZUt
+  identifier: service3YB48onZUt
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service8QKITI7iot
+  identifier: service8QKITI7iot
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

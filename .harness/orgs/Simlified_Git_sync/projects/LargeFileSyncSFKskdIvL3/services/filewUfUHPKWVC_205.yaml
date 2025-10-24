@@ -1,0 +1,8 @@
+service:
+  name: serviceUzmSCq526d
+  identifier: serviceUzmSCq526d
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

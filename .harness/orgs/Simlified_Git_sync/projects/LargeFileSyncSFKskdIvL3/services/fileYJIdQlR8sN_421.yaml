@@ -1,0 +1,8 @@
+service:
+  name: serviceerbkqgkeso
+  identifier: serviceerbkqgkeso
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

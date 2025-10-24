@@ -1,0 +1,8 @@
+service:
+  name: servicekedayj4vme
+  identifier: servicekedayj4vme
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

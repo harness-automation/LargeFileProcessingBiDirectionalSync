@@ -1,0 +1,8 @@
+service:
+  name: serviceTVds8EiC2a
+  identifier: serviceTVds8EiC2a
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

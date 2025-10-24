@@ -1,0 +1,8 @@
+service:
+  name: servicebS5dkAopiq
+  identifier: servicebS5dkAopiq
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

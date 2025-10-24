@@ -1,0 +1,8 @@
+service:
+  name: serviceiokIBvs3VG
+  identifier: serviceiokIBvs3VG
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service7nruSWEDBo
+  identifier: service7nruSWEDBo
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceWyPA6WcTv0
+  identifier: serviceWyPA6WcTv0
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicek2qEiGpat2
+  identifier: servicek2qEiGpat2
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

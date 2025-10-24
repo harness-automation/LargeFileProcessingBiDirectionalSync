@@ -1,0 +1,8 @@
+service:
+  name: serviceAZmbAuCm32
+  identifier: serviceAZmbAuCm32
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceabPgm6KhJW
+  identifier: serviceabPgm6KhJW
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

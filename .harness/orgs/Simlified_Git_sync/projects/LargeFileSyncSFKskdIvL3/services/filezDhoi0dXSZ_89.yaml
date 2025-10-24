@@ -1,0 +1,8 @@
+service:
+  name: serviceP8CP6MuBU8
+  identifier: serviceP8CP6MuBU8
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

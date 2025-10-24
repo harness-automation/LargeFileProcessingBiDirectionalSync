@@ -1,0 +1,8 @@
+service:
+  name: serviceTclunSyLtc
+  identifier: serviceTclunSyLtc
+  projectIdentifier: LargeFileSyncSFKskdIvL3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
