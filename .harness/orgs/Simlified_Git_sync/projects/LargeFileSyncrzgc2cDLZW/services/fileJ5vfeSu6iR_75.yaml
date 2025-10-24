@@ -1,0 +1,8 @@
+service:
+  name: servicetu5HAcFONZ
+  identifier: servicetu5HAcFONZ
+  projectIdentifier: LargeFileSyncrzgc2cDLZW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

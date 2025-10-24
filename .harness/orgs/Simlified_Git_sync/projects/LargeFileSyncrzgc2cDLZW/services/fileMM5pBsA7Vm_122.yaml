@@ -1,0 +1,8 @@
+service:
+  name: serviceJtARc2canP
+  identifier: serviceJtARc2canP
+  projectIdentifier: LargeFileSyncrzgc2cDLZW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

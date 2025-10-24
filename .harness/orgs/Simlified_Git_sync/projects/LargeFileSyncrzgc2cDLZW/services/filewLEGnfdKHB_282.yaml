@@ -1,0 +1,8 @@
+service:
+  name: servicenecm9UOzkw
+  identifier: servicenecm9UOzkw
+  projectIdentifier: LargeFileSyncrzgc2cDLZW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

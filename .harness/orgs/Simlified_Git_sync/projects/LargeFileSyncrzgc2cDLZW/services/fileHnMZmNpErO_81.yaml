@@ -1,0 +1,8 @@
+service:
+  name: serviceS30tWdmvFA
+  identifier: serviceS30tWdmvFA
+  projectIdentifier: LargeFileSyncrzgc2cDLZW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

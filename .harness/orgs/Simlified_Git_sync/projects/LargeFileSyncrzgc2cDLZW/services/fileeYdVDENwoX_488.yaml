@@ -1,0 +1,8 @@
+service:
+  name: servicew7urnHpecu
+  identifier: servicew7urnHpecu
+  projectIdentifier: LargeFileSyncrzgc2cDLZW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

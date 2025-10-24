@@ -1,0 +1,8 @@
+service:
+  name: serviceGIChHl59ap
+  identifier: serviceGIChHl59ap
+  projectIdentifier: LargeFileSyncrzgc2cDLZW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

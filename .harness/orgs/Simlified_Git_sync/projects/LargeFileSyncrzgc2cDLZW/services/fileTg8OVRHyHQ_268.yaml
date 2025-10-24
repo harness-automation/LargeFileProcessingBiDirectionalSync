@@ -1,0 +1,8 @@
+service:
+  name: serviceOkN9128v8T
+  identifier: serviceOkN9128v8T
+  projectIdentifier: LargeFileSyncrzgc2cDLZW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
