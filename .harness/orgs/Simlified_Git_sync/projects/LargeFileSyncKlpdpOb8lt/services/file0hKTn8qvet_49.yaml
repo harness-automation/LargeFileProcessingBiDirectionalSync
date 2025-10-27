@@ -1,0 +1,8 @@
+service:
+  name: serviceKVuaHCXGL2
+  identifier: serviceKVuaHCXGL2
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

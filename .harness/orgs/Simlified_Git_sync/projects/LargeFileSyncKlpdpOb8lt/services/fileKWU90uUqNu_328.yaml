@@ -1,0 +1,8 @@
+service:
+  name: serviceSNKR402dYR
+  identifier: serviceSNKR402dYR
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

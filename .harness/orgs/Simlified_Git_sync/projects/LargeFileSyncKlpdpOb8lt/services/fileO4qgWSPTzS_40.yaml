@@ -1,0 +1,8 @@
+service:
+  name: serviceBzCrmk4NPh
+  identifier: serviceBzCrmk4NPh
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

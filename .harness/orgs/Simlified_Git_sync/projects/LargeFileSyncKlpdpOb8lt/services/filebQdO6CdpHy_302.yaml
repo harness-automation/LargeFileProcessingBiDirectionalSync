@@ -1,0 +1,8 @@
+service:
+  name: serviceBE2tOcnWiV
+  identifier: serviceBE2tOcnWiV
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

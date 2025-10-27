@@ -1,0 +1,8 @@
+service:
+  name: serviceD6aDuIlgAr
+  identifier: serviceD6aDuIlgAr
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service2MhrZk7jml
+  identifier: service2MhrZk7jml
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

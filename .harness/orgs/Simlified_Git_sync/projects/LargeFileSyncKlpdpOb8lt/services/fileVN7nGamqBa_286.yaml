@@ -1,0 +1,8 @@
+service:
+  name: serviceKCSe56Stdo
+  identifier: serviceKCSe56Stdo
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

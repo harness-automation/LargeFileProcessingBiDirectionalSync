@@ -1,0 +1,8 @@
+service:
+  name: serviceEjSekIae8l
+  identifier: serviceEjSekIae8l
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

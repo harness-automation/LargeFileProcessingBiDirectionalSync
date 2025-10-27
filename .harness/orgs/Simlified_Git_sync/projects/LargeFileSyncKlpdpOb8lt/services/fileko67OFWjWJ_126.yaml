@@ -1,0 +1,8 @@
+service:
+  name: serviceMRK39IUXKP
+  identifier: serviceMRK39IUXKP
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

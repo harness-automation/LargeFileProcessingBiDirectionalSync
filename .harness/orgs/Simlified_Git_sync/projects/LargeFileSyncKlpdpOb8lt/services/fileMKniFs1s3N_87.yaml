@@ -1,0 +1,8 @@
+service:
+  name: servicemymH5598vn
+  identifier: servicemymH5598vn
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

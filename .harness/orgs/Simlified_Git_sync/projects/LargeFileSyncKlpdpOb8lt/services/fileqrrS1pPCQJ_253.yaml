@@ -1,0 +1,8 @@
+service:
+  name: serviceRKGixtvN7G
+  identifier: serviceRKGixtvN7G
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

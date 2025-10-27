@@ -1,0 +1,8 @@
+service:
+  name: serviceU2bvmpUJcG
+  identifier: serviceU2bvmpUJcG
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

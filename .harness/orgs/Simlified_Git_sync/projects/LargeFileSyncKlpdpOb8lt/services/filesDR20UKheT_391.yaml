@@ -1,0 +1,8 @@
+service:
+  name: serviceOMTJWz960g
+  identifier: serviceOMTJWz960g
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

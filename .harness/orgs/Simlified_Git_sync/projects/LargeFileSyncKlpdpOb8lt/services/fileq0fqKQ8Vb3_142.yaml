@@ -1,0 +1,8 @@
+service:
+  name: servicef1WDDmUfPM
+  identifier: servicef1WDDmUfPM
+  projectIdentifier: LargeFileSyncKlpdpOb8lt
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
