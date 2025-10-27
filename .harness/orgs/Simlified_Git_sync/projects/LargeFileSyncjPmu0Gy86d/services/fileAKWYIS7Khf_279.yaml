@@ -1,0 +1,8 @@
+service:
+  name: servicepG1jAL1aMt
+  identifier: servicepG1jAL1aMt
+  projectIdentifier: LargeFileSyncjPmu0Gy86d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

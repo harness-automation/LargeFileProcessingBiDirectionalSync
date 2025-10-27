@@ -1,0 +1,8 @@
+service:
+  name: serviceMhbexP9G3g
+  identifier: serviceMhbexP9G3g
+  projectIdentifier: LargeFileSyncjPmu0Gy86d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

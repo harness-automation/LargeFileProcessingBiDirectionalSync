@@ -1,0 +1,8 @@
+service:
+  name: serviceFtcuatC2Ww
+  identifier: serviceFtcuatC2Ww
+  projectIdentifier: LargeFileSyncjPmu0Gy86d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

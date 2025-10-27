@@ -1,0 +1,8 @@
+service:
+  name: serviceQRuLU1DD51
+  identifier: serviceQRuLU1DD51
+  projectIdentifier: LargeFileSyncjPmu0Gy86d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

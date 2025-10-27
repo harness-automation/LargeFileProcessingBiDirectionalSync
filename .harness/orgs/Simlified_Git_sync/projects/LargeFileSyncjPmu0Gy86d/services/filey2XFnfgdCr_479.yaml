@@ -1,0 +1,8 @@
+service:
+  name: service7rk9ApKnOa
+  identifier: service7rk9ApKnOa
+  projectIdentifier: LargeFileSyncjPmu0Gy86d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

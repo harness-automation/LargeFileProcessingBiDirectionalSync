@@ -1,0 +1,8 @@
+service:
+  name: service360kJRQe2k
+  identifier: service360kJRQe2k
+  projectIdentifier: LargeFileSyncjPmu0Gy86d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

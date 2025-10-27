@@ -1,0 +1,8 @@
+service:
+  name: serviceF3ZAGUmrLx
+  identifier: serviceF3ZAGUmrLx
+  projectIdentifier: LargeFileSyncjPmu0Gy86d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

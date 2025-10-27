@@ -1,0 +1,8 @@
+service:
+  name: servicew1MpDewOrS
+  identifier: servicew1MpDewOrS
+  projectIdentifier: LargeFileSyncjPmu0Gy86d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
