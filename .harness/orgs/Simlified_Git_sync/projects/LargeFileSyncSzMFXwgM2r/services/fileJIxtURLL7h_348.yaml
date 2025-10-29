@@ -1,0 +1,8 @@
+service:
+  name: serviceDDMB1FuTv1
+  identifier: serviceDDMB1FuTv1
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

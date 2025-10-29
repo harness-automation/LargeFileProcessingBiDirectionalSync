@@ -1,0 +1,8 @@
+service:
+  name: servicetmia5m9Jr4
+  identifier: servicetmia5m9Jr4
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

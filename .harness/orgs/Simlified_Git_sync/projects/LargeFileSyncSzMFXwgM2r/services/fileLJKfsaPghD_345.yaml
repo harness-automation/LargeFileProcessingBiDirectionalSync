@@ -1,0 +1,8 @@
+service:
+  name: serviceCax4dTFOV0
+  identifier: serviceCax4dTFOV0
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

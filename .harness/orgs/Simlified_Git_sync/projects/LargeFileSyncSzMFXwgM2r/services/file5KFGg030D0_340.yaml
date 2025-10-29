@@ -1,0 +1,8 @@
+service:
+  name: servicewjn4SOWIrn
+  identifier: servicewjn4SOWIrn
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

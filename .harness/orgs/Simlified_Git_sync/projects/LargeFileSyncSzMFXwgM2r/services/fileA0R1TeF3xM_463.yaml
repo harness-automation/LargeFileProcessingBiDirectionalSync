@@ -1,0 +1,8 @@
+service:
+  name: serviceovmT4MY3lg
+  identifier: serviceovmT4MY3lg
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

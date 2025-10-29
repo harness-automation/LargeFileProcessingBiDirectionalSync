@@ -1,0 +1,8 @@
+service:
+  name: serviceMopBrJaF3s
+  identifier: serviceMopBrJaF3s
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

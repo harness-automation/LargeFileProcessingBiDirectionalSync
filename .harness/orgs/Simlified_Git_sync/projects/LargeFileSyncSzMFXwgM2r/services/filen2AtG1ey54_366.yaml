@@ -1,0 +1,8 @@
+service:
+  name: service7BpMaUREKr
+  identifier: service7BpMaUREKr
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

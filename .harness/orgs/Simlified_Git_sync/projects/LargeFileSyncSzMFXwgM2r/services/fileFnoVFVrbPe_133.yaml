@@ -1,0 +1,8 @@
+service:
+  name: serviceSgPU3XSSRd
+  identifier: serviceSgPU3XSSRd
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicekD16GTR5gA
+  identifier: servicekD16GTR5gA
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

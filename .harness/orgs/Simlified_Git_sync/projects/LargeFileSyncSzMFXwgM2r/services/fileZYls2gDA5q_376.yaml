@@ -1,0 +1,8 @@
+service:
+  name: service2Z14FvFiSM
+  identifier: service2Z14FvFiSM
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

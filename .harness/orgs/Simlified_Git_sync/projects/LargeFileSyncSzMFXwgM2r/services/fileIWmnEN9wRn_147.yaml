@@ -1,0 +1,8 @@
+service:
+  name: serviceZbCQydfMOc
+  identifier: serviceZbCQydfMOc
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

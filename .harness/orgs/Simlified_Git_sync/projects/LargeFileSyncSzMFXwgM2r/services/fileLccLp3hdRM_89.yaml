@@ -1,0 +1,8 @@
+service:
+  name: service2dGkDOGIgh
+  identifier: service2dGkDOGIgh
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

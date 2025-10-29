@@ -1,0 +1,8 @@
+service:
+  name: serviceREqm0pBIns
+  identifier: serviceREqm0pBIns
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

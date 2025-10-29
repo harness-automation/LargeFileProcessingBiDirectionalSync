@@ -1,0 +1,8 @@
+service:
+  name: serviceRboC6To1we
+  identifier: serviceRboC6To1we
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

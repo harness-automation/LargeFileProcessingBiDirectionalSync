@@ -1,0 +1,8 @@
+service:
+  name: servicemmXW7mac3S
+  identifier: servicemmXW7mac3S
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

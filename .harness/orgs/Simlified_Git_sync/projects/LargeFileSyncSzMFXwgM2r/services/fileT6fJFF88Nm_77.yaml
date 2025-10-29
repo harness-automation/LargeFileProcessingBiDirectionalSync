@@ -1,0 +1,8 @@
+service:
+  name: serviceelORmasUO9
+  identifier: serviceelORmasUO9
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

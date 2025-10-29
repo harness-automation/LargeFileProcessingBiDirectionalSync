@@ -1,0 +1,8 @@
+service:
+  name: serviceAhmKR39kTN
+  identifier: serviceAhmKR39kTN
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

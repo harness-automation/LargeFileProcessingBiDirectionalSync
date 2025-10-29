@@ -1,0 +1,8 @@
+service:
+  name: servicetdkOLC5wrp
+  identifier: servicetdkOLC5wrp
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

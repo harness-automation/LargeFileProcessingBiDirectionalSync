@@ -1,0 +1,8 @@
+service:
+  name: serviceioHA6R61xn
+  identifier: serviceioHA6R61xn
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

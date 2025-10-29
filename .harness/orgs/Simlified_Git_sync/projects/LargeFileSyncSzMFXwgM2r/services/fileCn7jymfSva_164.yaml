@@ -1,0 +1,8 @@
+service:
+  name: servicelJeFuy3021
+  identifier: servicelJeFuy3021
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

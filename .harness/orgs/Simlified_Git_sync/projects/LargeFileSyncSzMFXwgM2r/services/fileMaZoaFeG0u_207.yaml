@@ -1,0 +1,8 @@
+service:
+  name: serviceOKY12NvDmJ
+  identifier: serviceOKY12NvDmJ
+  projectIdentifier: LargeFileSyncSzMFXwgM2r
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
