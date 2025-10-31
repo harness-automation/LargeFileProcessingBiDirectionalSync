@@ -1,0 +1,8 @@
+service:
+  name: serviceS312Fob2FH
+  identifier: serviceS312Fob2FH
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

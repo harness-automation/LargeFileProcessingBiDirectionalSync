@@ -1,0 +1,8 @@
+service:
+  name: serviceNaVcd7R5nP
+  identifier: serviceNaVcd7R5nP
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTnvea8cMDP
+  identifier: serviceTnvea8cMDP
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

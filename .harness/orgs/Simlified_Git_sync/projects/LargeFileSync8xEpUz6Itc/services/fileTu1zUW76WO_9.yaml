@@ -1,0 +1,8 @@
+service:
+  name: servicenmphkS2ax6
+  identifier: servicenmphkS2ax6
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

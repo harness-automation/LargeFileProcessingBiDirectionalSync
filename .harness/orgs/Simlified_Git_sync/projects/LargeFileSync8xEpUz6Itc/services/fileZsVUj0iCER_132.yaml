@@ -1,0 +1,8 @@
+service:
+  name: serviceoxIS64SeUK
+  identifier: serviceoxIS64SeUK
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

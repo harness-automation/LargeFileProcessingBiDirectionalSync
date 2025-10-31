@@ -1,0 +1,8 @@
+service:
+  name: service070UvSc4WY
+  identifier: service070UvSc4WY
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

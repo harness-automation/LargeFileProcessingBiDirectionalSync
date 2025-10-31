@@ -1,0 +1,8 @@
+service:
+  name: service2aP2SHMWLV
+  identifier: service2aP2SHMWLV
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

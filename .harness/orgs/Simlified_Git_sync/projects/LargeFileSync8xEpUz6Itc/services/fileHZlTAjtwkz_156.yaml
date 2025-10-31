@@ -1,0 +1,8 @@
+service:
+  name: servicehazDfVP47c
+  identifier: servicehazDfVP47c
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

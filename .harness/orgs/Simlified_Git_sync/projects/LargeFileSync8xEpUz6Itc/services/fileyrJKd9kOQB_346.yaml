@@ -1,0 +1,8 @@
+service:
+  name: servicepfov6B2Am5
+  identifier: servicepfov6B2Am5
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

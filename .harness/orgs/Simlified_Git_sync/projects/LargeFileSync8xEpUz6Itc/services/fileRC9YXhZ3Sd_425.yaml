@@ -1,0 +1,8 @@
+service:
+  name: serviceUV13TIMuFy
+  identifier: serviceUV13TIMuFy
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicel41zUnyEKU
+  identifier: servicel41zUnyEKU
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

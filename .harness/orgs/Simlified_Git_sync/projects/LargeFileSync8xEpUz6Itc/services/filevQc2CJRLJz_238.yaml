@@ -1,0 +1,8 @@
+service:
+  name: serviceYMpl11GqBm
+  identifier: serviceYMpl11GqBm
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

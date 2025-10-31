@@ -1,0 +1,8 @@
+service:
+  name: servicerLY2GuyJUM
+  identifier: servicerLY2GuyJUM
+  projectIdentifier: LargeFileSync8xEpUz6Itc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
