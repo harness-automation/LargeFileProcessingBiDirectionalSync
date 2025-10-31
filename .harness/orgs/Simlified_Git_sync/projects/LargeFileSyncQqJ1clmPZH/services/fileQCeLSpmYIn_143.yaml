@@ -1,0 +1,8 @@
+service:
+  name: serviceRFBlnMxg3t
+  identifier: serviceRFBlnMxg3t
+  projectIdentifier: LargeFileSyncQqJ1clmPZH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

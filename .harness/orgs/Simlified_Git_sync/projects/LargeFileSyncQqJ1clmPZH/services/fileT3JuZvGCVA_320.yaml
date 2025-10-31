@@ -1,0 +1,8 @@
+service:
+  name: serviceumC2qiGfdb
+  identifier: serviceumC2qiGfdb
+  projectIdentifier: LargeFileSyncQqJ1clmPZH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

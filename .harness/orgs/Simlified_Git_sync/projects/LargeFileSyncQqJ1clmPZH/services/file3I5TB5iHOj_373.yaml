@@ -1,0 +1,8 @@
+service:
+  name: servicePIN2lOeDJ4
+  identifier: servicePIN2lOeDJ4
+  projectIdentifier: LargeFileSyncQqJ1clmPZH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

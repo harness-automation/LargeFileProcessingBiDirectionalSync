@@ -1,0 +1,8 @@
+service:
+  name: serviceucpiGu0jho
+  identifier: serviceucpiGu0jho
+  projectIdentifier: LargeFileSyncQqJ1clmPZH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

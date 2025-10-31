@@ -1,0 +1,8 @@
+service:
+  name: servicenDAsjplm5u
+  identifier: servicenDAsjplm5u
+  projectIdentifier: LargeFileSyncQqJ1clmPZH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

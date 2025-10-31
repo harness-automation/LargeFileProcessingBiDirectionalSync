@@ -1,0 +1,8 @@
+service:
+  name: serviceDEWsThs96X
+  identifier: serviceDEWsThs96X
+  projectIdentifier: LargeFileSyncQqJ1clmPZH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicejLI429wgj2
+  identifier: servicejLI429wgj2
+  projectIdentifier: LargeFileSyncQqJ1clmPZH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
