@@ -1,0 +1,8 @@
+service:
+  name: servicerag4l16ptE
+  identifier: servicerag4l16ptE
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

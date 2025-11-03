@@ -1,0 +1,8 @@
+service:
+  name: servicefsAEj5U5T2
+  identifier: servicefsAEj5U5T2
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

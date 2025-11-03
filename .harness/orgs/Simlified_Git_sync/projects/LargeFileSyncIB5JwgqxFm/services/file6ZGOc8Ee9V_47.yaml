@@ -1,0 +1,8 @@
+service:
+  name: servicezWmpWgKZMX
+  identifier: servicezWmpWgKZMX
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

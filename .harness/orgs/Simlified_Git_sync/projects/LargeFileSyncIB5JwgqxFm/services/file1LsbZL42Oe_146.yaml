@@ -1,0 +1,8 @@
+service:
+  name: serviceDHcuBE7xad
+  identifier: serviceDHcuBE7xad
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

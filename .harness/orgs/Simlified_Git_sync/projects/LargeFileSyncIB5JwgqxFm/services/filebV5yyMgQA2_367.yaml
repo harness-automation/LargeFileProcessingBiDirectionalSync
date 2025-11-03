@@ -1,0 +1,8 @@
+service:
+  name: servicepazLTMCl6k
+  identifier: servicepazLTMCl6k
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

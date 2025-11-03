@@ -1,0 +1,8 @@
+service:
+  name: serviceJSOL3ZX8Fn
+  identifier: serviceJSOL3ZX8Fn
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

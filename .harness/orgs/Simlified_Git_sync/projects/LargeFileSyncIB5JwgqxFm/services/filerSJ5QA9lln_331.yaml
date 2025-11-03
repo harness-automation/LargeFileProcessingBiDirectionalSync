@@ -1,0 +1,8 @@
+service:
+  name: servicegKrevCOnxh
+  identifier: servicegKrevCOnxh
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceMoit0Nmz4i
+  identifier: serviceMoit0Nmz4i
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

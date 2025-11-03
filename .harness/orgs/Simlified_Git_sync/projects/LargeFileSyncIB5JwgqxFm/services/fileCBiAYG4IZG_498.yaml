@@ -1,0 +1,8 @@
+service:
+  name: serviceY2T49U75ci
+  identifier: serviceY2T49U75ci
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

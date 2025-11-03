@@ -1,0 +1,8 @@
+service:
+  name: service3BtlKOTSQT
+  identifier: service3BtlKOTSQT
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

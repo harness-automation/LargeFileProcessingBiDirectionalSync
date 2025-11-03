@@ -1,0 +1,8 @@
+service:
+  name: serviceqrSAlddm35
+  identifier: serviceqrSAlddm35
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

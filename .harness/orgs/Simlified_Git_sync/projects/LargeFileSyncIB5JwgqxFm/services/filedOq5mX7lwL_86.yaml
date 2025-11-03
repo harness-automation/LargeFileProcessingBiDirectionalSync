@@ -1,0 +1,8 @@
+service:
+  name: serviceSIPvY0Umc2
+  identifier: serviceSIPvY0Umc2
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

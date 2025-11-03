@@ -1,0 +1,8 @@
+service:
+  name: serviceatuBH3m5NI
+  identifier: serviceatuBH3m5NI
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

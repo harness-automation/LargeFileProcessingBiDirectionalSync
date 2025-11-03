@@ -1,0 +1,8 @@
+service:
+  name: serviceBkGrNA5Env
+  identifier: serviceBkGrNA5Env
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceIpr4OGhmEF
+  identifier: serviceIpr4OGhmEF
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceexGmwPmL8j
+  identifier: serviceexGmwPmL8j
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

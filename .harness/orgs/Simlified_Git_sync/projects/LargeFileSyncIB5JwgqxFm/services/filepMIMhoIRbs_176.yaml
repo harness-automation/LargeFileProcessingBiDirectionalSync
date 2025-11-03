@@ -1,0 +1,8 @@
+service:
+  name: serviceJEfcr6P2L6
+  identifier: serviceJEfcr6P2L6
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

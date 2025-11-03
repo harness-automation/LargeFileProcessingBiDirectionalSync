@@ -1,0 +1,8 @@
+service:
+  name: serviceKWGAoMil4a
+  identifier: serviceKWGAoMil4a
+  projectIdentifier: LargeFileSyncIB5JwgqxFm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
