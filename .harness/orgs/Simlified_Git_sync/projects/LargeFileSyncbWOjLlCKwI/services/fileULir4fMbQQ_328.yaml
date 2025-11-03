@@ -1,0 +1,8 @@
+service:
+  name: serviceHMlQLLUWST
+  identifier: serviceHMlQLLUWST
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

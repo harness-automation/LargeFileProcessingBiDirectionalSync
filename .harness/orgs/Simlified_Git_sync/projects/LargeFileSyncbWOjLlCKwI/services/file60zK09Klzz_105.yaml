@@ -1,0 +1,8 @@
+service:
+  name: serviceGo4jPnzTDD
+  identifier: serviceGo4jPnzTDD
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

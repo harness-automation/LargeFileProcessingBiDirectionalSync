@@ -1,0 +1,8 @@
+service:
+  name: servicezowS0uWAP0
+  identifier: servicezowS0uWAP0
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

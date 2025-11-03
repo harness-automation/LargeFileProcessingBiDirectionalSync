@@ -1,0 +1,8 @@
+service:
+  name: serviceS8LUHtcoIP
+  identifier: serviceS8LUHtcoIP
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceF3603SX8BL
+  identifier: serviceF3603SX8BL
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

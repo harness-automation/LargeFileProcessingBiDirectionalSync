@@ -1,0 +1,8 @@
+service:
+  name: serviceTKfn3j1MpP
+  identifier: serviceTKfn3j1MpP
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

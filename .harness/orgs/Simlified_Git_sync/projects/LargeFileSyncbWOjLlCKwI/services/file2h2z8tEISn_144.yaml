@@ -1,0 +1,8 @@
+service:
+  name: servicerI90SWFgaG
+  identifier: servicerI90SWFgaG
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

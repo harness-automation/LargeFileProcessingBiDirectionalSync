@@ -1,0 +1,8 @@
+service:
+  name: serviceFCNO2j6QdD
+  identifier: serviceFCNO2j6QdD
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

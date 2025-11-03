@@ -1,0 +1,8 @@
+service:
+  name: serviceSYsT0Dy2mA
+  identifier: serviceSYsT0Dy2mA
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

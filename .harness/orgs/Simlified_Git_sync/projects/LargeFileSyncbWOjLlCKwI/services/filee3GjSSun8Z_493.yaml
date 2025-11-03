@@ -1,0 +1,8 @@
+service:
+  name: serviceKJs22Em3WI
+  identifier: serviceKJs22Em3WI
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

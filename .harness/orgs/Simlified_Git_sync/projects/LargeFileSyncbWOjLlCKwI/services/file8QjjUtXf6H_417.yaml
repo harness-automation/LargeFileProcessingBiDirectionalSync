@@ -1,0 +1,8 @@
+service:
+  name: serviceggMM9OIXux
+  identifier: serviceggMM9OIXux
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

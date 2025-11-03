@@ -1,0 +1,8 @@
+service:
+  name: serviceMnobRAA06Z
+  identifier: serviceMnobRAA06Z
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

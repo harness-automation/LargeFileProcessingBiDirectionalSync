@@ -1,0 +1,8 @@
+service:
+  name: serviceWOL5pKUIns
+  identifier: serviceWOL5pKUIns
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

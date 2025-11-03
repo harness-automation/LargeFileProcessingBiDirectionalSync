@@ -1,0 +1,8 @@
+service:
+  name: serviceMQlm4Or33j
+  identifier: serviceMQlm4Or33j
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

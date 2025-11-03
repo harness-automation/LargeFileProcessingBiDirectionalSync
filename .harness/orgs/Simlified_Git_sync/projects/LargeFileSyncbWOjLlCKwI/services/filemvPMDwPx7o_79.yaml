@@ -1,0 +1,8 @@
+service:
+  name: serviceBluHI5gMS1
+  identifier: serviceBluHI5gMS1
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

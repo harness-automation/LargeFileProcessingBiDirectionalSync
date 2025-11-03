@@ -1,0 +1,8 @@
+service:
+  name: servicedpNF1ZaD95
+  identifier: servicedpNF1ZaD95
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

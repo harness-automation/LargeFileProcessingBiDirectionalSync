@@ -1,0 +1,8 @@
+service:
+  name: serviceZ4mPiCBk13
+  identifier: serviceZ4mPiCBk13
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceBUkAPc2uSa
+  identifier: serviceBUkAPc2uSa
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

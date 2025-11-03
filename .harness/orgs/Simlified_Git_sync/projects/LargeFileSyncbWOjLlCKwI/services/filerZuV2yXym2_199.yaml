@@ -1,0 +1,8 @@
+service:
+  name: serviceddlfJWB10W
+  identifier: serviceddlfJWB10W
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicemWmapYTh0l
+  identifier: servicemWmapYTh0l
+  projectIdentifier: LargeFileSyncbWOjLlCKwI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
