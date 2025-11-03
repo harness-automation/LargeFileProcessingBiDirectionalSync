@@ -1,0 +1,8 @@
+service:
+  name: serviceD6j4YoteAL
+  identifier: serviceD6j4YoteAL
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

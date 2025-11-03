@@ -1,0 +1,8 @@
+service:
+  name: serviceglcOFgasn3
+  identifier: serviceglcOFgasn3
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

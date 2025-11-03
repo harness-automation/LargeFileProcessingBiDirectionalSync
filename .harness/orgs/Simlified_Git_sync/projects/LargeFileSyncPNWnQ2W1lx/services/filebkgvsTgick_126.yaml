@@ -1,0 +1,8 @@
+service:
+  name: servicenQ21Pu9eus
+  identifier: servicenQ21Pu9eus
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

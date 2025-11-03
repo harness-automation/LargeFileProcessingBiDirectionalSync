@@ -1,0 +1,8 @@
+service:
+  name: serviceeWD67G99W8
+  identifier: serviceeWD67G99W8
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

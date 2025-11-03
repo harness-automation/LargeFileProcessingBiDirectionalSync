@@ -1,0 +1,8 @@
+service:
+  name: service8Sb8EZObtU
+  identifier: service8Sb8EZObtU
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

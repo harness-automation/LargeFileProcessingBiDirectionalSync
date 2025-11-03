@@ -1,0 +1,8 @@
+service:
+  name: servicejasNQTpAh3
+  identifier: servicejasNQTpAh3
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceIZ300b4UWm
+  identifier: serviceIZ300b4UWm
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

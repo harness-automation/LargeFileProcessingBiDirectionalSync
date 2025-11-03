@@ -1,0 +1,8 @@
+service:
+  name: service84rRKCPiPH
+  identifier: service84rRKCPiPH
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

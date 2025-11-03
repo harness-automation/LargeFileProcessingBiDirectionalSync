@@ -1,0 +1,8 @@
+service:
+  name: serviceOTs59PFAMR
+  identifier: serviceOTs59PFAMR
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

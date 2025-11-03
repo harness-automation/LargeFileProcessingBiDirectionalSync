@@ -1,0 +1,8 @@
+service:
+  name: servicemfmLw7arri
+  identifier: servicemfmLw7arri
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

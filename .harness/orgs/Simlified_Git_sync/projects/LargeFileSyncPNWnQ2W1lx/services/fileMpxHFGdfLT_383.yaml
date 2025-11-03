@@ -1,0 +1,8 @@
+service:
+  name: serviceGGt32bTnA9
+  identifier: serviceGGt32bTnA9
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

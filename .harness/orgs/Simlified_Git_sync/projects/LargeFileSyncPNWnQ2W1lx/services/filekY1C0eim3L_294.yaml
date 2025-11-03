@@ -1,0 +1,8 @@
+service:
+  name: serviceN6aATvlon6
+  identifier: serviceN6aATvlon6
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

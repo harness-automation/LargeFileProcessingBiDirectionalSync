@@ -1,0 +1,8 @@
+service:
+  name: servicesLFmwZ22BO
+  identifier: servicesLFmwZ22BO
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

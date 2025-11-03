@@ -1,0 +1,8 @@
+service:
+  name: serviceRc94fvCXLa
+  identifier: serviceRc94fvCXLa
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

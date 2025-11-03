@@ -1,0 +1,8 @@
+service:
+  name: serviceJRGv6GES23
+  identifier: serviceJRGv6GES23
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

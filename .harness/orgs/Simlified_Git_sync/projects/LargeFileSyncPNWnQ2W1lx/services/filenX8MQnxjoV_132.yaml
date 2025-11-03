@@ -1,0 +1,8 @@
+service:
+  name: servicePJWgaFE7Lm
+  identifier: servicePJWgaFE7Lm
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicewrryjp2yoj
+  identifier: servicewrryjp2yoj
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

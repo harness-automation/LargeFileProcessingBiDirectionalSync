@@ -1,0 +1,8 @@
+service:
+  name: serviceNlps1anTXV
+  identifier: serviceNlps1anTXV
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

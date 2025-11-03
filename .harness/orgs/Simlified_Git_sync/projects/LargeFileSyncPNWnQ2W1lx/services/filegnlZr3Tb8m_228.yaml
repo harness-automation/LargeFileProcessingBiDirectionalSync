@@ -1,0 +1,8 @@
+service:
+  name: serviceuagVylsuea
+  identifier: serviceuagVylsuea
+  projectIdentifier: LargeFileSyncPNWnQ2W1lx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
