@@ -1,0 +1,8 @@
+service:
+  name: serviceopa5ggfLt1
+  identifier: serviceopa5ggfLt1
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

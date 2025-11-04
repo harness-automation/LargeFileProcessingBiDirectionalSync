@@ -1,0 +1,8 @@
+service:
+  name: serviceuiRCOB1SDX
+  identifier: serviceuiRCOB1SDX
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

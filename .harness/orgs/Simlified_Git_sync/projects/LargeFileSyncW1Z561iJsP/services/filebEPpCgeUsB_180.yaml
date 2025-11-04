@@ -1,0 +1,8 @@
+service:
+  name: serviceygHB917WMT
+  identifier: serviceygHB917WMT
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

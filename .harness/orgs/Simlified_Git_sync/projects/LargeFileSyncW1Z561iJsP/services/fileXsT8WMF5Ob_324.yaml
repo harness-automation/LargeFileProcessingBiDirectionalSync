@@ -1,0 +1,8 @@
+service:
+  name: serviceGomLu8ls7p
+  identifier: serviceGomLu8ls7p
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

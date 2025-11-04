@@ -1,0 +1,8 @@
+service:
+  name: serviceKsv8eLEhGI
+  identifier: serviceKsv8eLEhGI
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

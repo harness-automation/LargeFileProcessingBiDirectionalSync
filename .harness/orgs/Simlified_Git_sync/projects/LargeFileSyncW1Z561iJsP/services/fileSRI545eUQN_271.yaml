@@ -1,0 +1,8 @@
+service:
+  name: serviceggs4PmfNPp
+  identifier: serviceggs4PmfNPp
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

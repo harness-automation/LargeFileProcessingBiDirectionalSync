@@ -1,0 +1,8 @@
+service:
+  name: serviceIVrHFXmi28
+  identifier: serviceIVrHFXmi28
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

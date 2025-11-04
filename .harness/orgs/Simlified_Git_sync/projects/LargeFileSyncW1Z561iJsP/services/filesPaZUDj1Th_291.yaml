@@ -1,0 +1,8 @@
+service:
+  name: service2rgc4xKMUf
+  identifier: service2rgc4xKMUf
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

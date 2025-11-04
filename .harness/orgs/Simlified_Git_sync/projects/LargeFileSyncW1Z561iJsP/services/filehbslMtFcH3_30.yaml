@@ -1,0 +1,8 @@
+service:
+  name: serviceIxR6vec72v
+  identifier: serviceIxR6vec72v
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

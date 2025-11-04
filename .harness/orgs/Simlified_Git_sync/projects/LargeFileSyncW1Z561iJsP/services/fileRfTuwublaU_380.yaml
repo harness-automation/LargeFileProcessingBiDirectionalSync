@@ -1,0 +1,8 @@
+service:
+  name: service4gaRv8AULI
+  identifier: service4gaRv8AULI
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

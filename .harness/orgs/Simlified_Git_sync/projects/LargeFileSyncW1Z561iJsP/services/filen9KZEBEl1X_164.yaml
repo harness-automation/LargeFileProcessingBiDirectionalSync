@@ -1,0 +1,8 @@
+service:
+  name: serviceMT24r6taEd
+  identifier: serviceMT24r6taEd
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

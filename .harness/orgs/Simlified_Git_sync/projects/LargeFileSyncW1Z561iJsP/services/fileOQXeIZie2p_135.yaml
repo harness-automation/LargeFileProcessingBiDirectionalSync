@@ -1,0 +1,8 @@
+service:
+  name: serviceROuD15Vtaa
+  identifier: serviceROuD15Vtaa
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

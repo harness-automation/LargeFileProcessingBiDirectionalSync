@@ -1,0 +1,8 @@
+service:
+  name: servicethoz9pgBRt
+  identifier: servicethoz9pgBRt
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

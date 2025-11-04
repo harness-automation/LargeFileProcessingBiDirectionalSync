@@ -1,0 +1,8 @@
+service:
+  name: serviceP0A3orbTes
+  identifier: serviceP0A3orbTes
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceEEA41AM6Ob
+  identifier: serviceEEA41AM6Ob
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

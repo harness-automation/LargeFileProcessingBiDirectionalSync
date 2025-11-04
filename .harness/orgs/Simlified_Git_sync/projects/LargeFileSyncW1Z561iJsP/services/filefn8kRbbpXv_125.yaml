@@ -1,0 +1,8 @@
+service:
+  name: servicemT7k12BKOt
+  identifier: servicemT7k12BKOt
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

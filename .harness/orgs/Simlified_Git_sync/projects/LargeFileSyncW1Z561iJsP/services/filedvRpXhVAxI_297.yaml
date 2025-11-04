@@ -1,0 +1,8 @@
+service:
+  name: service227BJz16MF
+  identifier: service227BJz16MF
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

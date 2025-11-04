@@ -1,0 +1,8 @@
+service:
+  name: service0Mc5LSaute
+  identifier: service0Mc5LSaute
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

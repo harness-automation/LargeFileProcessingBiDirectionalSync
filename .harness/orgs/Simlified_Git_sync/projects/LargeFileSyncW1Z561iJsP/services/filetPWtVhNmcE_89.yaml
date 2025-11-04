@@ -1,0 +1,8 @@
+service:
+  name: service2iCkBYS5ni
+  identifier: service2iCkBYS5ni
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

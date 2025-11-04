@@ -1,0 +1,8 @@
+service:
+  name: servicePfpaobQ58w
+  identifier: servicePfpaobQ58w
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

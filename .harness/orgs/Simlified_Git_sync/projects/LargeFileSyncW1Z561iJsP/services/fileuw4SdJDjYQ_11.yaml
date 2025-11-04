@@ -1,0 +1,8 @@
+service:
+  name: serviceFF3Vw4bVAB
+  identifier: serviceFF3Vw4bVAB
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

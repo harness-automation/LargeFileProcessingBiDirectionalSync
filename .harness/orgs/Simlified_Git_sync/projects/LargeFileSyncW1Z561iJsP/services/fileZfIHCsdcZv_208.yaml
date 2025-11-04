@@ -1,0 +1,8 @@
+service:
+  name: serviceb1441lcpzs
+  identifier: serviceb1441lcpzs
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

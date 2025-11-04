@@ -1,0 +1,8 @@
+service:
+  name: serviceCBmm9BSnWk
+  identifier: serviceCBmm9BSnWk
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

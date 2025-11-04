@@ -1,0 +1,8 @@
+service:
+  name: serviceNScF0dmacz
+  identifier: serviceNScF0dmacz
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

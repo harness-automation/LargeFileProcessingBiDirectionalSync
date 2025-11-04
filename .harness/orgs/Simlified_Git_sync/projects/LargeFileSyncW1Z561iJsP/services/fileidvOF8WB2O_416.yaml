@@ -1,0 +1,8 @@
+service:
+  name: serviceDFCLn2ws9t
+  identifier: serviceDFCLn2ws9t
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

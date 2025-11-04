@@ -1,0 +1,8 @@
+service:
+  name: serviceEC8RAtiERE
+  identifier: serviceEC8RAtiERE
+  projectIdentifier: LargeFileSyncW1Z561iJsP
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
