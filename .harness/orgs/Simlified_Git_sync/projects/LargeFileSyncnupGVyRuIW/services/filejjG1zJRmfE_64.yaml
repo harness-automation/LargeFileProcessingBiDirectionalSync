@@ -1,0 +1,8 @@
+service:
+  name: serviceEcsfrEUj7a
+  identifier: serviceEcsfrEUj7a
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service4UTWIRcPIt
+  identifier: service4UTWIRcPIt
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceWUB3KG286e
+  identifier: serviceWUB3KG286e
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

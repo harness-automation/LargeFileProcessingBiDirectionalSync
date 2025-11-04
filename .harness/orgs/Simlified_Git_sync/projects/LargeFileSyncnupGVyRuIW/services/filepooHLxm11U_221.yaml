@@ -1,0 +1,8 @@
+service:
+  name: service4MUJMVjRx1
+  identifier: service4MUJMVjRx1
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

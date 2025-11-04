@@ -1,0 +1,8 @@
+service:
+  name: serviceaz3grKjLTV
+  identifier: serviceaz3grKjLTV
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

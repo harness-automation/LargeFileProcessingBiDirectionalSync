@@ -1,0 +1,8 @@
+service:
+  name: serviceOsTCgui6HH
+  identifier: serviceOsTCgui6HH
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicenLDMEm1aX8
+  identifier: servicenLDMEm1aX8
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

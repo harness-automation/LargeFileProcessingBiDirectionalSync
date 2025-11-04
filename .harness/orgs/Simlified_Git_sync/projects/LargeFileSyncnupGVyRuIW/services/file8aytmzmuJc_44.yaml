@@ -1,0 +1,8 @@
+service:
+  name: servicerxPZ2n7a4n
+  identifier: servicerxPZ2n7a4n
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceotpDyQn2ZQ
+  identifier: serviceotpDyQn2ZQ
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

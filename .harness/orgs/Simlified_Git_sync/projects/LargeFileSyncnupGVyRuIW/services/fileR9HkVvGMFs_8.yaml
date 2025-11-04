@@ -1,0 +1,8 @@
+service:
+  name: serviceBA79ENOJhA
+  identifier: serviceBA79ENOJhA
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

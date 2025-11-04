@@ -1,0 +1,8 @@
+service:
+  name: serviceghB92MPayb
+  identifier: serviceghB92MPayb
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

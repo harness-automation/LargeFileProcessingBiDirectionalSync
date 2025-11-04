@@ -1,0 +1,8 @@
+service:
+  name: serviceHeg72aoToS
+  identifier: serviceHeg72aoToS
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

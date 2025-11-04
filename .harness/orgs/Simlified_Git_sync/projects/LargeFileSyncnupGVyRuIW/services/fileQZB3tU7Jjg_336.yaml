@@ -1,0 +1,8 @@
+service:
+  name: serviceLnb478Nq0M
+  identifier: serviceLnb478Nq0M
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

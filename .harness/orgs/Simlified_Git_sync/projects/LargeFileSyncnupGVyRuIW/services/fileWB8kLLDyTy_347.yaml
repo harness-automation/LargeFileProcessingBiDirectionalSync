@@ -1,0 +1,8 @@
+service:
+  name: servicebiFx42nAC3
+  identifier: servicebiFx42nAC3
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

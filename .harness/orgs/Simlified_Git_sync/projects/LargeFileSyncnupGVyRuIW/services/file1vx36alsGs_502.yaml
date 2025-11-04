@@ -1,0 +1,8 @@
+service:
+  name: serviceQix4hobLVU
+  identifier: serviceQix4hobLVU
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

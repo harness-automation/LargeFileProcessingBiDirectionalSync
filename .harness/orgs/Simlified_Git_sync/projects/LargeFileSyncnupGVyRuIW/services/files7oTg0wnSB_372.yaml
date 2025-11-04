@@ -1,0 +1,8 @@
+service:
+  name: serviceWpFtP95Evs
+  identifier: serviceWpFtP95Evs
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

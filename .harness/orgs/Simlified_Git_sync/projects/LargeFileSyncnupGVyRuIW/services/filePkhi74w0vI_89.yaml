@@ -1,0 +1,8 @@
+service:
+  name: serviceWf7zTppOAr
+  identifier: serviceWf7zTppOAr
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

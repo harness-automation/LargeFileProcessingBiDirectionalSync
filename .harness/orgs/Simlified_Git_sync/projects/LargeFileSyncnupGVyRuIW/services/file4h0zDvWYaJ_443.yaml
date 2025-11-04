@@ -1,0 +1,8 @@
+service:
+  name: servicehjGO31Vz1g
+  identifier: servicehjGO31Vz1g
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

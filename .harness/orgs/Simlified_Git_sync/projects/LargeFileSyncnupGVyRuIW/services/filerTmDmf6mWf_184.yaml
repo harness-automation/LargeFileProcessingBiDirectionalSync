@@ -1,0 +1,8 @@
+service:
+  name: serviceJBO3069jpM
+  identifier: serviceJBO3069jpM
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicexUnRR61has
+  identifier: servicexUnRR61has
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

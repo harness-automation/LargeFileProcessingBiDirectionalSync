@@ -1,0 +1,8 @@
+service:
+  name: serviceXcnf2RnHB3
+  identifier: serviceXcnf2RnHB3
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

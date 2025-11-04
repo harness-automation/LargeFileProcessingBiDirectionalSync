@@ -1,0 +1,8 @@
+service:
+  name: serviceINsL1EuQDI
+  identifier: serviceINsL1EuQDI
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

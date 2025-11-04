@@ -1,0 +1,8 @@
+service:
+  name: servicengPp1AlhLc
+  identifier: servicengPp1AlhLc
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

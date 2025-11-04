@@ -1,0 +1,8 @@
+service:
+  name: servicePh45GIkuTq
+  identifier: servicePh45GIkuTq
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

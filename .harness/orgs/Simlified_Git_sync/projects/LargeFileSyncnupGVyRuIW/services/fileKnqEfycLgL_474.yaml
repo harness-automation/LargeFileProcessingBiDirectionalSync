@@ -1,0 +1,8 @@
+service:
+  name: serviceBaXg1DgmxA
+  identifier: serviceBaXg1DgmxA
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

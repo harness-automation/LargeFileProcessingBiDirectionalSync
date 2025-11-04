@@ -1,0 +1,8 @@
+service:
+  name: serviceC12PO84l8o
+  identifier: serviceC12PO84l8o
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

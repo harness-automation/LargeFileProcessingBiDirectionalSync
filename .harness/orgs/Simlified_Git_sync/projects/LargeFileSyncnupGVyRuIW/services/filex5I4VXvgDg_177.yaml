@@ -1,0 +1,8 @@
+service:
+  name: serviceMMSGFRH9DO
+  identifier: serviceMMSGFRH9DO
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

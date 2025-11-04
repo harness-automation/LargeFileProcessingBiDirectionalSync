@@ -1,0 +1,8 @@
+service:
+  name: serviceKNWAoj9848
+  identifier: serviceKNWAoj9848
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

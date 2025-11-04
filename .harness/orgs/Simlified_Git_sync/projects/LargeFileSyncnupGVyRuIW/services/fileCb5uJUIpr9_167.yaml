@@ -1,0 +1,8 @@
+service:
+  name: serviceREEG7cb2uK
+  identifier: serviceREEG7cb2uK
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service3rCloWBbG4
+  identifier: service3rCloWBbG4
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceKeoeUtAMIy
+  identifier: serviceKeoeUtAMIy
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

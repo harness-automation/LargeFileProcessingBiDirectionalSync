@@ -1,0 +1,8 @@
+service:
+  name: serviceHGL1doVjEH
+  identifier: serviceHGL1doVjEH
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

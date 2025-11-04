@@ -1,0 +1,8 @@
+service:
+  name: service71FDMTP2E1
+  identifier: service71FDMTP2E1
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

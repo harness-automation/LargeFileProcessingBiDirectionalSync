@@ -1,0 +1,8 @@
+service:
+  name: serviceNyp4HO0ZTd
+  identifier: serviceNyp4HO0ZTd
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

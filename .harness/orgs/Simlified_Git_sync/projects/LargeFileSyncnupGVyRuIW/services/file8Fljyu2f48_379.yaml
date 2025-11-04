@@ -1,0 +1,8 @@
+service:
+  name: serviceob2Pid7i3w
+  identifier: serviceob2Pid7i3w
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

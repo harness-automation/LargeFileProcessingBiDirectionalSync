@@ -1,0 +1,8 @@
+service:
+  name: serviceweUsMyA18m
+  identifier: serviceweUsMyA18m
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

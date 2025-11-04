@@ -1,0 +1,8 @@
+service:
+  name: serviceMBEomlDEUR
+  identifier: serviceMBEomlDEUR
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

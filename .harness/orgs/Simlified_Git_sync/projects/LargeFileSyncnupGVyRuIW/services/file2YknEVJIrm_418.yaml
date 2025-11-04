@@ -1,0 +1,8 @@
+service:
+  name: servicegNTP1IisxD
+  identifier: servicegNTP1IisxD
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

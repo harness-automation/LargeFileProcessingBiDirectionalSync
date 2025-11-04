@@ -1,0 +1,8 @@
+service:
+  name: serviceMteC46hbv1
+  identifier: serviceMteC46hbv1
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service14PnsBuf3K
+  identifier: service14PnsBuf3K
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

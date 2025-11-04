@@ -1,0 +1,8 @@
+service:
+  name: service2mchWXsBIC
+  identifier: service2mchWXsBIC
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

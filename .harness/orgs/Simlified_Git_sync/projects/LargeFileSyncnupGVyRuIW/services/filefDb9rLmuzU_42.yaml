@@ -1,0 +1,8 @@
+service:
+  name: servicexiTIMhD42a
+  identifier: servicexiTIMhD42a
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceCi3x4CUsog
+  identifier: serviceCi3x4CUsog
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

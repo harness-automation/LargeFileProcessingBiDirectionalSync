@@ -1,0 +1,8 @@
+service:
+  name: serviceTlF70NhVDB
+  identifier: serviceTlF70NhVDB
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

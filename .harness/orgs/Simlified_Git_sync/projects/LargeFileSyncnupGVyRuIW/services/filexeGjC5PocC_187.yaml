@@ -1,0 +1,8 @@
+service:
+  name: servicehzViJenx2p
+  identifier: servicehzViJenx2p
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

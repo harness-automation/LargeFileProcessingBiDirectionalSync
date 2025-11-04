@@ -1,0 +1,8 @@
+service:
+  name: serviceMTgpwqqMsa
+  identifier: serviceMTgpwqqMsa
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

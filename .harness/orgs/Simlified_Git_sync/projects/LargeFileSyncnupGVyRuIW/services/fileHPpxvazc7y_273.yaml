@@ -1,0 +1,8 @@
+service:
+  name: servicemi7Dz6Z2sw
+  identifier: servicemi7Dz6Z2sw
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceQ389QAWeN1
+  identifier: serviceQ389QAWeN1
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

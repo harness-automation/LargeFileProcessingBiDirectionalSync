@@ -1,0 +1,8 @@
+service:
+  name: serviceUGSID4xXK9
+  identifier: serviceUGSID4xXK9
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

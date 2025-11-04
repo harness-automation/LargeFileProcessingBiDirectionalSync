@@ -1,0 +1,8 @@
+service:
+  name: service3gJahUpl48
+  identifier: service3gJahUpl48
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

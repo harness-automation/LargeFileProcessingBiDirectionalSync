@@ -1,0 +1,8 @@
+service:
+  name: serviceGriGni168F
+  identifier: serviceGriGni168F
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

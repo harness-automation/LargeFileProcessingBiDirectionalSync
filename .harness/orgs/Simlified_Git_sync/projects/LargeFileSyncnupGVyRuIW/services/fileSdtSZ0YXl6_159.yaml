@@ -1,0 +1,8 @@
+service:
+  name: serviceRDNht2v1Ko
+  identifier: serviceRDNht2v1Ko
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

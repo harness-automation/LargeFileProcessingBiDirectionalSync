@@ -1,0 +1,8 @@
+service:
+  name: servicefIVBOBDPmC
+  identifier: servicefIVBOBDPmC
+  projectIdentifier: LargeFileSyncnupGVyRuIW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
