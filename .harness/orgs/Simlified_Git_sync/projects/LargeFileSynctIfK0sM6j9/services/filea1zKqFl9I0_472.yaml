@@ -1,0 +1,8 @@
+service:
+  name: serviceOCUSITC3iC
+  identifier: serviceOCUSITC3iC
+  projectIdentifier: LargeFileSynctIfK0sM6j9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
