@@ -1,0 +1,8 @@
+service:
+  name: servicenTNW0ZaWAS
+  identifier: servicenTNW0ZaWAS
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

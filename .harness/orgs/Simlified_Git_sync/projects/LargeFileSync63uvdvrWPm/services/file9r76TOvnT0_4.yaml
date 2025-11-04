@@ -1,0 +1,8 @@
+service:
+  name: servicezhV8APhXMP
+  identifier: servicezhV8APhXMP
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceSkyMrWwTN2
+  identifier: serviceSkyMrWwTN2
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

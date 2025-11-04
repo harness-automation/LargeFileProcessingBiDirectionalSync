@@ -1,0 +1,8 @@
+service:
+  name: servicex35LV32DHx
+  identifier: servicex35LV32DHx
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

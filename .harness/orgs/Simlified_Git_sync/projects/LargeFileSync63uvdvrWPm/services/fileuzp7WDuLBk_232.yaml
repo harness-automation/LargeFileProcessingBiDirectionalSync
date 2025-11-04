@@ -1,0 +1,8 @@
+service:
+  name: serviceAINiT7OP6L
+  identifier: serviceAINiT7OP6L
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

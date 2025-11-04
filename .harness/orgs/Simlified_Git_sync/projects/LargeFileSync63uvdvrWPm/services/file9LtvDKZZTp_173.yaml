@@ -1,0 +1,8 @@
+service:
+  name: servicetAdDa1XUoM
+  identifier: servicetAdDa1XUoM
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

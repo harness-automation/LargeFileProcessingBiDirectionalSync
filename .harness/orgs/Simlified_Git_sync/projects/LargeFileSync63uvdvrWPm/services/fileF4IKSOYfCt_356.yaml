@@ -1,0 +1,8 @@
+service:
+  name: serviceGHA32hUDry
+  identifier: serviceGHA32hUDry
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

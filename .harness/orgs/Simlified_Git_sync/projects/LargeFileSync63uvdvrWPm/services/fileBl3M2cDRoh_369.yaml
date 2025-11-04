@@ -1,0 +1,8 @@
+service:
+  name: serviceVi0nDErrBA
+  identifier: serviceVi0nDErrBA
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

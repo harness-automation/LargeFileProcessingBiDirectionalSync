@@ -1,0 +1,8 @@
+service:
+  name: serviceRCmzW2Vt4F
+  identifier: serviceRCmzW2Vt4F
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

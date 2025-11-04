@@ -1,0 +1,8 @@
+service:
+  name: serviceRgql7A6klb
+  identifier: serviceRgql7A6klb
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

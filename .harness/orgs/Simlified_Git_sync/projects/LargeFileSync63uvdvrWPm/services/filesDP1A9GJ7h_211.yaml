@@ -1,0 +1,8 @@
+service:
+  name: serviceDnxG36P1us
+  identifier: serviceDnxG36P1us
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

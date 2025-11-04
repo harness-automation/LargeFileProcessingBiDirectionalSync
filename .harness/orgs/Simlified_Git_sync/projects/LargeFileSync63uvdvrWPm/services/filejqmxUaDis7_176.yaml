@@ -1,0 +1,8 @@
+service:
+  name: servicecgKUMQ6Bbw
+  identifier: servicecgKUMQ6Bbw
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

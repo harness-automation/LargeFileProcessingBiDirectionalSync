@@ -1,0 +1,8 @@
+service:
+  name: serviceoFc86vni7L
+  identifier: serviceoFc86vni7L
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceLBPLT3oKfs
+  identifier: serviceLBPLT3oKfs
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

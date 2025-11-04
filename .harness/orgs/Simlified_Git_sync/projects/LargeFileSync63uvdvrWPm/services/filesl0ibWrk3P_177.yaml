@@ -1,0 +1,8 @@
+service:
+  name: servicewA4770EOyK
+  identifier: servicewA4770EOyK
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFmgeb0OSTg
+  identifier: serviceFmgeb0OSTg
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

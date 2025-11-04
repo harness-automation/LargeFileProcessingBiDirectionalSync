@@ -1,0 +1,8 @@
+service:
+  name: servicekBEK0lxSw7
+  identifier: servicekBEK0lxSw7
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

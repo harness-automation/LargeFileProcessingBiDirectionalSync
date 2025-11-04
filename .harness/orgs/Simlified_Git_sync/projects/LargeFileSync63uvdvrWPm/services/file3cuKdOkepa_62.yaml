@@ -1,0 +1,8 @@
+service:
+  name: serviceEsgikIEx9g
+  identifier: serviceEsgikIEx9g
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

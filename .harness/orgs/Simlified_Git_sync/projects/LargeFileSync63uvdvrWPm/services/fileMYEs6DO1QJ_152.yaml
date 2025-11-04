@@ -1,0 +1,8 @@
+service:
+  name: service130uhx74ni
+  identifier: service130uhx74ni
+  projectIdentifier: LargeFileSync63uvdvrWPm
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
