@@ -1,0 +1,8 @@
+service:
+  name: serviceIABcPys929
+  identifier: serviceIABcPys929
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

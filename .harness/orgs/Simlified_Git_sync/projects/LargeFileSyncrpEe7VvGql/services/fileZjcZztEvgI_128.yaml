@@ -1,0 +1,8 @@
+service:
+  name: serviceVK34360rrz
+  identifier: serviceVK34360rrz
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

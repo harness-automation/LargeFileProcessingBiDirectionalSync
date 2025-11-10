@@ -1,0 +1,8 @@
+service:
+  name: servicekNASFgXToa
+  identifier: servicekNASFgXToa
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

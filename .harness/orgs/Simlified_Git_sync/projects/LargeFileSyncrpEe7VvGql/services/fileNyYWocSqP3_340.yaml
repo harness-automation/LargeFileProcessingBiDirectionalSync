@@ -1,0 +1,8 @@
+service:
+  name: serviceCtnWppLB2W
+  identifier: serviceCtnWppLB2W
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

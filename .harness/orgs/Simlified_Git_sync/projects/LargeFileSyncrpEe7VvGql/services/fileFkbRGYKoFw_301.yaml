@@ -1,0 +1,8 @@
+service:
+  name: serviceTxbesA11VO
+  identifier: serviceTxbesA11VO
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

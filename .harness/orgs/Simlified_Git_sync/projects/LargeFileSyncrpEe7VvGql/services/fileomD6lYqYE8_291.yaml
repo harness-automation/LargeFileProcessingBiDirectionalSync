@@ -1,0 +1,8 @@
+service:
+  name: serviceNAY571yqco
+  identifier: serviceNAY571yqco
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

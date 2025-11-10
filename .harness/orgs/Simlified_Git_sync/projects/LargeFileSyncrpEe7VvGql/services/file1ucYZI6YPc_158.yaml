@@ -1,0 +1,8 @@
+service:
+  name: serviceJe42lmpmq9
+  identifier: serviceJe42lmpmq9
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

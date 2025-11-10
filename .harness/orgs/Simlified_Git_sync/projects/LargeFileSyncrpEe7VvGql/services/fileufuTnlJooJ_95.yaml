@@ -1,0 +1,8 @@
+service:
+  name: serviceCeWzMMEIN8
+  identifier: serviceCeWzMMEIN8
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

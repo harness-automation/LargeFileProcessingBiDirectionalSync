@@ -1,0 +1,8 @@
+service:
+  name: servicetplWcp8ur7
+  identifier: servicetplWcp8ur7
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

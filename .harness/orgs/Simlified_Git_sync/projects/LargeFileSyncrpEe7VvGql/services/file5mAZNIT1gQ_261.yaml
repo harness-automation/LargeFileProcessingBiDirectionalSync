@@ -1,0 +1,8 @@
+service:
+  name: serviceBCTc0n158k
+  identifier: serviceBCTc0n158k
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePlyHTXFS2p
+  identifier: servicePlyHTXFS2p
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

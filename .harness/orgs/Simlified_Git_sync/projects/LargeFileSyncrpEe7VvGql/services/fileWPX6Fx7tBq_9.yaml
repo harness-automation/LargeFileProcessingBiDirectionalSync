@@ -1,0 +1,8 @@
+service:
+  name: serviceD66mgrVKUz
+  identifier: serviceD66mgrVKUz
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

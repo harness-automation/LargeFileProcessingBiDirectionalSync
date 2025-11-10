@@ -1,0 +1,8 @@
+service:
+  name: serviceBlupQ1cCxi
+  identifier: serviceBlupQ1cCxi
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

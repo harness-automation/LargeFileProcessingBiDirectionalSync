@@ -1,0 +1,8 @@
+service:
+  name: serviceKNyhag2tf1
+  identifier: serviceKNyhag2tf1
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

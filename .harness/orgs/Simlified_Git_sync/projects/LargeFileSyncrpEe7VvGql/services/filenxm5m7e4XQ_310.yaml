@@ -1,0 +1,8 @@
+service:
+  name: serviceCMit25cS6p
+  identifier: serviceCMit25cS6p
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

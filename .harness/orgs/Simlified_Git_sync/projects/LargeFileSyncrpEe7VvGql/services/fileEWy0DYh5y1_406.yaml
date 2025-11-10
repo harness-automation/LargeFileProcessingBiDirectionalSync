@@ -1,0 +1,8 @@
+service:
+  name: serviceRyIP3XGj9N
+  identifier: serviceRyIP3XGj9N
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service77CTZS02Jw
+  identifier: service77CTZS02Jw
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

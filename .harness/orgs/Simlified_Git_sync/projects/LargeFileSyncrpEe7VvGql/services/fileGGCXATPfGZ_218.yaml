@@ -1,0 +1,8 @@
+service:
+  name: serviceEU4REakZWW
+  identifier: serviceEU4REakZWW
+  projectIdentifier: LargeFileSyncrpEe7VvGql
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
