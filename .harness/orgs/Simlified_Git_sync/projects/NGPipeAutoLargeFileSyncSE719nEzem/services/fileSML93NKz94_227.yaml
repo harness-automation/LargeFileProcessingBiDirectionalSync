@@ -1,0 +1,8 @@
+service:
+  name: servicewajuTYLAaQ
+  identifier: servicewajuTYLAaQ
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

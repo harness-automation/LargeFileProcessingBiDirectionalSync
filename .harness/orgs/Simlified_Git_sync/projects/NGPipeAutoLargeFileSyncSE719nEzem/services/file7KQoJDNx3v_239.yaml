@@ -1,0 +1,8 @@
+service:
+  name: serviceHoeqQ9eakb
+  identifier: serviceHoeqQ9eakb
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

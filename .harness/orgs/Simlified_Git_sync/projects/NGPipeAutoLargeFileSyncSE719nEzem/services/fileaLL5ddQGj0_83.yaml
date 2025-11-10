@@ -1,0 +1,8 @@
+service:
+  name: serviceBeYsMU04u2
+  identifier: serviceBeYsMU04u2
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

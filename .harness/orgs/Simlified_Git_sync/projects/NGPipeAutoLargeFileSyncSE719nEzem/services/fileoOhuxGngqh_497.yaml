@@ -1,0 +1,8 @@
+service:
+  name: serviceQA142ppKZA
+  identifier: serviceQA142ppKZA
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

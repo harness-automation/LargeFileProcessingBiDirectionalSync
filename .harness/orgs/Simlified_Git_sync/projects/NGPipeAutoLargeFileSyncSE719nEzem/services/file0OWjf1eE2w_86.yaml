@@ -1,0 +1,8 @@
+service:
+  name: serviceARPkr3enS8
+  identifier: serviceARPkr3enS8
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceKFeoBbc2sj
+  identifier: serviceKFeoBbc2sj
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

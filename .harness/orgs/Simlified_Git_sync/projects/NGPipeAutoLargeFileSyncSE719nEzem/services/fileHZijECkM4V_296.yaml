@@ -1,0 +1,8 @@
+service:
+  name: serviceTAHfp0bQpk
+  identifier: serviceTAHfp0bQpk
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

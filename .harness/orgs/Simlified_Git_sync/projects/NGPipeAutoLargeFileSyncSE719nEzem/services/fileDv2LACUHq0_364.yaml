@@ -1,0 +1,8 @@
+service:
+  name: serviceBL0yleLcAP
+  identifier: serviceBL0yleLcAP
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

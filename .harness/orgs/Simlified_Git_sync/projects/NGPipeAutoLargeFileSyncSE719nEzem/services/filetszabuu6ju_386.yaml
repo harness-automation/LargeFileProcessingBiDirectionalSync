@@ -1,0 +1,8 @@
+service:
+  name: serviceBEaLEJ0lzC
+  identifier: serviceBEaLEJ0lzC
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

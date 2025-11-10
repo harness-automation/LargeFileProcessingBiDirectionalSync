@@ -1,0 +1,8 @@
+service:
+  name: serviceLcPCM4FBkH
+  identifier: serviceLcPCM4FBkH
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

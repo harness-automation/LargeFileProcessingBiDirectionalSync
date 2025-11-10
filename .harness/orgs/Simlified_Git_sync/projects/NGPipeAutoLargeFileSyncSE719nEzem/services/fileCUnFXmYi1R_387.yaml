@@ -1,0 +1,8 @@
+service:
+  name: serviceuroJ25mUD6
+  identifier: serviceuroJ25mUD6
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

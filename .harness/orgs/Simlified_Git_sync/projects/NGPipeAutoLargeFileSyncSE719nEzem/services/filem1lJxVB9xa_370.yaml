@@ -1,0 +1,8 @@
+service:
+  name: servicept0aZDfc1o
+  identifier: servicept0aZDfc1o
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

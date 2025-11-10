@@ -1,0 +1,8 @@
+service:
+  name: servicemqLui4dDXo
+  identifier: servicemqLui4dDXo
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

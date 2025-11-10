@@ -1,0 +1,8 @@
+service:
+  name: servicekka4SSoIcs
+  identifier: servicekka4SSoIcs
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

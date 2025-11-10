@@ -1,0 +1,8 @@
+service:
+  name: servicemiFDp0PpTE
+  identifier: servicemiFDp0PpTE
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceflW40I48Fc
+  identifier: serviceflW40I48Fc
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceuDe7ex2ubc
+  identifier: serviceuDe7ex2ubc
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service2RburxgtPL
+  identifier: service2RburxgtPL
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

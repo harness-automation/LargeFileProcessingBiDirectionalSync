@@ -1,0 +1,8 @@
+service:
+  name: serviceVdc4XNMG60
+  identifier: serviceVdc4XNMG60
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

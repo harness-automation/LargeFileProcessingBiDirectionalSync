@@ -1,0 +1,8 @@
+service:
+  name: servicetf82WkLNMQ
+  identifier: servicetf82WkLNMQ
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

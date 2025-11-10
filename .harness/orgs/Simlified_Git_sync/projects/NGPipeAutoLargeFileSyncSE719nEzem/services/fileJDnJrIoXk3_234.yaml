@@ -1,0 +1,8 @@
+service:
+  name: servicej65mx1fm5o
+  identifier: servicej65mx1fm5o
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

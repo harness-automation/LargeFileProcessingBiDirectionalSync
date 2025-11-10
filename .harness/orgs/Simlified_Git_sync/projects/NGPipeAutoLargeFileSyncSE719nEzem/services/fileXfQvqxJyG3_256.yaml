@@ -1,0 +1,8 @@
+service:
+  name: serviceRUB9Ap7dBc
+  identifier: serviceRUB9Ap7dBc
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicefqi3dCkziZ
+  identifier: servicefqi3dCkziZ
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

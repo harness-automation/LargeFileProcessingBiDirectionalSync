@@ -1,0 +1,8 @@
+service:
+  name: serviceaHniA5Nofu
+  identifier: serviceaHniA5Nofu
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

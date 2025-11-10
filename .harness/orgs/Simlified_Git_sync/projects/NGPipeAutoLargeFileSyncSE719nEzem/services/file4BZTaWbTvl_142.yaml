@@ -1,0 +1,8 @@
+service:
+  name: servicelX37Jdr9XT
+  identifier: servicelX37Jdr9XT
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

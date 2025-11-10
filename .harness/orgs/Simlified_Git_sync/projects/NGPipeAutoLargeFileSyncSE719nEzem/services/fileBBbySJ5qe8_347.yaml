@@ -1,0 +1,8 @@
+service:
+  name: serviceNfxXSL7MFN
+  identifier: serviceNfxXSL7MFN
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

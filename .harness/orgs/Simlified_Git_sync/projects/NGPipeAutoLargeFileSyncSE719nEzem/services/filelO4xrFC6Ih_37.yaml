@@ -1,0 +1,8 @@
+service:
+  name: serviceavoRyRB1V1
+  identifier: serviceavoRyRB1V1
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

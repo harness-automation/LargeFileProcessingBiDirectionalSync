@@ -1,0 +1,8 @@
+service:
+  name: serviceHEARsYIB7P
+  identifier: serviceHEARsYIB7P
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

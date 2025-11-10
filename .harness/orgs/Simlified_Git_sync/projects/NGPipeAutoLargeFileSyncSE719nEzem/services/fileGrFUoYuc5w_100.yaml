@@ -1,0 +1,8 @@
+service:
+  name: servicebancJ3RZLm
+  identifier: servicebancJ3RZLm
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

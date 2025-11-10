@@ -1,0 +1,8 @@
+service:
+  name: serviceUzJORIW216
+  identifier: serviceUzJORIW216
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceZAT2XFpt4Q
+  identifier: serviceZAT2XFpt4Q
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

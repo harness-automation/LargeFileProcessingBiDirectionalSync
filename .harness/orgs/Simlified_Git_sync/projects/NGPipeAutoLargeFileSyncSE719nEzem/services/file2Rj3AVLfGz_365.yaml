@@ -1,0 +1,8 @@
+service:
+  name: serviceNczFxLMfA1
+  identifier: serviceNczFxLMfA1
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

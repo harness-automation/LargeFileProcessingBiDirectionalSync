@@ -1,0 +1,8 @@
+service:
+  name: service95Ni3roFra
+  identifier: service95Ni3roFra
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

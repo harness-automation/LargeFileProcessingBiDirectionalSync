@@ -1,0 +1,8 @@
+service:
+  name: servicechietGvgMR
+  identifier: servicechietGvgMR
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

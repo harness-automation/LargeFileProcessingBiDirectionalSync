@@ -1,0 +1,8 @@
+service:
+  name: serviceCSC1RnCQ71
+  identifier: serviceCSC1RnCQ71
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

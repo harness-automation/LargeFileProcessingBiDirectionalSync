@@ -1,0 +1,8 @@
+service:
+  name: servicemDK8VvzTCG
+  identifier: servicemDK8VvzTCG
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

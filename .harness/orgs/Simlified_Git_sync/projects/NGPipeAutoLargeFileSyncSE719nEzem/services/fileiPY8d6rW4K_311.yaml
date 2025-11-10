@@ -1,0 +1,8 @@
+service:
+  name: servicehB2sRVLJUa
+  identifier: servicehB2sRVLJUa
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

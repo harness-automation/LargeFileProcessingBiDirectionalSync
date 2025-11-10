@@ -1,0 +1,8 @@
+service:
+  name: service4iNRaSAtwe
+  identifier: service4iNRaSAtwe
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

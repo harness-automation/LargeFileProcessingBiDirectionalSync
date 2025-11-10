@@ -1,0 +1,8 @@
+service:
+  name: serviceqlcuI2m5md
+  identifier: serviceqlcuI2m5md
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service0ipIMdSmmz
+  identifier: service0ipIMdSmmz
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

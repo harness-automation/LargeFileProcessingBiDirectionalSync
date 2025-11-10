@@ -1,0 +1,8 @@
+service:
+  name: servicePTFU6Jv1DB
+  identifier: servicePTFU6Jv1DB
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

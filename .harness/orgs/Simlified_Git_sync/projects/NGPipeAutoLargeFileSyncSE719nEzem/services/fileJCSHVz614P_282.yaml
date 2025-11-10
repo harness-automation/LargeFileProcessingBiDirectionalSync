@@ -1,0 +1,8 @@
+service:
+  name: service1SuswMurt3
+  identifier: service1SuswMurt3
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

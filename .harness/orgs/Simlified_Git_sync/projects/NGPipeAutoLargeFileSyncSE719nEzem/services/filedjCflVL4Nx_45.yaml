@@ -1,0 +1,8 @@
+service:
+  name: serviceKh1aUIN4os
+  identifier: serviceKh1aUIN4os
+  projectIdentifier: NGPipeAutoLargeFileSyncSE719nEzem
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
