@@ -1,0 +1,8 @@
+service:
+  name: service2bcwTofGu5
+  identifier: service2bcwTofGu5
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

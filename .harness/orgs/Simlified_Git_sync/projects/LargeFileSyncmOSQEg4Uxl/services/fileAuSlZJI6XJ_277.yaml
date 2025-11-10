@@ -1,0 +1,8 @@
+service:
+  name: serviceXCMZx5CBob
+  identifier: serviceXCMZx5CBob
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

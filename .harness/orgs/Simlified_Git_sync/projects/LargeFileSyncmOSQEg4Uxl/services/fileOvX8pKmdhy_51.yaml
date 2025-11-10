@@ -1,0 +1,8 @@
+service:
+  name: service729AKPOn1x
+  identifier: service729AKPOn1x
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

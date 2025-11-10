@@ -1,0 +1,8 @@
+service:
+  name: servicenzdiK107Pz
+  identifier: servicenzdiK107Pz
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

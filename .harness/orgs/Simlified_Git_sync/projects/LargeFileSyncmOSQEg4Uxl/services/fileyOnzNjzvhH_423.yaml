@@ -1,0 +1,8 @@
+service:
+  name: servicencmhfn3RGA
+  identifier: servicencmhfn3RGA
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

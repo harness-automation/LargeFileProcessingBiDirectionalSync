@@ -1,0 +1,8 @@
+service:
+  name: servicePG0JRMyWVp
+  identifier: servicePG0JRMyWVp
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

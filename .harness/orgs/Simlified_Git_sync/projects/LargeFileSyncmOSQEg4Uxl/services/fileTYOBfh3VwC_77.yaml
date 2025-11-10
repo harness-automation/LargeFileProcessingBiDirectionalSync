@@ -1,0 +1,8 @@
+service:
+  name: servicedMk9jAPTlm
+  identifier: servicedMk9jAPTlm
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

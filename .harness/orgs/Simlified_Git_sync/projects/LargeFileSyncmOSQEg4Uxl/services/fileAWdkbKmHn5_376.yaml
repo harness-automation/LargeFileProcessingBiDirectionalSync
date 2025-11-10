@@ -1,0 +1,8 @@
+service:
+  name: serviceAP0JGLiX7A
+  identifier: serviceAP0JGLiX7A
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceSfCVDExUug
+  identifier: serviceSfCVDExUug
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

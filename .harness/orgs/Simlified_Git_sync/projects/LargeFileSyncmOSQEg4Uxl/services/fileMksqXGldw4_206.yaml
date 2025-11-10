@@ -1,0 +1,8 @@
+service:
+  name: service5vPXCumijc
+  identifier: service5vPXCumijc
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

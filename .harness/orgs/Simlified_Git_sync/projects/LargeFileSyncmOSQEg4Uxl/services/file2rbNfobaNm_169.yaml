@@ -1,0 +1,8 @@
+service:
+  name: serviceonGTd8m774
+  identifier: serviceonGTd8m774
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

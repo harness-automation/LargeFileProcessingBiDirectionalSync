@@ -1,0 +1,8 @@
+service:
+  name: serviceIZsu5YGuok
+  identifier: serviceIZsu5YGuok
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

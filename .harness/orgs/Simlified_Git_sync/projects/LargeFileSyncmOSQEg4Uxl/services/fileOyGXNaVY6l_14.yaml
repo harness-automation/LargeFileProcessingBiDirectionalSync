@@ -1,0 +1,8 @@
+service:
+  name: serviceOLOBi1MFts
+  identifier: serviceOLOBi1MFts
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

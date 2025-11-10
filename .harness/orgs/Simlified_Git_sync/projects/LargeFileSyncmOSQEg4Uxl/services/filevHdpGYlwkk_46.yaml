@@ -1,0 +1,8 @@
+service:
+  name: serviceMoxbrkmV4N
+  identifier: serviceMoxbrkmV4N
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

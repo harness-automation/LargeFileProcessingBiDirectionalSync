@@ -1,0 +1,8 @@
+service:
+  name: serviceEWkazGJ8TA
+  identifier: serviceEWkazGJ8TA
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

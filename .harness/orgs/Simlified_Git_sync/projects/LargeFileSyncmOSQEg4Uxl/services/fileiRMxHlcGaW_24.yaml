@@ -1,0 +1,8 @@
+service:
+  name: serviceQaIMsSO6al
+  identifier: serviceQaIMsSO6al
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

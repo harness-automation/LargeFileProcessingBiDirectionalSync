@@ -1,0 +1,8 @@
+service:
+  name: serviceK1Zog9130c
+  identifier: serviceK1Zog9130c
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

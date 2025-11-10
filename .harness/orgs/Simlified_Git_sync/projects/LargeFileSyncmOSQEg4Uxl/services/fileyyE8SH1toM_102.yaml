@@ -1,0 +1,8 @@
+service:
+  name: service30WsnKbvdn
+  identifier: service30WsnKbvdn
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

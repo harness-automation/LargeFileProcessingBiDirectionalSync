@@ -1,0 +1,8 @@
+service:
+  name: service2TPSv2RPsQ
+  identifier: service2TPSv2RPsQ
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

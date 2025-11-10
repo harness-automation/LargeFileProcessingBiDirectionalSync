@@ -1,0 +1,8 @@
+service:
+  name: service18cSFqsIS7
+  identifier: service18cSFqsIS7
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service21907TfaVk
+  identifier: service21907TfaVk
+  projectIdentifier: LargeFileSyncmOSQEg4Uxl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
