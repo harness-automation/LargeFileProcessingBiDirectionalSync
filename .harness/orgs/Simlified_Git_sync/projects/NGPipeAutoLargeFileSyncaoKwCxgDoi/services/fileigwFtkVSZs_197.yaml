@@ -1,0 +1,8 @@
+service:
+  name: service2Axcdnw19f
+  identifier: service2Axcdnw19f
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

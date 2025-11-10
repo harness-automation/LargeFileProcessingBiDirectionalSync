@@ -1,0 +1,8 @@
+service:
+  name: servicerR1OarCy3n
+  identifier: servicerR1OarCy3n
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

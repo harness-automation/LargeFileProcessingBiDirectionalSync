@@ -1,0 +1,8 @@
+service:
+  name: serviceUzeGTwiT2o
+  identifier: serviceUzeGTwiT2o
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

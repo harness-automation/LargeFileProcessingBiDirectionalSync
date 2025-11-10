@@ -1,0 +1,8 @@
+service:
+  name: serviceGUSoreCbf9
+  identifier: serviceGUSoreCbf9
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

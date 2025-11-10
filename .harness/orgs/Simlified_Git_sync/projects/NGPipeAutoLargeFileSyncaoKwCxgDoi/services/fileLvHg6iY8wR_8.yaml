@@ -1,0 +1,8 @@
+service:
+  name: serviceXvZDTCeLM6
+  identifier: serviceXvZDTCeLM6
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

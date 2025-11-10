@@ -1,0 +1,8 @@
+service:
+  name: service3AlbYNr2GN
+  identifier: service3AlbYNr2GN
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

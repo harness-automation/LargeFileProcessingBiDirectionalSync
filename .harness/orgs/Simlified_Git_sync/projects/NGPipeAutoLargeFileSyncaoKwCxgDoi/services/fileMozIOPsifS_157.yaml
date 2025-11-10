@@ -1,0 +1,8 @@
+service:
+  name: serviceSka2Di80bS
+  identifier: serviceSka2Di80bS
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

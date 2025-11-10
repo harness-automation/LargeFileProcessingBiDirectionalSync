@@ -1,0 +1,8 @@
+service:
+  name: serviceEAFAhm2K5j
+  identifier: serviceEAFAhm2K5j
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

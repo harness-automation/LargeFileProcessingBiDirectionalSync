@@ -1,0 +1,8 @@
+service:
+  name: servicehzi7ToicCI
+  identifier: servicehzi7ToicCI
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

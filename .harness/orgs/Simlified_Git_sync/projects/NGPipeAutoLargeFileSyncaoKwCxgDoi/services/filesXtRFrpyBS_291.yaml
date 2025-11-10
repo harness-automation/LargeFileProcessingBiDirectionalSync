@@ -1,0 +1,8 @@
+service:
+  name: serviceLmTznc14eB
+  identifier: serviceLmTznc14eB
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

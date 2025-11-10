@@ -1,0 +1,8 @@
+service:
+  name: serviceZFy7PE11MG
+  identifier: serviceZFy7PE11MG
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

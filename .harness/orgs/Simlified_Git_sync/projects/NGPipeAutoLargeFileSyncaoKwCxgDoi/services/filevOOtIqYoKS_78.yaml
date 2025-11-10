@@ -1,0 +1,8 @@
+service:
+  name: serviceXg4yPpPAsm
+  identifier: serviceXg4yPpPAsm
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

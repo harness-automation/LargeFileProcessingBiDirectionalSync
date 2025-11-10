@@ -1,0 +1,8 @@
+service:
+  name: serviceVEhS036p9B
+  identifier: serviceVEhS036p9B
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

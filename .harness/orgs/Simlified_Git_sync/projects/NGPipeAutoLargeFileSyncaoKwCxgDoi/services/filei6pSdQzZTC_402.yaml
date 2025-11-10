@@ -1,0 +1,8 @@
+service:
+  name: serviceMHR3Dr4614
+  identifier: serviceMHR3Dr4614
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

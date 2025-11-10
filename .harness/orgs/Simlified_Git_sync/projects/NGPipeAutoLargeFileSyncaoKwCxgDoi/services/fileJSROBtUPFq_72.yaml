@@ -1,0 +1,8 @@
+service:
+  name: serviceBa825a66sN
+  identifier: serviceBa825a66sN
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceaiPZt5IFUS
+  identifier: serviceaiPZt5IFUS
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

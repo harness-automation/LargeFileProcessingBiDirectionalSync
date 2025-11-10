@@ -1,0 +1,8 @@
+service:
+  name: serviceKnJro92cx8
+  identifier: serviceKnJro92cx8
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

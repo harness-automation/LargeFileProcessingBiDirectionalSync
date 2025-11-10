@@ -1,0 +1,8 @@
+service:
+  name: serviceCLO4gEqvv9
+  identifier: serviceCLO4gEqvv9
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

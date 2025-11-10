@@ -1,0 +1,8 @@
+service:
+  name: serviceWOWIyh62Pi
+  identifier: serviceWOWIyh62Pi
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

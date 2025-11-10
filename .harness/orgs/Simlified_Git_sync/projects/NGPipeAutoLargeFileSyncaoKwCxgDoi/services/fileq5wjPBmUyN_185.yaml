@@ -1,0 +1,8 @@
+service:
+  name: servicePyUG3QuoNU
+  identifier: servicePyUG3QuoNU
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

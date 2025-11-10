@@ -1,0 +1,8 @@
+service:
+  name: serviceCmfbSfJUiN
+  identifier: serviceCmfbSfJUiN
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceCgavpiNB3V
+  identifier: serviceCgavpiNB3V
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

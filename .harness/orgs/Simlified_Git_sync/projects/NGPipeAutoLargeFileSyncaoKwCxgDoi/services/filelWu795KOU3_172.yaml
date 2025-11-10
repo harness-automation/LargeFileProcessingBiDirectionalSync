@@ -1,0 +1,8 @@
+service:
+  name: serviceEKFu7VyreO
+  identifier: serviceEKFu7VyreO
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

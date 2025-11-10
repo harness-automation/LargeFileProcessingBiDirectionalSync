@@ -1,0 +1,8 @@
+service:
+  name: servicewIoSu2ACMx
+  identifier: servicewIoSu2ACMx
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePSWF7GOeP1
+  identifier: servicePSWF7GOeP1
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

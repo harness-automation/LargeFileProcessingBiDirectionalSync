@@ -1,0 +1,8 @@
+service:
+  name: serviceLJgk8carQl
+  identifier: serviceLJgk8carQl
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

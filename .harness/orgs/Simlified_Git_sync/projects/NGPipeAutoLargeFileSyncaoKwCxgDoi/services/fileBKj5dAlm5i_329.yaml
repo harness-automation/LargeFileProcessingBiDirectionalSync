@@ -1,0 +1,8 @@
+service:
+  name: serviceeaRckCBoSf
+  identifier: serviceeaRckCBoSf
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

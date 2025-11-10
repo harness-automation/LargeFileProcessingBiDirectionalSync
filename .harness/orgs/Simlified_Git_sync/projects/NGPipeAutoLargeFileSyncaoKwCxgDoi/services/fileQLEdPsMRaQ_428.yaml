@@ -1,0 +1,8 @@
+service:
+  name: serviceFVE4KlY64c
+  identifier: serviceFVE4KlY64c
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

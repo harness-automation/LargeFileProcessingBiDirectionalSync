@@ -1,0 +1,8 @@
+service:
+  name: servicewWFVA9xgV2
+  identifier: servicewWFVA9xgV2
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

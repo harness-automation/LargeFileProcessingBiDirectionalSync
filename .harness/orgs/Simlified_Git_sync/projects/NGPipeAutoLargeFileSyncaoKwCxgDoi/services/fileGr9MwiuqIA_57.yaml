@@ -1,0 +1,8 @@
+service:
+  name: serviceRRESN1lyAc
+  identifier: serviceRRESN1lyAc
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

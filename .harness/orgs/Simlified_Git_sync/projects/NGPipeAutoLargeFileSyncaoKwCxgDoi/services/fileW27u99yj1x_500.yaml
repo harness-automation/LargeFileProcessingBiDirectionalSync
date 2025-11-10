@@ -1,0 +1,8 @@
+service:
+  name: servicez1mhrb27pk
+  identifier: servicez1mhrb27pk
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

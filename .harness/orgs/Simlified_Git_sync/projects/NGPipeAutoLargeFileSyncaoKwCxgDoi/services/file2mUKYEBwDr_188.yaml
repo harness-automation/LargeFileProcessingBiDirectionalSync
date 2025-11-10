@@ -1,0 +1,8 @@
+service:
+  name: servicemx1OS90f5A
+  identifier: servicemx1OS90f5A
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

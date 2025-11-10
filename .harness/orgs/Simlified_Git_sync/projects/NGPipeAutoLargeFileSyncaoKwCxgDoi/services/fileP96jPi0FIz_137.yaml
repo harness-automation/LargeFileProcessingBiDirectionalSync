@@ -1,0 +1,8 @@
+service:
+  name: serviceOBnwSEjOv5
+  identifier: serviceOBnwSEjOv5
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceGdJc53vQdv
+  identifier: serviceGdJc53vQdv
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

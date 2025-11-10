@@ -1,0 +1,8 @@
+service:
+  name: servicesCnmKaw7tM
+  identifier: servicesCnmKaw7tM
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

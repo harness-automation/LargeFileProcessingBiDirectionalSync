@@ -1,0 +1,8 @@
+service:
+  name: servicevkpyFV78ik
+  identifier: servicevkpyFV78ik
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

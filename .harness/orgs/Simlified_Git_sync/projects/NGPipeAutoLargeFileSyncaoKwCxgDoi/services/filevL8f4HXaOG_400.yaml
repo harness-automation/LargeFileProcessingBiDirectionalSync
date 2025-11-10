@@ -1,0 +1,8 @@
+service:
+  name: serviceWlPP9t00jR
+  identifier: serviceWlPP9t00jR
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

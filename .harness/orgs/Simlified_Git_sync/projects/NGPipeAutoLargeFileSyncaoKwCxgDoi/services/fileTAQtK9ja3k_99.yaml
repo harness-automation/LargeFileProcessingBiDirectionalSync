@@ -1,0 +1,8 @@
+service:
+  name: serviceH4VhGPrELF
+  identifier: serviceH4VhGPrELF
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

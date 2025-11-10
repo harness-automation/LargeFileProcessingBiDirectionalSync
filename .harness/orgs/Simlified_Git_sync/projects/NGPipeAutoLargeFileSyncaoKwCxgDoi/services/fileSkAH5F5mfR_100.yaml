@@ -1,0 +1,8 @@
+service:
+  name: servicetV40mNr1wj
+  identifier: servicetV40mNr1wj
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

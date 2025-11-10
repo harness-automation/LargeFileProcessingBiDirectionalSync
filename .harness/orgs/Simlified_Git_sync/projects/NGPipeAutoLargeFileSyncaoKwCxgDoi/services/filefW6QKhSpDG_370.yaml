@@ -1,0 +1,8 @@
+service:
+  name: serviceSQYANfRux6
+  identifier: serviceSQYANfRux6
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

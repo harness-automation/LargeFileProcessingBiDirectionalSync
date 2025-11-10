@@ -1,0 +1,8 @@
+service:
+  name: serviceX3HfBFTire
+  identifier: serviceX3HfBFTire
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

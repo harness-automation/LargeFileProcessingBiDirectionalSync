@@ -1,0 +1,8 @@
+service:
+  name: service5TrpyUTV3p
+  identifier: service5TrpyUTV3p
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

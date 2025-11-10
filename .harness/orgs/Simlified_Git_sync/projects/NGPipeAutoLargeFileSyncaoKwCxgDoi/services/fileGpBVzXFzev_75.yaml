@@ -1,0 +1,8 @@
+service:
+  name: servicePral0Ale71
+  identifier: servicePral0Ale71
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

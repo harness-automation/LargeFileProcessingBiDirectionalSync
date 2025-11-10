@@ -1,0 +1,8 @@
+service:
+  name: servicexRE7lGpEAE
+  identifier: servicexRE7lGpEAE
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

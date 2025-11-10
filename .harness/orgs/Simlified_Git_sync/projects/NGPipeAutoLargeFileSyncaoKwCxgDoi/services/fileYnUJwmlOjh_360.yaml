@@ -1,0 +1,8 @@
+service:
+  name: serviceC2SKLoqIKT
+  identifier: serviceC2SKLoqIKT
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

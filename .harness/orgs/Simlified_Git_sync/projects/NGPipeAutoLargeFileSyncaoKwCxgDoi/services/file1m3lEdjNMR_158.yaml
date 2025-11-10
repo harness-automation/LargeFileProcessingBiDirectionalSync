@@ -1,0 +1,8 @@
+service:
+  name: serviceORP6XEAI53
+  identifier: serviceORP6XEAI53
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFgV48VdSay
+  identifier: serviceFgV48VdSay
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

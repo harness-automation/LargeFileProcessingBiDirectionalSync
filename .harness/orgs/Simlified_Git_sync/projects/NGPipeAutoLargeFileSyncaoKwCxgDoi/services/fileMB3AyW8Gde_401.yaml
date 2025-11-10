@@ -1,0 +1,8 @@
+service:
+  name: serviceRyPhyk7e5h
+  identifier: serviceRyPhyk7e5h
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

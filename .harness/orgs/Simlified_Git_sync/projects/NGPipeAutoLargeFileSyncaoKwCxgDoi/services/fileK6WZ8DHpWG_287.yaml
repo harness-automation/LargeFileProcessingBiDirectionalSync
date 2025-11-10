@@ -1,0 +1,8 @@
+service:
+  name: serviceIR25JANgeK
+  identifier: serviceIR25JANgeK
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

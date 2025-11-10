@@ -1,0 +1,8 @@
+service:
+  name: servicevqmfsvemdt
+  identifier: servicevqmfsvemdt
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

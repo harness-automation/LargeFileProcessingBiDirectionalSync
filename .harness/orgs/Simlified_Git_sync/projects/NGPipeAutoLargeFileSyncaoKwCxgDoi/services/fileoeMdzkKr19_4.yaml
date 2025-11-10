@@ -1,0 +1,8 @@
+service:
+  name: serviceA265yRlAvU
+  identifier: serviceA265yRlAvU
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

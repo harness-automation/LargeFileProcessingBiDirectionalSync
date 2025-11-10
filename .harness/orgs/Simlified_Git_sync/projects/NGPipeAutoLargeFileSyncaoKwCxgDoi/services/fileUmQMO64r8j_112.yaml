@@ -1,0 +1,8 @@
+service:
+  name: servicezC65WUyUlb
+  identifier: servicezC65WUyUlb
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

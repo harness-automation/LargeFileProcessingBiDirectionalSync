@@ -1,0 +1,8 @@
+service:
+  name: serviceUpJ5qizioD
+  identifier: serviceUpJ5qizioD
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service2RhPcSdB4b
+  identifier: service2RhPcSdB4b
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

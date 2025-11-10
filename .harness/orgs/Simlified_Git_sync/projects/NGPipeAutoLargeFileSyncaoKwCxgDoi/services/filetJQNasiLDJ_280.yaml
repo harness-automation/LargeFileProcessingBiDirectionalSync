@@ -1,0 +1,8 @@
+service:
+  name: servicemTW1uv05wL
+  identifier: servicemTW1uv05wL
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

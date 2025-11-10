@@ -1,0 +1,8 @@
+service:
+  name: serviceSohrCuY03f
+  identifier: serviceSohrCuY03f
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

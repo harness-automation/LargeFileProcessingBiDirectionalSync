@@ -1,0 +1,8 @@
+service:
+  name: serviceZ6dtlNNMCA
+  identifier: serviceZ6dtlNNMCA
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

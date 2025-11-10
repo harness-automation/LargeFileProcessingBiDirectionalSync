@@ -1,0 +1,8 @@
+service:
+  name: serviceHrm4GR3Rax
+  identifier: serviceHrm4GR3Rax
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

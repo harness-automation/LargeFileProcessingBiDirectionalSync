@@ -1,0 +1,8 @@
+service:
+  name: serviceL8gc4REW44
+  identifier: serviceL8gc4REW44
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

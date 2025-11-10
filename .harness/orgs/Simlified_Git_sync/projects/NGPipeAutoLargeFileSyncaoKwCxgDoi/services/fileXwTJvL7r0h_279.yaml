@@ -1,0 +1,8 @@
+service:
+  name: servicenAF9IZLMix
+  identifier: servicenAF9IZLMix
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

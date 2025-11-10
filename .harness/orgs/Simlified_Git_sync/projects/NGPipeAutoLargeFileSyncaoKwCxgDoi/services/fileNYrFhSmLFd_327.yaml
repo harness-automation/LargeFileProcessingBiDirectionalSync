@@ -1,0 +1,8 @@
+service:
+  name: service1KBS98uW40
+  identifier: service1KBS98uW40
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

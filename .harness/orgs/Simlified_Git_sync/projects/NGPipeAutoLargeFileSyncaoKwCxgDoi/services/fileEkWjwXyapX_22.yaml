@@ -1,0 +1,8 @@
+service:
+  name: serviceumHpoAE5Sf
+  identifier: serviceumHpoAE5Sf
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

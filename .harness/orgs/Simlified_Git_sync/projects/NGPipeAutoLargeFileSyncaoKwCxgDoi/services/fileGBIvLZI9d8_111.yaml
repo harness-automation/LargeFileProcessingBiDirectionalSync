@@ -1,0 +1,8 @@
+service:
+  name: serviceMnbPyJnpw2
+  identifier: serviceMnbPyJnpw2
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

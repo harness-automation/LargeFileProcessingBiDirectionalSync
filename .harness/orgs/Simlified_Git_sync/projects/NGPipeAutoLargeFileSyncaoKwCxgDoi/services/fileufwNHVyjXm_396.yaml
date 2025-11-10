@@ -1,0 +1,8 @@
+service:
+  name: servicetBelYYrejl
+  identifier: servicetBelYYrejl
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicecTnWAmsMUv
+  identifier: servicecTnWAmsMUv
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

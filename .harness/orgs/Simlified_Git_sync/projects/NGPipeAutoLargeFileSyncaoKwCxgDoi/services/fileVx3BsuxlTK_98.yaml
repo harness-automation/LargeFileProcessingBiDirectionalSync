@@ -1,0 +1,8 @@
+service:
+  name: serviceOPakMyld4H
+  identifier: serviceOPakMyld4H
+  projectIdentifier: NGPipeAutoLargeFileSyncaoKwCxgDoi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
