@@ -1,0 +1,8 @@
+service:
+  name: servicesPxL60aHKk
+  identifier: servicesPxL60aHKk
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

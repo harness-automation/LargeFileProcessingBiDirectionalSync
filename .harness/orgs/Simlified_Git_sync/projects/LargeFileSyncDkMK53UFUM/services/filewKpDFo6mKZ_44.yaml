@@ -1,0 +1,8 @@
+service:
+  name: serviceBT0MWFMoFx
+  identifier: serviceBT0MWFMoFx
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

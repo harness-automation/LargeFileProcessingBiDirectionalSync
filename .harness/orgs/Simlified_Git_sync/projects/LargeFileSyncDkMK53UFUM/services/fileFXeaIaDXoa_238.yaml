@@ -1,0 +1,8 @@
+service:
+  name: serviceUYT99OxZUB
+  identifier: serviceUYT99OxZUB
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

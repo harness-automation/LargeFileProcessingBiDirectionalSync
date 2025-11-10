@@ -1,0 +1,8 @@
+service:
+  name: service870BoTWkKt
+  identifier: service870BoTWkKt
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

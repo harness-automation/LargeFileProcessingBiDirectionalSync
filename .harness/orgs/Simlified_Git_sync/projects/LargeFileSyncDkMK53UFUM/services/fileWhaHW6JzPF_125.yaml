@@ -1,0 +1,8 @@
+service:
+  name: serviceLSfi1UPw2j
+  identifier: serviceLSfi1UPw2j
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

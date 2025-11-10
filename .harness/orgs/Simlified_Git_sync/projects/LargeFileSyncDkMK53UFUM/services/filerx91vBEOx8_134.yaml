@@ -1,0 +1,8 @@
+service:
+  name: serviceJOrR5rdmDc
+  identifier: serviceJOrR5rdmDc
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

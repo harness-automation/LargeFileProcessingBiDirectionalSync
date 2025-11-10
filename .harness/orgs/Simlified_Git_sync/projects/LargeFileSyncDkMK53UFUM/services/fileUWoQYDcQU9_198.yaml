@@ -1,0 +1,8 @@
+service:
+  name: servicemf7iUalzEK
+  identifier: servicemf7iUalzEK
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

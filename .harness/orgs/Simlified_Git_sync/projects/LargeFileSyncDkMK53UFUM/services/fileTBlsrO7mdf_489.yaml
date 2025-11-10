@@ -1,0 +1,8 @@
+service:
+  name: serviceAVEaZ67KFk
+  identifier: serviceAVEaZ67KFk
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

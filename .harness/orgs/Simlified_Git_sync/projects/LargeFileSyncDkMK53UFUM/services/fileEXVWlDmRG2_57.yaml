@@ -1,0 +1,8 @@
+service:
+  name: servicedRoMP05Mwf
+  identifier: servicedRoMP05Mwf
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

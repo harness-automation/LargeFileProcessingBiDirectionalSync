@@ -1,0 +1,8 @@
+service:
+  name: servicesj1TbRmVTS
+  identifier: servicesj1TbRmVTS
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

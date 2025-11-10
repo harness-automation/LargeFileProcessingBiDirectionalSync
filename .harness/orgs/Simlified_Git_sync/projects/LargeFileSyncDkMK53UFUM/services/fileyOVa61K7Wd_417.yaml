@@ -1,0 +1,8 @@
+service:
+  name: serviceHTCFwr7sWZ
+  identifier: serviceHTCFwr7sWZ
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

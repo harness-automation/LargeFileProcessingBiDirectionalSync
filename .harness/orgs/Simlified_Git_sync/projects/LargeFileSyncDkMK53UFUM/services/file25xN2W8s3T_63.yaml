@@ -1,0 +1,8 @@
+service:
+  name: serviceOv219DJdZW
+  identifier: serviceOv219DJdZW
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

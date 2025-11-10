@@ -1,0 +1,8 @@
+service:
+  name: servicegIMELiee9L
+  identifier: servicegIMELiee9L
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

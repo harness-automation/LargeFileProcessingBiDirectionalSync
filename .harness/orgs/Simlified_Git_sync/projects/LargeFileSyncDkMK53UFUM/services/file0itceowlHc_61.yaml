@@ -1,0 +1,8 @@
+service:
+  name: serviceHAuNo2HI8i
+  identifier: serviceHAuNo2HI8i
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

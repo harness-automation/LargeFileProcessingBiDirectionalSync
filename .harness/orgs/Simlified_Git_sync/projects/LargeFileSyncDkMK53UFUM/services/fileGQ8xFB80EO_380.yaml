@@ -1,0 +1,8 @@
+service:
+  name: serviceCpMSZjuFts
+  identifier: serviceCpMSZjuFts
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

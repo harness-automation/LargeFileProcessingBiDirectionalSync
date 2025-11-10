@@ -1,0 +1,8 @@
+service:
+  name: serviceTFHncme1mi
+  identifier: serviceTFHncme1mi
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

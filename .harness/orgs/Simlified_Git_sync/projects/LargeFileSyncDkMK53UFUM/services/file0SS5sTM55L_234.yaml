@@ -1,0 +1,8 @@
+service:
+  name: servicePy5LLWuSSt
+  identifier: servicePy5LLWuSSt
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

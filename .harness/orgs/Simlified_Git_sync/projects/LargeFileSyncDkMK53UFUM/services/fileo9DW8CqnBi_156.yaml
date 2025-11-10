@@ -1,0 +1,8 @@
+service:
+  name: service580j3sJdrO
+  identifier: service580j3sJdrO
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicereJx26mAcE
+  identifier: servicereJx26mAcE
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicekBO1PRFrAg
+  identifier: servicekBO1PRFrAg
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

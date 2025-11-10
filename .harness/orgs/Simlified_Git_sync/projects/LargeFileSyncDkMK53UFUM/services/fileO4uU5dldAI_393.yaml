@@ -1,0 +1,8 @@
+service:
+  name: serviceOWk2mnX30a
+  identifier: serviceOWk2mnX30a
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceDmSQGI7VRn
+  identifier: serviceDmSQGI7VRn
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

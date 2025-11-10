@@ -1,0 +1,8 @@
+service:
+  name: servicenvhx8Mdurh
+  identifier: servicenvhx8Mdurh
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

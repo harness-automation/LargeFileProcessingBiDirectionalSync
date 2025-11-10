@@ -1,0 +1,8 @@
+service:
+  name: servicen05jWnKhz0
+  identifier: servicen05jWnKhz0
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

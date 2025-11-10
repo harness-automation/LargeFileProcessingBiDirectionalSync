@@ -1,0 +1,8 @@
+service:
+  name: serviceROzpYl2T1J
+  identifier: serviceROzpYl2T1J
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

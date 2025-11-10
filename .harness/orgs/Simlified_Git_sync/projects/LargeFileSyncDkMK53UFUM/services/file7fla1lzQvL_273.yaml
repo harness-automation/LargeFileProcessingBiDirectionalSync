@@ -1,0 +1,8 @@
+service:
+  name: service210183v3sP
+  identifier: service210183v3sP
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

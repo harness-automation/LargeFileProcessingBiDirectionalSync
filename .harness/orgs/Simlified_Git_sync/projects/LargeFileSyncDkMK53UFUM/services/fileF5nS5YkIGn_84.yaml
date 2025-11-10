@@ -1,0 +1,8 @@
+service:
+  name: servicesYX7yoBtZp
+  identifier: servicesYX7yoBtZp
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

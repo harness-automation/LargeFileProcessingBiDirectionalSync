@@ -1,0 +1,8 @@
+service:
+  name: serviceHboLl3H9Ui
+  identifier: serviceHboLl3H9Ui
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

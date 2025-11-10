@@ -1,0 +1,8 @@
+service:
+  name: service1VugLv1aBa
+  identifier: service1VugLv1aBa
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

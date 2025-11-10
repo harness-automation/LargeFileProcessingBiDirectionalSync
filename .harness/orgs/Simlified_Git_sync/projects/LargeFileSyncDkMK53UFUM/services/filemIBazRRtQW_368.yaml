@@ -1,0 +1,8 @@
+service:
+  name: serviceNlWHqMrS32
+  identifier: serviceNlWHqMrS32
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

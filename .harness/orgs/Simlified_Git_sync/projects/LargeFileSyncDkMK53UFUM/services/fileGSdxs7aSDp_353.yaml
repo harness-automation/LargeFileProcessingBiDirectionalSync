@@ -1,0 +1,8 @@
+service:
+  name: service7OcvOX1prF
+  identifier: service7OcvOX1prF
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

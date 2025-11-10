@@ -1,0 +1,8 @@
+service:
+  name: serviceTJRMWI4nI2
+  identifier: serviceTJRMWI4nI2
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

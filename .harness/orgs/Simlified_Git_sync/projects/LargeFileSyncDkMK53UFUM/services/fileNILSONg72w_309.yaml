@@ -1,0 +1,8 @@
+service:
+  name: serviceT4XVWFexHW
+  identifier: serviceT4XVWFexHW
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceNTO1ViAqG2
+  identifier: serviceNTO1ViAqG2
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

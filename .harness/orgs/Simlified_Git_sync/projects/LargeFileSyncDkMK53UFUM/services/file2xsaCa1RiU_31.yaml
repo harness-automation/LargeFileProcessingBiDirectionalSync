@@ -1,0 +1,8 @@
+service:
+  name: serviceIzmASHhQ51
+  identifier: serviceIzmASHhQ51
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

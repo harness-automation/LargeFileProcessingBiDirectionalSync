@@ -1,0 +1,8 @@
+service:
+  name: serviceJ0G57UviLr
+  identifier: serviceJ0G57UviLr
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

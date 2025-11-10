@@ -1,0 +1,8 @@
+service:
+  name: servicepDKPFu0QDG
+  identifier: servicepDKPFu0QDG
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

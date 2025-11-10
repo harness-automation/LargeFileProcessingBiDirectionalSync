@@ -1,0 +1,8 @@
+service:
+  name: service3lyCdNVtt1
+  identifier: service3lyCdNVtt1
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

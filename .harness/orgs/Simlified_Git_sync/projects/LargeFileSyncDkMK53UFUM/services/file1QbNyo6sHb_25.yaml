@@ -1,0 +1,8 @@
+service:
+  name: serviceTCmV1HanxF
+  identifier: serviceTCmV1HanxF
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

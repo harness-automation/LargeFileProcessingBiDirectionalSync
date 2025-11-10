@@ -1,0 +1,8 @@
+service:
+  name: servicefkCQYXL18x
+  identifier: servicefkCQYXL18x
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

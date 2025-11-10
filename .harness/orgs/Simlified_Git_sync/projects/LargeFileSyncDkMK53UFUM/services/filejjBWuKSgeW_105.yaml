@@ -1,0 +1,8 @@
+service:
+  name: service33Vv6N6pKs
+  identifier: service33Vv6N6pKs
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

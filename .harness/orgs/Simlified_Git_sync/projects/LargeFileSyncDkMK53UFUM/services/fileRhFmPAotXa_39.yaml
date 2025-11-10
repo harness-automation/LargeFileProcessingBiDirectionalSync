@@ -1,0 +1,8 @@
+service:
+  name: serviceD58w14Rvnr
+  identifier: serviceD58w14Rvnr
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceKewW1QiHSz
+  identifier: serviceKewW1QiHSz
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

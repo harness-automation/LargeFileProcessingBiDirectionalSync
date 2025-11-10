@@ -1,0 +1,8 @@
+service:
+  name: serviceyMu2dEtkTO
+  identifier: serviceyMu2dEtkTO
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

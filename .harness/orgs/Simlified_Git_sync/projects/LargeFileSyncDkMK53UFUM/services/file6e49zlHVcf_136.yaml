@@ -1,0 +1,8 @@
+service:
+  name: serviceK4bChSX2cv
+  identifier: serviceK4bChSX2cv
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAEPpw1NM6l
+  identifier: serviceAEPpw1NM6l
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceI4KOM62iqB
+  identifier: serviceI4KOM62iqB
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

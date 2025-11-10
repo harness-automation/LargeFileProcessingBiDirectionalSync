@@ -1,0 +1,8 @@
+service:
+  name: serviceh6SUQPSInt
+  identifier: serviceh6SUQPSInt
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

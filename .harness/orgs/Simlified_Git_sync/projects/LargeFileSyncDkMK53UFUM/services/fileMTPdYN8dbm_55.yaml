@@ -1,0 +1,8 @@
+service:
+  name: serviceuWRO4A1T50
+  identifier: serviceuWRO4A1T50
+  projectIdentifier: LargeFileSyncDkMK53UFUM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
