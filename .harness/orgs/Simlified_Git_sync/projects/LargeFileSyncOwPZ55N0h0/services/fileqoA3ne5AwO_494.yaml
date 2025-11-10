@@ -1,0 +1,8 @@
+service:
+  name: service2f0e7g2WG9
+  identifier: service2f0e7g2WG9
+  projectIdentifier: LargeFileSyncOwPZ55N0h0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

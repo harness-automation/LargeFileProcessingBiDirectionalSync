@@ -1,0 +1,8 @@
+service:
+  name: serviceGDsPB56Fi6
+  identifier: serviceGDsPB56Fi6
+  projectIdentifier: LargeFileSyncOwPZ55N0h0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

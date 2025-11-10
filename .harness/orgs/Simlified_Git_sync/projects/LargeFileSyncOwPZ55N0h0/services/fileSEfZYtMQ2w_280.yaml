@@ -1,0 +1,8 @@
+service:
+  name: serviceBt27T5PeMB
+  identifier: serviceBt27T5PeMB
+  projectIdentifier: LargeFileSyncOwPZ55N0h0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

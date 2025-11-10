@@ -1,0 +1,8 @@
+service:
+  name: servicekG4mLuCsyE
+  identifier: servicekG4mLuCsyE
+  projectIdentifier: LargeFileSyncOwPZ55N0h0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceCP7m0AMG9T
+  identifier: serviceCP7m0AMG9T
+  projectIdentifier: LargeFileSyncOwPZ55N0h0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

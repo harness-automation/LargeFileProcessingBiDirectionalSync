@@ -1,0 +1,8 @@
+service:
+  name: serviceMsgeE3nEFi
+  identifier: serviceMsgeE3nEFi
+  projectIdentifier: LargeFileSyncOwPZ55N0h0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

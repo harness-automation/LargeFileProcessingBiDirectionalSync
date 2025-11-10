@@ -1,0 +1,8 @@
+service:
+  name: serviceA4gyTTM64a
+  identifier: serviceA4gyTTM64a
+  projectIdentifier: LargeFileSyncOwPZ55N0h0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

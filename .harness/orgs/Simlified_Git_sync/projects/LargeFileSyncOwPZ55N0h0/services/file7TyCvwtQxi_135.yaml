@@ -1,0 +1,8 @@
+service:
+  name: servicePI82TWtx1s
+  identifier: servicePI82TWtx1s
+  projectIdentifier: LargeFileSyncOwPZ55N0h0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
