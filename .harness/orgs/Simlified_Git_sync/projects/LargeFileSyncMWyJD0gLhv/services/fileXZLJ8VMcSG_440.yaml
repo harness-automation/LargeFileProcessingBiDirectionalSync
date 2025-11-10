@@ -1,0 +1,8 @@
+service:
+  name: servicetdwcbd301r
+  identifier: servicetdwcbd301r
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

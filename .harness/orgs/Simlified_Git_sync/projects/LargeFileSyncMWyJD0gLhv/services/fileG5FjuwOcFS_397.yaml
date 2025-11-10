@@ -1,0 +1,8 @@
+service:
+  name: serviceCbdOByo8iv
+  identifier: serviceCbdOByo8iv
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

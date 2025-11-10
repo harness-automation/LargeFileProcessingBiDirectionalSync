@@ -1,0 +1,8 @@
+service:
+  name: serviceosqpoP1G2D
+  identifier: serviceosqpoP1G2D
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicexGPAcoMcMp
+  identifier: servicexGPAcoMcMp
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

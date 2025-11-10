@@ -1,0 +1,8 @@
+service:
+  name: serviceFY90JPNsHl
+  identifier: serviceFY90JPNsHl
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

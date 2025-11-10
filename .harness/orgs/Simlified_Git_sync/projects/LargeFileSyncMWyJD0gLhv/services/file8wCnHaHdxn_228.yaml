@@ -1,0 +1,8 @@
+service:
+  name: serviceL963CnUdPA
+  identifier: serviceL963CnUdPA
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

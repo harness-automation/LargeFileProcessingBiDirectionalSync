@@ -1,0 +1,8 @@
+service:
+  name: serviceb349NHTlF1
+  identifier: serviceb349NHTlF1
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

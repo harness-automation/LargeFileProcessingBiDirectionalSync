@@ -1,0 +1,8 @@
+service:
+  name: servicedha7dxUsec
+  identifier: servicedha7dxUsec
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

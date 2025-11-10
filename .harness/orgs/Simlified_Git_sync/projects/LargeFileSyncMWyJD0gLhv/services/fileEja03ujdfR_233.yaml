@@ -1,0 +1,8 @@
+service:
+  name: serviceRewlNb7YXU
+  identifier: serviceRewlNb7YXU
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

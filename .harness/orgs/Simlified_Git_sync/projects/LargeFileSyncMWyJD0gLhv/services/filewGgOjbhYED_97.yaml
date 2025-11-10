@@ -1,0 +1,8 @@
+service:
+  name: serviceKtsykin6M4
+  identifier: serviceKtsykin6M4
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceRVVCB1xams
+  identifier: serviceRVVCB1xams
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

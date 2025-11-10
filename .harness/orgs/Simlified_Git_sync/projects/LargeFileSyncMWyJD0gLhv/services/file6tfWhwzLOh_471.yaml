@@ -1,0 +1,8 @@
+service:
+  name: serviceIp0eTvJsyn
+  identifier: serviceIp0eTvJsyn
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

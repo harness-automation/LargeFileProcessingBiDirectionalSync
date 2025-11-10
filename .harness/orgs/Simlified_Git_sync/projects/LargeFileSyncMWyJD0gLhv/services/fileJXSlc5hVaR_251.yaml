@@ -1,0 +1,8 @@
+service:
+  name: serviceluXtr12g51
+  identifier: serviceluXtr12g51
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicedBSeBMrDt2
+  identifier: servicedBSeBMrDt2
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicer2mYSckbTl
+  identifier: servicer2mYSckbTl
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

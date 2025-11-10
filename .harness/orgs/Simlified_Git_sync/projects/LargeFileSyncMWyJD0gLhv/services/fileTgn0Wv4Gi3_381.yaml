@@ -1,0 +1,8 @@
+service:
+  name: serviceAZaEAl96JT
+  identifier: serviceAZaEAl96JT
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

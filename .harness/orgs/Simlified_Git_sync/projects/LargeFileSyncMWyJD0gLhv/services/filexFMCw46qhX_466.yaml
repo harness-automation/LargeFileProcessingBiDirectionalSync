@@ -1,0 +1,8 @@
+service:
+  name: servicermTBeucLxq
+  identifier: servicermTBeucLxq
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

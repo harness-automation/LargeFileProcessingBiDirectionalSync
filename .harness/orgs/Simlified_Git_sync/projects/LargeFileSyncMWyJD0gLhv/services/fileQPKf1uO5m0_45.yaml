@@ -1,0 +1,8 @@
+service:
+  name: service4HDdawy6pv
+  identifier: service4HDdawy6pv
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

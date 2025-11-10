@@ -1,0 +1,8 @@
+service:
+  name: serviceYE3155LME4
+  identifier: serviceYE3155LME4
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

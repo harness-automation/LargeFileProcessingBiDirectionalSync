@@ -1,0 +1,8 @@
+service:
+  name: serviceBZi7VYsWpN
+  identifier: serviceBZi7VYsWpN
+  projectIdentifier: LargeFileSyncMWyJD0gLhv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
