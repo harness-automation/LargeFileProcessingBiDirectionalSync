@@ -1,0 +1,8 @@
+service:
+  name: serviceTDMAwy2X82
+  identifier: serviceTDMAwy2X82
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

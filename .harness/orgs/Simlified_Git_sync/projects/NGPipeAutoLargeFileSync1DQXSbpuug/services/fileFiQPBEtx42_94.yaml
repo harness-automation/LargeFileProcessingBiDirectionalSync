@@ -1,0 +1,8 @@
+service:
+  name: serviceGc725oGbdK
+  identifier: serviceGc725oGbdK
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

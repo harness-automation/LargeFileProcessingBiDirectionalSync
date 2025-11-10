@@ -1,0 +1,8 @@
+service:
+  name: servicebHzdCms2x5
+  identifier: servicebHzdCms2x5
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

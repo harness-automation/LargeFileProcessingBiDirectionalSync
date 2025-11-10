@@ -1,0 +1,8 @@
+service:
+  name: servicey98RyATCt3
+  identifier: servicey98RyATCt3
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

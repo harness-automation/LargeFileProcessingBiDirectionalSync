@@ -1,0 +1,8 @@
+service:
+  name: serviceNTJIpb5CP5
+  identifier: serviceNTJIpb5CP5
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

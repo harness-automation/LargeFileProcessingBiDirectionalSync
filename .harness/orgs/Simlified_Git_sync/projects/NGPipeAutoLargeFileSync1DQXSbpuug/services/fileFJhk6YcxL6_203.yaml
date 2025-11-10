@@ -1,0 +1,8 @@
+service:
+  name: serviceEXMH5Pyivo
+  identifier: serviceEXMH5Pyivo
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicepv49KKl0nw
+  identifier: servicepv49KKl0nw
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

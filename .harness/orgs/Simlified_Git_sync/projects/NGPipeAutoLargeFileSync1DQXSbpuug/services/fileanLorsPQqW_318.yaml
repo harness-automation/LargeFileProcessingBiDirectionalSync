@@ -1,0 +1,8 @@
+service:
+  name: serviceRMb5PRRddl
+  identifier: serviceRMb5PRRddl
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

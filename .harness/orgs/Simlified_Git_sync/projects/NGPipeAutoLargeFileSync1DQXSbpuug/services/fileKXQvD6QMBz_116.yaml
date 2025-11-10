@@ -1,0 +1,8 @@
+service:
+  name: serviceFBR32ng4VA
+  identifier: serviceFBR32ng4VA
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

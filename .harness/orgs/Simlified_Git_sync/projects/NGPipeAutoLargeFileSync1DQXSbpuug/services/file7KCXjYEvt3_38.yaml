@@ -1,0 +1,8 @@
+service:
+  name: serviceKDMZxpqpWa
+  identifier: serviceKDMZxpqpWa
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

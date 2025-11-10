@@ -1,0 +1,8 @@
+service:
+  name: servicelc82dPMmfs
+  identifier: servicelc82dPMmfs
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFENCjCPL4j
+  identifier: serviceFENCjCPL4j
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceweidAhA6MG
+  identifier: serviceweidAhA6MG
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

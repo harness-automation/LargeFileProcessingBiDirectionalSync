@@ -1,0 +1,8 @@
+service:
+  name: servicehuSIMsf90f
+  identifier: servicehuSIMsf90f
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceDLxv1Fory0
+  identifier: serviceDLxv1Fory0
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

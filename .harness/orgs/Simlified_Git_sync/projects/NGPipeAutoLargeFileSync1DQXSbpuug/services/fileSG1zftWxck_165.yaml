@@ -1,0 +1,8 @@
+service:
+  name: serviceWua7AR93TG
+  identifier: serviceWua7AR93TG
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

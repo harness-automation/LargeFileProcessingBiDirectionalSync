@@ -1,0 +1,8 @@
+service:
+  name: serviceT85cTThVov
+  identifier: serviceT85cTThVov
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceIBbUn6RPr9
+  identifier: serviceIBbUn6RPr9
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

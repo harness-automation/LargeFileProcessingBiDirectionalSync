@@ -1,0 +1,8 @@
+service:
+  name: servicexDarr2sqye
+  identifier: servicexDarr2sqye
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

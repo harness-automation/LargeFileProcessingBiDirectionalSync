@@ -1,0 +1,8 @@
+service:
+  name: serviceLYBTTJiuci
+  identifier: serviceLYBTTJiuci
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceEr123YsR4x
+  identifier: serviceEr123YsR4x
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

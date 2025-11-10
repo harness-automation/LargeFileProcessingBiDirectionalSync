@@ -1,0 +1,8 @@
+service:
+  name: servicefcVt11g8AC
+  identifier: servicefcVt11g8AC
+  projectIdentifier: NGPipeAutoLargeFileSync1DQXSbpuug
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
