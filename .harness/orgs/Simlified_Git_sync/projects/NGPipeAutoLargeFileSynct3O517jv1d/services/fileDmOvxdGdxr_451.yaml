@@ -1,0 +1,8 @@
+service:
+  name: serviceVTH5EFgAR4
+  identifier: serviceVTH5EFgAR4
+  projectIdentifier: NGPipeAutoLargeFileSynct3O517jv1d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
