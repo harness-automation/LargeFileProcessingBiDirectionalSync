@@ -1,0 +1,8 @@
+service:
+  name: serviceTgyWabwc2m
+  identifier: serviceTgyWabwc2m
+  projectIdentifier: NGPipeAutoLargeFileSyncjRhJyEIZwN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

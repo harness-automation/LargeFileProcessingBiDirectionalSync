@@ -1,0 +1,8 @@
+service:
+  name: service28REFhaiUs
+  identifier: service28REFhaiUs
+  projectIdentifier: NGPipeAutoLargeFileSyncjRhJyEIZwN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

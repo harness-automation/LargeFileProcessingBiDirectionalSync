@@ -1,0 +1,8 @@
+service:
+  name: servicemAutwdb9dh
+  identifier: servicemAutwdb9dh
+  projectIdentifier: NGPipeAutoLargeFileSyncjRhJyEIZwN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

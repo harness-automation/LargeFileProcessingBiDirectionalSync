@@ -1,0 +1,8 @@
+service:
+  name: serviceVOR1FbJHBM
+  identifier: serviceVOR1FbJHBM
+  projectIdentifier: NGPipeAutoLargeFileSyncjRhJyEIZwN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

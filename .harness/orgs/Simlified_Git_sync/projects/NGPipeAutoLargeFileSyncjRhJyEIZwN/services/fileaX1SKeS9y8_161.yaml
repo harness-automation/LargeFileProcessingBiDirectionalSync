@@ -1,0 +1,8 @@
+service:
+  name: servicebimTI15iD8
+  identifier: servicebimTI15iD8
+  projectIdentifier: NGPipeAutoLargeFileSyncjRhJyEIZwN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

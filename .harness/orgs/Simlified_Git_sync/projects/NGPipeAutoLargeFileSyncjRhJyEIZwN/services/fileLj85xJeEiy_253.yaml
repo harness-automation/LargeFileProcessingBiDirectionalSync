@@ -1,0 +1,8 @@
+service:
+  name: serviceE73Wkfv2fn
+  identifier: serviceE73Wkfv2fn
+  projectIdentifier: NGPipeAutoLargeFileSyncjRhJyEIZwN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

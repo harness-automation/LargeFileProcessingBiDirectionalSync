@@ -1,0 +1,8 @@
+service:
+  name: servicenicD8A9YUR
+  identifier: servicenicD8A9YUR
+  projectIdentifier: NGPipeAutoLargeFileSyncjRhJyEIZwN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

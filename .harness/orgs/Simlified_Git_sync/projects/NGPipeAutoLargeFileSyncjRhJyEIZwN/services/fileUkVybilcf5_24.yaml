@@ -1,0 +1,8 @@
+service:
+  name: service0Ga62nbENv
+  identifier: service0Ga62nbENv
+  projectIdentifier: NGPipeAutoLargeFileSyncjRhJyEIZwN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

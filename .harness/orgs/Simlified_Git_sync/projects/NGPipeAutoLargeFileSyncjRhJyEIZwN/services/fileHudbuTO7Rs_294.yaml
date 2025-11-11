@@ -1,0 +1,8 @@
+service:
+  name: servicea2EvAMIe06
+  identifier: servicea2EvAMIe06
+  projectIdentifier: NGPipeAutoLargeFileSyncjRhJyEIZwN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
