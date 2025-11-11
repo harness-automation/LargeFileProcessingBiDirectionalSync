@@ -1,0 +1,8 @@
+service:
+  name: serviceCtw1PzAKET
+  identifier: serviceCtw1PzAKET
+  projectIdentifier: NGPipeAutoLargeFileSyncfj9fMBCUsz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

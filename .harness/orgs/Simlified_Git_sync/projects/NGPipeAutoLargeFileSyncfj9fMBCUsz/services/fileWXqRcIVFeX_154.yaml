@@ -1,0 +1,8 @@
+service:
+  name: serviceg4wArdJevx
+  identifier: serviceg4wArdJevx
+  projectIdentifier: NGPipeAutoLargeFileSyncfj9fMBCUsz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

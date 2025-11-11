@@ -1,0 +1,8 @@
+service:
+  name: serviceg532sosyet
+  identifier: serviceg532sosyet
+  projectIdentifier: NGPipeAutoLargeFileSyncfj9fMBCUsz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

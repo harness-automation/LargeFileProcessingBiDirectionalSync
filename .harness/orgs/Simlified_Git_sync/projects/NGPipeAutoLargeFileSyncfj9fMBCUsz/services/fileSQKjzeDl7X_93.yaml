@@ -1,0 +1,8 @@
+service:
+  name: servicetnyR3N5X56
+  identifier: servicetnyR3N5X56
+  projectIdentifier: NGPipeAutoLargeFileSyncfj9fMBCUsz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

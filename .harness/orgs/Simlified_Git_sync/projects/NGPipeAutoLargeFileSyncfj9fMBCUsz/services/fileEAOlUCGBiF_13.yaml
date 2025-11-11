@@ -1,0 +1,8 @@
+service:
+  name: serviceDM24eygDYu
+  identifier: serviceDM24eygDYu
+  projectIdentifier: NGPipeAutoLargeFileSyncfj9fMBCUsz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

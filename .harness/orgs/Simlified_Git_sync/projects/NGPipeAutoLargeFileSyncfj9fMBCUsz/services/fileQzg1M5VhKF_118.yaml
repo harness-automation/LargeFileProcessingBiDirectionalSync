@@ -1,0 +1,8 @@
+service:
+  name: serviceGLARA2amXy
+  identifier: serviceGLARA2amXy
+  projectIdentifier: NGPipeAutoLargeFileSyncfj9fMBCUsz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicesmrbLa1C8y
+  identifier: servicesmrbLa1C8y
+  projectIdentifier: NGPipeAutoLargeFileSyncfj9fMBCUsz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

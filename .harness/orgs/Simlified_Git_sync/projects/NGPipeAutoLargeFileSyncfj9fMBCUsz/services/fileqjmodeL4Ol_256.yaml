@@ -1,0 +1,8 @@
+service:
+  name: servicerc798MvLEJ
+  identifier: servicerc798MvLEJ
+  projectIdentifier: NGPipeAutoLargeFileSyncfj9fMBCUsz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

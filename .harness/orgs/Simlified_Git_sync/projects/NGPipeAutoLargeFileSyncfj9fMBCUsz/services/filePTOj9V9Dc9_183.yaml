@@ -1,0 +1,8 @@
+service:
+  name: service4titaFH4gC
+  identifier: service4titaFH4gC
+  projectIdentifier: NGPipeAutoLargeFileSyncfj9fMBCUsz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
