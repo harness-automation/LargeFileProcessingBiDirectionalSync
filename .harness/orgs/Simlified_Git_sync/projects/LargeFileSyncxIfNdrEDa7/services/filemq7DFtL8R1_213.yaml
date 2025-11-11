@@ -1,0 +1,8 @@
+service:
+  name: serviceB013jabpGI
+  identifier: serviceB013jabpGI
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

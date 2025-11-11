@@ -1,0 +1,8 @@
+service:
+  name: serviceKmFiXtW6ve
+  identifier: serviceKmFiXtW6ve
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

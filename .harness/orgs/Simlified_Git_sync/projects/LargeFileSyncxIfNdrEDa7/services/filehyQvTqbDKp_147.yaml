@@ -1,0 +1,8 @@
+service:
+  name: serviceMPG3uEb42k
+  identifier: serviceMPG3uEb42k
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

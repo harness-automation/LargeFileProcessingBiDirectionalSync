@@ -1,0 +1,8 @@
+service:
+  name: serviceVgLDK2EBxe
+  identifier: serviceVgLDK2EBxe
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

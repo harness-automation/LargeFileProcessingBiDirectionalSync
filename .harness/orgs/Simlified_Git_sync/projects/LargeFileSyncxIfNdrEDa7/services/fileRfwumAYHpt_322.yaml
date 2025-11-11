@@ -1,0 +1,8 @@
+service:
+  name: serviceAtTEVGrplZ
+  identifier: serviceAtTEVGrplZ
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

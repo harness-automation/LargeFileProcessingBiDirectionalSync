@@ -1,0 +1,8 @@
+service:
+  name: serviceMIReGC1iK2
+  identifier: serviceMIReGC1iK2
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

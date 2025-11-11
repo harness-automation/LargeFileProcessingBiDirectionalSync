@@ -1,0 +1,8 @@
+service:
+  name: service3xwjnEXUVR
+  identifier: service3xwjnEXUVR
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

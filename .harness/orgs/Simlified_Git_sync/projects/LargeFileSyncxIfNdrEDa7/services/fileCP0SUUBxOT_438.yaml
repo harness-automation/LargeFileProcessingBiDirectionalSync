@@ -1,0 +1,8 @@
+service:
+  name: serviceSBTIKW2jrB
+  identifier: serviceSBTIKW2jrB
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

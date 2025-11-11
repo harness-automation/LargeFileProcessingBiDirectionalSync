@@ -1,0 +1,8 @@
+service:
+  name: serviceUFisGtFVWn
+  identifier: serviceUFisGtFVWn
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicedwytpy4Cie
+  identifier: servicedwytpy4Cie
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

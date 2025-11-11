@@ -1,0 +1,8 @@
+service:
+  name: servicedBIlMD1867
+  identifier: servicedBIlMD1867
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceMMRwrawnW1
+  identifier: serviceMMRwrawnW1
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

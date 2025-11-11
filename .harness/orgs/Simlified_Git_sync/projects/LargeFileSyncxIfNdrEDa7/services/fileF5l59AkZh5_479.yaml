@@ -1,0 +1,8 @@
+service:
+  name: servicelogQYFY61S
+  identifier: servicelogQYFY61S
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

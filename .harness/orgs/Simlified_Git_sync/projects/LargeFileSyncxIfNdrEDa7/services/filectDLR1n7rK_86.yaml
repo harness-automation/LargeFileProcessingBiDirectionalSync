@@ -1,0 +1,8 @@
+service:
+  name: service4r5Sn09dbc
+  identifier: service4r5Sn09dbc
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

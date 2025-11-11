@@ -1,0 +1,8 @@
+service:
+  name: serviceAMGZ93wgLc
+  identifier: serviceAMGZ93wgLc
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

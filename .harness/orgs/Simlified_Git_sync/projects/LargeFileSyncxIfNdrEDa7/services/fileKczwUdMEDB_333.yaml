@@ -1,0 +1,8 @@
+service:
+  name: serviceAC39s41niu
+  identifier: serviceAC39s41niu
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

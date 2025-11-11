@@ -1,0 +1,8 @@
+service:
+  name: service18ihGWsyaK
+  identifier: service18ihGWsyaK
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

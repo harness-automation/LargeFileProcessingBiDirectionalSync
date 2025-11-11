@@ -1,0 +1,8 @@
+service:
+  name: serviceWYgw6KXber
+  identifier: serviceWYgw6KXber
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

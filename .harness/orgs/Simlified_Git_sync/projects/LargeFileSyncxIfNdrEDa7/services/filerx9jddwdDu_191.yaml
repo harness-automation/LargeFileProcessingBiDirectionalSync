@@ -1,0 +1,8 @@
+service:
+  name: servicez6vltrBCPV
+  identifier: servicez6vltrBCPV
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

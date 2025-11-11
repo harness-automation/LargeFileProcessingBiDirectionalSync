@@ -1,0 +1,8 @@
+service:
+  name: serviceTWN63DQx5a
+  identifier: serviceTWN63DQx5a
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

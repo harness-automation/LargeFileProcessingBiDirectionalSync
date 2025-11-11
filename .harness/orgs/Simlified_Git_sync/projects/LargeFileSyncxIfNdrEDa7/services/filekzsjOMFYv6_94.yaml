@@ -1,0 +1,8 @@
+service:
+  name: serviceWtorPrr3bg
+  identifier: serviceWtorPrr3bg
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

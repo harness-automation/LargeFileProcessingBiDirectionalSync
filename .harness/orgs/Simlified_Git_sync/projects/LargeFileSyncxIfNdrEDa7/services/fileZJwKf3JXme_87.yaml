@@ -1,0 +1,8 @@
+service:
+  name: serviceESNHZ5NCX7
+  identifier: serviceESNHZ5NCX7
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

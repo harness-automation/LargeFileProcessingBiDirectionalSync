@@ -1,0 +1,8 @@
+service:
+  name: servicennxpotis8G
+  identifier: servicennxpotis8G
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

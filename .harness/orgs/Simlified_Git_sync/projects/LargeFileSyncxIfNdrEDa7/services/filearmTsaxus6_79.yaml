@@ -1,0 +1,8 @@
+service:
+  name: serviceK3oraFuPKC
+  identifier: serviceK3oraFuPKC
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

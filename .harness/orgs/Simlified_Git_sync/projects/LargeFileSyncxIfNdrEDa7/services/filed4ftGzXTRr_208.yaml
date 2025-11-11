@@ -1,0 +1,8 @@
+service:
+  name: serviceW22vEps0w2
+  identifier: serviceW22vEps0w2
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

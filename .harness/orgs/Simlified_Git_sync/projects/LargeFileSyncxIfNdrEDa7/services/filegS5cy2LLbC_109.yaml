@@ -1,0 +1,8 @@
+service:
+  name: serviceai2DlbCg1c
+  identifier: serviceai2DlbCg1c
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

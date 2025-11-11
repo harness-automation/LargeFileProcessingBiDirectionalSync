@@ -1,0 +1,8 @@
+service:
+  name: serviceDMXpQHxEBP
+  identifier: serviceDMXpQHxEBP
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

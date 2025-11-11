@@ -1,0 +1,8 @@
+service:
+  name: serviceaOI10lGfDR
+  identifier: serviceaOI10lGfDR
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceBKkimITd4U
+  identifier: serviceBKkimITd4U
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

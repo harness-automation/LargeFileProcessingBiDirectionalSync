@@ -1,0 +1,8 @@
+service:
+  name: servicec6AiiJKPaC
+  identifier: servicec6AiiJKPaC
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

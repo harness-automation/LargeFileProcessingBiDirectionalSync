@@ -1,0 +1,8 @@
+service:
+  name: serviceZ3fARnBCuv
+  identifier: serviceZ3fARnBCuv
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

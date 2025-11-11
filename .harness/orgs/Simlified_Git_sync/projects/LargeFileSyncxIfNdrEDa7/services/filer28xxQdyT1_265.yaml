@@ -1,0 +1,8 @@
+service:
+  name: serviceRtFInMdS1N
+  identifier: serviceRtFInMdS1N
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

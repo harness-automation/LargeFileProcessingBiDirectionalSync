@@ -1,0 +1,8 @@
+service:
+  name: serviceEdKMtln4pL
+  identifier: serviceEdKMtln4pL
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

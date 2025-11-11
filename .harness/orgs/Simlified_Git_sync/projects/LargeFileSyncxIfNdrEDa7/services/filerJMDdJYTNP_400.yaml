@@ -1,0 +1,8 @@
+service:
+  name: serviceGVrt1dSHsa
+  identifier: serviceGVrt1dSHsa
+  projectIdentifier: LargeFileSyncxIfNdrEDa7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
