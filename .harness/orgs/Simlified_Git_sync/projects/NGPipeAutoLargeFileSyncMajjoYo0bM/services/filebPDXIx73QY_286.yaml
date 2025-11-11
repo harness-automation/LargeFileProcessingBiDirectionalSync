@@ -1,0 +1,8 @@
+service:
+  name: serviceOses1cjVmp
+  identifier: serviceOses1cjVmp
+  projectIdentifier: NGPipeAutoLargeFileSyncMajjoYo0bM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

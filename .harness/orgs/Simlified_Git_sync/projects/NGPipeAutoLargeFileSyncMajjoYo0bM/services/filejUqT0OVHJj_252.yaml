@@ -1,0 +1,8 @@
+service:
+  name: servicet0Php1SNNP
+  identifier: servicet0Php1SNNP
+  projectIdentifier: NGPipeAutoLargeFileSyncMajjoYo0bM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

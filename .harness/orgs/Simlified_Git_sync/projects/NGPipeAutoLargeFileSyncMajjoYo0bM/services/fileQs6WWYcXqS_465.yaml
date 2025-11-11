@@ -1,0 +1,8 @@
+service:
+  name: servicexA77ZfeMTK
+  identifier: servicexA77ZfeMTK
+  projectIdentifier: NGPipeAutoLargeFileSyncMajjoYo0bM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceXBUD7PrLBH
+  identifier: serviceXBUD7PrLBH
+  projectIdentifier: NGPipeAutoLargeFileSyncMajjoYo0bM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

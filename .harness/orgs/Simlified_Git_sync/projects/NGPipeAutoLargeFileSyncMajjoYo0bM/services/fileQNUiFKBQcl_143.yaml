@@ -1,0 +1,8 @@
+service:
+  name: serviceIhoj18MS8R
+  identifier: serviceIhoj18MS8R
+  projectIdentifier: NGPipeAutoLargeFileSyncMajjoYo0bM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

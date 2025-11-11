@@ -1,0 +1,8 @@
+service:
+  name: serviceWOpe2QkMPG
+  identifier: serviceWOpe2QkMPG
+  projectIdentifier: NGPipeAutoLargeFileSyncMajjoYo0bM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
