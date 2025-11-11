@@ -1,0 +1,8 @@
+service:
+  name: serviceVxm0137ZmL
+  identifier: serviceVxm0137ZmL
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

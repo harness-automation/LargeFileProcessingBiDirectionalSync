@@ -1,0 +1,8 @@
+service:
+  name: serviceGmhZEK30Cg
+  identifier: serviceGmhZEK30Cg
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

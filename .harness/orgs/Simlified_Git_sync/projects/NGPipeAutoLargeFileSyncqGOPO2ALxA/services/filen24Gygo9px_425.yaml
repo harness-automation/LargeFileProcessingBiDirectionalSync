@@ -1,0 +1,8 @@
+service:
+  name: serviceDIksO2STWf
+  identifier: serviceDIksO2STWf
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

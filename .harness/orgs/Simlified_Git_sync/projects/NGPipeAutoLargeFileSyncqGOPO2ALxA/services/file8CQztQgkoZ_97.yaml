@@ -1,0 +1,8 @@
+service:
+  name: serviceATAdN94M5T
+  identifier: serviceATAdN94M5T
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceLGuxeu6jVR
+  identifier: serviceLGuxeu6jVR
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

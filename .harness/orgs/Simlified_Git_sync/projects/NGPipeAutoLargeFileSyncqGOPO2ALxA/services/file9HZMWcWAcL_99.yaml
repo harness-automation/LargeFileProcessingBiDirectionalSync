@@ -1,0 +1,8 @@
+service:
+  name: serviceJRefMbKO46
+  identifier: serviceJRefMbKO46
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

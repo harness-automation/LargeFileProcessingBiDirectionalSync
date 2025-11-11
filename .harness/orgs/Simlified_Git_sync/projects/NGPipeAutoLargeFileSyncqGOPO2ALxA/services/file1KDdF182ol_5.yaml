@@ -1,0 +1,8 @@
+service:
+  name: serviceSiVonahh1z
+  identifier: serviceSiVonahh1z
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

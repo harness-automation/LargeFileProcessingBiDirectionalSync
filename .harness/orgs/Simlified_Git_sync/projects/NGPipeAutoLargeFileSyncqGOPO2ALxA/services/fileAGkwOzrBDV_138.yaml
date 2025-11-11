@@ -1,0 +1,8 @@
+service:
+  name: serviceWhH5625LIw
+  identifier: serviceWhH5625LIw
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

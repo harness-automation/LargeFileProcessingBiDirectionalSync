@@ -1,0 +1,8 @@
+service:
+  name: serviceC132m0uwPI
+  identifier: serviceC132m0uwPI
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

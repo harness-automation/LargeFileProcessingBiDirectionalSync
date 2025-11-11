@@ -1,0 +1,8 @@
+service:
+  name: servicejBs1PTgTWa
+  identifier: servicejBs1PTgTWa
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

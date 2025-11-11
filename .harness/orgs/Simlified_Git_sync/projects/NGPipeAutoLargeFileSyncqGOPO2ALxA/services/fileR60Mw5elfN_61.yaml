@@ -1,0 +1,8 @@
+service:
+  name: serviceQVcla7SR2B
+  identifier: serviceQVcla7SR2B
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

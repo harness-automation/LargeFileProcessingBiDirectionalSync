@@ -1,0 +1,8 @@
+service:
+  name: serviceLwUbimq2xt
+  identifier: serviceLwUbimq2xt
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

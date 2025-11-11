@@ -1,0 +1,8 @@
+service:
+  name: serviceepccs4X7TU
+  identifier: serviceepccs4X7TU
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicepGoFO4BAnB
+  identifier: servicepGoFO4BAnB
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

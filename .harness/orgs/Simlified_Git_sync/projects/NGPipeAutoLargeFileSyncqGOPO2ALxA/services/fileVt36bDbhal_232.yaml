@@ -1,0 +1,8 @@
+service:
+  name: servicegkosAGNu6w
+  identifier: servicegkosAGNu6w
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

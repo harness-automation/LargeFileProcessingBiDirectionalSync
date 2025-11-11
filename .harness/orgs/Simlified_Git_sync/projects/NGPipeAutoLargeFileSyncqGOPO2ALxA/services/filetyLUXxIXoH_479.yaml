@@ -1,0 +1,8 @@
+service:
+  name: serviceikS51fodr1
+  identifier: serviceikS51fodr1
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

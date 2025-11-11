@@ -1,0 +1,8 @@
+service:
+  name: service41bxt33pTt
+  identifier: service41bxt33pTt
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

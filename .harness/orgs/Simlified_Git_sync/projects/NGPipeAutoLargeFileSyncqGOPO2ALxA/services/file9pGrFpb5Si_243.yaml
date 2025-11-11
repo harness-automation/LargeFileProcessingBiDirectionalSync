@@ -1,0 +1,8 @@
+service:
+  name: serviceOfm0bmoMoy
+  identifier: serviceOfm0bmoMoy
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

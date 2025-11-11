@@ -1,0 +1,8 @@
+service:
+  name: servicefPosp8Baxa
+  identifier: servicefPosp8Baxa
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

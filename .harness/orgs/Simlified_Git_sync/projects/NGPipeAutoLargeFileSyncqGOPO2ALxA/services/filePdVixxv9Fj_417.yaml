@@ -1,0 +1,8 @@
+service:
+  name: serviceSWJQCaraDo
+  identifier: serviceSWJQCaraDo
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

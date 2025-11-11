@@ -1,0 +1,8 @@
+service:
+  name: serviceDAhD5sriFd
+  identifier: serviceDAhD5sriFd
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

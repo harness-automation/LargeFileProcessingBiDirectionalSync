@@ -1,0 +1,8 @@
+service:
+  name: serviceafx9MCVtpo
+  identifier: serviceafx9MCVtpo
+  projectIdentifier: NGPipeAutoLargeFileSyncqGOPO2ALxA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
