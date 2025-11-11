@@ -1,0 +1,8 @@
+service:
+  name: serviceF8SxPNZDwd
+  identifier: serviceF8SxPNZDwd
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicentM54MFI2u
+  identifier: servicentM54MFI2u
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

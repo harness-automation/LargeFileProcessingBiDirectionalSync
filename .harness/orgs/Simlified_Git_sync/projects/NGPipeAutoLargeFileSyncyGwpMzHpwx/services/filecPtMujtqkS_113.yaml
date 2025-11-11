@@ -1,0 +1,8 @@
+service:
+  name: serviceaHM1ReFpmm
+  identifier: serviceaHM1ReFpmm
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

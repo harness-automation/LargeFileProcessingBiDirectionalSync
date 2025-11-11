@@ -1,0 +1,8 @@
+service:
+  name: servicer90ZgmJlsm
+  identifier: servicer90ZgmJlsm
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

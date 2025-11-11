@@ -1,0 +1,8 @@
+service:
+  name: service7vJEDFs4vb
+  identifier: service7vJEDFs4vb
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

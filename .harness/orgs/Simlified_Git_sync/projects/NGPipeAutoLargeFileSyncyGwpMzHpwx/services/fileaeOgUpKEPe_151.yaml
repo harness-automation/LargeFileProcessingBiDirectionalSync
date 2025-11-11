@@ -1,0 +1,8 @@
+service:
+  name: serviceuPVCs2qr17
+  identifier: serviceuPVCs2qr17
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicetnJaCNtril
+  identifier: servicetnJaCNtril
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

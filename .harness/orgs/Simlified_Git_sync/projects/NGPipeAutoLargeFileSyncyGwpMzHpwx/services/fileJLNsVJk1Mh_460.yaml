@@ -1,0 +1,8 @@
+service:
+  name: servicebbqXeihbpi
+  identifier: servicebbqXeihbpi
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

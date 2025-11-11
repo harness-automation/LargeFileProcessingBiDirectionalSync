@@ -1,0 +1,8 @@
+service:
+  name: service6DmdjTiDRO
+  identifier: service6DmdjTiDRO
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePokcEZXurQ
+  identifier: servicePokcEZXurQ
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

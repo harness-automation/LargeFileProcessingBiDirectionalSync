@@ -1,0 +1,8 @@
+service:
+  name: service98FBBPk8ti
+  identifier: service98FBBPk8ti
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

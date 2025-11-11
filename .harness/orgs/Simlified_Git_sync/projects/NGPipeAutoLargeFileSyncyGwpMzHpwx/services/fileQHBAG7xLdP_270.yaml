@@ -1,0 +1,8 @@
+service:
+  name: service25JVWdB86n
+  identifier: service25JVWdB86n
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

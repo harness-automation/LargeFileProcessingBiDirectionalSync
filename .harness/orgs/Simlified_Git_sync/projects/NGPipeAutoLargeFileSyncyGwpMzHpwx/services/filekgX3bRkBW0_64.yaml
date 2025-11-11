@@ -1,0 +1,8 @@
+service:
+  name: servicev51PMVfgz7
+  identifier: servicev51PMVfgz7
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

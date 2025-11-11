@@ -1,0 +1,8 @@
+service:
+  name: serviceZciTVTuy6W
+  identifier: serviceZciTVTuy6W
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

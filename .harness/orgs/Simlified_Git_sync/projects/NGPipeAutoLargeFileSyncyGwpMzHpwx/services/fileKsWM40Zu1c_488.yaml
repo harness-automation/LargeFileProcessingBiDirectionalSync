@@ -1,0 +1,8 @@
+service:
+  name: servicecySU1KeREq
+  identifier: servicecySU1KeREq
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

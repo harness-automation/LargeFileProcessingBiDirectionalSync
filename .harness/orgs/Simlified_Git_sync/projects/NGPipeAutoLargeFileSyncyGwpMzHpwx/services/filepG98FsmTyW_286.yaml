@@ -1,0 +1,8 @@
+service:
+  name: servicePN82d131Rk
+  identifier: servicePN82d131Rk
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceBtflUblW2R
+  identifier: serviceBtflUblW2R
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

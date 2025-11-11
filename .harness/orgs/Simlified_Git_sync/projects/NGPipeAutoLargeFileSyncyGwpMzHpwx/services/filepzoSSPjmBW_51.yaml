@@ -1,0 +1,8 @@
+service:
+  name: servicepCAr1zPpDI
+  identifier: servicepCAr1zPpDI
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviced4w8268rhE
+  identifier: serviced4w8268rhE
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

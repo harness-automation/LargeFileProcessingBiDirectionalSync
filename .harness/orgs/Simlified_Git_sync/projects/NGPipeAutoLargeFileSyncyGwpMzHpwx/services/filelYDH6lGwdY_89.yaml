@@ -1,0 +1,8 @@
+service:
+  name: servicecES11K4rsC
+  identifier: servicecES11K4rsC
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

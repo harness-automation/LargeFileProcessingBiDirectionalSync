@@ -1,0 +1,8 @@
+service:
+  name: serviceBUUEKe1mAT
+  identifier: serviceBUUEKe1mAT
+  projectIdentifier: NGPipeAutoLargeFileSyncyGwpMzHpwx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
