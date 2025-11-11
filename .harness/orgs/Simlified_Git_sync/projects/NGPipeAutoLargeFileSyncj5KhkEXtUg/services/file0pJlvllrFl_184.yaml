@@ -1,0 +1,8 @@
+service:
+  name: servicet5wmpy2rig
+  identifier: servicet5wmpy2rig
+  projectIdentifier: NGPipeAutoLargeFileSyncj5KhkEXtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

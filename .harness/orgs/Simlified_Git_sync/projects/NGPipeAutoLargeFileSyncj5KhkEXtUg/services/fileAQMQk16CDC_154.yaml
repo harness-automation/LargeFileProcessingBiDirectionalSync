@@ -1,0 +1,8 @@
+service:
+  name: serviceGpaPQwzDOM
+  identifier: serviceGpaPQwzDOM
+  projectIdentifier: NGPipeAutoLargeFileSyncj5KhkEXtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceEtilrdl1hr
+  identifier: serviceEtilrdl1hr
+  projectIdentifier: NGPipeAutoLargeFileSyncj5KhkEXtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

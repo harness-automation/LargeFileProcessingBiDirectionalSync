@@ -1,0 +1,8 @@
+service:
+  name: serviceIeMofo8L4b
+  identifier: serviceIeMofo8L4b
+  projectIdentifier: NGPipeAutoLargeFileSyncj5KhkEXtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

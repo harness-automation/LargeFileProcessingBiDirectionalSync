@@ -1,0 +1,8 @@
+service:
+  name: serviceWF2llDOHcC
+  identifier: serviceWF2llDOHcC
+  projectIdentifier: NGPipeAutoLargeFileSyncj5KhkEXtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

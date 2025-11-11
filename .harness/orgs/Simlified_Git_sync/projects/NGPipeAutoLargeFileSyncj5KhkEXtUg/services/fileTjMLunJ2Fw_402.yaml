@@ -1,0 +1,8 @@
+service:
+  name: servicerccSnkUT1x
+  identifier: servicerccSnkUT1x
+  projectIdentifier: NGPipeAutoLargeFileSyncj5KhkEXtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

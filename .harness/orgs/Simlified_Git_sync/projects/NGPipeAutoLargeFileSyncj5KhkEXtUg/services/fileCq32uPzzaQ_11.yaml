@@ -1,0 +1,8 @@
+service:
+  name: servicejoHRdlshdU
+  identifier: servicejoHRdlshdU
+  projectIdentifier: NGPipeAutoLargeFileSyncj5KhkEXtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

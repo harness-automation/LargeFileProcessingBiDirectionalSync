@@ -1,0 +1,8 @@
+service:
+  name: servicedP9uzoVRAM
+  identifier: servicedP9uzoVRAM
+  projectIdentifier: NGPipeAutoLargeFileSyncj5KhkEXtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

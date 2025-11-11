@@ -1,0 +1,8 @@
+service:
+  name: serviceRdz2RsURP3
+  identifier: serviceRdz2RsURP3
+  projectIdentifier: NGPipeAutoLargeFileSyncj5KhkEXtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceka8DWpUBjd
+  identifier: serviceka8DWpUBjd
+  projectIdentifier: NGPipeAutoLargeFileSyncj5KhkEXtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

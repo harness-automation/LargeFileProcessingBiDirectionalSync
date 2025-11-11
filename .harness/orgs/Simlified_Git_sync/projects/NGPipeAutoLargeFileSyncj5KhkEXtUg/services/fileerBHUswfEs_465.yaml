@@ -1,0 +1,8 @@
+service:
+  name: service0goZamFooT
+  identifier: service0goZamFooT
+  projectIdentifier: NGPipeAutoLargeFileSyncj5KhkEXtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

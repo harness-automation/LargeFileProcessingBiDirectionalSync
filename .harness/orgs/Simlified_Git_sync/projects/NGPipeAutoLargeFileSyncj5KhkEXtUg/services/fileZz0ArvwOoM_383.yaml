@@ -1,0 +1,8 @@
+service:
+  name: servicewe70HlR40d
+  identifier: servicewe70HlR40d
+  projectIdentifier: NGPipeAutoLargeFileSyncj5KhkEXtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
