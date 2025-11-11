@@ -1,0 +1,8 @@
+service:
+  name: serviceHGTBoSE049
+  identifier: serviceHGTBoSE049
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

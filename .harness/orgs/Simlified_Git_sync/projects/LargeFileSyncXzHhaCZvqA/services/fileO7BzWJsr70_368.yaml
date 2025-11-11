@@ -1,0 +1,8 @@
+service:
+  name: serviceh5xlhd98RM
+  identifier: serviceh5xlhd98RM
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

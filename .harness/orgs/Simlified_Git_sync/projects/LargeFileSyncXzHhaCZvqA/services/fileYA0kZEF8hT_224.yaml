@@ -1,0 +1,8 @@
+service:
+  name: serviceASfST28KVw
+  identifier: serviceASfST28KVw
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

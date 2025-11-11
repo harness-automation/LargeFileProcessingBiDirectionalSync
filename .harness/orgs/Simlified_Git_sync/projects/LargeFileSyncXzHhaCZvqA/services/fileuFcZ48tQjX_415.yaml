@@ -1,0 +1,8 @@
+service:
+  name: servicePal14RBqMS
+  identifier: servicePal14RBqMS
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

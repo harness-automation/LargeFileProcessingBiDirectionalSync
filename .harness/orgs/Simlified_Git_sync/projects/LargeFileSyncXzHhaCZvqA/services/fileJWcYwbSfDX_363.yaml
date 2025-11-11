@@ -1,0 +1,8 @@
+service:
+  name: servicePDEQICVM11
+  identifier: servicePDEQICVM11
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

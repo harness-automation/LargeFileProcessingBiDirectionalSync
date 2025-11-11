@@ -1,0 +1,8 @@
+service:
+  name: servicezM31ids20n
+  identifier: servicezM31ids20n
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

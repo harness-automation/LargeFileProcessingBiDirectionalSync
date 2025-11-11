@@ -1,0 +1,8 @@
+service:
+  name: serviceTUkTG1tCMt
+  identifier: serviceTUkTG1tCMt
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

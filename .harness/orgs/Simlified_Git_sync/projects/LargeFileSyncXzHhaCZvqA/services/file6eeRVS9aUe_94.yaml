@@ -1,0 +1,8 @@
+service:
+  name: servicepcssCalvu7
+  identifier: servicepcssCalvu7
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

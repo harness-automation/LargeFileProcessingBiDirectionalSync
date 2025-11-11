@@ -1,0 +1,8 @@
+service:
+  name: serviceBMOTikobkp
+  identifier: serviceBMOTikobkp
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

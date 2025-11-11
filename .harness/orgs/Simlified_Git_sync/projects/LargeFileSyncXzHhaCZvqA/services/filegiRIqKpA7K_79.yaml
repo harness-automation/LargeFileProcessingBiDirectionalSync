@@ -1,0 +1,8 @@
+service:
+  name: serviceJ2xVimJ5N1
+  identifier: serviceJ2xVimJ5N1
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

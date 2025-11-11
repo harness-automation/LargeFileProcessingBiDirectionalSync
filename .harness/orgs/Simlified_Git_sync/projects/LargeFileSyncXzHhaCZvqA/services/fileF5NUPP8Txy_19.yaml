@@ -1,0 +1,8 @@
+service:
+  name: serviceCMMxkCSG9D
+  identifier: serviceCMMxkCSG9D
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

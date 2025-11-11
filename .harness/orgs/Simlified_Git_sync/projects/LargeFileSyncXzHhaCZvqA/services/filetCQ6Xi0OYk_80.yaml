@@ -1,0 +1,8 @@
+service:
+  name: serviceK70VaIaDIv
+  identifier: serviceK70VaIaDIv
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

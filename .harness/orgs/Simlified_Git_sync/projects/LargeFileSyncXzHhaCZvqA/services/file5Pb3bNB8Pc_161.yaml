@@ -1,0 +1,8 @@
+service:
+  name: servicesNCme6syjc
+  identifier: servicesNCme6syjc
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

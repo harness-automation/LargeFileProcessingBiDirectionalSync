@@ -1,0 +1,8 @@
+service:
+  name: service7savDOyPSd
+  identifier: service7savDOyPSd
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

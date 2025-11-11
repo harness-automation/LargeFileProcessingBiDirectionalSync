@@ -1,0 +1,8 @@
+service:
+  name: serviceUfo8Ndu3e3
+  identifier: serviceUfo8Ndu3e3
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

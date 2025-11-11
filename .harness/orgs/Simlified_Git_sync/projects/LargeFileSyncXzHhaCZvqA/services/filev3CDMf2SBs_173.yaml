@@ -1,0 +1,8 @@
+service:
+  name: serviceMT63vMqCZY
+  identifier: serviceMT63vMqCZY
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

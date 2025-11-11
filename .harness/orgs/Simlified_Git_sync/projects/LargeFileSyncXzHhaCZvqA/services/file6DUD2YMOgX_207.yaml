@@ -1,0 +1,8 @@
+service:
+  name: serviceObCAVzAvPs
+  identifier: serviceObCAVzAvPs
+  projectIdentifier: LargeFileSyncXzHhaCZvqA
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
