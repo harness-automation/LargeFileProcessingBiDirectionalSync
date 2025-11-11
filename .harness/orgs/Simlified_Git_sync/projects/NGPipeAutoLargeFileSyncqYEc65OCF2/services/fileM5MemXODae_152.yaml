@@ -1,0 +1,8 @@
+service:
+  name: servicersLv5ncndu
+  identifier: servicersLv5ncndu
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

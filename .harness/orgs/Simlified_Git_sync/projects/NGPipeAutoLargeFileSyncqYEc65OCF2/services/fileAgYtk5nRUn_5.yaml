@@ -1,0 +1,8 @@
+service:
+  name: serviceEDUlp9sSPx
+  identifier: serviceEDUlp9sSPx
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

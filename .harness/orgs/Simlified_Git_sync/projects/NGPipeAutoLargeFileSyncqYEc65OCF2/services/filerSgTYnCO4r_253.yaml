@@ -1,0 +1,8 @@
+service:
+  name: servicedAt1WdPOVI
+  identifier: servicedAt1WdPOVI
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

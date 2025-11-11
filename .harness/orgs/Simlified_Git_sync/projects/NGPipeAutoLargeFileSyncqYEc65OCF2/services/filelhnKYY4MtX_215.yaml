@@ -1,0 +1,8 @@
+service:
+  name: servicehv2LNeGLSM
+  identifier: servicehv2LNeGLSM
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

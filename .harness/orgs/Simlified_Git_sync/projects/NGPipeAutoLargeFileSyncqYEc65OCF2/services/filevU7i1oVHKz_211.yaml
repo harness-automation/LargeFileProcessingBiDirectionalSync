@@ -1,0 +1,8 @@
+service:
+  name: serviceRM5FA884mR
+  identifier: serviceRM5FA884mR
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

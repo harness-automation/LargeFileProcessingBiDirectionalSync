@@ -1,0 +1,8 @@
+service:
+  name: serviceevi972Fsc0
+  identifier: serviceevi972Fsc0
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

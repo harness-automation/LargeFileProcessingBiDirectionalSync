@@ -1,0 +1,8 @@
+service:
+  name: serviceDvgs2TP080
+  identifier: serviceDvgs2TP080
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

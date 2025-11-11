@@ -1,0 +1,8 @@
+service:
+  name: serviceum9GA1BTXW
+  identifier: serviceum9GA1BTXW
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

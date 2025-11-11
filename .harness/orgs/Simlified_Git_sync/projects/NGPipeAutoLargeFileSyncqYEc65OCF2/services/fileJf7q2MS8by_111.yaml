@@ -1,0 +1,8 @@
+service:
+  name: servicetpDb6079Iy
+  identifier: servicetpDb6079Iy
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

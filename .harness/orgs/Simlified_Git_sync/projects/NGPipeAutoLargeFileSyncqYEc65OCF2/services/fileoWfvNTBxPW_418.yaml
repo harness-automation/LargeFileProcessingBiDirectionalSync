@@ -1,0 +1,8 @@
+service:
+  name: serviceAwfSJOy79W
+  identifier: serviceAwfSJOy79W
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

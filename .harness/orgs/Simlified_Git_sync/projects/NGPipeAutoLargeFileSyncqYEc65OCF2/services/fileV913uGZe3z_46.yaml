@@ -1,0 +1,8 @@
+service:
+  name: servicel1Pw87kfrS
+  identifier: servicel1Pw87kfrS
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

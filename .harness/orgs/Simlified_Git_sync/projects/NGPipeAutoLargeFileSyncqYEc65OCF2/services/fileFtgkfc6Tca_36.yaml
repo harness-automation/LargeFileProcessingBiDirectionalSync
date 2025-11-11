@@ -1,0 +1,8 @@
+service:
+  name: serviceJsS4CFKrZU
+  identifier: serviceJsS4CFKrZU
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

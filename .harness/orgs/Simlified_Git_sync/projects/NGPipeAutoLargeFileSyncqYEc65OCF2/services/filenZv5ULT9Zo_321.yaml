@@ -1,0 +1,8 @@
+service:
+  name: servicez93Cw86dnS
+  identifier: servicez93Cw86dnS
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

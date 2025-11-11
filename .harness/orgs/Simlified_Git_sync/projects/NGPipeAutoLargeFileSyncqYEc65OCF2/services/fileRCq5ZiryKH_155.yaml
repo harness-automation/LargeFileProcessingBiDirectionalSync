@@ -1,0 +1,8 @@
+service:
+  name: serviceBipIBwYV2a
+  identifier: serviceBipIBwYV2a
+  projectIdentifier: NGPipeAutoLargeFileSyncqYEc65OCF2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
