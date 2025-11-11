@@ -1,0 +1,8 @@
+service:
+  name: servicetel6wf36ra
+  identifier: servicetel6wf36ra
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

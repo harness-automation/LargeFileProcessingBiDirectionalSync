@@ -1,0 +1,8 @@
+service:
+  name: serviceFj49ZSHLco
+  identifier: serviceFj49ZSHLco
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

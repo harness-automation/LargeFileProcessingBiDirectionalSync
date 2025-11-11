@@ -1,0 +1,8 @@
+service:
+  name: serviceCseqNI1rzP
+  identifier: serviceCseqNI1rzP
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

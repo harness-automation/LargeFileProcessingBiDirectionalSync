@@ -1,0 +1,8 @@
+service:
+  name: serviceFVp1SCKrsp
+  identifier: serviceFVp1SCKrsp
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

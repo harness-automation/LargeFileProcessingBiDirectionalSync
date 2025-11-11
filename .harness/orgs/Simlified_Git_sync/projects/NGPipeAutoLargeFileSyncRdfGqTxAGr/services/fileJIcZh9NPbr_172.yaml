@@ -1,0 +1,8 @@
+service:
+  name: serviceIE5TxbfJwD
+  identifier: serviceIE5TxbfJwD
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

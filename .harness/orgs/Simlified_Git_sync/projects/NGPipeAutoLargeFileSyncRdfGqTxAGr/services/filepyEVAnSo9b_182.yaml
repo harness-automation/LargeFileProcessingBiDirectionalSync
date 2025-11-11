@@ -1,0 +1,8 @@
+service:
+  name: servicePA44ZAHIZ9
+  identifier: servicePA44ZAHIZ9
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

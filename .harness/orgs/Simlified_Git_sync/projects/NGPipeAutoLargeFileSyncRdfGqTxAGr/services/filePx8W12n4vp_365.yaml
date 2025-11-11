@@ -1,0 +1,8 @@
+service:
+  name: servicert3DWpoOBE
+  identifier: servicert3DWpoOBE
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

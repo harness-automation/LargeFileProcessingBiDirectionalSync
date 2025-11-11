@@ -1,0 +1,8 @@
+service:
+  name: servicexGogefPH6s
+  identifier: servicexGogefPH6s
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

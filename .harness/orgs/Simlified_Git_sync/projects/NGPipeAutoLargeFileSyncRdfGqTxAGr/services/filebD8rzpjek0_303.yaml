@@ -1,0 +1,8 @@
+service:
+  name: serviceLuy6PFlm0c
+  identifier: serviceLuy6PFlm0c
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

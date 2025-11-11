@@ -1,0 +1,8 @@
+service:
+  name: serviceUlevyTurog
+  identifier: serviceUlevyTurog
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

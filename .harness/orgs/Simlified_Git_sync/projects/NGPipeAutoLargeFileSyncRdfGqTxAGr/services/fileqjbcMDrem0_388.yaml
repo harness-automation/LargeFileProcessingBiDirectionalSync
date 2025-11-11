@@ -1,0 +1,8 @@
+service:
+  name: serviceRT4KVCL9GA
+  identifier: serviceRT4KVCL9GA
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

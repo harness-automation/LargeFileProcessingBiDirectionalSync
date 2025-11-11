@@ -1,0 +1,8 @@
+service:
+  name: servicepcCZ1S6Kpl
+  identifier: servicepcCZ1S6Kpl
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceCDFEIMu8jx
+  identifier: serviceCDFEIMu8jx
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

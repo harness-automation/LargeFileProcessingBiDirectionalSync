@@ -1,0 +1,8 @@
+service:
+  name: serviceDEAVBH9EZC
+  identifier: serviceDEAVBH9EZC
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

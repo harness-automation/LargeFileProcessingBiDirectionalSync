@@ -1,0 +1,8 @@
+service:
+  name: servicejNjn2NGXMD
+  identifier: servicejNjn2NGXMD
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

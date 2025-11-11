@@ -1,0 +1,8 @@
+service:
+  name: serviceAl3NJzPuex
+  identifier: serviceAl3NJzPuex
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

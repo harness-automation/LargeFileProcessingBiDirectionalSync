@@ -1,0 +1,8 @@
+service:
+  name: serviceXtpyRSvB5C
+  identifier: serviceXtpyRSvB5C
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

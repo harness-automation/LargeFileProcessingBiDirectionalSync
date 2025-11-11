@@ -1,0 +1,8 @@
+service:
+  name: serviceHATztoU3kE
+  identifier: serviceHATztoU3kE
+  projectIdentifier: NGPipeAutoLargeFileSyncRdfGqTxAGr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
