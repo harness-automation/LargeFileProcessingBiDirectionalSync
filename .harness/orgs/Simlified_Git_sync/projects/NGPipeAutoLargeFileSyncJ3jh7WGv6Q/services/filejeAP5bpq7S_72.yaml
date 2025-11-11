@@ -1,0 +1,8 @@
+service:
+  name: servicec4FoxSy9MW
+  identifier: servicec4FoxSy9MW
+  projectIdentifier: NGPipeAutoLargeFileSyncJ3jh7WGv6Q
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

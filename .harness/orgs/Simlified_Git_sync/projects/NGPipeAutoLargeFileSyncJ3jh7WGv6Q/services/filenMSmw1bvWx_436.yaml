@@ -1,0 +1,8 @@
+service:
+  name: service1asvhrF16m
+  identifier: service1asvhrF16m
+  projectIdentifier: NGPipeAutoLargeFileSyncJ3jh7WGv6Q
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

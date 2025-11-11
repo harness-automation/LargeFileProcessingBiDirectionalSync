@@ -1,0 +1,8 @@
+service:
+  name: service05zaExilXx
+  identifier: service05zaExilXx
+  projectIdentifier: NGPipeAutoLargeFileSyncJ3jh7WGv6Q
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

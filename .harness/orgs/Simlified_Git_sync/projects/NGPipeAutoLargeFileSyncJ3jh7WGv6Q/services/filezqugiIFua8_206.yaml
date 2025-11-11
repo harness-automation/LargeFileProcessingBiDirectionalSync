@@ -1,0 +1,8 @@
+service:
+  name: serviceEvS7RS4IVf
+  identifier: serviceEvS7RS4IVf
+  projectIdentifier: NGPipeAutoLargeFileSyncJ3jh7WGv6Q
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

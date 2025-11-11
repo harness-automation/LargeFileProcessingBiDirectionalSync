@@ -1,0 +1,8 @@
+service:
+  name: servicesECUohiT2d
+  identifier: servicesECUohiT2d
+  projectIdentifier: NGPipeAutoLargeFileSyncJ3jh7WGv6Q
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

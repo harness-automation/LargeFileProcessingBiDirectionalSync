@@ -1,0 +1,8 @@
+service:
+  name: serviceq8APgPMPab
+  identifier: serviceq8APgPMPab
+  projectIdentifier: NGPipeAutoLargeFileSyncJ3jh7WGv6Q
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
