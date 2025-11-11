@@ -1,0 +1,8 @@
+service:
+  name: serviceSI63elgBiM
+  identifier: serviceSI63elgBiM
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

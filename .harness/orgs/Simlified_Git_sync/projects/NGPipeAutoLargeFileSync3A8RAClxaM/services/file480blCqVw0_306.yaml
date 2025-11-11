@@ -1,0 +1,8 @@
+service:
+  name: servicev3KthgeMta
+  identifier: servicev3KthgeMta
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

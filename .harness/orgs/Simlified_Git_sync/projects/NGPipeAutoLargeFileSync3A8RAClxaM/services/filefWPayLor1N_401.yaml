@@ -1,0 +1,8 @@
+service:
+  name: servicem6ky2MG44w
+  identifier: servicem6ky2MG44w
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

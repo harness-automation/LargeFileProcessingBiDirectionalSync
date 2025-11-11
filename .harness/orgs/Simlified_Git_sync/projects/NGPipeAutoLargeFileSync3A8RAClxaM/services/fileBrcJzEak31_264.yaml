@@ -1,0 +1,8 @@
+service:
+  name: servicemCtCR4Jiht
+  identifier: servicemCtCR4Jiht
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

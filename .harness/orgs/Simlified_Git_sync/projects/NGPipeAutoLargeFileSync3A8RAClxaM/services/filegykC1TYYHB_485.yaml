@@ -1,0 +1,8 @@
+service:
+  name: serviceqEdl06EVQ3
+  identifier: serviceqEdl06EVQ3
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceKP20sPDEyK
+  identifier: serviceKP20sPDEyK
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

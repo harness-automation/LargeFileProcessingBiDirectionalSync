@@ -1,0 +1,8 @@
+service:
+  name: serviceAv3NO48Jab
+  identifier: serviceAv3NO48Jab
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

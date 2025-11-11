@@ -1,0 +1,8 @@
+service:
+  name: serviceEFXKpdBUR4
+  identifier: serviceEFXKpdBUR4
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceK3LyGKshee
+  identifier: serviceK3LyGKshee
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

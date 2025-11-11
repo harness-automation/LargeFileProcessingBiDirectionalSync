@@ -1,0 +1,8 @@
+service:
+  name: serviceNcbkscf1op
+  identifier: serviceNcbkscf1op
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

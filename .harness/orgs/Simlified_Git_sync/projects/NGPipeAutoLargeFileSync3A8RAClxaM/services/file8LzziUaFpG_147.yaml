@@ -1,0 +1,8 @@
+service:
+  name: servicew42a0zoMOW
+  identifier: servicew42a0zoMOW
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

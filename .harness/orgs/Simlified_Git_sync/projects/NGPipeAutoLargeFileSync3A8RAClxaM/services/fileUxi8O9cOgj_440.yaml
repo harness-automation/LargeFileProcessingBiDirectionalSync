@@ -1,0 +1,8 @@
+service:
+  name: serviceUko2WIfsUA
+  identifier: serviceUko2WIfsUA
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

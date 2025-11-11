@@ -1,0 +1,8 @@
+service:
+  name: serviceAnnyNoo1Lk
+  identifier: serviceAnnyNoo1Lk
+  projectIdentifier: NGPipeAutoLargeFileSync3A8RAClxaM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
