@@ -1,0 +1,8 @@
+service:
+  name: serviceSviKPO1f0f
+  identifier: serviceSviKPO1f0f
+  projectIdentifier: NGPipeAutoLargeFileSync6EZGG8nTVW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

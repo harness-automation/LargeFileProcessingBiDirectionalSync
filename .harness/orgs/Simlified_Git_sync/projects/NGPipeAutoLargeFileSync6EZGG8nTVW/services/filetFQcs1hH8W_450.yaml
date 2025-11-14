@@ -1,0 +1,8 @@
+service:
+  name: serviceEwKE0Voxv2
+  identifier: serviceEwKE0Voxv2
+  projectIdentifier: NGPipeAutoLargeFileSync6EZGG8nTVW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

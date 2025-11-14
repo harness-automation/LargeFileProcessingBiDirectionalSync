@@ -1,0 +1,8 @@
+service:
+  name: serviceWJRr1Ck32W
+  identifier: serviceWJRr1Ck32W
+  projectIdentifier: NGPipeAutoLargeFileSync6EZGG8nTVW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

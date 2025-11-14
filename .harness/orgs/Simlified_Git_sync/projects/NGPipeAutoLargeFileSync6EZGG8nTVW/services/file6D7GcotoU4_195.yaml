@@ -1,0 +1,8 @@
+service:
+  name: servicej5V75B2dvr
+  identifier: servicej5V75B2dvr
+  projectIdentifier: NGPipeAutoLargeFileSync6EZGG8nTVW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

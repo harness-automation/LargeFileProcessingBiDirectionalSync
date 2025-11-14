@@ -1,0 +1,8 @@
+service:
+  name: serviceuoZEB10A32
+  identifier: serviceuoZEB10A32
+  projectIdentifier: NGPipeAutoLargeFileSync6EZGG8nTVW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
