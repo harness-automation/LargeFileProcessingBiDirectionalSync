@@ -1,0 +1,8 @@
+service:
+  name: servicehDBZuS5Poe
+  identifier: servicehDBZuS5Poe
+  projectIdentifier: NGPipeAutoLargeFileSyncQyj7TYW1fq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceZCP379uft4
+  identifier: serviceZCP379uft4
+  projectIdentifier: NGPipeAutoLargeFileSyncQyj7TYW1fq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

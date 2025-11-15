@@ -1,0 +1,8 @@
+service:
+  name: service9yeo221igP
+  identifier: service9yeo221igP
+  projectIdentifier: NGPipeAutoLargeFileSyncQyj7TYW1fq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

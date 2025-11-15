@@ -1,0 +1,8 @@
+service:
+  name: servicef2VFlMFCzg
+  identifier: servicef2VFlMFCzg
+  projectIdentifier: NGPipeAutoLargeFileSyncQyj7TYW1fq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

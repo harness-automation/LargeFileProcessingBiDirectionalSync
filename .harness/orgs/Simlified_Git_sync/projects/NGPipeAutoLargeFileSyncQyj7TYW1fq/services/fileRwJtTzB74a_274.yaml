@@ -1,0 +1,8 @@
+service:
+  name: serviceUiM291ZMTU
+  identifier: serviceUiM291ZMTU
+  projectIdentifier: NGPipeAutoLargeFileSyncQyj7TYW1fq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

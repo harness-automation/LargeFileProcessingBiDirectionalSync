@@ -1,0 +1,8 @@
+service:
+  name: serviceUCZ9QBkP2p
+  identifier: serviceUCZ9QBkP2p
+  projectIdentifier: NGPipeAutoLargeFileSyncQyj7TYW1fq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

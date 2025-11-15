@@ -1,0 +1,8 @@
+service:
+  name: services8pal238Ap
+  identifier: services8pal238Ap
+  projectIdentifier: NGPipeAutoLargeFileSyncQyj7TYW1fq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

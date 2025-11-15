@@ -1,0 +1,8 @@
+service:
+  name: serviceP4Dyx751Ku
+  identifier: serviceP4Dyx751Ku
+  projectIdentifier: NGPipeAutoLargeFileSyncQyj7TYW1fq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

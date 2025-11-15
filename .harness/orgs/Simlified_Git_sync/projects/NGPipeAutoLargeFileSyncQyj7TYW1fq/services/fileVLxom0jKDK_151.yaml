@@ -1,0 +1,8 @@
+service:
+  name: servicedHp91acsOR
+  identifier: servicedHp91acsOR
+  projectIdentifier: NGPipeAutoLargeFileSyncQyj7TYW1fq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

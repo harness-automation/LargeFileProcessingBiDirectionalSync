@@ -1,0 +1,8 @@
+service:
+  name: serviceIwRMu2082d
+  identifier: serviceIwRMu2082d
+  projectIdentifier: NGPipeAutoLargeFileSyncQyj7TYW1fq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

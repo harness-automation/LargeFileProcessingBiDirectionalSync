@@ -1,0 +1,8 @@
+service:
+  name: servicefc4MzKENsw
+  identifier: servicefc4MzKENsw
+  projectIdentifier: NGPipeAutoLargeFileSyncQyj7TYW1fq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
