@@ -1,0 +1,8 @@
+service:
+  name: serviceoUnsvMOG8l
+  identifier: serviceoUnsvMOG8l
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

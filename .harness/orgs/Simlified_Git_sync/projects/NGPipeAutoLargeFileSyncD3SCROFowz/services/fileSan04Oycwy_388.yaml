@@ -1,0 +1,8 @@
+service:
+  name: serviceweVL8iwSAF
+  identifier: serviceweVL8iwSAF
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

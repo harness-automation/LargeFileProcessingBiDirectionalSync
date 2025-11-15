@@ -1,0 +1,8 @@
+service:
+  name: serviceaumKP6BWnk
+  identifier: serviceaumKP6BWnk
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

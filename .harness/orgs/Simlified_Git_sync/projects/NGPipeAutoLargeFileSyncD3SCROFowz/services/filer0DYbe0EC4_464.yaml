@@ -1,0 +1,8 @@
+service:
+  name: serviceG1S8bPminK
+  identifier: serviceG1S8bPminK
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

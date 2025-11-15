@@ -1,0 +1,8 @@
+service:
+  name: servicepBi6GWRCAU
+  identifier: servicepBi6GWRCAU
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service1wpGTBOrwD
+  identifier: service1wpGTBOrwD
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

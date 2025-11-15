@@ -1,0 +1,8 @@
+service:
+  name: serviceUAoFb58AK3
+  identifier: serviceUAoFb58AK3
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

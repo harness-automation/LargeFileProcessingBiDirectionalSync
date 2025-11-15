@@ -1,0 +1,8 @@
+service:
+  name: serviceREPqVvl4vx
+  identifier: serviceREPqVvl4vx
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceErf0DpLbZc
+  identifier: serviceErf0DpLbZc
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

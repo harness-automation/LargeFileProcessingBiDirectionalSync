@@ -1,0 +1,8 @@
+service:
+  name: servicetKgTV1Zm9K
+  identifier: servicetKgTV1Zm9K
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

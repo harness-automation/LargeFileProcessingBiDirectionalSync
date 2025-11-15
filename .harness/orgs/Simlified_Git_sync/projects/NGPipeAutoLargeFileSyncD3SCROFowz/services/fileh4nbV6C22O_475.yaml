@@ -1,0 +1,8 @@
+service:
+  name: serviceJ5dyeMyPrf
+  identifier: serviceJ5dyeMyPrf
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

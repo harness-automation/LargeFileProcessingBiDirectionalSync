@@ -1,0 +1,8 @@
+service:
+  name: serviceL84LzoAjPu
+  identifier: serviceL84LzoAjPu
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

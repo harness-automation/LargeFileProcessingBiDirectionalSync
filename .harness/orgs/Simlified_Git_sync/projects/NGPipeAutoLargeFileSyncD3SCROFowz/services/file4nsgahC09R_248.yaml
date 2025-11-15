@@ -1,0 +1,8 @@
+service:
+  name: serviceDZ50ynDKSN
+  identifier: serviceDZ50ynDKSN
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicem3fxI5Payq
+  identifier: servicem3fxI5Payq
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

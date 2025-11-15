@@ -1,0 +1,8 @@
+service:
+  name: serviceWv5p0sunme
+  identifier: serviceWv5p0sunme
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

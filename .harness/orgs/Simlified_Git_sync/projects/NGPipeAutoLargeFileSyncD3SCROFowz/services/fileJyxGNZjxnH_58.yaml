@@ -1,0 +1,8 @@
+service:
+  name: serviceulL19CUZlF
+  identifier: serviceulL19CUZlF
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

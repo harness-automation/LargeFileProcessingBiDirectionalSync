@@ -1,0 +1,8 @@
+service:
+  name: servicebt2cxzey7U
+  identifier: servicebt2cxzey7U
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

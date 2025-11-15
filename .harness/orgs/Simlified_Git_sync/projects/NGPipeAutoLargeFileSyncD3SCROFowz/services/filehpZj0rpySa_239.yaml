@@ -1,0 +1,8 @@
+service:
+  name: serviceGr7faffe6s
+  identifier: serviceGr7faffe6s
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceG1Geywi10Y
+  identifier: serviceG1Geywi10Y
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

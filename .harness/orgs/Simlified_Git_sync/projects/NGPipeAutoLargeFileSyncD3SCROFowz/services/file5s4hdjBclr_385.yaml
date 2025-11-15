@@ -1,0 +1,8 @@
+service:
+  name: servicejrC5vIiHI3
+  identifier: servicejrC5vIiHI3
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

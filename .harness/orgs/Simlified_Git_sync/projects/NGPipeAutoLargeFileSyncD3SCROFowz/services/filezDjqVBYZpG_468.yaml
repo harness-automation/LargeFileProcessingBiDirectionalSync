@@ -1,0 +1,8 @@
+service:
+  name: service2LpmVWVC5I
+  identifier: service2LpmVWVC5I
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

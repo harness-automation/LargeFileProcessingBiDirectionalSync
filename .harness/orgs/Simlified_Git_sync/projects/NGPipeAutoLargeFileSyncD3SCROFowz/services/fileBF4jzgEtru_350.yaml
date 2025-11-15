@@ -1,0 +1,8 @@
+service:
+  name: servicenK1y945frp
+  identifier: servicenK1y945frp
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicewHoMn16rTk
+  identifier: servicewHoMn16rTk
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

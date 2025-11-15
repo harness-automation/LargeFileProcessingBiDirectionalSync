@@ -1,0 +1,8 @@
+service:
+  name: serviceezGfpoKd0S
+  identifier: serviceezGfpoKd0S
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

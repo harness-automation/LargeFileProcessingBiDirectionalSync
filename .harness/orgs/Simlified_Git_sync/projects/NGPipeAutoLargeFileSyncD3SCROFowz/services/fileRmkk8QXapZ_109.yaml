@@ -1,0 +1,8 @@
+service:
+  name: servicevH99inoIKx
+  identifier: servicevH99inoIKx
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

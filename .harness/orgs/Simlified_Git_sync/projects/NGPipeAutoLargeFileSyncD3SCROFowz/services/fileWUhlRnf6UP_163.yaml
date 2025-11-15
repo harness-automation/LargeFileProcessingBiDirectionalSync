@@ -1,0 +1,8 @@
+service:
+  name: serviceQoOa2kCTY5
+  identifier: serviceQoOa2kCTY5
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

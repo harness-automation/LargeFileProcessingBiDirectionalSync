@@ -1,0 +1,8 @@
+service:
+  name: serviceBA4UkSB167
+  identifier: serviceBA4UkSB167
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

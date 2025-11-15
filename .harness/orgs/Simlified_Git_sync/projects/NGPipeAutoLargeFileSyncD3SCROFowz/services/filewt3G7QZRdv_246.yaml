@@ -1,0 +1,8 @@
+service:
+  name: serviceBouiRtG69Q
+  identifier: serviceBouiRtG69Q
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

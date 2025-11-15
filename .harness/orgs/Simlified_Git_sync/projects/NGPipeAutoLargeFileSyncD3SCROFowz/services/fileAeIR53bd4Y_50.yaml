@@ -1,0 +1,8 @@
+service:
+  name: service2YAV4LPB6q
+  identifier: service2YAV4LPB6q
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceWt7CAX4YQR
+  identifier: serviceWt7CAX4YQR
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

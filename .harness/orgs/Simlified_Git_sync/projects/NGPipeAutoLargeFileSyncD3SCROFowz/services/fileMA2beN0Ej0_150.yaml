@@ -1,0 +1,8 @@
+service:
+  name: servicem06RsAnm0N
+  identifier: servicem06RsAnm0N
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

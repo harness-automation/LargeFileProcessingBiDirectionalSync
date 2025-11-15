@@ -1,0 +1,8 @@
+service:
+  name: serviceOyVBpaL7Zo
+  identifier: serviceOyVBpaL7Zo
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicebAKapZEmui
+  identifier: servicebAKapZEmui
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

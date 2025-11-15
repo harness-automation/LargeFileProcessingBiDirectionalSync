@@ -1,0 +1,8 @@
+service:
+  name: serviceidL6s20aNu
+  identifier: serviceidL6s20aNu
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

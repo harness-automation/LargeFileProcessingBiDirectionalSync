@@ -1,0 +1,8 @@
+service:
+  name: serviceZBs5XIROcS
+  identifier: serviceZBs5XIROcS
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

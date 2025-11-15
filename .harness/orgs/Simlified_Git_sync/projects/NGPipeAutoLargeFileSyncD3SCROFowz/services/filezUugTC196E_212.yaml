@@ -1,0 +1,8 @@
+service:
+  name: serviceNZE286tstq
+  identifier: serviceNZE286tstq
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

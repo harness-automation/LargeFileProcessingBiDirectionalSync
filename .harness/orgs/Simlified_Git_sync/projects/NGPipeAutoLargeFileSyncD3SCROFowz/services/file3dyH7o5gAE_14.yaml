@@ -1,0 +1,8 @@
+service:
+  name: servicel83ZKhEPnA
+  identifier: servicel83ZKhEPnA
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

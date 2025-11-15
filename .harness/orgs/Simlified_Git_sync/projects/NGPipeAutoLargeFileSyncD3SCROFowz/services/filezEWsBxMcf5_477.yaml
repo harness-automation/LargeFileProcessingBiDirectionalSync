@@ -1,0 +1,8 @@
+service:
+  name: service51zpgaFcb0
+  identifier: service51zpgaFcb0
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

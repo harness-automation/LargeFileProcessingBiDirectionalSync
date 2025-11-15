@@ -1,0 +1,8 @@
+service:
+  name: serviceVx7EXC94OT
+  identifier: serviceVx7EXC94OT
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

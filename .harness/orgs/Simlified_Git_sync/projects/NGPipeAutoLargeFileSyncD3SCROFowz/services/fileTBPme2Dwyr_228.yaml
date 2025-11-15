@@ -1,0 +1,8 @@
+service:
+  name: serviceOTM1MwjTSx
+  identifier: serviceOTM1MwjTSx
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTApAj51VbL
+  identifier: serviceTApAj51VbL
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

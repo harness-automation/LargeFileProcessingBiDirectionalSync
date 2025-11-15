@@ -1,0 +1,8 @@
+service:
+  name: serviceymS1rUMAdd
+  identifier: serviceymS1rUMAdd
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

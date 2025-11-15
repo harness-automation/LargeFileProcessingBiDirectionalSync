@@ -1,0 +1,8 @@
+service:
+  name: serviceUFX7RBEkDo
+  identifier: serviceUFX7RBEkDo
+  projectIdentifier: NGPipeAutoLargeFileSyncD3SCROFowz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
