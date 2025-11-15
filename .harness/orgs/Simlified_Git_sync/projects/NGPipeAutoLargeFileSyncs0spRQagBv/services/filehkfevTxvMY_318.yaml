@@ -1,0 +1,8 @@
+service:
+  name: serviceDBEu26SI44
+  identifier: serviceDBEu26SI44
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceYxwM93aKYB
+  identifier: serviceYxwM93aKYB
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

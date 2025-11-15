@@ -1,0 +1,8 @@
+service:
+  name: serviceta01ICR8rR
+  identifier: serviceta01ICR8rR
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

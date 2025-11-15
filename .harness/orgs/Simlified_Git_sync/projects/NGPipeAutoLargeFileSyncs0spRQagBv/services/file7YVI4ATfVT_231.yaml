@@ -1,0 +1,8 @@
+service:
+  name: servicexKR490l90D
+  identifier: servicexKR490l90D
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

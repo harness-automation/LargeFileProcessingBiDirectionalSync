@@ -1,0 +1,8 @@
+service:
+  name: service45UmPyTFWO
+  identifier: service45UmPyTFWO
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceSEDEd2xsxR
+  identifier: serviceSEDEd2xsxR
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

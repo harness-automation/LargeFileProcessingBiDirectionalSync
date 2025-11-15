@@ -1,0 +1,8 @@
+service:
+  name: serviceI2CVNNUysA
+  identifier: serviceI2CVNNUysA
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

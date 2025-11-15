@@ -1,0 +1,8 @@
+service:
+  name: serviceIFtpNuBOCE
+  identifier: serviceIFtpNuBOCE
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

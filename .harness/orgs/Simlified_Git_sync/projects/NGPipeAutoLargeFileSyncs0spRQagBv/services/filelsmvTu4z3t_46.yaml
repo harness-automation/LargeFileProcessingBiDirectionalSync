@@ -1,0 +1,8 @@
+service:
+  name: serviceNIVY1Salk3
+  identifier: serviceNIVY1Salk3
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

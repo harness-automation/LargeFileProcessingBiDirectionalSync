@@ -1,0 +1,8 @@
+service:
+  name: servicedhwWl4foip
+  identifier: servicedhwWl4foip
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

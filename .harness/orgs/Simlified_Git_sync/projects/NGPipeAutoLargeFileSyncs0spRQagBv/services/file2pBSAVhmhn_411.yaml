@@ -1,0 +1,8 @@
+service:
+  name: servicezdM078Sdum
+  identifier: servicezdM078Sdum
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

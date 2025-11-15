@@ -1,0 +1,8 @@
+service:
+  name: serviceWBORDvc81u
+  identifier: serviceWBORDvc81u
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

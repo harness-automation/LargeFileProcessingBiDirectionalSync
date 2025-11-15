@@ -1,0 +1,8 @@
+service:
+  name: serviceEtWGReP762
+  identifier: serviceEtWGReP762
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

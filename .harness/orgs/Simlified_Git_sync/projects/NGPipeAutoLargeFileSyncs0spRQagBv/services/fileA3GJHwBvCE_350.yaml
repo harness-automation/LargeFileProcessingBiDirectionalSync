@@ -1,0 +1,8 @@
+service:
+  name: servicesFPsZg2al2
+  identifier: servicesFPsZg2al2
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

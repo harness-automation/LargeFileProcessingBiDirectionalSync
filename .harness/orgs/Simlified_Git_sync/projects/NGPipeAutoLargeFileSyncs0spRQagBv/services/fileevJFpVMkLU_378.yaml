@@ -1,0 +1,8 @@
+service:
+  name: serviceCLTPFf2VHr
+  identifier: serviceCLTPFf2VHr
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

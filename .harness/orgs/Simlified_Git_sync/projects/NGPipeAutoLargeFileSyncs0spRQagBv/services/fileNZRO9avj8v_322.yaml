@@ -1,0 +1,8 @@
+service:
+  name: serviceBVskAD0NQ8
+  identifier: serviceBVskAD0NQ8
+  projectIdentifier: NGPipeAutoLargeFileSyncs0spRQagBv
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
