@@ -1,0 +1,8 @@
+service:
+  name: servicepopEBRM0fs
+  identifier: servicepopEBRM0fs
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

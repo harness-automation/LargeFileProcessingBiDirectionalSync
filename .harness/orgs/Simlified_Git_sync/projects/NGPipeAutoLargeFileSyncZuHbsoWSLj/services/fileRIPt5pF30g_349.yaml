@@ -1,0 +1,8 @@
+service:
+  name: serviceX7eawnMoiZ
+  identifier: serviceX7eawnMoiZ
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

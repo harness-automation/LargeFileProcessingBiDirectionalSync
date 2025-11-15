@@ -1,0 +1,8 @@
+service:
+  name: serviceEtTKyDkV28
+  identifier: serviceEtTKyDkV28
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

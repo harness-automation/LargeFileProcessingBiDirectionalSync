@@ -1,0 +1,8 @@
+service:
+  name: serviceFs540rWyVe
+  identifier: serviceFs540rWyVe
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceELEM2SVJR6
+  identifier: serviceELEM2SVJR6
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

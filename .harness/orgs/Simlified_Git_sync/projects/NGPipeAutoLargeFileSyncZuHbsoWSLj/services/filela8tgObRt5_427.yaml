@@ -1,0 +1,8 @@
+service:
+  name: serviceHx922SUGfI
+  identifier: serviceHx922SUGfI
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

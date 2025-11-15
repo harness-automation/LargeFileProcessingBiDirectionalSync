@@ -1,0 +1,8 @@
+service:
+  name: servicefbDzbI2m1C
+  identifier: servicefbDzbI2m1C
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

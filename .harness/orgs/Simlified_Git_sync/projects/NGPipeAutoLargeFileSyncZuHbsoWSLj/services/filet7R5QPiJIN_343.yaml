@@ -1,0 +1,8 @@
+service:
+  name: servicePopTQlA2Wv
+  identifier: servicePopTQlA2Wv
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

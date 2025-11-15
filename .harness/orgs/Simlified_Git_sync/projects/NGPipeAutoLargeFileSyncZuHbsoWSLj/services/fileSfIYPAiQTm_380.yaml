@@ -1,0 +1,8 @@
+service:
+  name: servicenembiTpSMx
+  identifier: servicenembiTpSMx
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

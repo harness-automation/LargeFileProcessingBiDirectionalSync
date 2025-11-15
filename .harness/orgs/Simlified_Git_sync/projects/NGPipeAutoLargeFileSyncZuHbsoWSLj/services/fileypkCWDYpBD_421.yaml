@@ -1,0 +1,8 @@
+service:
+  name: servicejvn7eTvsak
+  identifier: servicejvn7eTvsak
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

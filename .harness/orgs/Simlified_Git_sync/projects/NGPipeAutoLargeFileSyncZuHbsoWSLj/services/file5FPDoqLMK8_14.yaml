@@ -1,0 +1,8 @@
+service:
+  name: serviceosTngTsEEw
+  identifier: serviceosTngTsEEw
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

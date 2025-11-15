@@ -1,0 +1,8 @@
+service:
+  name: serviceeVO7Pgi72F
+  identifier: serviceeVO7Pgi72F
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

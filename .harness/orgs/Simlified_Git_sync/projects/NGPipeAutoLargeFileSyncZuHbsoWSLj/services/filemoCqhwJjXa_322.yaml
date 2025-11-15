@@ -1,0 +1,8 @@
+service:
+  name: serviceN8ECPkPYHA
+  identifier: serviceN8ECPkPYHA
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

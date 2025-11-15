@@ -1,0 +1,8 @@
+service:
+  name: servicekeo6NwP2cs
+  identifier: servicekeo6NwP2cs
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

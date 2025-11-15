@@ -1,0 +1,8 @@
+service:
+  name: serviceHSufk2jcfd
+  identifier: serviceHSufk2jcfd
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

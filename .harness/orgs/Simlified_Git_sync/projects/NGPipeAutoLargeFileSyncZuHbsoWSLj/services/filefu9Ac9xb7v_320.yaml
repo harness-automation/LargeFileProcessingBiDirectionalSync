@@ -1,0 +1,8 @@
+service:
+  name: serviceIKO3FtKsWC
+  identifier: serviceIKO3FtKsWC
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

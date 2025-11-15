@@ -1,0 +1,8 @@
+service:
+  name: serviceALMLuCns9f
+  identifier: serviceALMLuCns9f
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

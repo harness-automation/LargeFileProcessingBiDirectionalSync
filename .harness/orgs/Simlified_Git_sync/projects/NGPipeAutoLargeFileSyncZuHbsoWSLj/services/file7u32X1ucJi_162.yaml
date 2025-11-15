@@ -1,0 +1,8 @@
+service:
+  name: serviceNOQ60CL3Jz
+  identifier: serviceNOQ60CL3Jz
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

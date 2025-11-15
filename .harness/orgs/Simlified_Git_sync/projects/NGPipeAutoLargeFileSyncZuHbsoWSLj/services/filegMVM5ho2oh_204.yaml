@@ -1,0 +1,8 @@
+service:
+  name: service1l4442WYan
+  identifier: service1l4442WYan
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

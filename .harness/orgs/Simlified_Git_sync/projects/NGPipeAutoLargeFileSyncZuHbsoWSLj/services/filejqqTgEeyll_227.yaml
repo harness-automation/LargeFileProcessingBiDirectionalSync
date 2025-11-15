@@ -1,0 +1,8 @@
+service:
+  name: serviceNRYnD0iPat
+  identifier: serviceNRYnD0iPat
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePGBqalDfwl
+  identifier: servicePGBqalDfwl
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service3Utm16pfol
+  identifier: service3Utm16pfol
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

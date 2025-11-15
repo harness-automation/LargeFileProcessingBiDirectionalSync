@@ -1,0 +1,8 @@
+service:
+  name: serviceJT57A2UwdB
+  identifier: serviceJT57A2UwdB
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

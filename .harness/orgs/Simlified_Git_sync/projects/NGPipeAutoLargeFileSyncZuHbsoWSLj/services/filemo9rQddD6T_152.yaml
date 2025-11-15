@@ -1,0 +1,8 @@
+service:
+  name: servicedTXa66cE45
+  identifier: servicedTXa66cE45
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

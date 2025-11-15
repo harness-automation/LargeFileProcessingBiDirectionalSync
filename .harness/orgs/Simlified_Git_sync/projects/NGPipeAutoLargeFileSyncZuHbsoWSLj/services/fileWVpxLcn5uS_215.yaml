@@ -1,0 +1,8 @@
+service:
+  name: service164S11GHrb
+  identifier: service164S11GHrb
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service26zonTeiP9
+  identifier: service26zonTeiP9
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

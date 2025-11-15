@@ -1,0 +1,8 @@
+service:
+  name: servicej6momcotJS
+  identifier: servicej6momcotJS
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

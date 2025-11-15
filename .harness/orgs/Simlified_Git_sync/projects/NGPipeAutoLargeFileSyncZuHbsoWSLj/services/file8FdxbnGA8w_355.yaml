@@ -1,0 +1,8 @@
+service:
+  name: serviceS8Pi918PSB
+  identifier: serviceS8Pi918PSB
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

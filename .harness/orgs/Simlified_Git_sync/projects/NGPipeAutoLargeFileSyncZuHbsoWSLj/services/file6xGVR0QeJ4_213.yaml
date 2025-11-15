@@ -1,0 +1,8 @@
+service:
+  name: serviceVB2pRNT8V0
+  identifier: serviceVB2pRNT8V0
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

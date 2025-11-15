@@ -1,0 +1,8 @@
+service:
+  name: servicegaVcHKS3VC
+  identifier: servicegaVcHKS3VC
+  projectIdentifier: NGPipeAutoLargeFileSyncZuHbsoWSLj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
