@@ -1,0 +1,8 @@
+service:
+  name: service0FADSSINTh
+  identifier: service0FADSSINTh
+  projectIdentifier: NGPipeAutoLargeFileSynctdnqN5CNfg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

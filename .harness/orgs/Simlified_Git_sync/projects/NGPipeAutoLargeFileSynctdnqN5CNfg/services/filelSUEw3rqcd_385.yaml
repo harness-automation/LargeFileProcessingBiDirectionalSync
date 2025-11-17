@@ -1,0 +1,8 @@
+service:
+  name: service0TJZvaPbnb
+  identifier: service0TJZvaPbnb
+  projectIdentifier: NGPipeAutoLargeFileSynctdnqN5CNfg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

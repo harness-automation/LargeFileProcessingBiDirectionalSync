@@ -1,0 +1,8 @@
+service:
+  name: servicehp223MH8WI
+  identifier: servicehp223MH8WI
+  projectIdentifier: NGPipeAutoLargeFileSynctdnqN5CNfg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

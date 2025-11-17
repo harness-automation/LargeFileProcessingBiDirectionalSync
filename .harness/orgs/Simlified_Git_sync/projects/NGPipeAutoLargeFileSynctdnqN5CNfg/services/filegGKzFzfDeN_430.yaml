@@ -1,0 +1,8 @@
+service:
+  name: serviceHzViizmis6
+  identifier: serviceHzViizmis6
+  projectIdentifier: NGPipeAutoLargeFileSynctdnqN5CNfg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

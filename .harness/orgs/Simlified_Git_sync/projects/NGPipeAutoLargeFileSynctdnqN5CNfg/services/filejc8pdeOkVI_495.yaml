@@ -1,0 +1,8 @@
+service:
+  name: serviceEgd2MIc870
+  identifier: serviceEgd2MIc870
+  projectIdentifier: NGPipeAutoLargeFileSynctdnqN5CNfg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

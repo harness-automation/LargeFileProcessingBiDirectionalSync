@@ -1,0 +1,8 @@
+service:
+  name: serviceUHvc09Gcut
+  identifier: serviceUHvc09Gcut
+  projectIdentifier: NGPipeAutoLargeFileSynctdnqN5CNfg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

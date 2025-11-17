@@ -1,0 +1,8 @@
+service:
+  name: serviceAprUMG1OD2
+  identifier: serviceAprUMG1OD2
+  projectIdentifier: NGPipeAutoLargeFileSynctdnqN5CNfg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

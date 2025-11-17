@@ -1,0 +1,8 @@
+service:
+  name: servicehil4HadHNG
+  identifier: servicehil4HadHNG
+  projectIdentifier: NGPipeAutoLargeFileSynctdnqN5CNfg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceMdmxHWTViz
+  identifier: serviceMdmxHWTViz
+  projectIdentifier: NGPipeAutoLargeFileSynctdnqN5CNfg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

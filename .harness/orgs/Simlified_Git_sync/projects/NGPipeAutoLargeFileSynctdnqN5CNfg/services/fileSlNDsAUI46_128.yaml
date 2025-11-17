@@ -1,0 +1,8 @@
+service:
+  name: servicerLlmn1WYOq
+  identifier: servicerLlmn1WYOq
+  projectIdentifier: NGPipeAutoLargeFileSynctdnqN5CNfg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

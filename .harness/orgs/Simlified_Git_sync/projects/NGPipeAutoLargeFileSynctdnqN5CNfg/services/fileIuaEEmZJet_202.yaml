@@ -1,0 +1,8 @@
+service:
+  name: serviceGlevuBt6DC
+  identifier: serviceGlevuBt6DC
+  projectIdentifier: NGPipeAutoLargeFileSynctdnqN5CNfg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

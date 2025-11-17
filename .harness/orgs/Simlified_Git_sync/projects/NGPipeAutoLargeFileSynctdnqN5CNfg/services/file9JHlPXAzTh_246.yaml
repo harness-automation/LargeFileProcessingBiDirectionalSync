@@ -1,0 +1,8 @@
+service:
+  name: serviceMvmBuehr0S
+  identifier: serviceMvmBuehr0S
+  projectIdentifier: NGPipeAutoLargeFileSynctdnqN5CNfg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
