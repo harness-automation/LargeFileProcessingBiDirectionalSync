@@ -1,0 +1,8 @@
+service:
+  name: serviceAd1UTTxCgR
+  identifier: serviceAd1UTTxCgR
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

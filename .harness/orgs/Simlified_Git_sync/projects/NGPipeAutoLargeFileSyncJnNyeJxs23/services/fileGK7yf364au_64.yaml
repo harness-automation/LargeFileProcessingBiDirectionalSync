@@ -1,0 +1,8 @@
+service:
+  name: serviceAruUnCN3cF
+  identifier: serviceAruUnCN3cF
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

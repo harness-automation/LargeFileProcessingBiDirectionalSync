@@ -1,0 +1,8 @@
+service:
+  name: serviceKnuKIFxQBS
+  identifier: serviceKnuKIFxQBS
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

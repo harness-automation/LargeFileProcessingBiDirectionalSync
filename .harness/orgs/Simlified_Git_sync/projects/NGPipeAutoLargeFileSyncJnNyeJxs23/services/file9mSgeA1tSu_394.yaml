@@ -1,0 +1,8 @@
+service:
+  name: service4LuxrSHBV6
+  identifier: service4LuxrSHBV6
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

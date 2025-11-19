@@ -1,0 +1,8 @@
+service:
+  name: servicefdMx3FdrXC
+  identifier: servicefdMx3FdrXC
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

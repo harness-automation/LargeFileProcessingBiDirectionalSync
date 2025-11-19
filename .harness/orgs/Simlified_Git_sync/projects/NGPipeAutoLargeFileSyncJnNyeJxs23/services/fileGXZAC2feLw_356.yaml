@@ -1,0 +1,8 @@
+service:
+  name: serviceFa17esqSzM
+  identifier: serviceFa17esqSzM
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

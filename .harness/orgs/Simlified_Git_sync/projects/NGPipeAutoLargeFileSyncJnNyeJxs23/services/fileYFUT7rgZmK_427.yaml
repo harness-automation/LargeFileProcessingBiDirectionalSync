@@ -1,0 +1,8 @@
+service:
+  name: serviceFuDU0LnTOS
+  identifier: serviceFuDU0LnTOS
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicerWd5Csk889
+  identifier: servicerWd5Csk889
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

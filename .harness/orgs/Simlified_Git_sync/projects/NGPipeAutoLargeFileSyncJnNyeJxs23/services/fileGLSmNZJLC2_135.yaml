@@ -1,0 +1,8 @@
+service:
+  name: serviceCAEPoV65Mq
+  identifier: serviceCAEPoV65Mq
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

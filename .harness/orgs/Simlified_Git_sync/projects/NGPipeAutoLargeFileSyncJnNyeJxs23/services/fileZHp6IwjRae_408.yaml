@@ -1,0 +1,8 @@
+service:
+  name: serviceIMPotDdPQ6
+  identifier: serviceIMPotDdPQ6
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceVX267v1j14
+  identifier: serviceVX267v1j14
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

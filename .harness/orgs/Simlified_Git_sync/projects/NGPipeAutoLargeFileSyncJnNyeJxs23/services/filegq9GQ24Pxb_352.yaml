@@ -1,0 +1,8 @@
+service:
+  name: service2BxPklMbam
+  identifier: service2BxPklMbam
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

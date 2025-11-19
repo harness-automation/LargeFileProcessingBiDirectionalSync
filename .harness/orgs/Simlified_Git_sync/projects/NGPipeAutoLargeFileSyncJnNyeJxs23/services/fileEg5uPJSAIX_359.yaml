@@ -1,0 +1,8 @@
+service:
+  name: serviceWzsvTDR46T
+  identifier: serviceWzsvTDR46T
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

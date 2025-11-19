@@ -1,0 +1,8 @@
+service:
+  name: serviceYC76VJ2HWF
+  identifier: serviceYC76VJ2HWF
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

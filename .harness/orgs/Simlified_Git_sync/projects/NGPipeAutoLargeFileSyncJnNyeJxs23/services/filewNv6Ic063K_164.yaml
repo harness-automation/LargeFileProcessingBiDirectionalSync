@@ -1,0 +1,8 @@
+service:
+  name: servicexEN32j8Elo
+  identifier: servicexEN32j8Elo
+  projectIdentifier: NGPipeAutoLargeFileSyncJnNyeJxs23
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
