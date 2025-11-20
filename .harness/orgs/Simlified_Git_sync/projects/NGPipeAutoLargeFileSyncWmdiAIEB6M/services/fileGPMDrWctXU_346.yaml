@@ -1,0 +1,8 @@
+service:
+  name: servicePUKzaZ4229
+  identifier: servicePUKzaZ4229
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

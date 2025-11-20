@@ -1,0 +1,8 @@
+service:
+  name: serviceLebGZeQvQL
+  identifier: serviceLebGZeQvQL
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

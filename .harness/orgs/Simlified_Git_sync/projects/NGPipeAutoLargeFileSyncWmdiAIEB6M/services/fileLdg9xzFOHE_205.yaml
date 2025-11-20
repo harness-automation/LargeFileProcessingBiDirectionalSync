@@ -1,0 +1,8 @@
+service:
+  name: servicelFUrbphyTW
+  identifier: servicelFUrbphyTW
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceCr20G98TNG
+  identifier: serviceCr20G98TNG
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

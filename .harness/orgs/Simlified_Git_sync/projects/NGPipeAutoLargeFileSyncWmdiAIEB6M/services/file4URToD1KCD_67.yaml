@@ -1,0 +1,8 @@
+service:
+  name: serviceOf5xWfcCLz
+  identifier: serviceOf5xWfcCLz
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

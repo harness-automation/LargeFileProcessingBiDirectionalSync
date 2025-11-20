@@ -1,0 +1,8 @@
+service:
+  name: serviceAPg1TEn0oR
+  identifier: serviceAPg1TEn0oR
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

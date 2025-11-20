@@ -1,0 +1,8 @@
+service:
+  name: serviceTRo63IT2gM
+  identifier: serviceTRo63IT2gM
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

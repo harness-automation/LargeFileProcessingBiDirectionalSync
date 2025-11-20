@@ -1,0 +1,8 @@
+service:
+  name: serviceObyn3Rz6V8
+  identifier: serviceObyn3Rz6V8
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

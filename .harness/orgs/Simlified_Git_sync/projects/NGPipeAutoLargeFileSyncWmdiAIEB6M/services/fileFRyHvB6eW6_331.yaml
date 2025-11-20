@@ -1,0 +1,8 @@
+service:
+  name: serviceJDes25StY3
+  identifier: serviceJDes25StY3
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

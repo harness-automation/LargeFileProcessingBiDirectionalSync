@@ -1,0 +1,8 @@
+service:
+  name: serviceFLZm92dSAI
+  identifier: serviceFLZm92dSAI
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceUmHP8PLGAn
+  identifier: serviceUmHP8PLGAn
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

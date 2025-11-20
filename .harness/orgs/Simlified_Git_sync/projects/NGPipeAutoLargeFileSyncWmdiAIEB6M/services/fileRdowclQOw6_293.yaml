@@ -1,0 +1,8 @@
+service:
+  name: servicebutUnEKIEL
+  identifier: servicebutUnEKIEL
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

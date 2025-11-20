@@ -1,0 +1,8 @@
+service:
+  name: serviceKuZNBtXmRi
+  identifier: serviceKuZNBtXmRi
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

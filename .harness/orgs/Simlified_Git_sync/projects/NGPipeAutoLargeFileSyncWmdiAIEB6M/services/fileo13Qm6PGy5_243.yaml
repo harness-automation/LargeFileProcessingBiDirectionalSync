@@ -1,0 +1,8 @@
+service:
+  name: servicesjV83ZU48S
+  identifier: servicesjV83ZU48S
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

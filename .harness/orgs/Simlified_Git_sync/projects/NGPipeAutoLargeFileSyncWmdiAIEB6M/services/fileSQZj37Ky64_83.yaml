@@ -1,0 +1,8 @@
+service:
+  name: servicegrlElqPh7b
+  identifier: servicegrlElqPh7b
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicel31HyPgaLJ
+  identifier: servicel31HyPgaLJ
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

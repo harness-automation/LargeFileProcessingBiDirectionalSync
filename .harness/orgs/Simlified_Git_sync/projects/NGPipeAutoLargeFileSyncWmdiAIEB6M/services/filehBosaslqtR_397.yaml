@@ -1,0 +1,8 @@
+service:
+  name: serviceRzTIOT1fci
+  identifier: serviceRzTIOT1fci
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

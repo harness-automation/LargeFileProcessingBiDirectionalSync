@@ -1,0 +1,8 @@
+service:
+  name: serviceliaIAS2Nvs
+  identifier: serviceliaIAS2Nvs
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

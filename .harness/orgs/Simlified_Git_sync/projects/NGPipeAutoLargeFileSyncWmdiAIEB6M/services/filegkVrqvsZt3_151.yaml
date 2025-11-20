@@ -1,0 +1,8 @@
+service:
+  name: serviceVMxv1a1Imp
+  identifier: serviceVMxv1a1Imp
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

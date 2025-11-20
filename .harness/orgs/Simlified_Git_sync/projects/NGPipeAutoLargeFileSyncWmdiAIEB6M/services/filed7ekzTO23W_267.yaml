@@ -1,0 +1,8 @@
+service:
+  name: serviceVecSH8Rf6c
+  identifier: serviceVecSH8Rf6c
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

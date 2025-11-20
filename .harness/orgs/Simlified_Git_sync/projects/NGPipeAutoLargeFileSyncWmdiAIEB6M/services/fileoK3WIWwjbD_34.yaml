@@ -1,0 +1,8 @@
+service:
+  name: serviceMGv43uAWLi
+  identifier: serviceMGv43uAWLi
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

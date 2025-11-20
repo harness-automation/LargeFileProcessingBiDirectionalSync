@@ -1,0 +1,8 @@
+service:
+  name: servicenXPS1FHKi7
+  identifier: servicenXPS1FHKi7
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

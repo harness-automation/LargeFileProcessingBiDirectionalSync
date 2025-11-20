@@ -1,0 +1,8 @@
+service:
+  name: servicemaBeNX0mvz
+  identifier: servicemaBeNX0mvz
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

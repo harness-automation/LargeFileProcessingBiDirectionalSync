@@ -1,0 +1,8 @@
+service:
+  name: service4xbINPO96A
+  identifier: service4xbINPO96A
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceLmo7GDlNUb
+  identifier: serviceLmo7GDlNUb
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

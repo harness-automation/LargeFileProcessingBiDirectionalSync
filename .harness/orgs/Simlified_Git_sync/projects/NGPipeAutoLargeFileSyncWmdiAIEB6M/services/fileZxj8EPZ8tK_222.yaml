@@ -1,0 +1,8 @@
+service:
+  name: serviceGccAW434lv
+  identifier: serviceGccAW434lv
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

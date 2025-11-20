@@ -1,0 +1,8 @@
+service:
+  name: serviceHaoQoac7TO
+  identifier: serviceHaoQoac7TO
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

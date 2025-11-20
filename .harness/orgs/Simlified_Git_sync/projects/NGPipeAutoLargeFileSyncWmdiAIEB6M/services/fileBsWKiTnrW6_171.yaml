@@ -1,0 +1,8 @@
+service:
+  name: serviceEtMRID3onn
+  identifier: serviceEtMRID3onn
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

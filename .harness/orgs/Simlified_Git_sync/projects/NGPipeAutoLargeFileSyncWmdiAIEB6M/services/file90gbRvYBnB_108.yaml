@@ -1,0 +1,8 @@
+service:
+  name: serviceXXeicALavW
+  identifier: serviceXXeicALavW
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

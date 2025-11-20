@@ -1,0 +1,8 @@
+service:
+  name: servicetlAx305a2m
+  identifier: servicetlAx305a2m
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

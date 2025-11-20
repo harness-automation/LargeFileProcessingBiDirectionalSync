@@ -1,0 +1,8 @@
+service:
+  name: serviceunSboutM6p
+  identifier: serviceunSboutM6p
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceJNMV93IKsM
+  identifier: serviceJNMV93IKsM
+  projectIdentifier: NGPipeAutoLargeFileSyncWmdiAIEB6M
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
