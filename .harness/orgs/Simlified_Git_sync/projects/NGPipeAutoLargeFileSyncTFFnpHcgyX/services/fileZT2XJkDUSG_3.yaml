@@ -1,0 +1,8 @@
+service:
+  name: servicedaERf5TcNk
+  identifier: servicedaERf5TcNk
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

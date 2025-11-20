@@ -1,0 +1,8 @@
+service:
+  name: service5MOONgznNM
+  identifier: service5MOONgznNM
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAM4BneqUEA
+  identifier: serviceAM4BneqUEA
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

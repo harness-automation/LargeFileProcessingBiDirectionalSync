@@ -1,0 +1,8 @@
+service:
+  name: servicemuCK91jIa5
+  identifier: servicemuCK91jIa5
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

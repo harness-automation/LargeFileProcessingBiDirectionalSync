@@ -1,0 +1,8 @@
+service:
+  name: serviceRaWSQ2ZEJa
+  identifier: serviceRaWSQ2ZEJa
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

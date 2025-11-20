@@ -1,0 +1,8 @@
+service:
+  name: serviceBLm90MTM7N
+  identifier: serviceBLm90MTM7N
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

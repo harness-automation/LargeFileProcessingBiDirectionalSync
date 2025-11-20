@@ -1,0 +1,8 @@
+service:
+  name: service06DRCxcDHP
+  identifier: service06DRCxcDHP
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

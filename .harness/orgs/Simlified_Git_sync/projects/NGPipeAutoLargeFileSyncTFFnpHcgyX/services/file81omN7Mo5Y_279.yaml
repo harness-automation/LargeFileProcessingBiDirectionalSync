@@ -1,0 +1,8 @@
+service:
+  name: serviceMAOSewRLp9
+  identifier: serviceMAOSewRLp9
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

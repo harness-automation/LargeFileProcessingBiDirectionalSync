@@ -1,0 +1,8 @@
+service:
+  name: serviceMicoGMnJU0
+  identifier: serviceMicoGMnJU0
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

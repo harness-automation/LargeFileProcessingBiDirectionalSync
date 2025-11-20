@@ -1,0 +1,8 @@
+service:
+  name: serviceXOHLDP5paa
+  identifier: serviceXOHLDP5paa
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

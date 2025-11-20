@@ -1,0 +1,8 @@
+service:
+  name: serviceLEiwuaEVLC
+  identifier: serviceLEiwuaEVLC
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

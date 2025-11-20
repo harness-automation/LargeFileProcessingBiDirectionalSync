@@ -1,0 +1,8 @@
+service:
+  name: serviceNDHIBO2ltR
+  identifier: serviceNDHIBO2ltR
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

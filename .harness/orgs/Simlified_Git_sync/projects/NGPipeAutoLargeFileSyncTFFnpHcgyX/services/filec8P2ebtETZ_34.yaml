@@ -1,0 +1,8 @@
+service:
+  name: serviceBDrsEjL4AZ
+  identifier: serviceBDrsEjL4AZ
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceliOerZyViA
+  identifier: serviceliOerZyViA
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

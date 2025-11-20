@@ -1,0 +1,8 @@
+service:
+  name: serviceh5DUZ70Ema
+  identifier: serviceh5DUZ70Ema
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

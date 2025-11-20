@@ -1,0 +1,8 @@
+service:
+  name: servicepub3bV0OVh
+  identifier: servicepub3bV0OVh
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

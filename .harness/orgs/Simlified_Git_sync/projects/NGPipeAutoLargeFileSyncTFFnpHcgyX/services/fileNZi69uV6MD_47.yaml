@@ -1,0 +1,8 @@
+service:
+  name: serviceUGikGapw6s
+  identifier: serviceUGikGapw6s
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

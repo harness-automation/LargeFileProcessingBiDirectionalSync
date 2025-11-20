@@ -1,0 +1,8 @@
+service:
+  name: serviceeqhcpiss2J
+  identifier: serviceeqhcpiss2J
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

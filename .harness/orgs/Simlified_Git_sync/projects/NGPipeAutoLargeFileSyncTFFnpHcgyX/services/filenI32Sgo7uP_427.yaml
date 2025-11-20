@@ -1,0 +1,8 @@
+service:
+  name: serviceUHMRnuOD62
+  identifier: serviceUHMRnuOD62
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

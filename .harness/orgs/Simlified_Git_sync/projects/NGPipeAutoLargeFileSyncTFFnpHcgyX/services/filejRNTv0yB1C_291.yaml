@@ -1,0 +1,8 @@
+service:
+  name: servicej3gLNElyQl
+  identifier: servicej3gLNElyQl
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicejdc4Rdb1Sw
+  identifier: servicejdc4Rdb1Sw
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

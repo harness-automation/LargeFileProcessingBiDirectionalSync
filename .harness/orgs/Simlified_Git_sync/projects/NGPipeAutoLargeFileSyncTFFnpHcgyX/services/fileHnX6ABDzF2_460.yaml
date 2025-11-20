@@ -1,0 +1,8 @@
+service:
+  name: serviceurlENM5sT8
+  identifier: serviceurlENM5sT8
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

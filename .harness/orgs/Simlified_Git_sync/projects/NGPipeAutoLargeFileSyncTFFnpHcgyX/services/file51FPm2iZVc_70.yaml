@@ -1,0 +1,8 @@
+service:
+  name: servicele7s67TFxp
+  identifier: servicele7s67TFxp
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

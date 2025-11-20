@@ -1,0 +1,8 @@
+service:
+  name: serviceAZ642Rtuaf
+  identifier: serviceAZ642Rtuaf
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceum4yG8k2ui
+  identifier: serviceum4yG8k2ui
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

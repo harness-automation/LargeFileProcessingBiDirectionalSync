@@ -1,0 +1,8 @@
+service:
+  name: serviceBCDER4epwO
+  identifier: serviceBCDER4epwO
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

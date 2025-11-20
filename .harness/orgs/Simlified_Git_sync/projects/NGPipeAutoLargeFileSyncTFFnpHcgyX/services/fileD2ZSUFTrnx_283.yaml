@@ -1,0 +1,8 @@
+service:
+  name: serviceQTlvos2tkM
+  identifier: serviceQTlvos2tkM
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

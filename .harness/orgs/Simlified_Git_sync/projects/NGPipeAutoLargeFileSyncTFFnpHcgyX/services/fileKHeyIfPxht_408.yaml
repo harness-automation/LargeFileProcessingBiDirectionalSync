@@ -1,0 +1,8 @@
+service:
+  name: serviceIL4VsM4Oab
+  identifier: serviceIL4VsM4Oab
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

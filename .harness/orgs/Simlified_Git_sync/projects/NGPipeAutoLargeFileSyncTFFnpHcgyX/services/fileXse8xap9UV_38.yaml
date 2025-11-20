@@ -1,0 +1,8 @@
+service:
+  name: serviceDt5kCACicm
+  identifier: serviceDt5kCACicm
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

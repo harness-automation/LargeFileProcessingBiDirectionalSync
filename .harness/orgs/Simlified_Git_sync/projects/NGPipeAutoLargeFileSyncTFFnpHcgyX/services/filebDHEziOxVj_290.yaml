@@ -1,0 +1,8 @@
+service:
+  name: service99LG2WANYy
+  identifier: service99LG2WANYy
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

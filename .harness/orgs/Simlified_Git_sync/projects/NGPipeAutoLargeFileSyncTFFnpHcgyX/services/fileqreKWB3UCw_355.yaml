@@ -1,0 +1,8 @@
+service:
+  name: servicep9ppHPxa14
+  identifier: servicep9ppHPxa14
+  projectIdentifier: NGPipeAutoLargeFileSyncTFFnpHcgyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
