@@ -1,0 +1,8 @@
+service:
+  name: serviceGvKPkxvli2
+  identifier: serviceGvKPkxvli2
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

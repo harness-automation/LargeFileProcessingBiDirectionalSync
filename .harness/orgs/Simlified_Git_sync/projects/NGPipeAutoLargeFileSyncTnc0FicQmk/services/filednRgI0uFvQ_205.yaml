@@ -1,0 +1,8 @@
+service:
+  name: serviceZQLn5YS3IF
+  identifier: serviceZQLn5YS3IF
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

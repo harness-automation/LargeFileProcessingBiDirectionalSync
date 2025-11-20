@@ -1,0 +1,8 @@
+service:
+  name: serviceJED3oMPhml
+  identifier: serviceJED3oMPhml
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

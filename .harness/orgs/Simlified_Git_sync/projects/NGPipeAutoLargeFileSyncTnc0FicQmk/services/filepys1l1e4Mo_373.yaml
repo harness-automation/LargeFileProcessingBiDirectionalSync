@@ -1,0 +1,8 @@
+service:
+  name: serviceX2NI851Js3
+  identifier: serviceX2NI851Js3
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

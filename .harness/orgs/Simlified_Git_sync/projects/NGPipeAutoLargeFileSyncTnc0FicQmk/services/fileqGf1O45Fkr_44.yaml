@@ -1,0 +1,8 @@
+service:
+  name: serviceOMC4BlOZzO
+  identifier: serviceOMC4BlOZzO
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

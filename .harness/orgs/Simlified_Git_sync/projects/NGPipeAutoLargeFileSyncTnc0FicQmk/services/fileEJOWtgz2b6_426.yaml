@@ -1,0 +1,8 @@
+service:
+  name: servicet2GoNROOtV
+  identifier: servicet2GoNROOtV
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

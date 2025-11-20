@@ -1,0 +1,8 @@
+service:
+  name: serviceCUYBcytcxs
+  identifier: serviceCUYBcytcxs
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceVm3GET8g2m
+  identifier: serviceVm3GET8g2m
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

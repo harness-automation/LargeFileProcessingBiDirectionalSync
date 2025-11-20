@@ -1,0 +1,8 @@
+service:
+  name: serviceSspim1lRU7
+  identifier: serviceSspim1lRU7
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicexyx601kfPW
+  identifier: servicexyx601kfPW
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

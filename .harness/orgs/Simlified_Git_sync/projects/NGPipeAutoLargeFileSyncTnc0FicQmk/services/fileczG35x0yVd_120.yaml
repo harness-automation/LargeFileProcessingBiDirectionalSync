@@ -1,0 +1,8 @@
+service:
+  name: servicePZ881csulg
+  identifier: servicePZ881csulg
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

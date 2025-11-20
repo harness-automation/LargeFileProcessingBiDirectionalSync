@@ -1,0 +1,8 @@
+service:
+  name: serviceRIr670TzzT
+  identifier: serviceRIr670TzzT
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

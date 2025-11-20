@@ -1,0 +1,8 @@
+service:
+  name: serviceqrcR445wGp
+  identifier: serviceqrcR445wGp
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

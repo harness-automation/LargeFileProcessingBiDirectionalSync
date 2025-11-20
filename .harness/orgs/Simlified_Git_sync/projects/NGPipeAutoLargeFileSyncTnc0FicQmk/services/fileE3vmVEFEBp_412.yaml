@@ -1,0 +1,8 @@
+service:
+  name: serviceLm2tcuqRGB
+  identifier: serviceLm2tcuqRGB
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service882etBtdOA
+  identifier: service882etBtdOA
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

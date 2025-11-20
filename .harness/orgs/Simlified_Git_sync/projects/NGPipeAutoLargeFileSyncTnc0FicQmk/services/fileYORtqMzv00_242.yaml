@@ -1,0 +1,8 @@
+service:
+  name: serviceb15Pt8I1WF
+  identifier: serviceb15Pt8I1WF
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

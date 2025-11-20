@@ -1,0 +1,8 @@
+service:
+  name: servicerAuCa2MrQI
+  identifier: servicerAuCa2MrQI
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

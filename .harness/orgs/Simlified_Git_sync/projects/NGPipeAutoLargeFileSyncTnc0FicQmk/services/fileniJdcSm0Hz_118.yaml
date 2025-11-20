@@ -1,0 +1,8 @@
+service:
+  name: servicekMPc4CDBM1
+  identifier: servicekMPc4CDBM1
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

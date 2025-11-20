@@ -1,0 +1,8 @@
+service:
+  name: serviceR91xXU4PmU
+  identifier: serviceR91xXU4PmU
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

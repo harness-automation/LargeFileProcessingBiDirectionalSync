@@ -1,0 +1,8 @@
+service:
+  name: servicekogIxA2sxr
+  identifier: servicekogIxA2sxr
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

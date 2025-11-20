@@ -1,0 +1,8 @@
+service:
+  name: serviceNAsLrP8YiC
+  identifier: serviceNAsLrP8YiC
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

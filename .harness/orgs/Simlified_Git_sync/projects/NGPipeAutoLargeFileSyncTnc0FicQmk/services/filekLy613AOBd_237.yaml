@@ -1,0 +1,8 @@
+service:
+  name: servicept4myWXtsQ
+  identifier: servicept4myWXtsQ
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

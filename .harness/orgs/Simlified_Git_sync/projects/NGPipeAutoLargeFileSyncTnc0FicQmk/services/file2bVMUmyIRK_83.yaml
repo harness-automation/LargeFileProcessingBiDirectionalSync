@@ -1,0 +1,8 @@
+service:
+  name: service50tHE69czl
+  identifier: service50tHE69czl
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

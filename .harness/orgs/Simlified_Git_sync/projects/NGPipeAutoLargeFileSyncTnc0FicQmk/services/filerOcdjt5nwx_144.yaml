@@ -1,0 +1,8 @@
+service:
+  name: servicebviWfxmf4v
+  identifier: servicebviWfxmf4v
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

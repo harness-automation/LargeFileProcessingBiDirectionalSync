@@ -1,0 +1,8 @@
+service:
+  name: servicerTYMd61ntR
+  identifier: servicerTYMd61ntR
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

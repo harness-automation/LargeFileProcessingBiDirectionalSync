@@ -1,0 +1,8 @@
+service:
+  name: servicerS93liWlOk
+  identifier: servicerS93liWlOk
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

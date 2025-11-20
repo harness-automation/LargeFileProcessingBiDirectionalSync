@@ -1,0 +1,8 @@
+service:
+  name: serviceGOdJTGNr53
+  identifier: serviceGOdJTGNr53
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

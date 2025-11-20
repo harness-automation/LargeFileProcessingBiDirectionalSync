@@ -1,0 +1,8 @@
+service:
+  name: serviceRDavta7jyg
+  identifier: serviceRDavta7jyg
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

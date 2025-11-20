@@ -1,0 +1,8 @@
+service:
+  name: serviceBE26OFsnJl
+  identifier: serviceBE26OFsnJl
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

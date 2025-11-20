@@ -1,0 +1,8 @@
+service:
+  name: serviceeTxcPoRv2a
+  identifier: serviceeTxcPoRv2a
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

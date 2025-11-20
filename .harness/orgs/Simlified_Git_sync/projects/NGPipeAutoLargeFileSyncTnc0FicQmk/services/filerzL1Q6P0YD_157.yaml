@@ -1,0 +1,8 @@
+service:
+  name: servicenaH2MjKVTI
+  identifier: servicenaH2MjKVTI
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

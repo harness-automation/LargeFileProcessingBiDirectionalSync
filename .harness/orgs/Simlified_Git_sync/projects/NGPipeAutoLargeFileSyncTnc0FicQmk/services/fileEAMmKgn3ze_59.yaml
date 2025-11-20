@@ -1,0 +1,8 @@
+service:
+  name: servicelH0UZfs2gu
+  identifier: servicelH0UZfs2gu
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

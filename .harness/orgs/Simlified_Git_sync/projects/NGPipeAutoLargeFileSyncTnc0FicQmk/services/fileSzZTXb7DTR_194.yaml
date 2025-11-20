@@ -1,0 +1,8 @@
+service:
+  name: serviceBOvv2p44To
+  identifier: serviceBOvv2p44To
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

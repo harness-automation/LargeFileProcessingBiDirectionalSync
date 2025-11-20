@@ -1,0 +1,8 @@
+service:
+  name: servicefrLOMDC2EF
+  identifier: servicefrLOMDC2EF
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

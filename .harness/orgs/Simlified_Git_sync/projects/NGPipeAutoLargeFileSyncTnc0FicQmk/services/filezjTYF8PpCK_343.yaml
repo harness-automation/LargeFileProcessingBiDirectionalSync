@@ -1,0 +1,8 @@
+service:
+  name: serviceBXzzoFMSU6
+  identifier: serviceBXzzoFMSU6
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

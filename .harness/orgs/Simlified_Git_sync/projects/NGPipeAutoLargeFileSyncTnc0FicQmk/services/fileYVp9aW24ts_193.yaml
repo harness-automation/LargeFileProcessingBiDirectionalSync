@@ -1,0 +1,8 @@
+service:
+  name: servicewdFMKEHPj9
+  identifier: servicewdFMKEHPj9
+  projectIdentifier: NGPipeAutoLargeFileSyncTnc0FicQmk
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
