@@ -1,0 +1,8 @@
+service:
+  name: serviceduFPx74ulo
+  identifier: serviceduFPx74ulo
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

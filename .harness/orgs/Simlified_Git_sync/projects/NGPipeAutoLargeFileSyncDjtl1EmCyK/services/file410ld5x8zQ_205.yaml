@@ -1,0 +1,8 @@
+service:
+  name: serviceClNI1udLES
+  identifier: serviceClNI1udLES
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

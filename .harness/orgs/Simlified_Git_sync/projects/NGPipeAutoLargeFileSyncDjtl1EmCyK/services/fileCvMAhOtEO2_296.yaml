@@ -1,0 +1,8 @@
+service:
+  name: serviceremYJZ5CPk
+  identifier: serviceremYJZ5CPk
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

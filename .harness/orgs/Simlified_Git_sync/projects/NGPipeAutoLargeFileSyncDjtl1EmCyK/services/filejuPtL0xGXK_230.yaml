@@ -1,0 +1,8 @@
+service:
+  name: serviceJFPhoFv1bX
+  identifier: serviceJFPhoFv1bX
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

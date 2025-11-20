@@ -1,0 +1,8 @@
+service:
+  name: service22OUTjRIke
+  identifier: service22OUTjRIke
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

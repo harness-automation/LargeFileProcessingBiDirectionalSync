@@ -1,0 +1,8 @@
+service:
+  name: serviceBS86POCd5r
+  identifier: serviceBS86POCd5r
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

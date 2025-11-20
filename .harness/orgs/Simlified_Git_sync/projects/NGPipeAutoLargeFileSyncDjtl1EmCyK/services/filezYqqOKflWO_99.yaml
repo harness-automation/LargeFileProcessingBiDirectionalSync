@@ -1,0 +1,8 @@
+service:
+  name: serviceSLEr1Zu99f
+  identifier: serviceSLEr1Zu99f
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

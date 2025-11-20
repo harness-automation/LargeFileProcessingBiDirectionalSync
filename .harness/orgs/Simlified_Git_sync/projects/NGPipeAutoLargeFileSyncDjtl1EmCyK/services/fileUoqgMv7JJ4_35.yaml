@@ -1,0 +1,8 @@
+service:
+  name: serviceofD92HAI4G
+  identifier: serviceofD92HAI4G
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

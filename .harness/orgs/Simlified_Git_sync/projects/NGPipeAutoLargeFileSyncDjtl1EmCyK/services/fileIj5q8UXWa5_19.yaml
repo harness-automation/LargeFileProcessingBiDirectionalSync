@@ -1,0 +1,8 @@
+service:
+  name: serviceS4DpanyEI1
+  identifier: serviceS4DpanyEI1
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

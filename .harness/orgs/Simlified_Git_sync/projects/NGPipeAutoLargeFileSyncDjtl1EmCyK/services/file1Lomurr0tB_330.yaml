@@ -1,0 +1,8 @@
+service:
+  name: serviceIOIvvn21Ru
+  identifier: serviceIOIvvn21Ru
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

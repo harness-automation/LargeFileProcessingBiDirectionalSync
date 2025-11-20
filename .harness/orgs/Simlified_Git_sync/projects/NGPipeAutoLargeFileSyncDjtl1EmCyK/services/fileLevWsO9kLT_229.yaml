@@ -1,0 +1,8 @@
+service:
+  name: servicebaNkaztW9K
+  identifier: servicebaNkaztW9K
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceDkGKDpu2QI
+  identifier: serviceDkGKDpu2QI
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

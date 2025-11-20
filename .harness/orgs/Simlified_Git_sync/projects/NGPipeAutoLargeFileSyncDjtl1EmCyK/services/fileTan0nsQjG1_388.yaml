@@ -1,0 +1,8 @@
+service:
+  name: serviceJBFrCAbuOp
+  identifier: serviceJBFrCAbuOp
+  projectIdentifier: NGPipeAutoLargeFileSyncDjtl1EmCyK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
