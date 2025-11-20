@@ -1,0 +1,8 @@
+service:
+  name: serviceUhdXI8VF21
+  identifier: serviceUhdXI8VF21
+  projectIdentifier: NGPipeAutoLargeFileSyncnqriwY3ino
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

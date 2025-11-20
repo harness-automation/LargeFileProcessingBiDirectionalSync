@@ -1,0 +1,8 @@
+service:
+  name: serviceixDu13MtCN
+  identifier: serviceixDu13MtCN
+  projectIdentifier: NGPipeAutoLargeFileSyncnqriwY3ino
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

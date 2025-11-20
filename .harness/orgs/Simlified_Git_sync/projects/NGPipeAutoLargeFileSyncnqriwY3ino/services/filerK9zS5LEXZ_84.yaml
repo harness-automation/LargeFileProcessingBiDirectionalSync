@@ -1,0 +1,8 @@
+service:
+  name: servicePDQ3OKdWCS
+  identifier: servicePDQ3OKdWCS
+  projectIdentifier: NGPipeAutoLargeFileSyncnqriwY3ino
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

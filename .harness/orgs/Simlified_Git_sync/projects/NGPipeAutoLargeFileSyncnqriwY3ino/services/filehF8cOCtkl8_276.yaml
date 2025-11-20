@@ -1,0 +1,8 @@
+service:
+  name: serviceDneRDE1zBn
+  identifier: serviceDneRDE1zBn
+  projectIdentifier: NGPipeAutoLargeFileSyncnqriwY3ino
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

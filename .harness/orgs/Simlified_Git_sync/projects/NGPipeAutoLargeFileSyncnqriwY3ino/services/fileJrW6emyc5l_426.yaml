@@ -1,0 +1,8 @@
+service:
+  name: serviceEsW6tookRM
+  identifier: serviceEsW6tookRM
+  projectIdentifier: NGPipeAutoLargeFileSyncnqriwY3ino
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

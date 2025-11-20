@@ -1,0 +1,8 @@
+service:
+  name: serviceRsfyCPDvL0
+  identifier: serviceRsfyCPDvL0
+  projectIdentifier: NGPipeAutoLargeFileSyncnqriwY3ino
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

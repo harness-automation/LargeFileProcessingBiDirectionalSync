@@ -1,0 +1,8 @@
+service:
+  name: service21ofCWvwCd
+  identifier: service21ofCWvwCd
+  projectIdentifier: NGPipeAutoLargeFileSyncnqriwY3ino
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

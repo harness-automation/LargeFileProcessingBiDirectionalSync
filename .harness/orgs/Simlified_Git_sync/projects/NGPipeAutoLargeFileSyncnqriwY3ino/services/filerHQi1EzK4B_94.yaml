@@ -1,0 +1,8 @@
+service:
+  name: serviceMQ1ieFOXrb
+  identifier: serviceMQ1ieFOXrb
+  projectIdentifier: NGPipeAutoLargeFileSyncnqriwY3ino
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

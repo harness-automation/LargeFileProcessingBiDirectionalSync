@@ -1,0 +1,8 @@
+service:
+  name: servicemq98goS1r9
+  identifier: servicemq98goS1r9
+  projectIdentifier: NGPipeAutoLargeFileSyncnqriwY3ino
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
