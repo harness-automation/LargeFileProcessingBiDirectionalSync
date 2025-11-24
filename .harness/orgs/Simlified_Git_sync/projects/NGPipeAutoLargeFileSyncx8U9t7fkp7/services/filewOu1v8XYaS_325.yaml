@@ -1,0 +1,8 @@
+service:
+  name: service32SVR4cRbv
+  identifier: service32SVR4cRbv
+  projectIdentifier: NGPipeAutoLargeFileSyncx8U9t7fkp7
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
