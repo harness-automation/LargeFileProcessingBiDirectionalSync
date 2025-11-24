@@ -1,0 +1,8 @@
+service:
+  name: servicen1vPN2RgJd
+  identifier: servicen1vPN2RgJd
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

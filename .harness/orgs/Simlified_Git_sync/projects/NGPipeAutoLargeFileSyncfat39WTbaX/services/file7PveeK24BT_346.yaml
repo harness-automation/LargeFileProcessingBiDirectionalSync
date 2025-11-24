@@ -1,0 +1,8 @@
+service:
+  name: serviceMTn4nZEYMk
+  identifier: serviceMTn4nZEYMk
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

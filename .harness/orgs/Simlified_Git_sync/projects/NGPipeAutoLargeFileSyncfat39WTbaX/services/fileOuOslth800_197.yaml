@@ -1,0 +1,8 @@
+service:
+  name: serviceL7033qb1OE
+  identifier: serviceL7033qb1OE
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

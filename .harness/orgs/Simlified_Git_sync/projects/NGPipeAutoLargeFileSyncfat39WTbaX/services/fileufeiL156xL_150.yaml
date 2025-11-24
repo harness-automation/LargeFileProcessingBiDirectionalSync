@@ -1,0 +1,8 @@
+service:
+  name: serviceNYRHLGz3ii
+  identifier: serviceNYRHLGz3ii
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

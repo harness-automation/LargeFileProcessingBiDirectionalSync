@@ -1,0 +1,8 @@
+service:
+  name: serviced6Pnme20sb
+  identifier: serviced6Pnme20sb
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

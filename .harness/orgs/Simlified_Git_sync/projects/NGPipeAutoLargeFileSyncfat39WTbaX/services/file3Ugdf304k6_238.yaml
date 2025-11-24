@@ -1,0 +1,8 @@
+service:
+  name: servicetcmtul10K9
+  identifier: servicetcmtul10K9
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

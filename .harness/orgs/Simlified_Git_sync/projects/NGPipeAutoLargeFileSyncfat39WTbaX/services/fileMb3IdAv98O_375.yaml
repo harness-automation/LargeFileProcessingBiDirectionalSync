@@ -1,0 +1,8 @@
+service:
+  name: serviceH5KeZOvrUN
+  identifier: serviceH5KeZOvrUN
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

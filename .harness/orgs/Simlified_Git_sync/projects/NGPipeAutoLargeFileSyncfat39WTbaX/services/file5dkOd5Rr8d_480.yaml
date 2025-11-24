@@ -1,0 +1,8 @@
+service:
+  name: servicezJsLis2VKI
+  identifier: servicezJsLis2VKI
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

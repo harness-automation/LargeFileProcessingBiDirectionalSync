@@ -1,0 +1,8 @@
+service:
+  name: servicer47CFRL67y
+  identifier: servicer47CFRL67y
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

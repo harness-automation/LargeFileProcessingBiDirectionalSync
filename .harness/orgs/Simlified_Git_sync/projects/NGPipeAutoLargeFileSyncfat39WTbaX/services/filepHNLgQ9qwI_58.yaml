@@ -1,0 +1,8 @@
+service:
+  name: serviceEMwlUyTaC6
+  identifier: serviceEMwlUyTaC6
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

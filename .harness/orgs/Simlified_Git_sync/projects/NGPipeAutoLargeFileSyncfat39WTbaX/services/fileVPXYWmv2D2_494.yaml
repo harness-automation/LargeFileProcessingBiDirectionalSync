@@ -1,0 +1,8 @@
+service:
+  name: serviceNVcepcv2Xk
+  identifier: serviceNVcepcv2Xk
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

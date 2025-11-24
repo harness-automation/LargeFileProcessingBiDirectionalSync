@@ -1,0 +1,8 @@
+service:
+  name: servicetprm7MPxLq
+  identifier: servicetprm7MPxLq
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

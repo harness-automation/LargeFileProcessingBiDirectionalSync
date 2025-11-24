@@ -1,0 +1,8 @@
+service:
+  name: serviceKHT836w6ie
+  identifier: serviceKHT836w6ie
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

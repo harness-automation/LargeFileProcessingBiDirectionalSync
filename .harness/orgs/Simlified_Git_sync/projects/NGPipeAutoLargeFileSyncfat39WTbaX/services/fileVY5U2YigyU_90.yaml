@@ -1,0 +1,8 @@
+service:
+  name: service37ExImuXgt
+  identifier: service37ExImuXgt
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

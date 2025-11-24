@@ -1,0 +1,8 @@
+service:
+  name: serviceA12OPsSKAb
+  identifier: serviceA12OPsSKAb
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

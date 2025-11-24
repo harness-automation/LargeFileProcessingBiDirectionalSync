@@ -1,0 +1,8 @@
+service:
+  name: servicefwkt4jMwaW
+  identifier: servicefwkt4jMwaW
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

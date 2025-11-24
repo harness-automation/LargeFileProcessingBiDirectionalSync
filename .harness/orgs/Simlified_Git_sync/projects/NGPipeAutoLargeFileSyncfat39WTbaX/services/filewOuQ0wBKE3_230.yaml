@@ -1,0 +1,8 @@
+service:
+  name: servicehpjzxIncnm
+  identifier: servicehpjzxIncnm
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

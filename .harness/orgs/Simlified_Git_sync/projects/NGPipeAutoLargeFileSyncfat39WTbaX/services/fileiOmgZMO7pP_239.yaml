@@ -1,0 +1,8 @@
+service:
+  name: servicev2vB7TxDNA
+  identifier: servicev2vB7TxDNA
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

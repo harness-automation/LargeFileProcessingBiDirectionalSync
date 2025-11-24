@@ -1,0 +1,8 @@
+service:
+  name: service28ztaxtiWl
+  identifier: service28ztaxtiWl
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

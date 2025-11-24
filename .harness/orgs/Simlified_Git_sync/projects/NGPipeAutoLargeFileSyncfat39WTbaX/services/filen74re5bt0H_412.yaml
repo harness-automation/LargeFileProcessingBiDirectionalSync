@@ -1,0 +1,8 @@
+service:
+  name: serviceChSupAf38x
+  identifier: serviceChSupAf38x
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

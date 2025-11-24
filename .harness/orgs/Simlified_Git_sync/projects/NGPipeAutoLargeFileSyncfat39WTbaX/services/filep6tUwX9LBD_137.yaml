@@ -1,0 +1,8 @@
+service:
+  name: serviceJkx67FFDau
+  identifier: serviceJkx67FFDau
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

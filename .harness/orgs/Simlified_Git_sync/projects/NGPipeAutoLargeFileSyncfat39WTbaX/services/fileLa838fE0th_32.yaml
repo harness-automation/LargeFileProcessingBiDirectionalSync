@@ -1,0 +1,8 @@
+service:
+  name: serviceNMEkrm3XmC
+  identifier: serviceNMEkrm3XmC
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

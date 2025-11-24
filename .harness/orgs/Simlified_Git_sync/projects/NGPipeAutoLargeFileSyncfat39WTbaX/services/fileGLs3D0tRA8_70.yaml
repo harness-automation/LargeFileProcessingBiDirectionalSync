@@ -1,0 +1,8 @@
+service:
+  name: servicewHIRDHWV6m
+  identifier: servicewHIRDHWV6m
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

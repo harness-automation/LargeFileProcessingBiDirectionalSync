@@ -1,0 +1,8 @@
+service:
+  name: serviceTwyftnXbv7
+  identifier: serviceTwyftnXbv7
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

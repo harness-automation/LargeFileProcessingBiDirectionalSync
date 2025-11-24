@@ -1,0 +1,8 @@
+service:
+  name: serviceKE778mWSmk
+  identifier: serviceKE778mWSmk
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

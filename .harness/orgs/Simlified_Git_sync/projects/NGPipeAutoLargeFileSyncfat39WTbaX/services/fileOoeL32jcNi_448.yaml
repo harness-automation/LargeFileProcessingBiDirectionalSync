@@ -1,0 +1,8 @@
+service:
+  name: serviceLk27NzdPCX
+  identifier: serviceLk27NzdPCX
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

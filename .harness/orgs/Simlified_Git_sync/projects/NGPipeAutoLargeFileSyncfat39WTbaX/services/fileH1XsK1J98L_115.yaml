@@ -1,0 +1,8 @@
+service:
+  name: servicekGp83MNYNR
+  identifier: servicekGp83MNYNR
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

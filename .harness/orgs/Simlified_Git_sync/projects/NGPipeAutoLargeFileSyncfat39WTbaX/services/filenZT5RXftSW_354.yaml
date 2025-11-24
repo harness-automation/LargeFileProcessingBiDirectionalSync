@@ -1,0 +1,8 @@
+service:
+  name: serviceFDL7cfKTJ1
+  identifier: serviceFDL7cfKTJ1
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

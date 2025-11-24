@@ -1,0 +1,8 @@
+service:
+  name: serviceSMSzknvwSx
+  identifier: serviceSMSzknvwSx
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

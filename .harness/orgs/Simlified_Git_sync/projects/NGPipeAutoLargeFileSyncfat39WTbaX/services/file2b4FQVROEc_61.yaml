@@ -1,0 +1,8 @@
+service:
+  name: serviceHpu0nHa21V
+  identifier: serviceHpu0nHa21V
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

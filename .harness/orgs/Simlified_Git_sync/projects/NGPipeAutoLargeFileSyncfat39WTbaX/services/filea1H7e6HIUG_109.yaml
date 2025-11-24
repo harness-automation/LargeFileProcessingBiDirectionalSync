@@ -1,0 +1,8 @@
+service:
+  name: serviceR57Y90sYB5
+  identifier: serviceR57Y90sYB5
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceCFMCV4E68r
+  identifier: serviceCFMCV4E68r
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceGs928C1HT6
+  identifier: serviceGs928C1HT6
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceRIOvJXUB2F
+  identifier: serviceRIOvJXUB2F
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

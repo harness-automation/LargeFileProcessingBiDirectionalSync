@@ -1,0 +1,8 @@
+service:
+  name: servicegePgfwn4P4
+  identifier: servicegePgfwn4P4
+  projectIdentifier: NGPipeAutoLargeFileSyncfat39WTbaX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
