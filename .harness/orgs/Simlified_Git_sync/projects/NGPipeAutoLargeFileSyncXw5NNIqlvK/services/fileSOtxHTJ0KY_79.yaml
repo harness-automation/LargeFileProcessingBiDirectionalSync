@@ -1,0 +1,8 @@
+service:
+  name: serviceXKVLa15HwG
+  identifier: serviceXKVLa15HwG
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

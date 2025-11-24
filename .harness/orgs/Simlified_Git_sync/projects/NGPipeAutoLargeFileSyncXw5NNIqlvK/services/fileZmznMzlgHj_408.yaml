@@ -1,0 +1,8 @@
+service:
+  name: servicehypvo0MSSV
+  identifier: servicehypvo0MSSV
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

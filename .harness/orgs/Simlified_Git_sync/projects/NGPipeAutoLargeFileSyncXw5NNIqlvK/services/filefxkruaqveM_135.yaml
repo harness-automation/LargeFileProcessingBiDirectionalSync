@@ -1,0 +1,8 @@
+service:
+  name: serviceWHZBmv4lBu
+  identifier: serviceWHZBmv4lBu
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

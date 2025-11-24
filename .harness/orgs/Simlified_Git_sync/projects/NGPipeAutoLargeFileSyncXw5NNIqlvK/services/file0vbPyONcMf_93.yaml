@@ -1,0 +1,8 @@
+service:
+  name: serviceTOpCMlt8ts
+  identifier: serviceTOpCMlt8ts
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceIMwPAro3YX
+  identifier: serviceIMwPAro3YX
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

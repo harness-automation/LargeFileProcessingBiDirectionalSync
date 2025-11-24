@@ -1,0 +1,8 @@
+service:
+  name: serviceM372BURiCt
+  identifier: serviceM372BURiCt
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

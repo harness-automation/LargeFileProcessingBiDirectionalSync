@@ -1,0 +1,8 @@
+service:
+  name: serviceGOND1Ga5ob
+  identifier: serviceGOND1Ga5ob
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

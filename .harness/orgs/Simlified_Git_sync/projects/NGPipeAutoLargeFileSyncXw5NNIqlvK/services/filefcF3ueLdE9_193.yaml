@@ -1,0 +1,8 @@
+service:
+  name: serviceFqMOmndK2O
+  identifier: serviceFqMOmndK2O
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicelGm664Wam6
+  identifier: servicelGm664Wam6
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

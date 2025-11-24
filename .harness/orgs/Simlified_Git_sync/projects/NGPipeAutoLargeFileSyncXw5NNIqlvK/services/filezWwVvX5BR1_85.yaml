@@ -1,0 +1,8 @@
+service:
+  name: serviceMX29gb4sih
+  identifier: serviceMX29gb4sih
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

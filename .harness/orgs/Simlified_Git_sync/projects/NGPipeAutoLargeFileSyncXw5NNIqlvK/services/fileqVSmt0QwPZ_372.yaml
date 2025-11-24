@@ -1,0 +1,8 @@
+service:
+  name: serviceSnOUHF1tm4
+  identifier: serviceSnOUHF1tm4
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

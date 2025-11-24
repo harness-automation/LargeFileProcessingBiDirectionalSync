@@ -1,0 +1,8 @@
+service:
+  name: serviceSPNlJXP1Ac
+  identifier: serviceSPNlJXP1Ac
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

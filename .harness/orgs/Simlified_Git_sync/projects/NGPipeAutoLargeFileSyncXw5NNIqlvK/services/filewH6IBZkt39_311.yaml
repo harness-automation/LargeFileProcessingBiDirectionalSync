@@ -1,0 +1,8 @@
+service:
+  name: serviceGaCTs9leWo
+  identifier: serviceGaCTs9leWo
+  projectIdentifier: NGPipeAutoLargeFileSyncXw5NNIqlvK
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
