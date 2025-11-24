@@ -1,0 +1,8 @@
+service:
+  name: serviceV89SewSXg1
+  identifier: serviceV89SewSXg1
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

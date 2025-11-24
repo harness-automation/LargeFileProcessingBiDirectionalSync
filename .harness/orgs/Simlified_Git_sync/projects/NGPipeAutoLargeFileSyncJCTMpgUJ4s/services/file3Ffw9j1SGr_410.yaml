@@ -1,0 +1,8 @@
+service:
+  name: serviceOLUT3RVIQY
+  identifier: serviceOLUT3RVIQY
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

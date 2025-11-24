@@ -1,0 +1,8 @@
+service:
+  name: serviceDvtvDLmFFW
+  identifier: serviceDvtvDLmFFW
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

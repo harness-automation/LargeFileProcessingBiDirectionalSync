@@ -1,0 +1,8 @@
+service:
+  name: serviceTEZe0jSCJu
+  identifier: serviceTEZe0jSCJu
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

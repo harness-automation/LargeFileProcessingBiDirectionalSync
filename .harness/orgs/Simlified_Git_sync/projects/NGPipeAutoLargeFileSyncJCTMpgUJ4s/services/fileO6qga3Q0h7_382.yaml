@@ -1,0 +1,8 @@
+service:
+  name: servicefbMO2HadLq
+  identifier: servicefbMO2HadLq
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

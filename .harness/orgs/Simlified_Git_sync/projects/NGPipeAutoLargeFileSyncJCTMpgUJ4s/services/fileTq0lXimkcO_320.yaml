@@ -1,0 +1,8 @@
+service:
+  name: serviceRin8MO71Jw
+  identifier: serviceRin8MO71Jw
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

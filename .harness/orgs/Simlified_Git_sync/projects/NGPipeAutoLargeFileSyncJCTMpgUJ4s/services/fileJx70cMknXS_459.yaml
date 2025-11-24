@@ -1,0 +1,8 @@
+service:
+  name: serviceFNHw7RcAK2
+  identifier: serviceFNHw7RcAK2
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

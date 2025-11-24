@@ -1,0 +1,8 @@
+service:
+  name: serviceefexS17wcu
+  identifier: serviceefexS17wcu
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

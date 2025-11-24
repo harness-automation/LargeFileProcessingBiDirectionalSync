@@ -1,0 +1,8 @@
+service:
+  name: service77OqoHPMpf
+  identifier: service77OqoHPMpf
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service2Rh23FAddq
+  identifier: service2Rh23FAddq
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceeq16AXDSR2
+  identifier: serviceeq16AXDSR2
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

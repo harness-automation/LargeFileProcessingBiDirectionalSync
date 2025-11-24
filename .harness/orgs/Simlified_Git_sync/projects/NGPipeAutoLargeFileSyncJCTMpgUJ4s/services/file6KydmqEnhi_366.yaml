@@ -1,0 +1,8 @@
+service:
+  name: serviceUAIpfpg23Q
+  identifier: serviceUAIpfpg23Q
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

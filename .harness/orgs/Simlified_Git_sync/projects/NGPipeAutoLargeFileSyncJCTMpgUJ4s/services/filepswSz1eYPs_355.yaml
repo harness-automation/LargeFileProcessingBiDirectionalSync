@@ -1,0 +1,8 @@
+service:
+  name: servicetsbslEJ0tb
+  identifier: servicetsbslEJ0tb
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceBeW18In7hv
+  identifier: serviceBeW18In7hv
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

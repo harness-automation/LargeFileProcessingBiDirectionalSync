@@ -1,0 +1,8 @@
+service:
+  name: servicewY0PayDIBd
+  identifier: servicewY0PayDIBd
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

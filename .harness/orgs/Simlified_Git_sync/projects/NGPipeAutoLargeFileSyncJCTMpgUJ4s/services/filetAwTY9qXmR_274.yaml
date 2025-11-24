@@ -1,0 +1,8 @@
+service:
+  name: serviceRif4RE8fol
+  identifier: serviceRif4RE8fol
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

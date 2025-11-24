@@ -1,0 +1,8 @@
+service:
+  name: serviceAZWpantRll
+  identifier: serviceAZWpantRll
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

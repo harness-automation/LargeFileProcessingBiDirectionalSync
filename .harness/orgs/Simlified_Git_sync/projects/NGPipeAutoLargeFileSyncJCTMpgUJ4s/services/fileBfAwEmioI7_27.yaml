@@ -1,0 +1,8 @@
+service:
+  name: services1HRIKiW1E
+  identifier: services1HRIKiW1E
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceIMEAd6CS8D
+  identifier: serviceIMEAd6CS8D
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

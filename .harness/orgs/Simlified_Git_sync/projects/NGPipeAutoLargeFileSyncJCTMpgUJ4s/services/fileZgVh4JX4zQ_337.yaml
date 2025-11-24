@@ -1,0 +1,8 @@
+service:
+  name: serviceSOCPld6UC0
+  identifier: serviceSOCPld6UC0
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

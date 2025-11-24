@@ -1,0 +1,8 @@
+service:
+  name: servicemqu9Farpur
+  identifier: servicemqu9Farpur
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

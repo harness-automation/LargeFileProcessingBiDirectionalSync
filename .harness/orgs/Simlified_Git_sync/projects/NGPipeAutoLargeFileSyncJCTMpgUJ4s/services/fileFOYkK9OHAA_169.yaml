@@ -1,0 +1,8 @@
+service:
+  name: serviceoC9v2uWWWu
+  identifier: serviceoC9v2uWWWu
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

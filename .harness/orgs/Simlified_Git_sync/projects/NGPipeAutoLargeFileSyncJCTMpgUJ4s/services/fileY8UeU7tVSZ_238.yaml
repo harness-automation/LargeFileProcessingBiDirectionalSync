@@ -1,0 +1,8 @@
+service:
+  name: serviceUGBUtNUg3K
+  identifier: serviceUGBUtNUg3K
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

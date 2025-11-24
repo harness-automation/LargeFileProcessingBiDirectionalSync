@@ -1,0 +1,8 @@
+service:
+  name: servicexxleapnKb1
+  identifier: servicexxleapnKb1
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceVTi9AryAp1
+  identifier: serviceVTi9AryAp1
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

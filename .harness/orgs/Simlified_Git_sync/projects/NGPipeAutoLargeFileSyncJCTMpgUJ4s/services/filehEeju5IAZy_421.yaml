@@ -1,0 +1,8 @@
+service:
+  name: serviceCMbwrfmRmc
+  identifier: serviceCMbwrfmRmc
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

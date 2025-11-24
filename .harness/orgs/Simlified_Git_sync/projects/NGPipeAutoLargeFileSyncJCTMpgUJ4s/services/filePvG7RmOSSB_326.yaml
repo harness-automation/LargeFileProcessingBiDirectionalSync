@@ -1,0 +1,8 @@
+service:
+  name: serviceLrPib12XP3
+  identifier: serviceLrPib12XP3
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

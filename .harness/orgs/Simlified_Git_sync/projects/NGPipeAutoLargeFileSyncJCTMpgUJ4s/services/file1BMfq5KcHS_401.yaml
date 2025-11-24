@@ -1,0 +1,8 @@
+service:
+  name: servicejHlDHIG2pE
+  identifier: servicejHlDHIG2pE
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

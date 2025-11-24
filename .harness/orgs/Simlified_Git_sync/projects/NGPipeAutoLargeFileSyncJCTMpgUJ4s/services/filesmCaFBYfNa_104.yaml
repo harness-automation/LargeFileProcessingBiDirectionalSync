@@ -1,0 +1,8 @@
+service:
+  name: serviceaUloreEj3m
+  identifier: serviceaUloreEj3m
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

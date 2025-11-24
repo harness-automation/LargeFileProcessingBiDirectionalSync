@@ -1,0 +1,8 @@
+service:
+  name: serviceFXdtiP7tiB
+  identifier: serviceFXdtiP7tiB
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

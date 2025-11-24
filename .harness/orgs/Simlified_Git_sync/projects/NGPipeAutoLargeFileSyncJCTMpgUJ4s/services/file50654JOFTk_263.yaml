@@ -1,0 +1,8 @@
+service:
+  name: service2iF1ShyQag
+  identifier: service2iF1ShyQag
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

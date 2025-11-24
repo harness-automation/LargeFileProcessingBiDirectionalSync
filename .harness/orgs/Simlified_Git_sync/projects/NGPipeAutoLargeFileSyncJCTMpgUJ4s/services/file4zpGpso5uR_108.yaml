@@ -1,0 +1,8 @@
+service:
+  name: serviceD5HKWI75BR
+  identifier: serviceD5HKWI75BR
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

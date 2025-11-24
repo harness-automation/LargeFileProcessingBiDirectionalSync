@@ -1,0 +1,8 @@
+service:
+  name: service2zPyW856Fr
+  identifier: service2zPyW856Fr
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

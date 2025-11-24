@@ -1,0 +1,8 @@
+service:
+  name: serviceF39mCeulDb
+  identifier: serviceF39mCeulDb
+  projectIdentifier: NGPipeAutoLargeFileSyncJCTMpgUJ4s
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
