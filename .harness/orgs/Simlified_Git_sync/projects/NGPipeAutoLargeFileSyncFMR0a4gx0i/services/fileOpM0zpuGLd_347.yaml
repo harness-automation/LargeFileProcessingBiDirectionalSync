@@ -1,0 +1,8 @@
+service:
+  name: servicedOLCRiJY44
+  identifier: servicedOLCRiJY44
+  projectIdentifier: NGPipeAutoLargeFileSyncFMR0a4gx0i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

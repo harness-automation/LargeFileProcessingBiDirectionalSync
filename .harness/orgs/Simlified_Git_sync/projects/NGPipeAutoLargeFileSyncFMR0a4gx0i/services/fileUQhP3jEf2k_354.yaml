@@ -1,0 +1,8 @@
+service:
+  name: service5kPXYPxTaj
+  identifier: service5kPXYPxTaj
+  projectIdentifier: NGPipeAutoLargeFileSyncFMR0a4gx0i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

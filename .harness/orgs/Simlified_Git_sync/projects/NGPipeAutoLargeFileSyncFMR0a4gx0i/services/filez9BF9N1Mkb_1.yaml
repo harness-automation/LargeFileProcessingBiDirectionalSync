@@ -1,0 +1,8 @@
+service:
+  name: serviceiUPP3ZHCvr
+  identifier: serviceiUPP3ZHCvr
+  projectIdentifier: NGPipeAutoLargeFileSyncFMR0a4gx0i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

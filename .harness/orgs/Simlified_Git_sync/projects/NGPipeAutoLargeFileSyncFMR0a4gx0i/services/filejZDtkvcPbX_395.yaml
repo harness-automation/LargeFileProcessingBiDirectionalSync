@@ -1,0 +1,8 @@
+service:
+  name: serviceiST250kf7I
+  identifier: serviceiST250kf7I
+  projectIdentifier: NGPipeAutoLargeFileSyncFMR0a4gx0i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

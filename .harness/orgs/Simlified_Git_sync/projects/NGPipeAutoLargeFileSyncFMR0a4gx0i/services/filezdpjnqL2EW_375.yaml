@@ -1,0 +1,8 @@
+service:
+  name: service0SESJEk2v6
+  identifier: service0SESJEk2v6
+  projectIdentifier: NGPipeAutoLargeFileSyncFMR0a4gx0i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

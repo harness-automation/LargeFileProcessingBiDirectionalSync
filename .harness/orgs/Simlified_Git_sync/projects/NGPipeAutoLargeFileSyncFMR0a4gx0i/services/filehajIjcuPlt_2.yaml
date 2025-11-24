@@ -1,0 +1,8 @@
+service:
+  name: servicethOZ26r4hx
+  identifier: servicethOZ26r4hx
+  projectIdentifier: NGPipeAutoLargeFileSyncFMR0a4gx0i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

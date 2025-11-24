@@ -1,0 +1,8 @@
+service:
+  name: servicelofiZZt4DB
+  identifier: servicelofiZZt4DB
+  projectIdentifier: NGPipeAutoLargeFileSyncFMR0a4gx0i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

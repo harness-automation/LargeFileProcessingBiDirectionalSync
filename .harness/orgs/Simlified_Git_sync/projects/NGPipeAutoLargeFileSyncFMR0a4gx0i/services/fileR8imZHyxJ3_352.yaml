@@ -1,0 +1,8 @@
+service:
+  name: servicerT6T0QRMS6
+  identifier: servicerT6T0QRMS6
+  projectIdentifier: NGPipeAutoLargeFileSyncFMR0a4gx0i
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
