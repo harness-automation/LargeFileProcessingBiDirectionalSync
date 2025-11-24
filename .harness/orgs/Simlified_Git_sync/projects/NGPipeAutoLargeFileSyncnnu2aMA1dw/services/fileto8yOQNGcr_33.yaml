@@ -1,0 +1,8 @@
+service:
+  name: servicegIC57ZI5yp
+  identifier: servicegIC57ZI5yp
+  projectIdentifier: NGPipeAutoLargeFileSyncnnu2aMA1dw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

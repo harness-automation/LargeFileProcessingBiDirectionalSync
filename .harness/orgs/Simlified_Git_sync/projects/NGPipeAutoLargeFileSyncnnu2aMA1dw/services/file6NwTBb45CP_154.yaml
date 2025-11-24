@@ -1,0 +1,8 @@
+service:
+  name: serviceIEIsu1kzuv
+  identifier: serviceIEIsu1kzuv
+  projectIdentifier: NGPipeAutoLargeFileSyncnnu2aMA1dw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

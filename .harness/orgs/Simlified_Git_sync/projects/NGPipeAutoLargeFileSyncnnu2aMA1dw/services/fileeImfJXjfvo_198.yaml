@@ -1,0 +1,8 @@
+service:
+  name: serviceosrkT69Lab
+  identifier: serviceosrkT69Lab
+  projectIdentifier: NGPipeAutoLargeFileSyncnnu2aMA1dw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

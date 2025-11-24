@@ -1,0 +1,8 @@
+service:
+  name: servicefMl10VXURH
+  identifier: servicefMl10VXURH
+  projectIdentifier: NGPipeAutoLargeFileSyncnnu2aMA1dw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

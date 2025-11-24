@@ -1,0 +1,8 @@
+service:
+  name: serviceMON6FkbIbA
+  identifier: serviceMON6FkbIbA
+  projectIdentifier: NGPipeAutoLargeFileSyncnnu2aMA1dw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

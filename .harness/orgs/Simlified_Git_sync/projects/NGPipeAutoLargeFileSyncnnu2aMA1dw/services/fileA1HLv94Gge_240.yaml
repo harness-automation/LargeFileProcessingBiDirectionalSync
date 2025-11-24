@@ -1,0 +1,8 @@
+service:
+  name: serviceBIM7DmKOdG
+  identifier: serviceBIM7DmKOdG
+  projectIdentifier: NGPipeAutoLargeFileSyncnnu2aMA1dw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service81GvREGuxB
+  identifier: service81GvREGuxB
+  projectIdentifier: NGPipeAutoLargeFileSyncnnu2aMA1dw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

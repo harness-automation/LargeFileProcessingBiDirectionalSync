@@ -1,0 +1,8 @@
+service:
+  name: serviceG2hsgpPSx6
+  identifier: serviceG2hsgpPSx6
+  projectIdentifier: NGPipeAutoLargeFileSyncnnu2aMA1dw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

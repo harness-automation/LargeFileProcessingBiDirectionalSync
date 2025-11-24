@@ -1,0 +1,8 @@
+service:
+  name: serviceIGam0lndo1
+  identifier: serviceIGam0lndo1
+  projectIdentifier: NGPipeAutoLargeFileSyncnnu2aMA1dw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

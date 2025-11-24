@@ -1,0 +1,8 @@
+service:
+  name: serviceMZgep5sqmb
+  identifier: serviceMZgep5sqmb
+  projectIdentifier: NGPipeAutoLargeFileSyncnnu2aMA1dw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
