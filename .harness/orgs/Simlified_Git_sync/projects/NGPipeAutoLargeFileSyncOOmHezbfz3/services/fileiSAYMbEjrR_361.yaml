@@ -1,0 +1,8 @@
+service:
+  name: servicemrTIKyLTTy
+  identifier: servicemrTIKyLTTy
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

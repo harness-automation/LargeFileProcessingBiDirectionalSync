@@ -1,0 +1,8 @@
+service:
+  name: serviceDn1vsfFI4d
+  identifier: serviceDn1vsfFI4d
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceVoiUn21jDB
+  identifier: serviceVoiUn21jDB
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

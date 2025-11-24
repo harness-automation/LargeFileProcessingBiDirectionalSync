@@ -1,0 +1,8 @@
+service:
+  name: serviceJiDc2NDS9r
+  identifier: serviceJiDc2NDS9r
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

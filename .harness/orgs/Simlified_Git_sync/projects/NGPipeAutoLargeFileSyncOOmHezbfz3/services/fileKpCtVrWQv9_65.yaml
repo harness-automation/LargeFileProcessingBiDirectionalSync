@@ -1,0 +1,8 @@
+service:
+  name: serviceNFMgdrm764
+  identifier: serviceNFMgdrm764
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

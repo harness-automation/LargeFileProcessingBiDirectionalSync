@@ -1,0 +1,8 @@
+service:
+  name: serviceRX38DrYeNo
+  identifier: serviceRX38DrYeNo
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

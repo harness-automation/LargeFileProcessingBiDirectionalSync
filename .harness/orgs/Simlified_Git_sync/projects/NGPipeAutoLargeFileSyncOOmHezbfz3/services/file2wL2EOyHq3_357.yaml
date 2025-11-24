@@ -1,0 +1,8 @@
+service:
+  name: serviceANAMo8VEZg
+  identifier: serviceANAMo8VEZg
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

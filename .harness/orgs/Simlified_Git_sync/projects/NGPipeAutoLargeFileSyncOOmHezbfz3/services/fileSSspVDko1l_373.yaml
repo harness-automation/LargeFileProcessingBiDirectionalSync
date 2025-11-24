@@ -1,0 +1,8 @@
+service:
+  name: serviceGnoPlK2IU6
+  identifier: serviceGnoPlK2IU6
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

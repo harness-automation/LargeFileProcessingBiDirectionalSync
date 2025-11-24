@@ -1,0 +1,8 @@
+service:
+  name: serviceswVba4qPor
+  identifier: serviceswVba4qPor
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

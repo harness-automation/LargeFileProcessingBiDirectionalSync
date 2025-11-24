@@ -1,0 +1,8 @@
+service:
+  name: service7AfTBwtPIs
+  identifier: service7AfTBwtPIs
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

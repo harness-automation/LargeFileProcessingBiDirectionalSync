@@ -1,0 +1,8 @@
+service:
+  name: service0SysU93pra
+  identifier: service0SysU93pra
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

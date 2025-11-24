@@ -1,0 +1,8 @@
+service:
+  name: serviceVapLBfnX2n
+  identifier: serviceVapLBfnX2n
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

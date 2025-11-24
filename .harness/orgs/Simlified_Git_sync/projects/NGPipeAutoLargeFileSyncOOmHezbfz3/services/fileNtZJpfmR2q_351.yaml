@@ -1,0 +1,8 @@
+service:
+  name: serviceEKflo8fnUN
+  identifier: serviceEKflo8fnUN
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicetho8sDWb6g
+  identifier: servicetho8sDWb6g
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

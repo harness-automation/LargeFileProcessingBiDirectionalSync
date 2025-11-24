@@ -1,0 +1,8 @@
+service:
+  name: serviceMLSQmoTm2v
+  identifier: serviceMLSQmoTm2v
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

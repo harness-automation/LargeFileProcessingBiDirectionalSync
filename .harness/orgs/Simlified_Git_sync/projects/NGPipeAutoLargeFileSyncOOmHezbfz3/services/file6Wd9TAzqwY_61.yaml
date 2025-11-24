@@ -1,0 +1,8 @@
+service:
+  name: serviceVuzlGHsX2p
+  identifier: serviceVuzlGHsX2p
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceYSqbtMsbt1
+  identifier: serviceYSqbtMsbt1
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

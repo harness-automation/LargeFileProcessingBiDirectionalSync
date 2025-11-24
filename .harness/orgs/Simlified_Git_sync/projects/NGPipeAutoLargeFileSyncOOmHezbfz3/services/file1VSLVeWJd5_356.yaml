@@ -1,0 +1,8 @@
+service:
+  name: service2onBP74sIz
+  identifier: service2onBP74sIz
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

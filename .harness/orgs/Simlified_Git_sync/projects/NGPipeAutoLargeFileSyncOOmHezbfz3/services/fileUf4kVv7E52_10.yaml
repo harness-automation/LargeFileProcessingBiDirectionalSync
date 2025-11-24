@@ -1,0 +1,8 @@
+service:
+  name: serviceNev8z46UAw
+  identifier: serviceNev8z46UAw
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

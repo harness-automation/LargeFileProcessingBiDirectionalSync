@@ -1,0 +1,8 @@
+service:
+  name: serviceaiPa1S2cWI
+  identifier: serviceaiPa1S2cWI
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

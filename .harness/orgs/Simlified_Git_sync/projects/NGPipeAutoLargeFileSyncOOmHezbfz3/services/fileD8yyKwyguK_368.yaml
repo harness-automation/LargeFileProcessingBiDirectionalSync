@@ -1,0 +1,8 @@
+service:
+  name: serviceM4yEgmAFBu
+  identifier: serviceM4yEgmAFBu
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

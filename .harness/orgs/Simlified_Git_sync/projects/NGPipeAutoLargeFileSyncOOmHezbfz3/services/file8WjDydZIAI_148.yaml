@@ -1,0 +1,8 @@
+service:
+  name: serviceGL2gX1MCnX
+  identifier: serviceGL2gX1MCnX
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

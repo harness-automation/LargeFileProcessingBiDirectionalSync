@@ -1,0 +1,8 @@
+service:
+  name: servicePEdpou5DoS
+  identifier: servicePEdpou5DoS
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

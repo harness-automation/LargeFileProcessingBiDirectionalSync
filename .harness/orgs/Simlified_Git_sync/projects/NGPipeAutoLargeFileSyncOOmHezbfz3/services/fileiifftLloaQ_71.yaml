@@ -1,0 +1,8 @@
+service:
+  name: serviceFLLdX5faZT
+  identifier: serviceFLLdX5faZT
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

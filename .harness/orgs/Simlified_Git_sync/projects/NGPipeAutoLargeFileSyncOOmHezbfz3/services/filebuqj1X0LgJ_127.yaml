@@ -1,0 +1,8 @@
+service:
+  name: serviceRF9m1ajpmu
+  identifier: serviceRF9m1ajpmu
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceihrEsi4JTb
+  identifier: serviceihrEsi4JTb
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

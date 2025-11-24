@@ -1,0 +1,8 @@
+service:
+  name: serviceCTZ98edmzV
+  identifier: serviceCTZ98edmzV
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

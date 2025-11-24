@@ -1,0 +1,8 @@
+service:
+  name: service67ex4nXENU
+  identifier: service67ex4nXENU
+  projectIdentifier: NGPipeAutoLargeFileSyncOOmHezbfz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
