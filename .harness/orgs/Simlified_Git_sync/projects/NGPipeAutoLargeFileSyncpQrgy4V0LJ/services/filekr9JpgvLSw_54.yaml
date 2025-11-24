@@ -1,0 +1,8 @@
+service:
+  name: servicewLBAstLF8O
+  identifier: servicewLBAstLF8O
+  projectIdentifier: NGPipeAutoLargeFileSyncpQrgy4V0LJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service20GJIcNBaw
+  identifier: service20GJIcNBaw
+  projectIdentifier: NGPipeAutoLargeFileSyncpQrgy4V0LJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

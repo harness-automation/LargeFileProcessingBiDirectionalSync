@@ -1,0 +1,8 @@
+service:
+  name: serviceUg1xmvcWor
+  identifier: serviceUg1xmvcWor
+  projectIdentifier: NGPipeAutoLargeFileSyncpQrgy4V0LJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

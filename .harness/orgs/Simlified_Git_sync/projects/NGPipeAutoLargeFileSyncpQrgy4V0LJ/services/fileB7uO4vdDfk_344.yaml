@@ -1,0 +1,8 @@
+service:
+  name: servicebiPs1kltaC
+  identifier: servicebiPs1kltaC
+  projectIdentifier: NGPipeAutoLargeFileSyncpQrgy4V0LJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
