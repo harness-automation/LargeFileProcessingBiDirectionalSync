@@ -1,0 +1,8 @@
+service:
+  name: service1sfw7PUlg9
+  identifier: service1sfw7PUlg9
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceL9momaWwpu
+  identifier: serviceL9momaWwpu
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

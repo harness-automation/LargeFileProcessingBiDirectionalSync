@@ -1,0 +1,8 @@
+service:
+  name: serviceET1dMyVDUC
+  identifier: serviceET1dMyVDUC
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

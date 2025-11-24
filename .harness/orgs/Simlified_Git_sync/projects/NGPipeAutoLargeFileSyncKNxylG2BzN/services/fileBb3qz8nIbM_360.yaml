@@ -1,0 +1,8 @@
+service:
+  name: servicerPuTK9F3VI
+  identifier: servicerPuTK9F3VI
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicerpFdOG2nGI
+  identifier: servicerpFdOG2nGI
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceCB2k3J1Lv2
+  identifier: serviceCB2k3J1Lv2
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

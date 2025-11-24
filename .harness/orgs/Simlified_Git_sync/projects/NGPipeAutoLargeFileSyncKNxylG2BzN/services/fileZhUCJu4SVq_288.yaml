@@ -1,0 +1,8 @@
+service:
+  name: service3pvFSjLCCx
+  identifier: service3pvFSjLCCx
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

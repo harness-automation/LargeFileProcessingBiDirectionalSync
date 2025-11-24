@@ -1,0 +1,8 @@
+service:
+  name: serviceHES45ZQ2kP
+  identifier: serviceHES45ZQ2kP
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

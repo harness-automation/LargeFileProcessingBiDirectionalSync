@@ -1,0 +1,8 @@
+service:
+  name: serviceeA4PlzREmy
+  identifier: serviceeA4PlzREmy
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

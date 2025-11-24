@@ -1,0 +1,8 @@
+service:
+  name: serviceeMOs2A8B9N
+  identifier: serviceeMOs2A8B9N
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

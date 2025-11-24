@@ -1,0 +1,8 @@
+service:
+  name: serviceUSj5P2cIot
+  identifier: serviceUSj5P2cIot
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceEoSOCsS7uA
+  identifier: serviceEoSOCsS7uA
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

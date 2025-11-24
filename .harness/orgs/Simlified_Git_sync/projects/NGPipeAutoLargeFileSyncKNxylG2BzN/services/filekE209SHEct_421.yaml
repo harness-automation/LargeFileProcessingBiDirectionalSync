@@ -1,0 +1,8 @@
+service:
+  name: serviceARK8uV8N52
+  identifier: serviceARK8uV8N52
+  projectIdentifier: NGPipeAutoLargeFileSyncKNxylG2BzN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
