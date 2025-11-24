@@ -1,0 +1,8 @@
+service:
+  name: serviceFKsj12vhdg
+  identifier: serviceFKsj12vhdg
+  projectIdentifier: NGPipeAutoLargeFileSyncz7fhPfLX2j
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

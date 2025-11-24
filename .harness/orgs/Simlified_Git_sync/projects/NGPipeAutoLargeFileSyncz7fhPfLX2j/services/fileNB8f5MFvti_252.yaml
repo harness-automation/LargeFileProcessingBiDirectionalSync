@@ -1,0 +1,8 @@
+service:
+  name: serviceTG20mVeVol
+  identifier: serviceTG20mVeVol
+  projectIdentifier: NGPipeAutoLargeFileSyncz7fhPfLX2j
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

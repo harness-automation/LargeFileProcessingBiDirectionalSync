@@ -1,0 +1,8 @@
+service:
+  name: servicegiBR48v66q
+  identifier: servicegiBR48v66q
+  projectIdentifier: NGPipeAutoLargeFileSyncz7fhPfLX2j
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

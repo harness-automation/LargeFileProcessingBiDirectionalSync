@@ -1,0 +1,8 @@
+service:
+  name: serviceWFn4n3xTRm
+  identifier: serviceWFn4n3xTRm
+  projectIdentifier: NGPipeAutoLargeFileSyncz7fhPfLX2j
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

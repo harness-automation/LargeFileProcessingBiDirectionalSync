@@ -1,0 +1,8 @@
+service:
+  name: serviceMTf3muTqG9
+  identifier: serviceMTf3muTqG9
+  projectIdentifier: NGPipeAutoLargeFileSyncz7fhPfLX2j
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

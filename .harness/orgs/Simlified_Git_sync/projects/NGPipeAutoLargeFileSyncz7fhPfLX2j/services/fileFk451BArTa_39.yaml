@@ -1,0 +1,8 @@
+service:
+  name: serviceb75SqlfdQm
+  identifier: serviceb75SqlfdQm
+  projectIdentifier: NGPipeAutoLargeFileSyncz7fhPfLX2j
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

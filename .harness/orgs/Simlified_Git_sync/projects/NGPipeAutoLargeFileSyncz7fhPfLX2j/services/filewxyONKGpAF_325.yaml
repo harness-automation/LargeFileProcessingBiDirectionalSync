@@ -1,0 +1,8 @@
+service:
+  name: service39onl6KNAP
+  identifier: service39onl6KNAP
+  projectIdentifier: NGPipeAutoLargeFileSyncz7fhPfLX2j
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

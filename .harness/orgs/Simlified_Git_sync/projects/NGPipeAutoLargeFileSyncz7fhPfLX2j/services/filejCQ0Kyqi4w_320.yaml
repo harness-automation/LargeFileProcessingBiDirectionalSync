@@ -1,0 +1,8 @@
+service:
+  name: serviceKi2pa1GYME
+  identifier: serviceKi2pa1GYME
+  projectIdentifier: NGPipeAutoLargeFileSyncz7fhPfLX2j
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

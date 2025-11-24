@@ -1,0 +1,8 @@
+service:
+  name: serviceMusmcV8SZ3
+  identifier: serviceMusmcV8SZ3
+  projectIdentifier: NGPipeAutoLargeFileSyncz7fhPfLX2j
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
