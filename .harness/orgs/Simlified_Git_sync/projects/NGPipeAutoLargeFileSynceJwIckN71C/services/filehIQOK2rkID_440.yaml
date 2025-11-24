@@ -1,0 +1,8 @@
+service:
+  name: serviceCZTu8031O5
+  identifier: serviceCZTu8031O5
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceIEqe7joIGr
+  identifier: serviceIEqe7joIGr
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

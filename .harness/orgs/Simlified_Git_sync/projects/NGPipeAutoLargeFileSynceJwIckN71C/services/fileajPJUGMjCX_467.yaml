@@ -1,0 +1,8 @@
+service:
+  name: serviceipd3TamCn1
+  identifier: serviceipd3TamCn1
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

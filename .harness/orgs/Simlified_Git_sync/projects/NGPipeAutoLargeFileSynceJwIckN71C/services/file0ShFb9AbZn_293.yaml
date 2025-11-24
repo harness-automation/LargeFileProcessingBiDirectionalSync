@@ -1,0 +1,8 @@
+service:
+  name: serviceCeuIB4I7Wm
+  identifier: serviceCeuIB4I7Wm
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

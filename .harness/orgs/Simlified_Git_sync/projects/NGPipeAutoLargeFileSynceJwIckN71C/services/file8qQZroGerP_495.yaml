@@ -1,0 +1,8 @@
+service:
+  name: serviceZW2l23iYMB
+  identifier: serviceZW2l23iYMB
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

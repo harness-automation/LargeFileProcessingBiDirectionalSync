@@ -1,0 +1,8 @@
+service:
+  name: service65Wrgk1RPG
+  identifier: service65Wrgk1RPG
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

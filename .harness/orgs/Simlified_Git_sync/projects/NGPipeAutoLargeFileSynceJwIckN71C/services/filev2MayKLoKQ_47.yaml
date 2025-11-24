@@ -1,0 +1,8 @@
+service:
+  name: serviceSmw8080emO
+  identifier: serviceSmw8080emO
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePA962EXXHl
+  identifier: servicePA962EXXHl
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

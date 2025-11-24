@@ -1,0 +1,8 @@
+service:
+  name: serviceAKs2faDuLi
+  identifier: serviceAKs2faDuLi
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service2BTDCddAe2
+  identifier: service2BTDCddAe2
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

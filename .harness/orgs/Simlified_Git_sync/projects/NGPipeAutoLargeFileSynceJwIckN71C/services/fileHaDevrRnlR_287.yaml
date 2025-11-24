@@ -1,0 +1,8 @@
+service:
+  name: service233lVfbgPt
+  identifier: service233lVfbgPt
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

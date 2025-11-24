@@ -1,0 +1,8 @@
+service:
+  name: servicelMWpEunak4
+  identifier: servicelMWpEunak4
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

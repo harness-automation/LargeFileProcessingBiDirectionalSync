@@ -1,0 +1,8 @@
+service:
+  name: servicenJEE3snLOW
+  identifier: servicenJEE3snLOW
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceSlmyk6XVBz
+  identifier: serviceSlmyk6XVBz
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

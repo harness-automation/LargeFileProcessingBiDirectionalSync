@@ -1,0 +1,8 @@
+service:
+  name: servicejwa5xgLCRd
+  identifier: servicejwa5xgLCRd
+  projectIdentifier: NGPipeAutoLargeFileSynceJwIckN71C
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
