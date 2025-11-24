@@ -1,0 +1,8 @@
+service:
+  name: serviceXmcReR422E
+  identifier: serviceXmcReR422E
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

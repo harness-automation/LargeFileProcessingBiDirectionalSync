@@ -1,0 +1,8 @@
+service:
+  name: serviceM3audo50Lq
+  identifier: serviceM3audo50Lq
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

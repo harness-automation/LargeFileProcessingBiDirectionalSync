@@ -1,0 +1,8 @@
+service:
+  name: serviceYx333kATfr
+  identifier: serviceYx333kATfr
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

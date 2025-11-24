@@ -1,0 +1,8 @@
+service:
+  name: serviceEOeNib4rgp
+  identifier: serviceEOeNib4rgp
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAW639teu14
+  identifier: serviceAW639teu14
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

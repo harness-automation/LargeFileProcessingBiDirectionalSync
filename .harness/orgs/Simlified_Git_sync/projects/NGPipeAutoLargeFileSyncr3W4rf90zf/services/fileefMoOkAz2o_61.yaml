@@ -1,0 +1,8 @@
+service:
+  name: serviceKB43a945YS
+  identifier: serviceKB43a945YS
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

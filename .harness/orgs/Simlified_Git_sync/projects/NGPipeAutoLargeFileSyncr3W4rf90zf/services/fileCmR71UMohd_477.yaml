@@ -1,0 +1,8 @@
+service:
+  name: serviceARVN8R9oc2
+  identifier: serviceARVN8R9oc2
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceZaE90vzBUe
+  identifier: serviceZaE90vzBUe
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

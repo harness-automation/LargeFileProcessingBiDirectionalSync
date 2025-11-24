@@ -1,0 +1,8 @@
+service:
+  name: serviceRhu19YRilQ
+  identifier: serviceRhu19YRilQ
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

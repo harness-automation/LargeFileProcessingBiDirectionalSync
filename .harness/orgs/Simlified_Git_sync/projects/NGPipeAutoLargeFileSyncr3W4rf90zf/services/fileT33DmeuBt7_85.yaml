@@ -1,0 +1,8 @@
+service:
+  name: serviceT4GpsLnqEw
+  identifier: serviceT4GpsLnqEw
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

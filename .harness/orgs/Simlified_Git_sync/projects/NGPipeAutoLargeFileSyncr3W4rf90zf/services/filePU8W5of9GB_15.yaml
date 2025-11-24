@@ -1,0 +1,8 @@
+service:
+  name: servicef64KHYzGcI
+  identifier: servicef64KHYzGcI
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

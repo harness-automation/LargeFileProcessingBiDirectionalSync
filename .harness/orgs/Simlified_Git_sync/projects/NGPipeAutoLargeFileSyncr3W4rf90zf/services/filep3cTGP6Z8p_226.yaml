@@ -1,0 +1,8 @@
+service:
+  name: serviceHPJBr86mzm
+  identifier: serviceHPJBr86mzm
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

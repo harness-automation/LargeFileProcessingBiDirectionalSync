@@ -1,0 +1,8 @@
+service:
+  name: service88pu2ME5lj
+  identifier: service88pu2ME5lj
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

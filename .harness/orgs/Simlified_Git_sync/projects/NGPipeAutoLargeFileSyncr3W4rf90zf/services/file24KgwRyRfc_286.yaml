@@ -1,0 +1,8 @@
+service:
+  name: servicecGL2nw5MYD
+  identifier: servicecGL2nw5MYD
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTQDactFS4X
+  identifier: serviceTQDactFS4X
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

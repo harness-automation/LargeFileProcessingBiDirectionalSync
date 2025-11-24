@@ -1,0 +1,8 @@
+service:
+  name: serviceYLE3k2EBCM
+  identifier: serviceYLE3k2EBCM
+  projectIdentifier: NGPipeAutoLargeFileSyncr3W4rf90zf
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
