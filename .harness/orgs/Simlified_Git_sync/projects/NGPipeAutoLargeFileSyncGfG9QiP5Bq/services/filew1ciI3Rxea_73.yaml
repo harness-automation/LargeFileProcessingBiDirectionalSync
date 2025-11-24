@@ -1,0 +1,8 @@
+service:
+  name: serviceOMqC0A018m
+  identifier: serviceOMqC0A018m
+  projectIdentifier: NGPipeAutoLargeFileSyncGfG9QiP5Bq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

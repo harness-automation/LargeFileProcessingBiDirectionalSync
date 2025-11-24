@@ -1,0 +1,8 @@
+service:
+  name: serviceAh1Now60As
+  identifier: serviceAh1Now60As
+  projectIdentifier: NGPipeAutoLargeFileSyncGfG9QiP5Bq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

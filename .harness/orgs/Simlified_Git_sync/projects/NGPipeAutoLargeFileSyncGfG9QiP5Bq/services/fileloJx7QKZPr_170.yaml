@@ -1,0 +1,8 @@
+service:
+  name: serviceMnV0geaipv
+  identifier: serviceMnV0geaipv
+  projectIdentifier: NGPipeAutoLargeFileSyncGfG9QiP5Bq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

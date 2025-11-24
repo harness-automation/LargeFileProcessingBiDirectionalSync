@@ -1,0 +1,8 @@
+service:
+  name: serviceelLkn1BniA
+  identifier: serviceelLkn1BniA
+  projectIdentifier: NGPipeAutoLargeFileSyncGfG9QiP5Bq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

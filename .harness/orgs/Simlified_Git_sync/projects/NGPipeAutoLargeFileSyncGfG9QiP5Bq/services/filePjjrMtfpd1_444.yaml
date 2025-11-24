@@ -1,0 +1,8 @@
+service:
+  name: service1ngOTl4awd
+  identifier: service1ngOTl4awd
+  projectIdentifier: NGPipeAutoLargeFileSyncGfG9QiP5Bq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

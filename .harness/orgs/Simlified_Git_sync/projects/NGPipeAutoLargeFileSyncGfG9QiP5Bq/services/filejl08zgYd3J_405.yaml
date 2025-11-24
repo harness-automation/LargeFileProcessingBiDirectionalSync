@@ -1,0 +1,8 @@
+service:
+  name: serviceYabAlX6GCS
+  identifier: serviceYabAlX6GCS
+  projectIdentifier: NGPipeAutoLargeFileSyncGfG9QiP5Bq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

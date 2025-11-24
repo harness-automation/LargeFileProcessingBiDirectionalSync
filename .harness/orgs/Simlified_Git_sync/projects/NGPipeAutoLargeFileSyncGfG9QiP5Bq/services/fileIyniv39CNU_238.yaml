@@ -1,0 +1,8 @@
+service:
+  name: servicetm70MFQ72K
+  identifier: servicetm70MFQ72K
+  projectIdentifier: NGPipeAutoLargeFileSyncGfG9QiP5Bq
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
