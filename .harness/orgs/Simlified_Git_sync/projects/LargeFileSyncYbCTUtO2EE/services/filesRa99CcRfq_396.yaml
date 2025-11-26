@@ -1,0 +1,8 @@
+service:
+  name: serviceVCde02wm88
+  identifier: serviceVCde02wm88
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

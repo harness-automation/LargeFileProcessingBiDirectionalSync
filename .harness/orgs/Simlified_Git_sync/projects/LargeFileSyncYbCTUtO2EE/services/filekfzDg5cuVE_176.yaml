@@ -1,0 +1,8 @@
+service:
+  name: services2PrlVWVox
+  identifier: services2PrlVWVox
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

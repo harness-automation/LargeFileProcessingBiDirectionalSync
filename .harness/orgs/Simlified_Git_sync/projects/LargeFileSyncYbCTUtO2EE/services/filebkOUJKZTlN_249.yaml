@@ -1,0 +1,8 @@
+service:
+  name: service8ig6i400sP
+  identifier: service8ig6i400sP
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

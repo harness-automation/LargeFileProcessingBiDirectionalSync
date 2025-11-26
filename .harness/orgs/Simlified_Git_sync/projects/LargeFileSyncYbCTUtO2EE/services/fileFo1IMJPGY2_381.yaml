@@ -1,0 +1,8 @@
+service:
+  name: serviceTKR6p58RO1
+  identifier: serviceTKR6p58RO1
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

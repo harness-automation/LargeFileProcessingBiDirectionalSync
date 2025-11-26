@@ -1,0 +1,8 @@
+service:
+  name: service2UnoO7Virq
+  identifier: service2UnoO7Virq
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

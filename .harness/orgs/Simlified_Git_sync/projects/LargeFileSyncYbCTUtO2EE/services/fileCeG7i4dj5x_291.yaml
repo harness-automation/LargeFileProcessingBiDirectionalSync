@@ -1,0 +1,8 @@
+service:
+  name: service60jmp0La4b
+  identifier: service60jmp0La4b
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

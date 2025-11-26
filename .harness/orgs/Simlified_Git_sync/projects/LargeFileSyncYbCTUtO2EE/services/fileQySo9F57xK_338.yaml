@@ -1,0 +1,8 @@
+service:
+  name: servicewLR67MUdbg
+  identifier: servicewLR67MUdbg
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

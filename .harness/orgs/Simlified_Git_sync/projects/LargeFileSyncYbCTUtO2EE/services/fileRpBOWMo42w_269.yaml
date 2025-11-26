@@ -1,0 +1,8 @@
+service:
+  name: serviceGBM2oCOVK5
+  identifier: serviceGBM2oCOVK5
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

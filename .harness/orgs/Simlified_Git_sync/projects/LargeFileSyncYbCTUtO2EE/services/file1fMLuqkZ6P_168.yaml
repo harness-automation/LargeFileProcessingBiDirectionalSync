@@ -1,0 +1,8 @@
+service:
+  name: serviceydM3SKATWc
+  identifier: serviceydM3SKATWc
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

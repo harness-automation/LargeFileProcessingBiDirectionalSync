@@ -1,0 +1,8 @@
+service:
+  name: servicesIF1xInO2U
+  identifier: servicesIF1xInO2U
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

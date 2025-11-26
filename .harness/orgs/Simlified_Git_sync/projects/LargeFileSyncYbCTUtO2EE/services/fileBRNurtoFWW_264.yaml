@@ -1,0 +1,8 @@
+service:
+  name: serviceoR48io0c27
+  identifier: serviceoR48io0c27
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

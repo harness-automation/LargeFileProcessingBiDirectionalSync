@@ -1,0 +1,8 @@
+service:
+  name: servicekATlyAoC5K
+  identifier: servicekATlyAoC5K
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

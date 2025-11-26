@@ -1,0 +1,8 @@
+service:
+  name: serviceyvlRMPP5Fr
+  identifier: serviceyvlRMPP5Fr
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

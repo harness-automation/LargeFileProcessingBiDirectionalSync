@@ -1,0 +1,8 @@
+service:
+  name: serviceXOy45LIX6D
+  identifier: serviceXOy45LIX6D
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

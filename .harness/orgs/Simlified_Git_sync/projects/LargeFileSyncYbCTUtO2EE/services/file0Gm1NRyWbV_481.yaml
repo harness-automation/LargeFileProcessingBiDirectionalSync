@@ -1,0 +1,8 @@
+service:
+  name: serviceIzLji24nAm
+  identifier: serviceIzLji24nAm
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceczg3E1ApMp
+  identifier: serviceczg3E1ApMp
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

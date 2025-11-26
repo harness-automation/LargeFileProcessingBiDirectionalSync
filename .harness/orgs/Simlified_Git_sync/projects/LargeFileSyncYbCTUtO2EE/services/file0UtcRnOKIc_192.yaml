@@ -1,0 +1,8 @@
+service:
+  name: serviceIFcXms0QLo
+  identifier: serviceIFcXms0QLo
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

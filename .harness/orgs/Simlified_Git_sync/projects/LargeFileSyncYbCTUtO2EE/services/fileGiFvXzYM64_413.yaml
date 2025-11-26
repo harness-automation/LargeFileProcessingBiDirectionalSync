@@ -1,0 +1,8 @@
+service:
+  name: serviceR1RrE9hpMQ
+  identifier: serviceR1RrE9hpMQ
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

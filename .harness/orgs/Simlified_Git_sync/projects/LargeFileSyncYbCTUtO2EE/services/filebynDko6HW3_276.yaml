@@ -1,0 +1,8 @@
+service:
+  name: serviceAWlm1pCIcr
+  identifier: serviceAWlm1pCIcr
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

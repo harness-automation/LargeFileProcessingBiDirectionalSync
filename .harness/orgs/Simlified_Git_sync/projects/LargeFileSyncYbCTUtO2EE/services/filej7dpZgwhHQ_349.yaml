@@ -1,0 +1,8 @@
+service:
+  name: serviceDtCDMo17xn
+  identifier: serviceDtCDMo17xn
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

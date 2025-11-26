@@ -1,0 +1,8 @@
+service:
+  name: servicegFF37foC99
+  identifier: servicegFF37foC99
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

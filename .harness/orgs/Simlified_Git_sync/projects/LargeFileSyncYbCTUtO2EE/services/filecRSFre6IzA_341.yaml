@@ -1,0 +1,8 @@
+service:
+  name: serviceVos47PNEt4
+  identifier: serviceVos47PNEt4
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

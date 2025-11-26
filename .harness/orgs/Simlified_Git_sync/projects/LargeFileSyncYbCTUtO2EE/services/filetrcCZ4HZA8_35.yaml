@@ -1,0 +1,8 @@
+service:
+  name: servicepoW5KtsCCD
+  identifier: servicepoW5KtsCCD
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

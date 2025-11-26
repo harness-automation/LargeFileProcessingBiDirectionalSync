@@ -1,0 +1,8 @@
+service:
+  name: service3nEHSNrem4
+  identifier: service3nEHSNrem4
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicepFF5yuHTTF
+  identifier: servicepFF5yuHTTF
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

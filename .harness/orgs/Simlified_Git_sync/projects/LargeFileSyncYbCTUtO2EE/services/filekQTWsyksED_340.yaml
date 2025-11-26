@@ -1,0 +1,8 @@
+service:
+  name: serviceG2TVwUnlzT
+  identifier: serviceG2TVwUnlzT
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceM7770bPx43
+  identifier: serviceM7770bPx43
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

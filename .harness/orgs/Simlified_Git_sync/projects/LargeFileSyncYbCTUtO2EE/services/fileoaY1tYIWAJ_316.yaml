@@ -1,0 +1,8 @@
+service:
+  name: servicelNYPZKJbFA
+  identifier: servicelNYPZKJbFA
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

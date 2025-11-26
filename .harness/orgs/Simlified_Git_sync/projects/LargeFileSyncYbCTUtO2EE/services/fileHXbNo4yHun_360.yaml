@@ -1,0 +1,8 @@
+service:
+  name: serviceOKlql4Jmf5
+  identifier: serviceOKlql4Jmf5
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceOpIODReJ5Z
+  identifier: serviceOpIODReJ5Z
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

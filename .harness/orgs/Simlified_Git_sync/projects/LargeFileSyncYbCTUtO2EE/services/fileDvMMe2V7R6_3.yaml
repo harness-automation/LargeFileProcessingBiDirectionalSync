@@ -1,0 +1,8 @@
+service:
+  name: servicePm4242fqsO
+  identifier: servicePm4242fqsO
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

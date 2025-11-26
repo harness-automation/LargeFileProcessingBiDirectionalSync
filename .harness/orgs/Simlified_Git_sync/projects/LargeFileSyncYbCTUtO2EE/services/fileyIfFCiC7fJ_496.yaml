@@ -1,0 +1,8 @@
+service:
+  name: servicekcFol06r1I
+  identifier: servicekcFol06r1I
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

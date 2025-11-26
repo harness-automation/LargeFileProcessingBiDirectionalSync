@@ -1,0 +1,8 @@
+service:
+  name: serviceApE5OBB15a
+  identifier: serviceApE5OBB15a
+  projectIdentifier: LargeFileSyncYbCTUtO2EE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
