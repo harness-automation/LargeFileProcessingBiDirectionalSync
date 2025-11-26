@@ -1,0 +1,8 @@
+service:
+  name: servicerCeI32Caf2
+  identifier: servicerCeI32Caf2
+  projectIdentifier: LargeFileSyncpq50eyRmUu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

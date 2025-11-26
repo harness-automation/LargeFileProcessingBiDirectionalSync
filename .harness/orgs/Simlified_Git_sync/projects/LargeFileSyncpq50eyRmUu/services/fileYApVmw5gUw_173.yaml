@@ -1,0 +1,8 @@
+service:
+  name: serviceIgFtj0Vodb
+  identifier: serviceIgFtj0Vodb
+  projectIdentifier: LargeFileSyncpq50eyRmUu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

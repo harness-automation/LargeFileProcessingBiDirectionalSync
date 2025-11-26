@@ -1,0 +1,8 @@
+service:
+  name: servicepXENN1hWpv
+  identifier: servicepXENN1hWpv
+  projectIdentifier: LargeFileSyncpq50eyRmUu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

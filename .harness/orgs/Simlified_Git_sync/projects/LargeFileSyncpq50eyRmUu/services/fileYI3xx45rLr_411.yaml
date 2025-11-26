@@ -1,0 +1,8 @@
+service:
+  name: servicejgisFiEDX7
+  identifier: servicejgisFiEDX7
+  projectIdentifier: LargeFileSyncpq50eyRmUu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

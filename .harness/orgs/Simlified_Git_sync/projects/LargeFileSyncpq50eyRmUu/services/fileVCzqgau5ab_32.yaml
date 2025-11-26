@@ -1,0 +1,8 @@
+service:
+  name: serviceBeZ55dnrpL
+  identifier: serviceBeZ55dnrpL
+  projectIdentifier: LargeFileSyncpq50eyRmUu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

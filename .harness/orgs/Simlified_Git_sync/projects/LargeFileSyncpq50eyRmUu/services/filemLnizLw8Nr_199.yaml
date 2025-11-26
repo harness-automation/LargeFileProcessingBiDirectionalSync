@@ -1,0 +1,8 @@
+service:
+  name: serviceknigDo41t3
+  identifier: serviceknigDo41t3
+  projectIdentifier: LargeFileSyncpq50eyRmUu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service6g18DnyEAL
+  identifier: service6g18DnyEAL
+  projectIdentifier: LargeFileSyncpq50eyRmUu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

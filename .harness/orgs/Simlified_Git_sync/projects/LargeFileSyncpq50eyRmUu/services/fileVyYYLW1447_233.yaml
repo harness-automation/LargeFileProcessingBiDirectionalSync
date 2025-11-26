@@ -1,0 +1,8 @@
+service:
+  name: serviceNEO4T86CCm
+  identifier: serviceNEO4T86CCm
+  projectIdentifier: LargeFileSyncpq50eyRmUu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

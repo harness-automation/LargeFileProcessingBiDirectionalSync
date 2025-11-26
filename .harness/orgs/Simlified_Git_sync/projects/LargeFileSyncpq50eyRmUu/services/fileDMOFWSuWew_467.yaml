@@ -1,0 +1,8 @@
+service:
+  name: serviceugtv5ZglFT
+  identifier: serviceugtv5ZglFT
+  projectIdentifier: LargeFileSyncpq50eyRmUu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

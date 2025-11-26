@@ -1,0 +1,8 @@
+service:
+  name: serviceDmfR4tAmPO
+  identifier: serviceDmfR4tAmPO
+  projectIdentifier: LargeFileSyncpq50eyRmUu
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
