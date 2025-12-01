@@ -1,0 +1,8 @@
+service:
+  name: serviceMLbBC3OCLS
+  identifier: serviceMLbBC3OCLS
+  projectIdentifier: NGPipeAutoLargeFileSynctmefcTuzW5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicehSDKmb651s
+  identifier: servicehSDKmb651s
+  projectIdentifier: NGPipeAutoLargeFileSynctmefcTuzW5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

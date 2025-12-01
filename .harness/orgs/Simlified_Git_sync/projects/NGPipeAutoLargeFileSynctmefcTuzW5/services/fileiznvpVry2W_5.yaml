@@ -1,0 +1,8 @@
+service:
+  name: serviceMEVTAt4ry6
+  identifier: serviceMEVTAt4ry6
+  projectIdentifier: NGPipeAutoLargeFileSynctmefcTuzW5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

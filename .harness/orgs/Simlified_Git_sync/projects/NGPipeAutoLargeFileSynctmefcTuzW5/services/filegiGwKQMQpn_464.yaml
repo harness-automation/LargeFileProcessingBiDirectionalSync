@@ -1,0 +1,8 @@
+service:
+  name: serviceupLybts93e
+  identifier: serviceupLybts93e
+  projectIdentifier: NGPipeAutoLargeFileSynctmefcTuzW5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

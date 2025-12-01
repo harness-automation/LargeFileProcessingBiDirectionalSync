@@ -1,0 +1,8 @@
+service:
+  name: servicefA1NHKmBUE
+  identifier: servicefA1NHKmBUE
+  projectIdentifier: NGPipeAutoLargeFileSynctmefcTuzW5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

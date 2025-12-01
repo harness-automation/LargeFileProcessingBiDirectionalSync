@@ -1,0 +1,8 @@
+service:
+  name: servicepE1cpuAnOI
+  identifier: servicepE1cpuAnOI
+  projectIdentifier: NGPipeAutoLargeFileSynctmefcTuzW5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
