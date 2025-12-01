@@ -1,0 +1,8 @@
+service:
+  name: servicepTT1zDyQJ1
+  identifier: servicepTT1zDyQJ1
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

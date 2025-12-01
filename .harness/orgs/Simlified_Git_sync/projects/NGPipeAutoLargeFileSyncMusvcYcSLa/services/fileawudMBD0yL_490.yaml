@@ -1,0 +1,8 @@
+service:
+  name: serviceySZZIXuBAU
+  identifier: serviceySZZIXuBAU
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

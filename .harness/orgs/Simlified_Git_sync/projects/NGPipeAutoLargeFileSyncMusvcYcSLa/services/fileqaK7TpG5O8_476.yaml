@@ -1,0 +1,8 @@
+service:
+  name: service1970ycfLeG
+  identifier: service1970ycfLeG
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

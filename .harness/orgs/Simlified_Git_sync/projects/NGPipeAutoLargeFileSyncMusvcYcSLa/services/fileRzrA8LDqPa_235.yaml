@@ -1,0 +1,8 @@
+service:
+  name: servicezhedS14mq1
+  identifier: servicezhedS14mq1
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

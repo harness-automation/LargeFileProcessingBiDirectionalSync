@@ -1,0 +1,8 @@
+service:
+  name: serviceTCrlgCna7g
+  identifier: serviceTCrlgCna7g
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicekyTrD2NpCs
+  identifier: servicekyTrD2NpCs
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceUMpDiOn8eh
+  identifier: serviceUMpDiOn8eh
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceL89Rtshrky
+  identifier: serviceL89Rtshrky
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

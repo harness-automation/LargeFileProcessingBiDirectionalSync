@@ -1,0 +1,8 @@
+service:
+  name: serviceNts3A4KAMZ
+  identifier: serviceNts3A4KAMZ
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

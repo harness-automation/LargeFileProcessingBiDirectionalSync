@@ -1,0 +1,8 @@
+service:
+  name: service4rFKeFM07n
+  identifier: service4rFKeFM07n
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

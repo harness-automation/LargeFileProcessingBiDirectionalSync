@@ -1,0 +1,8 @@
+service:
+  name: servicer0oPmAvDc3
+  identifier: servicer0oPmAvDc3
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

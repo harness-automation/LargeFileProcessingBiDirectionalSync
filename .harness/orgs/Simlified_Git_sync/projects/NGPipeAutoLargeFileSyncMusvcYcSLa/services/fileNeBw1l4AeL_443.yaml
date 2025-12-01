@@ -1,0 +1,8 @@
+service:
+  name: service205ZTk5Ksm
+  identifier: service205ZTk5Ksm
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

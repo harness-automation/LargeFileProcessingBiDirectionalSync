@@ -1,0 +1,8 @@
+service:
+  name: service79IBGz462a
+  identifier: service79IBGz462a
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

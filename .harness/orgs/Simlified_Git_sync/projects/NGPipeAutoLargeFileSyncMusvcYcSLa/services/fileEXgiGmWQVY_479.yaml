@@ -1,0 +1,8 @@
+service:
+  name: serviceAmTnBp70tx
+  identifier: serviceAmTnBp70tx
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

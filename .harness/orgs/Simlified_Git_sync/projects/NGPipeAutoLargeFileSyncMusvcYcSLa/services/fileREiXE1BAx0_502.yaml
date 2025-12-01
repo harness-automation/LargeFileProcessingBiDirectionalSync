@@ -1,0 +1,8 @@
+service:
+  name: serviceA765RkzFnl
+  identifier: serviceA765RkzFnl
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceBETK24zX8M
+  identifier: serviceBETK24zX8M
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

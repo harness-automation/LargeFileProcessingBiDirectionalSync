@@ -1,0 +1,8 @@
+service:
+  name: servicepgUREshAia
+  identifier: servicepgUREshAia
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

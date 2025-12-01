@@ -1,0 +1,8 @@
+service:
+  name: serviceSEVF3eeDKm
+  identifier: serviceSEVF3eeDKm
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

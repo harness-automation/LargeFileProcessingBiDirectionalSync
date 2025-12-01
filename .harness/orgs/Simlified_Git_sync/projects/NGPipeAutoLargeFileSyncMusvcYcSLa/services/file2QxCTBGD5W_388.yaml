@@ -1,0 +1,8 @@
+service:
+  name: serviceoMbCmofL1g
+  identifier: serviceoMbCmofL1g
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFSEk3iwZiU
+  identifier: serviceFSEk3iwZiU
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

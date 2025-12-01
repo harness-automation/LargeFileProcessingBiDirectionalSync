@@ -1,0 +1,8 @@
+service:
+  name: serviceDNCeqa1BC2
+  identifier: serviceDNCeqa1BC2
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

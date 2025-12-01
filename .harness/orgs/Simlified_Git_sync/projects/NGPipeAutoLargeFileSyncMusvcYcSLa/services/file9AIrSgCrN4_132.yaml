@@ -1,0 +1,8 @@
+service:
+  name: serviceAZ5usgaL3R
+  identifier: serviceAZ5usgaL3R
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

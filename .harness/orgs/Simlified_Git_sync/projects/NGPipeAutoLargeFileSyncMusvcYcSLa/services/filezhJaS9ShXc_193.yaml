@@ -1,0 +1,8 @@
+service:
+  name: serviceErv7cmWrzb
+  identifier: serviceErv7cmWrzb
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

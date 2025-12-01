@@ -1,0 +1,8 @@
+service:
+  name: serviceIRkZ9ECkMF
+  identifier: serviceIRkZ9ECkMF
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

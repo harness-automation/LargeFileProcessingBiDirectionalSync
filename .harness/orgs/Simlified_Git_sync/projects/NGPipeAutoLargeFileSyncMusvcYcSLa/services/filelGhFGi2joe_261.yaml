@@ -1,0 +1,8 @@
+service:
+  name: servicecosaLDjTfq
+  identifier: servicecosaLDjTfq
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

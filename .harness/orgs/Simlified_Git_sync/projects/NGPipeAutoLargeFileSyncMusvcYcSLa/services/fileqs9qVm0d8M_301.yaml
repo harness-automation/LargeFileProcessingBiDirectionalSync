@@ -1,0 +1,8 @@
+service:
+  name: serviceFIXBiL1QXD
+  identifier: serviceFIXBiL1QXD
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

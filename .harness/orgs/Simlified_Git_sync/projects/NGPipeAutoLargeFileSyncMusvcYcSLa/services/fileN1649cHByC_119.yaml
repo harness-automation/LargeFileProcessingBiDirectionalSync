@@ -1,0 +1,8 @@
+service:
+  name: servicef08Pai3cTJ
+  identifier: servicef08Pai3cTJ
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

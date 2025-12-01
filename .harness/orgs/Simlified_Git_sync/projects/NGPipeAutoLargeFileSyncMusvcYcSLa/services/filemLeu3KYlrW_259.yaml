@@ -1,0 +1,8 @@
+service:
+  name: service37dW9ukcja
+  identifier: service37dW9ukcja
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

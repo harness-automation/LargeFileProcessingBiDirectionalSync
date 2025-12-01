@@ -1,0 +1,8 @@
+service:
+  name: serviceMjNv768Anm
+  identifier: serviceMjNv768Anm
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

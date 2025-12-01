@@ -1,0 +1,8 @@
+service:
+  name: serviceJ0c2RCTV8o
+  identifier: serviceJ0c2RCTV8o
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

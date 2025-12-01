@@ -1,0 +1,8 @@
+service:
+  name: serviceP8WPeolNAG
+  identifier: serviceP8WPeolNAG
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

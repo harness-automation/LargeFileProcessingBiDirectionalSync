@@ -1,0 +1,8 @@
+service:
+  name: serviceJl85Cr7Wae
+  identifier: serviceJl85Cr7Wae
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

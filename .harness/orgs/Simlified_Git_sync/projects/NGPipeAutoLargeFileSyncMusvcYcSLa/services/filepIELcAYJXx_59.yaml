@@ -1,0 +1,8 @@
+service:
+  name: serviceInxWl40CK3
+  identifier: serviceInxWl40CK3
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

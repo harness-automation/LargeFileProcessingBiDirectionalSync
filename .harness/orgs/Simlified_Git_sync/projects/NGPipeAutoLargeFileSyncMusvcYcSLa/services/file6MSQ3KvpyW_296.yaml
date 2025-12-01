@@ -1,0 +1,8 @@
+service:
+  name: service58teCLIuNY
+  identifier: service58teCLIuNY
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

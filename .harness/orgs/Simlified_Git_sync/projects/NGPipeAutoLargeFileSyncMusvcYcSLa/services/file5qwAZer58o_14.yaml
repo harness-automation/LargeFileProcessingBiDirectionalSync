@@ -1,0 +1,8 @@
+service:
+  name: servicecrtWbZcHaC
+  identifier: servicecrtWbZcHaC
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

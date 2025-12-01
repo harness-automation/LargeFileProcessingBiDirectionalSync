@@ -1,0 +1,8 @@
+service:
+  name: serviceUIlPOYN5jr
+  identifier: serviceUIlPOYN5jr
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

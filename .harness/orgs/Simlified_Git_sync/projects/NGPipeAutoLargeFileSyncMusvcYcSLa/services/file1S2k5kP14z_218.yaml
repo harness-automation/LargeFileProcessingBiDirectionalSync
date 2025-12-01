@@ -1,0 +1,8 @@
+service:
+  name: serviceENKQLKnMoL
+  identifier: serviceENKQLKnMoL
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

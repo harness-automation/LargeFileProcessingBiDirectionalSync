@@ -1,0 +1,8 @@
+service:
+  name: servicehLwQOBS4Pt
+  identifier: servicehLwQOBS4Pt
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

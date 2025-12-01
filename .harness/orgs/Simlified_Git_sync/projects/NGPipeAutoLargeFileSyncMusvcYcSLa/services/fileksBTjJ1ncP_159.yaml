@@ -1,0 +1,8 @@
+service:
+  name: servicesWhD3vaRJ3
+  identifier: servicesWhD3vaRJ3
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceUbiJ7dOBaR
+  identifier: serviceUbiJ7dOBaR
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

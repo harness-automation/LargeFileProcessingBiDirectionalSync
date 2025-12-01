@@ -1,0 +1,8 @@
+service:
+  name: servicehBvc6x3A24
+  identifier: servicehBvc6x3A24
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

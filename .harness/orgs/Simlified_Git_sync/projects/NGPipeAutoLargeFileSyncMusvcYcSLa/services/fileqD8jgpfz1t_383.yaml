@@ -1,0 +1,8 @@
+service:
+  name: service82AlWyp5md
+  identifier: service82AlWyp5md
+  projectIdentifier: NGPipeAutoLargeFileSyncMusvcYcSLa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
