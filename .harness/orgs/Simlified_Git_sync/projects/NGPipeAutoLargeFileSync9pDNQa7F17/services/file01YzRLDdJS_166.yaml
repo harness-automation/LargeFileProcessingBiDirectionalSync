@@ -1,0 +1,8 @@
+service:
+  name: serviceEI2z9t65MQ
+  identifier: serviceEI2z9t65MQ
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

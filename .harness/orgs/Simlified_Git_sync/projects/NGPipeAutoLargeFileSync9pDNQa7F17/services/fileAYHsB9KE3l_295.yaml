@@ -1,0 +1,8 @@
+service:
+  name: servicefv21YZOUrV
+  identifier: servicefv21YZOUrV
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

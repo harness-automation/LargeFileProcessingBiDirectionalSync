@@ -1,0 +1,8 @@
+service:
+  name: servicetb19Lk1b7U
+  identifier: servicetb19Lk1b7U
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

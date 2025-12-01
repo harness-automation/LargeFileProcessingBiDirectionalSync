@@ -1,0 +1,8 @@
+service:
+  name: serviceU675dVioAN
+  identifier: serviceU675dVioAN
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

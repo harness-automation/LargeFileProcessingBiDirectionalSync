@@ -1,0 +1,8 @@
+service:
+  name: servicenmFanPX7B4
+  identifier: servicenmFanPX7B4
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

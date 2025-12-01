@@ -1,0 +1,8 @@
+service:
+  name: serviceWMPY0TxRtW
+  identifier: serviceWMPY0TxRtW
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

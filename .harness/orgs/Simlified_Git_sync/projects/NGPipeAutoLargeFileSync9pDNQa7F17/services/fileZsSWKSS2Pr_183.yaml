@@ -1,0 +1,8 @@
+service:
+  name: serviceHbhzpKd116
+  identifier: serviceHbhzpKd116
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

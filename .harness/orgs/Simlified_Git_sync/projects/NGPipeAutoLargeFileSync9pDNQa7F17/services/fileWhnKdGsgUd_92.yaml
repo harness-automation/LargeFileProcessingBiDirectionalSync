@@ -1,0 +1,8 @@
+service:
+  name: serviceHimaRP7Gyw
+  identifier: serviceHimaRP7Gyw
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

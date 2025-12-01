@@ -1,0 +1,8 @@
+service:
+  name: serviceEOj5yetOcr
+  identifier: serviceEOj5yetOcr
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

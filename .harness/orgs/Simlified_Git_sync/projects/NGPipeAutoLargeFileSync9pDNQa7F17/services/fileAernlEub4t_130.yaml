@@ -1,0 +1,8 @@
+service:
+  name: serviceVlnuo80DHK
+  identifier: serviceVlnuo80DHK
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

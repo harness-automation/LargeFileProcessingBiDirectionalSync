@@ -1,0 +1,8 @@
+service:
+  name: servicewmTC4URA4J
+  identifier: servicewmTC4URA4J
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

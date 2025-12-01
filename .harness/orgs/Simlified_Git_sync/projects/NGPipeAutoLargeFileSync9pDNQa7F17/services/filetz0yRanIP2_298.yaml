@@ -1,0 +1,8 @@
+service:
+  name: service3SAS5u8xpe
+  identifier: service3SAS5u8xpe
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

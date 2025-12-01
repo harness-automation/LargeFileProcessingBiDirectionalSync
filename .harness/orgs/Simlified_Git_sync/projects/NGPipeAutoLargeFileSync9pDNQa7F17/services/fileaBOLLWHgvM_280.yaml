@@ -1,0 +1,8 @@
+service:
+  name: servicekob2TVBuYQ
+  identifier: servicekob2TVBuYQ
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

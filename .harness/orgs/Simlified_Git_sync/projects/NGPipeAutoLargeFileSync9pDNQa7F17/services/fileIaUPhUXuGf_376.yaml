@@ -1,0 +1,8 @@
+service:
+  name: serviceTCNO2zSvt4
+  identifier: serviceTCNO2zSvt4
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

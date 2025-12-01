@@ -1,0 +1,8 @@
+service:
+  name: serviceLVm27PsD5s
+  identifier: serviceLVm27PsD5s
+  projectIdentifier: NGPipeAutoLargeFileSync9pDNQa7F17
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
