@@ -1,0 +1,8 @@
+service:
+  name: servicetUVAOC4B9l
+  identifier: servicetUVAOC4B9l
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

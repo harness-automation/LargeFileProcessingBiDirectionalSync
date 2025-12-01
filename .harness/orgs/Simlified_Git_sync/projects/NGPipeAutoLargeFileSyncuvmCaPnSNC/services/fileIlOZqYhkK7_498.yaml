@@ -1,0 +1,8 @@
+service:
+  name: servicevyRC3A023U
+  identifier: servicevyRC3A023U
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

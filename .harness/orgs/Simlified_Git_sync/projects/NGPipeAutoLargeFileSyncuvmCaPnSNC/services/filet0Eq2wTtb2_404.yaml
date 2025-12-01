@@ -1,0 +1,8 @@
+service:
+  name: serviceIt94SWgpVW
+  identifier: serviceIt94SWgpVW
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

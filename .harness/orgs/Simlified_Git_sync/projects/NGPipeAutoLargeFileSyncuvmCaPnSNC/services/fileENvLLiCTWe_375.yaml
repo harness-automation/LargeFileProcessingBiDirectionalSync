@@ -1,0 +1,8 @@
+service:
+  name: servicePfjPDLt26x
+  identifier: servicePfjPDLt26x
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

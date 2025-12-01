@@ -1,0 +1,8 @@
+service:
+  name: serviceuEL1mpf8gw
+  identifier: serviceuEL1mpf8gw
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

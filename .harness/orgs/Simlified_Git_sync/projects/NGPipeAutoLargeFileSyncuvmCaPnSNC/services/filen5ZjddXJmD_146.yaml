@@ -1,0 +1,8 @@
+service:
+  name: serviceUjchexKIC8
+  identifier: serviceUjchexKIC8
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

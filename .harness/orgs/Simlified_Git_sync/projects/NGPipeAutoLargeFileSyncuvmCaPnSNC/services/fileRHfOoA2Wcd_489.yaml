@@ -1,0 +1,8 @@
+service:
+  name: service8MP7ELbTic
+  identifier: service8MP7ELbTic
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

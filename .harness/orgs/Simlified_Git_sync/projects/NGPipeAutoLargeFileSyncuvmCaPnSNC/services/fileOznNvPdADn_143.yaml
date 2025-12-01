@@ -1,0 +1,8 @@
+service:
+  name: serviceZddcMUqOB1
+  identifier: serviceZddcMUqOB1
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

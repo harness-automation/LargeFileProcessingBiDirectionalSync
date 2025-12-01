@@ -1,0 +1,8 @@
+service:
+  name: serviceHc10fypUMG
+  identifier: serviceHc10fypUMG
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service4iUPCMVSCM
+  identifier: service4iUPCMVSCM
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service2hGtmXfft4
+  identifier: service2hGtmXfft4
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

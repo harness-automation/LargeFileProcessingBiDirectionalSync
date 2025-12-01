@@ -1,0 +1,8 @@
+service:
+  name: servicebHK83u1r12
+  identifier: servicebHK83u1r12
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicegQK4PejDov
+  identifier: servicegQK4PejDov
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

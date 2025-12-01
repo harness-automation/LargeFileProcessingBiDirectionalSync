@@ -1,0 +1,8 @@
+service:
+  name: service86XCvNSmmT
+  identifier: service86XCvNSmmT
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

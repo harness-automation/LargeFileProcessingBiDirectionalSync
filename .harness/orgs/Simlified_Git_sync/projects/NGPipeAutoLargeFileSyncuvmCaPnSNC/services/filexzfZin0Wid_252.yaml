@@ -1,0 +1,8 @@
+service:
+  name: servicePi1Ame23kp
+  identifier: servicePi1Ame23kp
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

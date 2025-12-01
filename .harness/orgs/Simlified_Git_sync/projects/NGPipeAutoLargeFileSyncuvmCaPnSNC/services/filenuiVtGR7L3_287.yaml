@@ -1,0 +1,8 @@
+service:
+  name: servicew2bsfBMZEb
+  identifier: servicew2bsfBMZEb
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

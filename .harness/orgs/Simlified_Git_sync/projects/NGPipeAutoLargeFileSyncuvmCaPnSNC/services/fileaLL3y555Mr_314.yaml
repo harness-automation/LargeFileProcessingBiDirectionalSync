@@ -1,0 +1,8 @@
+service:
+  name: serviceFiOBRu02BR
+  identifier: serviceFiOBRu02BR
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

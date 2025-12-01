@@ -1,0 +1,8 @@
+service:
+  name: serviceWaDDM4gk0x
+  identifier: serviceWaDDM4gk0x
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

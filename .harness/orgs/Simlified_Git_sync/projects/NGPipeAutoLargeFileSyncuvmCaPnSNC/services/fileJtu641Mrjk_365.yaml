@@ -1,0 +1,8 @@
+service:
+  name: serviceVvJemtrJL1
+  identifier: serviceVvJemtrJL1
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

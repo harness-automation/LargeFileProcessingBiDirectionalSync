@@ -1,0 +1,8 @@
+service:
+  name: servicenouc6AI66A
+  identifier: servicenouc6AI66A
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

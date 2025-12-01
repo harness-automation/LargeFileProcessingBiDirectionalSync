@@ -1,0 +1,8 @@
+service:
+  name: servicem1s1Rn81Kw
+  identifier: servicem1s1Rn81Kw
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

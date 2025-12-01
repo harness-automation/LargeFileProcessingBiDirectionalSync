@@ -1,0 +1,8 @@
+service:
+  name: servicevwonLMe5u4
+  identifier: servicevwonLMe5u4
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

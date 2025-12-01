@@ -1,0 +1,8 @@
+service:
+  name: servicecHTXRP3KsH
+  identifier: servicecHTXRP3KsH
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

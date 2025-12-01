@@ -1,0 +1,8 @@
+service:
+  name: servicehydXJ1PRI1
+  identifier: servicehydXJ1PRI1
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

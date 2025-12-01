@@ -1,0 +1,8 @@
+service:
+  name: serviceRYVIMbWirh
+  identifier: serviceRYVIMbWirh
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicesTMfedC841
+  identifier: servicesTMfedC841
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

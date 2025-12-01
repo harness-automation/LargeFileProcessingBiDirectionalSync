@@ -1,0 +1,8 @@
+service:
+  name: serviceND1Ktw1SDb
+  identifier: serviceND1Ktw1SDb
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

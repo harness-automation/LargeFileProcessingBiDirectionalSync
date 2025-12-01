@@ -1,0 +1,8 @@
+service:
+  name: serviceLBUVle72e4
+  identifier: serviceLBUVle72e4
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

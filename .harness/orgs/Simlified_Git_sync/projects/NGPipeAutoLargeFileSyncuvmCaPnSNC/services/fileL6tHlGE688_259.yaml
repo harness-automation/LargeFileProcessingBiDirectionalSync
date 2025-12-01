@@ -1,0 +1,8 @@
+service:
+  name: serviceEfNBVLav9U
+  identifier: serviceEfNBVLav9U
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

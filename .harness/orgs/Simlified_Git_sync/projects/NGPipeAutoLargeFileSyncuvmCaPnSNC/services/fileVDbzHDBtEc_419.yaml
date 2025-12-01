@@ -1,0 +1,8 @@
+service:
+  name: serviceh17gaR1RNB
+  identifier: serviceh17gaR1RNB
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

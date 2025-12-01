@@ -1,0 +1,8 @@
+service:
+  name: servicefcPscgic08
+  identifier: servicefcPscgic08
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

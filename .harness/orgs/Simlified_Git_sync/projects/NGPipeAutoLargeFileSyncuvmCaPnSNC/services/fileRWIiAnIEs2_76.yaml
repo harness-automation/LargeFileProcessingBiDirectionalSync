@@ -1,0 +1,8 @@
+service:
+  name: serviceeNLarfl4Pc
+  identifier: serviceeNLarfl4Pc
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

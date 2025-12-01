@@ -1,0 +1,8 @@
+service:
+  name: serviceAmbelfqNZh
+  identifier: serviceAmbelfqNZh
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

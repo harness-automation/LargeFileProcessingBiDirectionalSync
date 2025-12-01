@@ -1,0 +1,8 @@
+service:
+  name: serviceMcLcS05idr
+  identifier: serviceMcLcS05idr
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

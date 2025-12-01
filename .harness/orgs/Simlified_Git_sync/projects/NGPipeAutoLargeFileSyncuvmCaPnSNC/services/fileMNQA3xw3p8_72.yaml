@@ -1,0 +1,8 @@
+service:
+  name: servicecmFBFCKya8
+  identifier: servicecmFBFCKya8
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

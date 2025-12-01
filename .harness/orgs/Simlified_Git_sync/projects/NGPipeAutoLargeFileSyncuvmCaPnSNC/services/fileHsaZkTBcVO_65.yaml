@@ -1,0 +1,8 @@
+service:
+  name: serviceGOgsRzDtgS
+  identifier: serviceGOgsRzDtgS
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

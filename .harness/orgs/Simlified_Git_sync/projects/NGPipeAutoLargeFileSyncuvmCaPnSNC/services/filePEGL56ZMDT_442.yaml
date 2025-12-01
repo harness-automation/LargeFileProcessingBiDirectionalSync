@@ -1,0 +1,8 @@
+service:
+  name: serviceArf4RTy99w
+  identifier: serviceArf4RTy99w
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

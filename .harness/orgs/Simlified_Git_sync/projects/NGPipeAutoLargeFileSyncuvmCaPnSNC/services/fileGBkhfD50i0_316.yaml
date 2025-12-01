@@ -1,0 +1,8 @@
+service:
+  name: serviceDsge2tokAw
+  identifier: serviceDsge2tokAw
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

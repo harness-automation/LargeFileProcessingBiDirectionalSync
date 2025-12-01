@@ -1,0 +1,8 @@
+service:
+  name: service1TuMf15tnB
+  identifier: service1TuMf15tnB
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

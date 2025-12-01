@@ -1,0 +1,8 @@
+service:
+  name: servicezEaskIGBN5
+  identifier: servicezEaskIGBN5
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

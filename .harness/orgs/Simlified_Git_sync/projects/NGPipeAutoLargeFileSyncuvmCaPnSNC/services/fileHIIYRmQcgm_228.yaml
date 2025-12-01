@@ -1,0 +1,8 @@
+service:
+  name: serviceHgTAdW1fLG
+  identifier: serviceHgTAdW1fLG
+  projectIdentifier: NGPipeAutoLargeFileSyncuvmCaPnSNC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
