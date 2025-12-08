@@ -1,0 +1,8 @@
+service:
+  name: servicexmlUv487Yl
+  identifier: servicexmlUv487Yl
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

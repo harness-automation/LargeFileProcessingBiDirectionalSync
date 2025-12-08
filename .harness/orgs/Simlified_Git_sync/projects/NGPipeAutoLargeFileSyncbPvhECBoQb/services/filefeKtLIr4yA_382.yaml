@@ -1,0 +1,8 @@
+service:
+  name: serviceEX065php8d
+  identifier: serviceEX065php8d
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

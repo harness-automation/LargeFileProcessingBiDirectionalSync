@@ -1,0 +1,8 @@
+service:
+  name: serviceTM1AdICM6K
+  identifier: serviceTM1AdICM6K
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

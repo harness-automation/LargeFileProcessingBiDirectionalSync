@@ -1,0 +1,8 @@
+service:
+  name: serviceynZw99RanS
+  identifier: serviceynZw99RanS
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

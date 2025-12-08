@@ -1,0 +1,8 @@
+service:
+  name: serviceEHB3laK20h
+  identifier: serviceEHB3laK20h
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

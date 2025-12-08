@@ -1,0 +1,8 @@
+service:
+  name: service26EmCK442i
+  identifier: service26EmCK442i
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

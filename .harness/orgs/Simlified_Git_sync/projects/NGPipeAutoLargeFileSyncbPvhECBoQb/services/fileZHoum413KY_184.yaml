@@ -1,0 +1,8 @@
+service:
+  name: servicexMh68IfOv5
+  identifier: servicexMh68IfOv5
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

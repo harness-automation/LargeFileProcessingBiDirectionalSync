@@ -1,0 +1,8 @@
+service:
+  name: serviceURZAHdwluw
+  identifier: serviceURZAHdwluw
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

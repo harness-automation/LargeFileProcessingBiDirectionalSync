@@ -1,0 +1,8 @@
+service:
+  name: servicejDb2QGNyG9
+  identifier: servicejDb2QGNyG9
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceRqkCE3s34W
+  identifier: serviceRqkCE3s34W
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

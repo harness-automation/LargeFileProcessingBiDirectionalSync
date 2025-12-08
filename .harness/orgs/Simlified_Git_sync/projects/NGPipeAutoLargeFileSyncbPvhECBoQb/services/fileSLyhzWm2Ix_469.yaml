@@ -1,0 +1,8 @@
+service:
+  name: serviceRJ89Pt79xi
+  identifier: serviceRJ89Pt79xi
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

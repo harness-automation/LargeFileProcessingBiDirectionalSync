@@ -1,0 +1,8 @@
+service:
+  name: serviceFcT1lVOb4E
+  identifier: serviceFcT1lVOb4E
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

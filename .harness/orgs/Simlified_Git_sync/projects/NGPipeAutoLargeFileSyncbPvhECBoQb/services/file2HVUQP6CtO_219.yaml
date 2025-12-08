@@ -1,0 +1,8 @@
+service:
+  name: serviceSuZ1UEREGN
+  identifier: serviceSuZ1UEREGN
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

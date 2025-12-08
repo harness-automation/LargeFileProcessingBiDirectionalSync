@@ -1,0 +1,8 @@
+service:
+  name: servicePrheczU89K
+  identifier: servicePrheczU89K
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

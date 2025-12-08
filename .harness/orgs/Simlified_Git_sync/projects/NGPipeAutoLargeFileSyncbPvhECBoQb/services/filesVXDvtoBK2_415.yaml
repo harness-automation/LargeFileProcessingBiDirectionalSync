@@ -1,0 +1,8 @@
+service:
+  name: service3pPoAP5aAC
+  identifier: service3pPoAP5aAC
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

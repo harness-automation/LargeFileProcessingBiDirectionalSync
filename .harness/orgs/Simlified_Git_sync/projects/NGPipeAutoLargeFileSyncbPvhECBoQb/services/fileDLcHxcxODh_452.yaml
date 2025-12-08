@@ -1,0 +1,8 @@
+service:
+  name: servicexDjsmw98FE
+  identifier: servicexDjsmw98FE
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

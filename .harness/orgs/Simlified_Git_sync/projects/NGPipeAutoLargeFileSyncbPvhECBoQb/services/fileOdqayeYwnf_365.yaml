@@ -1,0 +1,8 @@
+service:
+  name: serviceWLIdAVHDRV
+  identifier: serviceWLIdAVHDRV
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

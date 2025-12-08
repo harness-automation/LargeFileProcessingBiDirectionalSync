@@ -1,0 +1,8 @@
+service:
+  name: serviceDbC3nk1b74
+  identifier: serviceDbC3nk1b74
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

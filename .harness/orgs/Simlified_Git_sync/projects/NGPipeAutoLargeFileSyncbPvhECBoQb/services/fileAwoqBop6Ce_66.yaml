@@ -1,0 +1,8 @@
+service:
+  name: servicefei88GmtBo
+  identifier: servicefei88GmtBo
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

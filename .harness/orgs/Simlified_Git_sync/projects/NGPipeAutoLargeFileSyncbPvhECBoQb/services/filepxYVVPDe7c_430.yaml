@@ -1,0 +1,8 @@
+service:
+  name: service191UUDu4zo
+  identifier: service191UUDu4zo
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

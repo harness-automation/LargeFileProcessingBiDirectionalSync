@@ -1,0 +1,8 @@
+service:
+  name: servicegolvlR3moo
+  identifier: servicegolvlR3moo
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

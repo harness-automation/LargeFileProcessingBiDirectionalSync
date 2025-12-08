@@ -1,0 +1,8 @@
+service:
+  name: serviceHLDfinnvsj
+  identifier: serviceHLDfinnvsj
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

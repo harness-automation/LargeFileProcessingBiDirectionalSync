@@ -1,0 +1,8 @@
+service:
+  name: service2FxP3kR54B
+  identifier: service2FxP3kR54B
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

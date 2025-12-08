@@ -1,0 +1,8 @@
+service:
+  name: serviceDdiNlgYuab
+  identifier: serviceDdiNlgYuab
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

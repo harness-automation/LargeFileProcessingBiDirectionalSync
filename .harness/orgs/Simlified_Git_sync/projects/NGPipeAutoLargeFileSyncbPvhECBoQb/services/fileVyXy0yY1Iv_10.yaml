@@ -1,0 +1,8 @@
+service:
+  name: serviceUhE830sRV1
+  identifier: serviceUhE830sRV1
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

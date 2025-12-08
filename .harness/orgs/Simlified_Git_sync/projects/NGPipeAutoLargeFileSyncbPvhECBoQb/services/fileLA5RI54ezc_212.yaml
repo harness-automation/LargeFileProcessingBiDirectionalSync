@@ -1,0 +1,8 @@
+service:
+  name: serviceWgX30vMV8m
+  identifier: serviceWgX30vMV8m
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

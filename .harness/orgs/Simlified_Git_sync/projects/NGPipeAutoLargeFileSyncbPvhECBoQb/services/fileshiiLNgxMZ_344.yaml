@@ -1,0 +1,8 @@
+service:
+  name: serviceGI404jDSX9
+  identifier: serviceGI404jDSX9
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

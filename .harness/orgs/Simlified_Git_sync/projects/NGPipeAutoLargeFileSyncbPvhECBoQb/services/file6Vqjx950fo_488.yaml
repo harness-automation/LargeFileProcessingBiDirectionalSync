@@ -1,0 +1,8 @@
+service:
+  name: servicejanNUdqvn1
+  identifier: servicejanNUdqvn1
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

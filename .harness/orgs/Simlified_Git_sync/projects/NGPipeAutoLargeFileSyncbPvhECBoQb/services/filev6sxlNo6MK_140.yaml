@@ -1,0 +1,8 @@
+service:
+  name: serviceW520cbM0Ae
+  identifier: serviceW520cbM0Ae
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicexB7PNOZIjl
+  identifier: servicexB7PNOZIjl
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

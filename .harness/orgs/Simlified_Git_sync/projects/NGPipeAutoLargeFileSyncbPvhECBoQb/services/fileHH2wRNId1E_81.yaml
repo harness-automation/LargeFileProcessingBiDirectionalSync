@@ -1,0 +1,8 @@
+service:
+  name: serviceookIRklBPy
+  identifier: serviceookIRklBPy
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

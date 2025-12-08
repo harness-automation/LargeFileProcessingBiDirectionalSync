@@ -1,0 +1,8 @@
+service:
+  name: serviceh72aKTiTPI
+  identifier: serviceh72aKTiTPI
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

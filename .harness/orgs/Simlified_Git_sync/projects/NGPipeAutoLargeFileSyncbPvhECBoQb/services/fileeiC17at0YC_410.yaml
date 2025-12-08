@@ -1,0 +1,8 @@
+service:
+  name: serviceLSumYoSy2d
+  identifier: serviceLSumYoSy2d
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

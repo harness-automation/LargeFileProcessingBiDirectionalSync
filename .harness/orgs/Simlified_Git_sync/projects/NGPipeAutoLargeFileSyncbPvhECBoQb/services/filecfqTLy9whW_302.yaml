@@ -1,0 +1,8 @@
+service:
+  name: serviceYfa0cTJavu
+  identifier: serviceYfa0cTJavu
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

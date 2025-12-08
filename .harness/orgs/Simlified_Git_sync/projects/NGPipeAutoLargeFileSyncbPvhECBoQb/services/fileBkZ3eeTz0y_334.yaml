@@ -1,0 +1,8 @@
+service:
+  name: servicePMEQv20wx0
+  identifier: servicePMEQv20wx0
+  projectIdentifier: NGPipeAutoLargeFileSyncbPvhECBoQb
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
