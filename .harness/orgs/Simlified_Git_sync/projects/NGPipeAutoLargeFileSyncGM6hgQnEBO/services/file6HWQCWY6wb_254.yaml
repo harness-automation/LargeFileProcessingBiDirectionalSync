@@ -1,0 +1,8 @@
+service:
+  name: service2Uar216gCI
+  identifier: service2Uar216gCI
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

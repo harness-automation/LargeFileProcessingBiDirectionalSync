@@ -1,0 +1,8 @@
+service:
+  name: servicer1RmsWlafC
+  identifier: servicer1RmsWlafC
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

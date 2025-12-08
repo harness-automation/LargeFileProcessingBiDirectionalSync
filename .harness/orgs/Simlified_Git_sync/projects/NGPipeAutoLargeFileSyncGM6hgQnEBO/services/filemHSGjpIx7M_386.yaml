@@ -1,0 +1,8 @@
+service:
+  name: serviceAdQxd12pCe
+  identifier: serviceAdQxd12pCe
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

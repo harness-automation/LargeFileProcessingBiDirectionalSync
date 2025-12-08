@@ -1,0 +1,8 @@
+service:
+  name: serviceDEf3I2OVQA
+  identifier: serviceDEf3I2OVQA
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

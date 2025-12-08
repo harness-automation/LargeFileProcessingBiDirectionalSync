@@ -1,0 +1,8 @@
+service:
+  name: servicefpTWch9dA1
+  identifier: servicefpTWch9dA1
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

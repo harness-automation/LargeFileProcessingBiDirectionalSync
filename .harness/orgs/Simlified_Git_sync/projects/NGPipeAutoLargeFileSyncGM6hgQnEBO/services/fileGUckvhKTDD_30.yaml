@@ -1,0 +1,8 @@
+service:
+  name: serviceSLWA3eNvbs
+  identifier: serviceSLWA3eNvbs
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

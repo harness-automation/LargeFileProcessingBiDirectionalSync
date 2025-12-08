@@ -1,0 +1,8 @@
+service:
+  name: servicexK526AFWrL
+  identifier: servicexK526AFWrL
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

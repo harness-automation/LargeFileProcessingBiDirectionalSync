@@ -1,0 +1,8 @@
+service:
+  name: service4ETXv4ouGA
+  identifier: service4ETXv4ouGA
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

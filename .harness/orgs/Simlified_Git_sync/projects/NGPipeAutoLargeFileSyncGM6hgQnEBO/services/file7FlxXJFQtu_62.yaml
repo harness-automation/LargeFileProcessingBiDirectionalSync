@@ -1,0 +1,8 @@
+service:
+  name: servicerUAilUxt39
+  identifier: servicerUAilUxt39
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicem2ZFp2fw7r
+  identifier: servicem2ZFp2fw7r
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceuKELApoDE0
+  identifier: serviceuKELApoDE0
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

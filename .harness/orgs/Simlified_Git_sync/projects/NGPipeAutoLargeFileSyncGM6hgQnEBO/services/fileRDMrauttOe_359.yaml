@@ -1,0 +1,8 @@
+service:
+  name: service98AUjp3pdd
+  identifier: service98AUjp3pdd
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

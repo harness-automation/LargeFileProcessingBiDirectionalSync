@@ -1,0 +1,8 @@
+service:
+  name: servicellevALCDUR
+  identifier: servicellevALCDUR
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTfcLwMlaT6
+  identifier: serviceTfcLwMlaT6
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

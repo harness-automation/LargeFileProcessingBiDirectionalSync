@@ -1,0 +1,8 @@
+service:
+  name: serviceyEpUTB45xu
+  identifier: serviceyEpUTB45xu
+  projectIdentifier: NGPipeAutoLargeFileSyncGM6hgQnEBO
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
