@@ -1,0 +1,8 @@
+service:
+  name: service31pt89HVPA
+  identifier: service31pt89HVPA
+  projectIdentifier: NGPipeAutoLargeFileSync8HMnKrb1Oa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

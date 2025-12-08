@@ -1,0 +1,8 @@
+service:
+  name: serviceJeVw2CAMmK
+  identifier: serviceJeVw2CAMmK
+  projectIdentifier: NGPipeAutoLargeFileSync8HMnKrb1Oa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

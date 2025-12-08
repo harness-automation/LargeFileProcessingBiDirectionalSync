@@ -1,0 +1,8 @@
+service:
+  name: servicesJDk1H28mo
+  identifier: servicesJDk1H28mo
+  projectIdentifier: NGPipeAutoLargeFileSync8HMnKrb1Oa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

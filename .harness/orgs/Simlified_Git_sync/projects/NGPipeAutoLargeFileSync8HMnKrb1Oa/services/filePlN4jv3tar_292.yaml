@@ -1,0 +1,8 @@
+service:
+  name: serviceTn364kFW4V
+  identifier: serviceTn364kFW4V
+  projectIdentifier: NGPipeAutoLargeFileSync8HMnKrb1Oa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

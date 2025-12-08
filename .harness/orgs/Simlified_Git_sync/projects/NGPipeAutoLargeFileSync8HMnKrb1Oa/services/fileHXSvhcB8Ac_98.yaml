@@ -1,0 +1,8 @@
+service:
+  name: servicenPtaSR7C9P
+  identifier: servicenPtaSR7C9P
+  projectIdentifier: NGPipeAutoLargeFileSync8HMnKrb1Oa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

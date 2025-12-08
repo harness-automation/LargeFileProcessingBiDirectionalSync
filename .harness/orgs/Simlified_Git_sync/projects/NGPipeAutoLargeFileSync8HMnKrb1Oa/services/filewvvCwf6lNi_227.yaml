@@ -1,0 +1,8 @@
+service:
+  name: serviceCL5aExmc7t
+  identifier: serviceCL5aExmc7t
+  projectIdentifier: NGPipeAutoLargeFileSync8HMnKrb1Oa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

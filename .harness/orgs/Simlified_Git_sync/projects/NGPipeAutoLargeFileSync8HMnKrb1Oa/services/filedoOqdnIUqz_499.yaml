@@ -1,0 +1,8 @@
+service:
+  name: serviceWSomgCb9mu
+  identifier: serviceWSomgCb9mu
+  projectIdentifier: NGPipeAutoLargeFileSync8HMnKrb1Oa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicegt6JTUsmsP
+  identifier: servicegt6JTUsmsP
+  projectIdentifier: NGPipeAutoLargeFileSync8HMnKrb1Oa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

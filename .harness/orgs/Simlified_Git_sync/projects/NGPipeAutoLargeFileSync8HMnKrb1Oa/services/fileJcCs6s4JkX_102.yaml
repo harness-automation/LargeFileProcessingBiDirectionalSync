@@ -1,0 +1,8 @@
+service:
+  name: serviceHoiPR87M9N
+  identifier: serviceHoiPR87M9N
+  projectIdentifier: NGPipeAutoLargeFileSync8HMnKrb1Oa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
