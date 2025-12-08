@@ -1,0 +1,8 @@
+service:
+  name: servicePmxWYxja3a
+  identifier: servicePmxWYxja3a
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

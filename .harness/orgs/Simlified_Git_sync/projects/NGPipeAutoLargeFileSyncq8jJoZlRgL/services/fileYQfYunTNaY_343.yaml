@@ -1,0 +1,8 @@
+service:
+  name: serviceUKO1Ajfa4i
+  identifier: serviceUKO1Ajfa4i
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

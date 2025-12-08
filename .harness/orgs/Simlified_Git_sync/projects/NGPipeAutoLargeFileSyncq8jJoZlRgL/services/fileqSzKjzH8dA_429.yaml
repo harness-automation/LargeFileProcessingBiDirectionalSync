@@ -1,0 +1,8 @@
+service:
+  name: service3MYALxM37e
+  identifier: service3MYALxM37e
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

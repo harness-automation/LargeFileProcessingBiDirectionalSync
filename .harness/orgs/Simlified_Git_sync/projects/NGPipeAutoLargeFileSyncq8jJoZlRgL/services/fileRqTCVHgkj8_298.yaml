@@ -1,0 +1,8 @@
+service:
+  name: serviceKQDU3560qW
+  identifier: serviceKQDU3560qW
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

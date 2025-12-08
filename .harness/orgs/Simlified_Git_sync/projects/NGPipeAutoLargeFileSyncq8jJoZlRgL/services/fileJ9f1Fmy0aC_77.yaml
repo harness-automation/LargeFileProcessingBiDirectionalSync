@@ -1,0 +1,8 @@
+service:
+  name: service7TRFnOffUo
+  identifier: service7TRFnOffUo
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

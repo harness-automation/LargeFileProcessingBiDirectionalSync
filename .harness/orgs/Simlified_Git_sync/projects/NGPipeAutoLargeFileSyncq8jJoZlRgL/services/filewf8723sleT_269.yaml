@@ -1,0 +1,8 @@
+service:
+  name: serviceoPrl6itmIm
+  identifier: serviceoPrl6itmIm
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

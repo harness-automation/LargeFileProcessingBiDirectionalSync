@@ -1,0 +1,8 @@
+service:
+  name: serviceGRPjmaX9tu
+  identifier: serviceGRPjmaX9tu
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

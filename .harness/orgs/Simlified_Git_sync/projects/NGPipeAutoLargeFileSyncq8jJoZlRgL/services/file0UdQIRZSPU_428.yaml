@@ -1,0 +1,8 @@
+service:
+  name: serviceF6sEpVBpt4
+  identifier: serviceF6sEpVBpt4
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

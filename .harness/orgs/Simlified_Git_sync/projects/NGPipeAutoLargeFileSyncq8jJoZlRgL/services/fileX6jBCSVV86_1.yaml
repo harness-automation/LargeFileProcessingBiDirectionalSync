@@ -1,0 +1,8 @@
+service:
+  name: servicehi9onHLr45
+  identifier: servicehi9onHLr45
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

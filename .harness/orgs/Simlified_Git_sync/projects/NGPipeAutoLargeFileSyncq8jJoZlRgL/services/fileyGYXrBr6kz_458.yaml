@@ -1,0 +1,8 @@
+service:
+  name: servicessWakbOXAF
+  identifier: servicessWakbOXAF
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

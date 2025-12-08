@@ -1,0 +1,8 @@
+service:
+  name: serviceEE81GuTWiL
+  identifier: serviceEE81GuTWiL
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

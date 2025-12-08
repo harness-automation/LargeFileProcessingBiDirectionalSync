@@ -1,0 +1,8 @@
+service:
+  name: serviceVHsPB217Xj
+  identifier: serviceVHsPB217Xj
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

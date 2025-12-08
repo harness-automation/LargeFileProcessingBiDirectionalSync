@@ -1,0 +1,8 @@
+service:
+  name: servicehl47britFa
+  identifier: servicehl47britFa
+  projectIdentifier: NGPipeAutoLargeFileSyncq8jJoZlRgL
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
