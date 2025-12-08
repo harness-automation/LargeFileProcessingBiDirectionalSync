@@ -1,0 +1,8 @@
+service:
+  name: servicejw1MOT7AzD
+  identifier: servicejw1MOT7AzD
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

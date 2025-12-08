@@ -1,0 +1,8 @@
+service:
+  name: servicefK50PyDP47
+  identifier: servicefK50PyDP47
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

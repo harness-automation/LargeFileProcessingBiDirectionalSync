@@ -1,0 +1,8 @@
+service:
+  name: serviceOB82LDmq13
+  identifier: serviceOB82LDmq13
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

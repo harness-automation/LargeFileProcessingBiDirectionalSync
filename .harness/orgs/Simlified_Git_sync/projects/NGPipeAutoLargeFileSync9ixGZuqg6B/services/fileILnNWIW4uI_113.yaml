@@ -1,0 +1,8 @@
+service:
+  name: serviceUrvIrppb8l
+  identifier: serviceUrvIrppb8l
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

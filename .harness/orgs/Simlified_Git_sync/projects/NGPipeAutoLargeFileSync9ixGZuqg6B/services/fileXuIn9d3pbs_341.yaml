@@ -1,0 +1,8 @@
+service:
+  name: servicefBbi8AABot
+  identifier: servicefBbi8AABot
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

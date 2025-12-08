@@ -1,0 +1,8 @@
+service:
+  name: serviceHirdLKTtVk
+  identifier: serviceHirdLKTtVk
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

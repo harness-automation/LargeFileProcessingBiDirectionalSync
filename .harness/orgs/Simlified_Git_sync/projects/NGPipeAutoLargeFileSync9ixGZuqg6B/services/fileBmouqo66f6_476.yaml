@@ -1,0 +1,8 @@
+service:
+  name: servicehb2CDvBFEs
+  identifier: servicehb2CDvBFEs
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceoWRT2nj2bt
+  identifier: serviceoWRT2nj2bt
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicemBrUMTT3LY
+  identifier: servicemBrUMTT3LY
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

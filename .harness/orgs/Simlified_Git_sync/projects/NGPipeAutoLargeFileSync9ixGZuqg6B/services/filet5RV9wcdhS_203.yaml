@@ -1,0 +1,8 @@
+service:
+  name: serviceiauS2cisG7
+  identifier: serviceiauS2cisG7
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

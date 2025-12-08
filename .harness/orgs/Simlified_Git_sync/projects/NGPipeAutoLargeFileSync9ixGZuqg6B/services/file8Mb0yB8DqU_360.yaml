@@ -1,0 +1,8 @@
+service:
+  name: serviceml3gFDrPsr
+  identifier: serviceml3gFDrPsr
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

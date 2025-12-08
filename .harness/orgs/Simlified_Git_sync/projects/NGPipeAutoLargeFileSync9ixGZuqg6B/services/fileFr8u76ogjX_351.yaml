@@ -1,0 +1,8 @@
+service:
+  name: serviceRp44DDX6pF
+  identifier: serviceRp44DDX6pF
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

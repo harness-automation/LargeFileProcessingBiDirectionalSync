@@ -1,0 +1,8 @@
+service:
+  name: serviceDy5AJALYz6
+  identifier: serviceDy5AJALYz6
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

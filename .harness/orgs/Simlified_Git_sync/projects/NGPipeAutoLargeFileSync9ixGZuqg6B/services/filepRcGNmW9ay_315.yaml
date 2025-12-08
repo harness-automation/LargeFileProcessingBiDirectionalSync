@@ -1,0 +1,8 @@
+service:
+  name: servicededB0FuqlS
+  identifier: servicededB0FuqlS
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

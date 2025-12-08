@@ -1,0 +1,8 @@
+service:
+  name: serviceTBlffpmP3C
+  identifier: serviceTBlffpmP3C
+  projectIdentifier: NGPipeAutoLargeFileSync9ixGZuqg6B
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
