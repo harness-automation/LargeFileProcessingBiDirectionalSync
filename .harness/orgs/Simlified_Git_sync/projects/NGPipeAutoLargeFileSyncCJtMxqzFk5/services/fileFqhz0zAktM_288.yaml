@@ -1,0 +1,8 @@
+service:
+  name: serviceLXr40R3GSf
+  identifier: serviceLXr40R3GSf
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

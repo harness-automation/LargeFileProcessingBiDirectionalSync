@@ -1,0 +1,8 @@
+service:
+  name: servicermq296bQaU
+  identifier: servicermq296bQaU
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

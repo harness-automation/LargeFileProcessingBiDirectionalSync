@@ -1,0 +1,8 @@
+service:
+  name: serviceXFM1MYcmfx
+  identifier: serviceXFM1MYcmfx
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

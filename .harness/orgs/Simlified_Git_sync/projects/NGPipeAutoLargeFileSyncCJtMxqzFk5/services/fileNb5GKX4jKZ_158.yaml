@@ -1,0 +1,8 @@
+service:
+  name: serviceOChhmVmEfA
+  identifier: serviceOChhmVmEfA
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

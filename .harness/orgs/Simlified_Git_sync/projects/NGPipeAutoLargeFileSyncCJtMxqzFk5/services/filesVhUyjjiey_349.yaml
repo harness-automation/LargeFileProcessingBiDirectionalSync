@@ -1,0 +1,8 @@
+service:
+  name: servicep7OtfaWRAS
+  identifier: servicep7OtfaWRAS
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

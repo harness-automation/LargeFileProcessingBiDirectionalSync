@@ -1,0 +1,8 @@
+service:
+  name: service43jsTA7821
+  identifier: service43jsTA7821
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

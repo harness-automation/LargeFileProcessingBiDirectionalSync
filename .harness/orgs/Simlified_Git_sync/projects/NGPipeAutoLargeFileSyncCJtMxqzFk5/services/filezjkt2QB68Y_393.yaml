@@ -1,0 +1,8 @@
+service:
+  name: serviceW5ZtorTBAK
+  identifier: serviceW5ZtorTBAK
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

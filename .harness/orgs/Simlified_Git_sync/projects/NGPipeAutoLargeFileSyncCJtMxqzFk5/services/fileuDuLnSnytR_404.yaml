@@ -1,0 +1,8 @@
+service:
+  name: service79BrKa6RMW
+  identifier: service79BrKa6RMW
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

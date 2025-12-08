@@ -1,0 +1,8 @@
+service:
+  name: servicekTZfiL2sMV
+  identifier: servicekTZfiL2sMV
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

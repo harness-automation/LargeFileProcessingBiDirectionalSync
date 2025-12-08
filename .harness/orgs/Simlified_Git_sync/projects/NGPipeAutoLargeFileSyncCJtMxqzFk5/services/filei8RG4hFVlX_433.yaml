@@ -1,0 +1,8 @@
+service:
+  name: serviceismWeVE1Dg
+  identifier: serviceismWeVE1Dg
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

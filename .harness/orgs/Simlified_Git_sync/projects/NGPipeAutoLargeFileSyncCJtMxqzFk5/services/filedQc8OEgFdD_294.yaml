@@ -1,0 +1,8 @@
+service:
+  name: servicedRTj4u840n
+  identifier: servicedRTj4u840n
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

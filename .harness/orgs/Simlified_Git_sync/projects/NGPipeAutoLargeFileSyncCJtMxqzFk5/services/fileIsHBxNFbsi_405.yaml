@@ -1,0 +1,8 @@
+service:
+  name: serviceOfGOa42r5P
+  identifier: serviceOfGOa42r5P
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

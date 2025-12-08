@@ -1,0 +1,8 @@
+service:
+  name: serviceHl646L1HZr
+  identifier: serviceHl646L1HZr
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

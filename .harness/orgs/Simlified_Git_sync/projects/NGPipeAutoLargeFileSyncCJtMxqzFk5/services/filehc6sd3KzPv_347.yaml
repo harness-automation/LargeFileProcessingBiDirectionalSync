@@ -1,0 +1,8 @@
+service:
+  name: serviceBbRefx2RPt
+  identifier: serviceBbRefx2RPt
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

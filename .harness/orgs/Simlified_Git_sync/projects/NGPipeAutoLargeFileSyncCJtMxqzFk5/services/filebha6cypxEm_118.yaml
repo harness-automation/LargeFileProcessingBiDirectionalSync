@@ -1,0 +1,8 @@
+service:
+  name: serviceRWR02TdFii
+  identifier: serviceRWR02TdFii
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

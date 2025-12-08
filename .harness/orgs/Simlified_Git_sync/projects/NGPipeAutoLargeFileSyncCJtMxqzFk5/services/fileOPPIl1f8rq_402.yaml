@@ -1,0 +1,8 @@
+service:
+  name: serviceFmg27aTMIv
+  identifier: serviceFmg27aTMIv
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

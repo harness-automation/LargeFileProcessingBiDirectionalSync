@@ -1,0 +1,8 @@
+service:
+  name: servicenoakfV5sht
+  identifier: servicenoakfV5sht
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

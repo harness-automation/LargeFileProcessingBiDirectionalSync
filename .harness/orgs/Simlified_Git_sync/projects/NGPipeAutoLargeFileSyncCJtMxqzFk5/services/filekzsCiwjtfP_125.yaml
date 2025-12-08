@@ -1,0 +1,8 @@
+service:
+  name: serviceHPV6pV7PFk
+  identifier: serviceHPV6pV7PFk
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

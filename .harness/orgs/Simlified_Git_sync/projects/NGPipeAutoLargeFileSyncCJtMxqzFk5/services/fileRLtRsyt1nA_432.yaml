@@ -1,0 +1,8 @@
+service:
+  name: serviceg9drPTTUIr
+  identifier: serviceg9drPTTUIr
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

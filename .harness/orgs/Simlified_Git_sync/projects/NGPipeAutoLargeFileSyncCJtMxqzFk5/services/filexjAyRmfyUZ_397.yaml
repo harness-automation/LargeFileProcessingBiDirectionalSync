@@ -1,0 +1,8 @@
+service:
+  name: serviceMEREk3Ir8p
+  identifier: serviceMEREk3Ir8p
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service3ENsctopCf
+  identifier: service3ENsctopCf
+  projectIdentifier: NGPipeAutoLargeFileSyncCJtMxqzFk5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
