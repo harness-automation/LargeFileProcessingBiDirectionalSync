@@ -1,0 +1,8 @@
+service:
+  name: serviceRoc1P6887r
+  identifier: serviceRoc1P6887r
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

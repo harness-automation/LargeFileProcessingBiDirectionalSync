@@ -1,0 +1,8 @@
+service:
+  name: serviceGMdp96kwA3
+  identifier: serviceGMdp96kwA3
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

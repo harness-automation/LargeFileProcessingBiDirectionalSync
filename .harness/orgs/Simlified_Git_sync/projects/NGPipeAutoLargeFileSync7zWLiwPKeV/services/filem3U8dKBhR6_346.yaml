@@ -1,0 +1,8 @@
+service:
+  name: serviceuPZpI53TJT
+  identifier: serviceuPZpI53TJT
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

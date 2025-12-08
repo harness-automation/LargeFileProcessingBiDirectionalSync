@@ -1,0 +1,8 @@
+service:
+  name: service2JdXGA12m4
+  identifier: service2JdXGA12m4
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

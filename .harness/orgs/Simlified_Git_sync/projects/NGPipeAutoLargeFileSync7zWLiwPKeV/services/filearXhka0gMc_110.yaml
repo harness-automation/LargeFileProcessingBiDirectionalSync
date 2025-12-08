@@ -1,0 +1,8 @@
+service:
+  name: service7ZnKaTtROK
+  identifier: service7ZnKaTtROK
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

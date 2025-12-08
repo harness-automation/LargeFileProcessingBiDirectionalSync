@@ -1,0 +1,8 @@
+service:
+  name: serviceMoft3BcX8E
+  identifier: serviceMoft3BcX8E
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

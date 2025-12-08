@@ -1,0 +1,8 @@
+service:
+  name: servicer33UZruwwo
+  identifier: servicer33UZruwwo
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

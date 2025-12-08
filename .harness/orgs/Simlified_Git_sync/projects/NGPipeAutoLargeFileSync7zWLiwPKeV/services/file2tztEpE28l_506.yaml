@@ -1,0 +1,8 @@
+service:
+  name: serviceKFCA13V9n6
+  identifier: serviceKFCA13V9n6
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

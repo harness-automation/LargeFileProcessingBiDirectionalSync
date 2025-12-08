@@ -1,0 +1,8 @@
+service:
+  name: serviceEeves3taEo
+  identifier: serviceEeves3taEo
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceeTbiS7C12U
+  identifier: serviceeTbiS7C12U
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

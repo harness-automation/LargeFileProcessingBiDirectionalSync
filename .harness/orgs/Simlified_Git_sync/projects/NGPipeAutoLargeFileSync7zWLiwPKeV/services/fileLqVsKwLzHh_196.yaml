@@ -1,0 +1,8 @@
+service:
+  name: servicefDWsI85if2
+  identifier: servicefDWsI85if2
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

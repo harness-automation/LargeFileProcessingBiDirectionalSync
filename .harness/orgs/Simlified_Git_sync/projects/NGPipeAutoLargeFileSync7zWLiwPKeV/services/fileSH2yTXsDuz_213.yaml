@@ -1,0 +1,8 @@
+service:
+  name: servicepDa3mDB15x
+  identifier: servicepDa3mDB15x
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

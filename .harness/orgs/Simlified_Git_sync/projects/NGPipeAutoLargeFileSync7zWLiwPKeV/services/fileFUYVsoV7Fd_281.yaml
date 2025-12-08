@@ -1,0 +1,8 @@
+service:
+  name: serviceXjaMYRss3e
+  identifier: serviceXjaMYRss3e
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicevG29MdthFx
+  identifier: servicevG29MdthFx
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

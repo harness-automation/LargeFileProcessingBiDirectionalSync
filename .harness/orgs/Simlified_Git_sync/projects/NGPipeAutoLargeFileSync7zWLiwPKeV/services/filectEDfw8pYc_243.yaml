@@ -1,0 +1,8 @@
+service:
+  name: serviceTetIR0GS3a
+  identifier: serviceTetIR0GS3a
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

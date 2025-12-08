@@ -1,0 +1,8 @@
+service:
+  name: service32SCvr3Ghg
+  identifier: service32SCvr3Ghg
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

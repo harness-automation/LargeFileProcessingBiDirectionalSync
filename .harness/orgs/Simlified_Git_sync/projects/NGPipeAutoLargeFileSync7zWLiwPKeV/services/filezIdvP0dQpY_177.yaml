@@ -1,0 +1,8 @@
+service:
+  name: serviceJuZIo7PPLe
+  identifier: serviceJuZIo7PPLe
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

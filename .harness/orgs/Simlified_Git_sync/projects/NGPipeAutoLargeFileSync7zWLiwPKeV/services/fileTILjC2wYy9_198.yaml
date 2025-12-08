@@ -1,0 +1,8 @@
+service:
+  name: serviceFShToipFSE
+  identifier: serviceFShToipFSE
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

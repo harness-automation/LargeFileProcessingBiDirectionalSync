@@ -1,0 +1,8 @@
+service:
+  name: serviceHrv1iYNAzT
+  identifier: serviceHrv1iYNAzT
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

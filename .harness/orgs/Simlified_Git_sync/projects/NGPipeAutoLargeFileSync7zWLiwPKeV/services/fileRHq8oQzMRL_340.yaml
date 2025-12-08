@@ -1,0 +1,8 @@
+service:
+  name: serviceLAmHr238Kf
+  identifier: serviceLAmHr238Kf
+  projectIdentifier: NGPipeAutoLargeFileSync7zWLiwPKeV
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
