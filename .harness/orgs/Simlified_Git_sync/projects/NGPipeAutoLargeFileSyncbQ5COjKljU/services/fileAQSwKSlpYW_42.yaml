@@ -1,0 +1,8 @@
+service:
+  name: serviceOiNLWjErPL
+  identifier: serviceOiNLWjErPL
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

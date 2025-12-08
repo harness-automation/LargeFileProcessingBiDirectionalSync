@@ -1,0 +1,8 @@
+service:
+  name: servicedrT7GprSzb
+  identifier: servicedrT7GprSzb
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

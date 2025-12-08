@@ -1,0 +1,8 @@
+service:
+  name: serviceXDJyVM2mhW
+  identifier: serviceXDJyVM2mhW
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

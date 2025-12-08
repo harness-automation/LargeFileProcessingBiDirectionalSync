@@ -1,0 +1,8 @@
+service:
+  name: service2wDPjx806O
+  identifier: service2wDPjx806O
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceCSvmkM5app
+  identifier: serviceCSvmkM5app
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service2pdEVRaEKY
+  identifier: service2pdEVRaEKY
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

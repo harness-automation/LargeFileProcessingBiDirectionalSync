@@ -1,0 +1,8 @@
+service:
+  name: servicehalclTgW64
+  identifier: servicehalclTgW64
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

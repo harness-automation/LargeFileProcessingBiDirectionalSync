@@ -1,0 +1,8 @@
+service:
+  name: servicecEnuRcEmbe
+  identifier: servicecEnuRcEmbe
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

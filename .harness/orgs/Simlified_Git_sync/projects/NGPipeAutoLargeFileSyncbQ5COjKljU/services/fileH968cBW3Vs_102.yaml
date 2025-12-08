@@ -1,0 +1,8 @@
+service:
+  name: serviceESxn9PlId1
+  identifier: serviceESxn9PlId1
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

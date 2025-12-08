@@ -1,0 +1,8 @@
+service:
+  name: service2FAtDhtIaP
+  identifier: service2FAtDhtIaP
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

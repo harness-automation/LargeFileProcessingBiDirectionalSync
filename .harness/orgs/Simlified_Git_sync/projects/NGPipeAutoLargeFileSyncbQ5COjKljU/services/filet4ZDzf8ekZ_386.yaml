@@ -1,0 +1,8 @@
+service:
+  name: serviceVcrCMNOoEZ
+  identifier: serviceVcrCMNOoEZ
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

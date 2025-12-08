@@ -1,0 +1,8 @@
+service:
+  name: serviceGW97KrI72R
+  identifier: serviceGW97KrI72R
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

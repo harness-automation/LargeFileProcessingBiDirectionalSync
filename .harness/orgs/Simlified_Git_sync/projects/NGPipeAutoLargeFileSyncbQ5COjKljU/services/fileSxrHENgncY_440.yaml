@@ -1,0 +1,8 @@
+service:
+  name: serviceeHER5SpyZ8
+  identifier: serviceeHER5SpyZ8
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

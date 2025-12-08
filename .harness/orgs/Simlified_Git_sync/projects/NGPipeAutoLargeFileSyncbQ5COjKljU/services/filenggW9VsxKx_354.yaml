@@ -1,0 +1,8 @@
+service:
+  name: servicekrk12nbg7r
+  identifier: servicekrk12nbg7r
+  projectIdentifier: NGPipeAutoLargeFileSyncbQ5COjKljU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
