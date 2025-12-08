@@ -1,0 +1,8 @@
+service:
+  name: serviceDeokWs47qB
+  identifier: serviceDeokWs47qB
+  projectIdentifier: NGPipeAutoLargeFileSync67mZ8xQ6xN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

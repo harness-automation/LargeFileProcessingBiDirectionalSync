@@ -1,0 +1,8 @@
+service:
+  name: serviceDcX2sP57Uy
+  identifier: serviceDcX2sP57Uy
+  projectIdentifier: NGPipeAutoLargeFileSync67mZ8xQ6xN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

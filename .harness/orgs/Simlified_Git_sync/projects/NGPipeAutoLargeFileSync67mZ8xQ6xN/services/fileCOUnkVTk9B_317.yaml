@@ -1,0 +1,8 @@
+service:
+  name: service72tTWP46Zs
+  identifier: service72tTWP46Zs
+  projectIdentifier: NGPipeAutoLargeFileSync67mZ8xQ6xN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

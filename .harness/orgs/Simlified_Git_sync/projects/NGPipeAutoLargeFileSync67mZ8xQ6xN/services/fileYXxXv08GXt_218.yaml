@@ -1,0 +1,8 @@
+service:
+  name: serviceri3dk8bwFi
+  identifier: serviceri3dk8bwFi
+  projectIdentifier: NGPipeAutoLargeFileSync67mZ8xQ6xN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

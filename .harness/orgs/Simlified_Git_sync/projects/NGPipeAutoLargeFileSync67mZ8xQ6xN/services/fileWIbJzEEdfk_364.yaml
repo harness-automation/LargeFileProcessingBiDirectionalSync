@@ -1,0 +1,8 @@
+service:
+  name: service4RUopGLcvK
+  identifier: service4RUopGLcvK
+  projectIdentifier: NGPipeAutoLargeFileSync67mZ8xQ6xN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

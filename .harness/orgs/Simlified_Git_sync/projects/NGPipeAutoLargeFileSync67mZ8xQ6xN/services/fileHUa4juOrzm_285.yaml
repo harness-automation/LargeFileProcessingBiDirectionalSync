@@ -1,0 +1,8 @@
+service:
+  name: servicebsWO1CAl2e
+  identifier: servicebsWO1CAl2e
+  projectIdentifier: NGPipeAutoLargeFileSync67mZ8xQ6xN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
