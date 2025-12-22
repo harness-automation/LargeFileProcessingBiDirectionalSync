@@ -1,0 +1,8 @@
+service:
+  name: serviceFZaC2PTPpH
+  identifier: serviceFZaC2PTPpH
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

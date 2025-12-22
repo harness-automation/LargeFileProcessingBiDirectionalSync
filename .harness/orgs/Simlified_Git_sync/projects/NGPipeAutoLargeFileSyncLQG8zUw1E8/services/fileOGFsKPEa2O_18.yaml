@@ -1,0 +1,8 @@
+service:
+  name: serviceoy80DRA5AP
+  identifier: serviceoy80DRA5AP
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

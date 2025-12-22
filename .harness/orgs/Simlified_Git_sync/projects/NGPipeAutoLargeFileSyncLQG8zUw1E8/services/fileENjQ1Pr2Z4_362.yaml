@@ -1,0 +1,8 @@
+service:
+  name: serviceghVi2K9VAV
+  identifier: serviceghVi2K9VAV
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

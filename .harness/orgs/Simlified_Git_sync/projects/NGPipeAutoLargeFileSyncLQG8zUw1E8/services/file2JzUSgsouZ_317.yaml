@@ -1,0 +1,8 @@
+service:
+  name: serviceGn4IvcRXAT
+  identifier: serviceGn4IvcRXAT
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

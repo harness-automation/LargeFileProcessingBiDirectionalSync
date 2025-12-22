@@ -1,0 +1,8 @@
+service:
+  name: serviceITjR08BORf
+  identifier: serviceITjR08BORf
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

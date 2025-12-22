@@ -1,0 +1,8 @@
+service:
+  name: service365le3jhA4
+  identifier: service365le3jhA4
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

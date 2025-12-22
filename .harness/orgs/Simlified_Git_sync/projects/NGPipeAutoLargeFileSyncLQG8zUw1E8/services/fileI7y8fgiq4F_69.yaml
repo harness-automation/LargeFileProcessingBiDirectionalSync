@@ -1,0 +1,8 @@
+service:
+  name: serviceoNHy86LM1K
+  identifier: serviceoNHy86LM1K
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

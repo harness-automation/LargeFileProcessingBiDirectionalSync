@@ -1,0 +1,8 @@
+service:
+  name: serviceDs30v63HRO
+  identifier: serviceDs30v63HRO
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

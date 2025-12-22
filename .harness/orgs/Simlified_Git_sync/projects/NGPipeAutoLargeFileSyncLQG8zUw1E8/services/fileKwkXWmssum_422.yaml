@@ -1,0 +1,8 @@
+service:
+  name: servicemIZF62982R
+  identifier: servicemIZF62982R
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceanhLNOSC0L
+  identifier: serviceanhLNOSC0L
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

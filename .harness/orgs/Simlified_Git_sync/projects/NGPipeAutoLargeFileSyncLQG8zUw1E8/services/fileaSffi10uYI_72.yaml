@@ -1,0 +1,8 @@
+service:
+  name: servicemsWP0HgbRL
+  identifier: servicemsWP0HgbRL
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

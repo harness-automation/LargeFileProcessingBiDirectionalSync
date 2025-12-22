@@ -1,0 +1,8 @@
+service:
+  name: servicevfs6fmZfL1
+  identifier: servicevfs6fmZfL1
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

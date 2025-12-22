@@ -1,0 +1,8 @@
+service:
+  name: service0ncaDUHer3
+  identifier: service0ncaDUHer3
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

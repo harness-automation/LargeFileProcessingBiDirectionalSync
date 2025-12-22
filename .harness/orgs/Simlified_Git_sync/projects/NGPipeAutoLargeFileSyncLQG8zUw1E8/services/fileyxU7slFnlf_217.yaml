@@ -1,0 +1,8 @@
+service:
+  name: serviceTFBiuzoc5R
+  identifier: serviceTFBiuzoc5R
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service44VZNjPC02
+  identifier: service44VZNjPC02
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

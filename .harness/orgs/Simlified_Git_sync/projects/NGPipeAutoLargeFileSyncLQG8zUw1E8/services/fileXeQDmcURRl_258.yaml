@@ -1,0 +1,8 @@
+service:
+  name: serviceaDt1fidLlA
+  identifier: serviceaDt1fidLlA
+  projectIdentifier: NGPipeAutoLargeFileSyncLQG8zUw1E8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
