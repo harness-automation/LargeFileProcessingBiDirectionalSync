@@ -1,0 +1,8 @@
+service:
+  name: serviceQELIO6RHoL
+  identifier: serviceQELIO6RHoL
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

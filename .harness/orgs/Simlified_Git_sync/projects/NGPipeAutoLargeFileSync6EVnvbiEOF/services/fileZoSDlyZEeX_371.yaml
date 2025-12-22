@@ -1,0 +1,8 @@
+service:
+  name: serviceomFFV1zDuL
+  identifier: serviceomFFV1zDuL
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

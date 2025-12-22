@@ -1,0 +1,8 @@
+service:
+  name: serviceOqxmUla80H
+  identifier: serviceOqxmUla80H
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

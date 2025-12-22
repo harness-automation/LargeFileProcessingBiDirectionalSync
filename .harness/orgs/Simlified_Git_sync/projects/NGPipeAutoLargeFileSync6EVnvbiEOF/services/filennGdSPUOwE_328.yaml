@@ -1,0 +1,8 @@
+service:
+  name: service66BoGWrjOn
+  identifier: service66BoGWrjOn
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

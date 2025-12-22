@@ -1,0 +1,8 @@
+service:
+  name: serviceXb62bsiVIG
+  identifier: serviceXb62bsiVIG
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

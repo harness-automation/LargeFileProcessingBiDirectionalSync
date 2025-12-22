@@ -1,0 +1,8 @@
+service:
+  name: servicexaGn68TInP
+  identifier: servicexaGn68TInP
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

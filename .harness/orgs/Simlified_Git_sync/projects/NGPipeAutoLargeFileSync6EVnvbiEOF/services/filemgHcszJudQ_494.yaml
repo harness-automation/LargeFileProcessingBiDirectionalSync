@@ -1,0 +1,8 @@
+service:
+  name: servicehaMbTS55ZI
+  identifier: servicehaMbTS55ZI
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

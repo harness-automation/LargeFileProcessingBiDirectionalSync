@@ -1,0 +1,8 @@
+service:
+  name: servicedb5jsi25zE
+  identifier: servicedb5jsi25zE
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

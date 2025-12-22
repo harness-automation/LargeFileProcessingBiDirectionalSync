@@ -1,0 +1,8 @@
+service:
+  name: service0PRIbK50TN
+  identifier: service0PRIbK50TN
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

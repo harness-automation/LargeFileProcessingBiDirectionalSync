@@ -1,0 +1,8 @@
+service:
+  name: serviceCPWv84gCie
+  identifier: serviceCPWv84gCie
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

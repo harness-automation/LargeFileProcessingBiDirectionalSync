@@ -1,0 +1,8 @@
+service:
+  name: servicedQcSL1hifu
+  identifier: servicedQcSL1hifu
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

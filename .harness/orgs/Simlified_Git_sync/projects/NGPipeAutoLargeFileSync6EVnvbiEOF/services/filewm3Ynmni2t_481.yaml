@@ -1,0 +1,8 @@
+service:
+  name: servicemadjU1xSI3
+  identifier: servicemadjU1xSI3
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

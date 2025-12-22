@@ -1,0 +1,8 @@
+service:
+  name: servicenTSNdoPpK2
+  identifier: servicenTSNdoPpK2
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

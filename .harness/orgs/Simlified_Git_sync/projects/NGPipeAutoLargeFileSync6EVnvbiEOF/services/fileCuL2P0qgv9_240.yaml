@@ -1,0 +1,8 @@
+service:
+  name: service4aPCtupT40
+  identifier: service4aPCtupT40
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

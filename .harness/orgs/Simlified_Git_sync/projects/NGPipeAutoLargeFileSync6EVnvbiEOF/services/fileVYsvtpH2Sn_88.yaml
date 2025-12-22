@@ -1,0 +1,8 @@
+service:
+  name: serviceh8MO12tbxf
+  identifier: serviceh8MO12tbxf
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

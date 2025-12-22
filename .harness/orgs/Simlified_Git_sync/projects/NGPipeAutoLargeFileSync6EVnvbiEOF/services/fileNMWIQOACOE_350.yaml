@@ -1,0 +1,8 @@
+service:
+  name: servicei7xaDPloIs
+  identifier: servicei7xaDPloIs
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

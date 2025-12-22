@@ -1,0 +1,8 @@
+service:
+  name: servicerUcnXbGL45
+  identifier: servicerUcnXbGL45
+  projectIdentifier: NGPipeAutoLargeFileSync6EVnvbiEOF
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
