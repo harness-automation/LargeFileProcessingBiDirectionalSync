@@ -1,0 +1,8 @@
+service:
+  name: serviceriKO7OPDEe
+  identifier: serviceriKO7OPDEe
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

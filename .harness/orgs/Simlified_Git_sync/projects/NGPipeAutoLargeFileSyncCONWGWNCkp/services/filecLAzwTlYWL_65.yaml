@@ -1,0 +1,8 @@
+service:
+  name: servicewbuEJ59UfO
+  identifier: servicewbuEJ59UfO
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

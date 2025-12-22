@@ -1,0 +1,8 @@
+service:
+  name: servicem2m82VgAba
+  identifier: servicem2m82VgAba
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

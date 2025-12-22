@@ -1,0 +1,8 @@
+service:
+  name: servicePrDBlvDY1i
+  identifier: servicePrDBlvDY1i
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

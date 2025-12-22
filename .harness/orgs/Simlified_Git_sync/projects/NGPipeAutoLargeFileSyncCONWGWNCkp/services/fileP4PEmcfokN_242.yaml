@@ -1,0 +1,8 @@
+service:
+  name: serviceDYBCK8Eyg1
+  identifier: serviceDYBCK8Eyg1
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

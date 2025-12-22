@@ -1,0 +1,8 @@
+service:
+  name: servicecxUIOwcFrc
+  identifier: servicecxUIOwcFrc
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

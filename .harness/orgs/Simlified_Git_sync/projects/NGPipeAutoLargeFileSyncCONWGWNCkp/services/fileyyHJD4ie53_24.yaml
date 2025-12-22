@@ -1,0 +1,8 @@
+service:
+  name: serviceos3Tyb64jc
+  identifier: serviceos3Tyb64jc
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

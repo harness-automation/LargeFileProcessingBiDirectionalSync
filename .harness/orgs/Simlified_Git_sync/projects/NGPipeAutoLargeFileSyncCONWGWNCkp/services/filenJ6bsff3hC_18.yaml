@@ -1,0 +1,8 @@
+service:
+  name: servicendTpBI49bA
+  identifier: servicendTpBI49bA
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

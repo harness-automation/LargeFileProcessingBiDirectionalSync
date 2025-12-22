@@ -1,0 +1,8 @@
+service:
+  name: serviceDjS77WSAXY
+  identifier: serviceDjS77WSAXY
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

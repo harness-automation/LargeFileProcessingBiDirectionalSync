@@ -1,0 +1,8 @@
+service:
+  name: servicePvlmXabahm
+  identifier: servicePvlmXabahm
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

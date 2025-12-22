@@ -1,0 +1,8 @@
+service:
+  name: servicecax5TM73mA
+  identifier: servicecax5TM73mA
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

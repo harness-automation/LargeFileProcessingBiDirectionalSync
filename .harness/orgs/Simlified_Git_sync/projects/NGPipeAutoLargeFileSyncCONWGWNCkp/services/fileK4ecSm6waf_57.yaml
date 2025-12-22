@@ -1,0 +1,8 @@
+service:
+  name: serviceTPypi6wGjO
+  identifier: serviceTPypi6wGjO
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

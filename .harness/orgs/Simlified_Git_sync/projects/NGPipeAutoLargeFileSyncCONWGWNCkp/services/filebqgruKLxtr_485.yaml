@@ -1,0 +1,8 @@
+service:
+  name: serviceNPPU8XvzMw
+  identifier: serviceNPPU8XvzMw
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

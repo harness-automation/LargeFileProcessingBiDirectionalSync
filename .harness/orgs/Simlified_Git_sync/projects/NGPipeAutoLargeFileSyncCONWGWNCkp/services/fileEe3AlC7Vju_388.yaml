@@ -1,0 +1,8 @@
+service:
+  name: serviceEgmj3C35Wk
+  identifier: serviceEgmj3C35Wk
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicepMCmbyV951
+  identifier: servicepMCmbyV951
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

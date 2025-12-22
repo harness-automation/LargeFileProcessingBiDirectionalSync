@@ -1,0 +1,8 @@
+service:
+  name: serviceqRJ4dOdAeL
+  identifier: serviceqRJ4dOdAeL
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

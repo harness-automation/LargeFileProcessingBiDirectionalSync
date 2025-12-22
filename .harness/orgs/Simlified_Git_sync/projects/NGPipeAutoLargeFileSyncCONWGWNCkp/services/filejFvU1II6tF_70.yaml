@@ -1,0 +1,8 @@
+service:
+  name: servicev4yTaZ8690
+  identifier: servicev4yTaZ8690
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

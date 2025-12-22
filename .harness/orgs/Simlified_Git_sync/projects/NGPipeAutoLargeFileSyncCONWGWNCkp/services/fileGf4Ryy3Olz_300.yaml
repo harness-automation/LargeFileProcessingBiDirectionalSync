@@ -1,0 +1,8 @@
+service:
+  name: serviceOTjX3ADnfi
+  identifier: serviceOTjX3ADnfi
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

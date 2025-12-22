@@ -1,0 +1,8 @@
+service:
+  name: serviceDHwIa6864w
+  identifier: serviceDHwIa6864w
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

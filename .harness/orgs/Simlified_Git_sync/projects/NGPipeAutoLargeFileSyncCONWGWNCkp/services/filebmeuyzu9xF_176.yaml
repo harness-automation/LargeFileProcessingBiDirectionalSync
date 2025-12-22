@@ -1,0 +1,8 @@
+service:
+  name: serviceniMif45P9V
+  identifier: serviceniMif45P9V
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

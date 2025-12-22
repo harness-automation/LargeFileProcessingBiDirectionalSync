@@ -1,0 +1,8 @@
+service:
+  name: serviceMIRlo2kPDr
+  identifier: serviceMIRlo2kPDr
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

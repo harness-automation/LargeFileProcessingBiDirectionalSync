@@ -1,0 +1,8 @@
+service:
+  name: servicecflhA77ZRP
+  identifier: servicecflhA77ZRP
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

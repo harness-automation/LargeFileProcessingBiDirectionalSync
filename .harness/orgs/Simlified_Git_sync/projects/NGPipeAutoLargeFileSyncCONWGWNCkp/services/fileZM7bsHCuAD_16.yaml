@@ -1,0 +1,8 @@
+service:
+  name: serviceT3mWT2afuk
+  identifier: serviceT3mWT2afuk
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

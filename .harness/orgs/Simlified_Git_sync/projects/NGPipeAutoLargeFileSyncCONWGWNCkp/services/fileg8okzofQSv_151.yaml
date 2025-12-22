@@ -1,0 +1,8 @@
+service:
+  name: servicetRDFiX3Jx9
+  identifier: servicetRDFiX3Jx9
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

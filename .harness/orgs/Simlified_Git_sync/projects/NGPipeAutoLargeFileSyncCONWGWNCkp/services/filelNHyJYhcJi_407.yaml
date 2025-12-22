@@ -1,0 +1,8 @@
+service:
+  name: serviceP3lWVftVoz
+  identifier: serviceP3lWVftVoz
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

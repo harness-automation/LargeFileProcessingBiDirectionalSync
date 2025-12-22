@@ -1,0 +1,8 @@
+service:
+  name: serviceBlKU2ecley
+  identifier: serviceBlKU2ecley
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

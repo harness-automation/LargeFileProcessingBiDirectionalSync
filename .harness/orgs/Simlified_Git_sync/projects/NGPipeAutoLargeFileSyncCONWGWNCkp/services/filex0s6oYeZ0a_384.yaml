@@ -1,0 +1,8 @@
+service:
+  name: servicekt72KnhmE8
+  identifier: servicekt72KnhmE8
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

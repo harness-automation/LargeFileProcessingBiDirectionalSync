@@ -1,0 +1,8 @@
+service:
+  name: servicePLAXv3vex6
+  identifier: servicePLAXv3vex6
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

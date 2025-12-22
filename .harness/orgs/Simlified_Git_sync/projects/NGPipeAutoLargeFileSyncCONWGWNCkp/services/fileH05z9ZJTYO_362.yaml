@@ -1,0 +1,8 @@
+service:
+  name: servicetpnH02Dru8
+  identifier: servicetpnH02Dru8
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

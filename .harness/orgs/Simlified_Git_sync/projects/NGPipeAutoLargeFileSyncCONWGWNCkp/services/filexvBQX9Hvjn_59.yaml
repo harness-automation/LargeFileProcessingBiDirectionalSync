@@ -1,0 +1,8 @@
+service:
+  name: servicewi7woccocL
+  identifier: servicewi7woccocL
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

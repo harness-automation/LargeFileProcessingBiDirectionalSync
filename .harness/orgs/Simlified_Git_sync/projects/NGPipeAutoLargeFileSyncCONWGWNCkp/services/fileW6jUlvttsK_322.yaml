@@ -1,0 +1,8 @@
+service:
+  name: serviceWFIlyvzX03
+  identifier: serviceWFIlyvzX03
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

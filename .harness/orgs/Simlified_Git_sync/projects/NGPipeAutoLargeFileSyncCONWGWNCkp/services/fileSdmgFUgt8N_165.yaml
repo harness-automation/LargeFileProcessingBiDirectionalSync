@@ -1,0 +1,8 @@
+service:
+  name: serviceKwVPK90HWc
+  identifier: serviceKwVPK90HWc
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

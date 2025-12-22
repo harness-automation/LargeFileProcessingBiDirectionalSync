@@ -1,0 +1,8 @@
+service:
+  name: serviceroLzaVYnmE
+  identifier: serviceroLzaVYnmE
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

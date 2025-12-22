@@ -1,0 +1,8 @@
+service:
+  name: serviceCAiHD6PVBG
+  identifier: serviceCAiHD6PVBG
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

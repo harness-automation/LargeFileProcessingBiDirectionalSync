@@ -1,0 +1,8 @@
+service:
+  name: serviceguLacNRA7G
+  identifier: serviceguLacNRA7G
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

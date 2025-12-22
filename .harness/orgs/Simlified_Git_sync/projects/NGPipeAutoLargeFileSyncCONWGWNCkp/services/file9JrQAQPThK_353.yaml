@@ -1,0 +1,8 @@
+service:
+  name: servicecOPX2nqBtp
+  identifier: servicecOPX2nqBtp
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

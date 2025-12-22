@@ -1,0 +1,8 @@
+service:
+  name: serviceUQ2eBQLTwn
+  identifier: serviceUQ2eBQLTwn
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

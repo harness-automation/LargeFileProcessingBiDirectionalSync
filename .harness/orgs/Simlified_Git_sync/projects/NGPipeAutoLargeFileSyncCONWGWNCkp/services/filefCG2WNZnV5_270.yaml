@@ -1,0 +1,8 @@
+service:
+  name: serviceSZa8vex55Z
+  identifier: serviceSZa8vex55Z
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceC06dSkRUra
+  identifier: serviceC06dSkRUra
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceba9946Imbh
+  identifier: serviceba9946Imbh
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicelaPkMDb1KR
+  identifier: servicelaPkMDb1KR
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceo3LxbUM1xC
+  identifier: serviceo3LxbUM1xC
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

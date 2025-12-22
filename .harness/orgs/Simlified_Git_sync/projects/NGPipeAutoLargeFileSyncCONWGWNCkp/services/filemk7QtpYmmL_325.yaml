@@ -1,0 +1,8 @@
+service:
+  name: servicePSRSLZ234g
+  identifier: servicePSRSLZ234g
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceX594VSZepC
+  identifier: serviceX594VSZepC
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

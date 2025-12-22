@@ -1,0 +1,8 @@
+service:
+  name: serviceJOpRtiz53i
+  identifier: serviceJOpRtiz53i
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service1PoZkYnCml
+  identifier: service1PoZkYnCml
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

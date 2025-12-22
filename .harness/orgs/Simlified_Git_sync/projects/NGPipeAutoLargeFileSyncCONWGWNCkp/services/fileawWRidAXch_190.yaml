@@ -1,0 +1,8 @@
+service:
+  name: serviceVIfvlj79KV
+  identifier: serviceVIfvlj79KV
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

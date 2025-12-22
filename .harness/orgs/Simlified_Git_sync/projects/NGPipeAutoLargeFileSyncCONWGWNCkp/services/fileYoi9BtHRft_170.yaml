@@ -1,0 +1,8 @@
+service:
+  name: serviceGCAAcTtyuz
+  identifier: serviceGCAAcTtyuz
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

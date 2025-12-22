@@ -1,0 +1,8 @@
+service:
+  name: servicejZBiMi8Ask
+  identifier: servicejZBiMi8Ask
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

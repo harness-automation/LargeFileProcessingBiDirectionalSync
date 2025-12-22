@@ -1,0 +1,8 @@
+service:
+  name: servicenenDnKgqoy
+  identifier: servicenenDnKgqoy
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

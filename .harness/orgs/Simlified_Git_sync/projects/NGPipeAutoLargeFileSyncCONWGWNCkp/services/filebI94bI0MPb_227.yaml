@@ -1,0 +1,8 @@
+service:
+  name: serviceLwrTFg5Zgl
+  identifier: serviceLwrTFg5Zgl
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

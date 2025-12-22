@@ -1,0 +1,8 @@
+service:
+  name: serviceda94ClmSqy
+  identifier: serviceda94ClmSqy
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

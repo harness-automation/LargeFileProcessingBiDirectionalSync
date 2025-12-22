@@ -1,0 +1,8 @@
+service:
+  name: serviceBUNAOzy7Wn
+  identifier: serviceBUNAOzy7Wn
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

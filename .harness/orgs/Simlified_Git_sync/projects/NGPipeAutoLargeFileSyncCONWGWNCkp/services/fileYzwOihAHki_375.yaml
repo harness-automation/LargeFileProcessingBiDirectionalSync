@@ -1,0 +1,8 @@
+service:
+  name: serviceECroCgdxpP
+  identifier: serviceECroCgdxpP
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

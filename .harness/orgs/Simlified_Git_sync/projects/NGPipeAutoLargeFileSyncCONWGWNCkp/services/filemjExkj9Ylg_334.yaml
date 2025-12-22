@@ -1,0 +1,8 @@
+service:
+  name: serviceSwzMleJEt4
+  identifier: serviceSwzMleJEt4
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

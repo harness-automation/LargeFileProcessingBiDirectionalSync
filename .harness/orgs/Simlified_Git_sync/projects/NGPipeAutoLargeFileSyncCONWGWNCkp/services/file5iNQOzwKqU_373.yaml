@@ -1,0 +1,8 @@
+service:
+  name: serviceh02EnAKpoN
+  identifier: serviceh02EnAKpoN
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

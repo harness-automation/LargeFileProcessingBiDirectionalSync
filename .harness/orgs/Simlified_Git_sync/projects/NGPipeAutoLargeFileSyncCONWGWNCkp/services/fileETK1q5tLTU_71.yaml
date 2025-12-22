@@ -1,0 +1,8 @@
+service:
+  name: servicewFC9GOVkeM
+  identifier: servicewFC9GOVkeM
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceCybSGm4XJ3
+  identifier: serviceCybSGm4XJ3
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

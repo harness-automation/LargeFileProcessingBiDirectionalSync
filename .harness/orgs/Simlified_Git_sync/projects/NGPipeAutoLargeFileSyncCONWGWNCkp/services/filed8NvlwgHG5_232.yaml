@@ -1,0 +1,8 @@
+service:
+  name: serviceobcU2F3vMM
+  identifier: serviceobcU2F3vMM
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

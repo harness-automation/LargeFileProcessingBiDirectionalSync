@@ -1,0 +1,8 @@
+service:
+  name: serviceFCcNrRaW7W
+  identifier: serviceFCcNrRaW7W
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

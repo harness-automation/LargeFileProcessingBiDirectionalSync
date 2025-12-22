@@ -1,0 +1,8 @@
+service:
+  name: servicedfA82pOcC6
+  identifier: servicedfA82pOcC6
+  projectIdentifier: NGPipeAutoLargeFileSyncCONWGWNCkp
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
