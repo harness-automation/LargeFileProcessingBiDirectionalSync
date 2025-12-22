@@ -1,0 +1,8 @@
+service:
+  name: servicekMbfli16pQ
+  identifier: servicekMbfli16pQ
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

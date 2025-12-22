@@ -1,0 +1,8 @@
+service:
+  name: serviceeccyFoYLCM
+  identifier: serviceeccyFoYLCM
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

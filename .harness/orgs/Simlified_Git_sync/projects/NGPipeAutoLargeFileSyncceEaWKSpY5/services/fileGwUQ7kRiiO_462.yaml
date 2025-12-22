@@ -1,0 +1,8 @@
+service:
+  name: servicenemfK7MS6W
+  identifier: servicenemfK7MS6W
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

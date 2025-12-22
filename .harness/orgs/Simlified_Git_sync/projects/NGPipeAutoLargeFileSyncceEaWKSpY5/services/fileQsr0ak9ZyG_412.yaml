@@ -1,0 +1,8 @@
+service:
+  name: servicenFeldHW25I
+  identifier: servicenFeldHW25I
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

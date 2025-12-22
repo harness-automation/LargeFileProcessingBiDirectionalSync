@@ -1,0 +1,8 @@
+service:
+  name: serviceGHZz8LoMWi
+  identifier: serviceGHZz8LoMWi
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

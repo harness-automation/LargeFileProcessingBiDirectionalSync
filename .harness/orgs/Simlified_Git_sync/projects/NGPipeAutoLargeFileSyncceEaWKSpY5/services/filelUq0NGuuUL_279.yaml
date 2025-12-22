@@ -1,0 +1,8 @@
+service:
+  name: serviceMqpTqAlAW1
+  identifier: serviceMqpTqAlAW1
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

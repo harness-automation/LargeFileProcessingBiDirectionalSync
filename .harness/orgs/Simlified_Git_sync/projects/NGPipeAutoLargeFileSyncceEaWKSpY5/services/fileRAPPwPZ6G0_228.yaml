@@ -1,0 +1,8 @@
+service:
+  name: service5llN9SOgpu
+  identifier: service5llN9SOgpu
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

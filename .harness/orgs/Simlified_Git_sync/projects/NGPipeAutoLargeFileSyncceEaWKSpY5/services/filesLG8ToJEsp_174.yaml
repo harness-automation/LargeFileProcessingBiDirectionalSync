@@ -1,0 +1,8 @@
+service:
+  name: serviceAFQLEZ6bCV
+  identifier: serviceAFQLEZ6bCV
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

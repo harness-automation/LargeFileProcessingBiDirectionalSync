@@ -1,0 +1,8 @@
+service:
+  name: servicesgdrrAOuya
+  identifier: servicesgdrrAOuya
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

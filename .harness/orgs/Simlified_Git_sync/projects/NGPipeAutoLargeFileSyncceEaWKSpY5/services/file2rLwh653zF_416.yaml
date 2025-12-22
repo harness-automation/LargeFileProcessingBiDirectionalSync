@@ -1,0 +1,8 @@
+service:
+  name: servicehTD1GT62Jg
+  identifier: servicehTD1GT62Jg
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceEVVG1SHOd8
+  identifier: serviceEVVG1SHOd8
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

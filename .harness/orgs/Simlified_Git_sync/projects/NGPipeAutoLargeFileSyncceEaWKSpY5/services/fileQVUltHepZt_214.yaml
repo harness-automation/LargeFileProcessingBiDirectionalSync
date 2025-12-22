@@ -1,0 +1,8 @@
+service:
+  name: servicenuti3HTFbj
+  identifier: servicenuti3HTFbj
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

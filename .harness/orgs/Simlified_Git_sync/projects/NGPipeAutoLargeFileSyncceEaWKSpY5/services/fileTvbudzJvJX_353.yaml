@@ -1,0 +1,8 @@
+service:
+  name: servicehMCTspd1NZ
+  identifier: servicehMCTspd1NZ
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

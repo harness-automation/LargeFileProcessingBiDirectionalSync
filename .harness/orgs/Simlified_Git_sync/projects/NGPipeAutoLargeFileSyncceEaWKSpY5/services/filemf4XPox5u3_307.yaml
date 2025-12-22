@@ -1,0 +1,8 @@
+service:
+  name: servicefmxUkAch8y
+  identifier: servicefmxUkAch8y
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

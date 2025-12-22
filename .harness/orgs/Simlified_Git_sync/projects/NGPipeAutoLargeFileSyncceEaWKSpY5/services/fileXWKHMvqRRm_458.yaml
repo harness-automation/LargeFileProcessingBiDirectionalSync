@@ -1,0 +1,8 @@
+service:
+  name: serviceQmbTlDFt4x
+  identifier: serviceQmbTlDFt4x
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

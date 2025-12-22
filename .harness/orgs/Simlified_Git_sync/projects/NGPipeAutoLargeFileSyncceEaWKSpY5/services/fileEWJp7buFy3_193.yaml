@@ -1,0 +1,8 @@
+service:
+  name: serviceYlF10X2a49
+  identifier: serviceYlF10X2a49
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

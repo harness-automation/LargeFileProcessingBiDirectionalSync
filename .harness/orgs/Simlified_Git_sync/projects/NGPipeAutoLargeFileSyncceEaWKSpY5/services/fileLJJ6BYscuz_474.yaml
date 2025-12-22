@@ -1,0 +1,8 @@
+service:
+  name: serviceYAlKigobX4
+  identifier: serviceYAlKigobX4
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

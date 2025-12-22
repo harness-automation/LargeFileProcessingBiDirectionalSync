@@ -1,0 +1,8 @@
+service:
+  name: servicebso35vueLD
+  identifier: servicebso35vueLD
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

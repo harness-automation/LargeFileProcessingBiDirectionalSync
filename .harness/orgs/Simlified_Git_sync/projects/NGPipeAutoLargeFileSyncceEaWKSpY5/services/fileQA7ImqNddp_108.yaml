@@ -1,0 +1,8 @@
+service:
+  name: serviceBqEMlDB3Wi
+  identifier: serviceBqEMlDB3Wi
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

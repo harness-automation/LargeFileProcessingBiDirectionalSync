@@ -1,0 +1,8 @@
+service:
+  name: service15i67ClNiP
+  identifier: service15i67ClNiP
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

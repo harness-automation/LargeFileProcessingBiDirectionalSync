@@ -1,0 +1,8 @@
+service:
+  name: serviceOvFhlp0Lvm
+  identifier: serviceOvFhlp0Lvm
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

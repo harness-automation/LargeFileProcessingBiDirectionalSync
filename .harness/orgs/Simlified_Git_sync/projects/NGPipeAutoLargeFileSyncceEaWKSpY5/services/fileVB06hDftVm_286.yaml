@@ -1,0 +1,8 @@
+service:
+  name: servicetXUN9SZS31
+  identifier: servicetXUN9SZS31
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicenvuSpo3DWF
+  identifier: servicenvuSpo3DWF
+  projectIdentifier: NGPipeAutoLargeFileSyncceEaWKSpY5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
