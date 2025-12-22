@@ -1,0 +1,8 @@
+service:
+  name: serviceMikYv2bxbU
+  identifier: serviceMikYv2bxbU
+  projectIdentifier: NGPipeAutoLargeFileSyncg7Rr3dgfNa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceoePgCSD2ky
+  identifier: serviceoePgCSD2ky
+  projectIdentifier: NGPipeAutoLargeFileSyncg7Rr3dgfNa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

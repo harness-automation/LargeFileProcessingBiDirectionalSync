@@ -1,0 +1,8 @@
+service:
+  name: serviceGtnS97RVZX
+  identifier: serviceGtnS97RVZX
+  projectIdentifier: NGPipeAutoLargeFileSyncg7Rr3dgfNa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicena84WEAM1g
+  identifier: servicena84WEAM1g
+  projectIdentifier: NGPipeAutoLargeFileSyncg7Rr3dgfNa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

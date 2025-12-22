@@ -1,0 +1,8 @@
+service:
+  name: serviceLhTe4889Bb
+  identifier: serviceLhTe4889Bb
+  projectIdentifier: NGPipeAutoLargeFileSyncg7Rr3dgfNa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

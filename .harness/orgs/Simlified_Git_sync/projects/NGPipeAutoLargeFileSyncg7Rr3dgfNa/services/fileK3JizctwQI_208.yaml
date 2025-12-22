@@ -1,0 +1,8 @@
+service:
+  name: servicefsE3MC62Su
+  identifier: servicefsE3MC62Su
+  projectIdentifier: NGPipeAutoLargeFileSyncg7Rr3dgfNa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

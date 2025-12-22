@@ -1,0 +1,8 @@
+service:
+  name: serviceRSnbromu1Q
+  identifier: serviceRSnbromu1Q
+  projectIdentifier: NGPipeAutoLargeFileSyncg7Rr3dgfNa
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
