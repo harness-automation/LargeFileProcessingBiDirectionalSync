@@ -1,0 +1,8 @@
+service:
+  name: service2XnNZMS59P
+  identifier: service2XnNZMS59P
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

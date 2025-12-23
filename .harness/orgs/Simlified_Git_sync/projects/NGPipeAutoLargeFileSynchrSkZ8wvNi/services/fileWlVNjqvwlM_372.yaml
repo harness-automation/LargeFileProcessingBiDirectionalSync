@@ -1,0 +1,8 @@
+service:
+  name: serviceMI53lz2xrc
+  identifier: serviceMI53lz2xrc
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

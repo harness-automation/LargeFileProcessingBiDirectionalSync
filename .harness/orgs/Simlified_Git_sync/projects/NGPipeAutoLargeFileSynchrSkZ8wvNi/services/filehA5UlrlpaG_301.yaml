@@ -1,0 +1,8 @@
+service:
+  name: servicePh33SC86hs
+  identifier: servicePh33SC86hs
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

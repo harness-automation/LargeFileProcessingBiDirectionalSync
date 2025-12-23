@@ -1,0 +1,8 @@
+service:
+  name: servicenHE6k4SAFF
+  identifier: servicenHE6k4SAFF
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

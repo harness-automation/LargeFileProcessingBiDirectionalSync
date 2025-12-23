@@ -1,0 +1,8 @@
+service:
+  name: serviceTX4a3gitHI
+  identifier: serviceTX4a3gitHI
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

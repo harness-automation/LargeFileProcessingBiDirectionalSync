@@ -1,0 +1,8 @@
+service:
+  name: serviceSVtdC37chu
+  identifier: serviceSVtdC37chu
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicelvrDdMtvs2
+  identifier: servicelvrDdMtvs2
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

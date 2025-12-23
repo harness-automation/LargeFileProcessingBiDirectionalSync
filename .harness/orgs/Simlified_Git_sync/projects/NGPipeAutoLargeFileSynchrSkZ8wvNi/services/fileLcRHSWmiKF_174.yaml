@@ -1,0 +1,8 @@
+service:
+  name: serviceRcETY2NvIf
+  identifier: serviceRcETY2NvIf
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

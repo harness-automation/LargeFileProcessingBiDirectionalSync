@@ -1,0 +1,8 @@
+service:
+  name: serviceMumTS58cQT
+  identifier: serviceMumTS58cQT
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

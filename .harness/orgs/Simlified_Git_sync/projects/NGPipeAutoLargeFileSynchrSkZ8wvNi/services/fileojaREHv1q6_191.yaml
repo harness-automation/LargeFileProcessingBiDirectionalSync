@@ -1,0 +1,8 @@
+service:
+  name: service42NGRxUiCD
+  identifier: service42NGRxUiCD
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

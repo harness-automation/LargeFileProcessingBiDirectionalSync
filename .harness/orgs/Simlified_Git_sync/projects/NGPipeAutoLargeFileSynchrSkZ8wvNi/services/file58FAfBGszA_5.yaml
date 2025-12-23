@@ -1,0 +1,8 @@
+service:
+  name: serviceWHM38H7mLc
+  identifier: serviceWHM38H7mLc
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

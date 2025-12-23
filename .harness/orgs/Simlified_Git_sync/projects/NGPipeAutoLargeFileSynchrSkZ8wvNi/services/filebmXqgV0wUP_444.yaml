@@ -1,0 +1,8 @@
+service:
+  name: serviceVMLaPIA6Fv
+  identifier: serviceVMLaPIA6Fv
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

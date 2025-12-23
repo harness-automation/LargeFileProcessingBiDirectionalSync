@@ -1,0 +1,8 @@
+service:
+  name: servicebDUCGJAl6s
+  identifier: servicebDUCGJAl6s
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

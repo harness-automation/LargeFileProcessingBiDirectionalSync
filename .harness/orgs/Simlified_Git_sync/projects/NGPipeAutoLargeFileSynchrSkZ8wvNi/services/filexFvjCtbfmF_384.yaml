@@ -1,0 +1,8 @@
+service:
+  name: serviceHiHz40IeTC
+  identifier: serviceHiHz40IeTC
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

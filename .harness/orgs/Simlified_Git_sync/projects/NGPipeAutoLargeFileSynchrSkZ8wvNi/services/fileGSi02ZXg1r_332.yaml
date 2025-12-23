@@ -1,0 +1,8 @@
+service:
+  name: servicepCAVIXx2FC
+  identifier: servicepCAVIXx2FC
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceHEGo6xxUIv
+  identifier: serviceHEGo6xxUIv
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

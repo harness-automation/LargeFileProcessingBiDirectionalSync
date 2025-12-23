@@ -1,0 +1,8 @@
+service:
+  name: servicefArD1UnANY
+  identifier: servicefArD1UnANY
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

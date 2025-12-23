@@ -1,0 +1,8 @@
+service:
+  name: serviceJowrc2S12E
+  identifier: serviceJowrc2S12E
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

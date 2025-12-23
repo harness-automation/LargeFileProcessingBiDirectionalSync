@@ -1,0 +1,8 @@
+service:
+  name: serviceDHb3En3sf8
+  identifier: serviceDHb3En3sf8
+  projectIdentifier: NGPipeAutoLargeFileSynchrSkZ8wvNi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
