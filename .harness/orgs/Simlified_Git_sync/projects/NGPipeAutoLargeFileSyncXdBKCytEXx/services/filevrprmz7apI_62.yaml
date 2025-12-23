@@ -1,0 +1,8 @@
+service:
+  name: service60ibpMETU8
+  identifier: service60ibpMETU8
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceczt65Ho5Bk
+  identifier: serviceczt65Ho5Bk
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

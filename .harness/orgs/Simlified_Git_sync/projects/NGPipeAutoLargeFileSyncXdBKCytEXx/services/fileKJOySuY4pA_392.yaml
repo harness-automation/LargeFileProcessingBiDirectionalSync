@@ -1,0 +1,8 @@
+service:
+  name: service2rqn4APVDA
+  identifier: service2rqn4APVDA
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

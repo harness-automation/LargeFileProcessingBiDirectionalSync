@@ -1,0 +1,8 @@
+service:
+  name: serviceWizNFe1uPo
+  identifier: serviceWizNFe1uPo
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

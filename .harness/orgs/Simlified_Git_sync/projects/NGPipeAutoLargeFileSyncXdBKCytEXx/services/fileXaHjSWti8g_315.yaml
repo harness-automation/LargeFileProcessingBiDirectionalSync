@@ -1,0 +1,8 @@
+service:
+  name: serviceObha3Zl7XZ
+  identifier: serviceObha3Zl7XZ
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

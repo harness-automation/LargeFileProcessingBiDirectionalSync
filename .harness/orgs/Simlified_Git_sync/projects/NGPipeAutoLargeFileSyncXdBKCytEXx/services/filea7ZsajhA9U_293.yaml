@@ -1,0 +1,8 @@
+service:
+  name: serviceGUET4AUuga
+  identifier: serviceGUET4AUuga
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

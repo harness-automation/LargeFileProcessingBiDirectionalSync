@@ -1,0 +1,8 @@
+service:
+  name: servicelVSqmVreMy
+  identifier: servicelVSqmVreMy
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

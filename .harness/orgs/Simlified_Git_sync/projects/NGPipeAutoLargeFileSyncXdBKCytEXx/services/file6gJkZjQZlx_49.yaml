@@ -1,0 +1,8 @@
+service:
+  name: serviceasDwEM1bbq
+  identifier: serviceasDwEM1bbq
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

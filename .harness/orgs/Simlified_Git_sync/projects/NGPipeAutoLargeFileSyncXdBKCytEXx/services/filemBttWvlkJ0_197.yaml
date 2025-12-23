@@ -1,0 +1,8 @@
+service:
+  name: serviceWMziFDwg3C
+  identifier: serviceWMziFDwg3C
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceT13HIoU38k
+  identifier: serviceT13HIoU38k
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

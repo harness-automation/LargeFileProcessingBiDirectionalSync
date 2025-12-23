@@ -1,0 +1,8 @@
+service:
+  name: serviceMvCOT58VE2
+  identifier: serviceMvCOT58VE2
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

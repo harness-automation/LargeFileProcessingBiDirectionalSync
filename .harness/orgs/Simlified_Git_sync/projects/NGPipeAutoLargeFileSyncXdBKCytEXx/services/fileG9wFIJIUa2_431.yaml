@@ -1,0 +1,8 @@
+service:
+  name: servicePdbrOAx8PR
+  identifier: servicePdbrOAx8PR
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

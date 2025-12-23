@@ -1,0 +1,8 @@
+service:
+  name: serviceNqoW0RArn1
+  identifier: serviceNqoW0RArn1
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

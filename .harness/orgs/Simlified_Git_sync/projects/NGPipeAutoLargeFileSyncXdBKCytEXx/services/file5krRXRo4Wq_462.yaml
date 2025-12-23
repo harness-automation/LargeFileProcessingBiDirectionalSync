@@ -1,0 +1,8 @@
+service:
+  name: servicerTcpdo11Vq
+  identifier: servicerTcpdo11Vq
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

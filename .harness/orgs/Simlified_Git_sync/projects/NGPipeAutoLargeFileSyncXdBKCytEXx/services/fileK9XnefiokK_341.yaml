@@ -1,0 +1,8 @@
+service:
+  name: servicepcu1UVZ3Dp
+  identifier: servicepcu1UVZ3Dp
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

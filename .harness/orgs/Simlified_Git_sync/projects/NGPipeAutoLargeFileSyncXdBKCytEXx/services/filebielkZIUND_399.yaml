@@ -1,0 +1,8 @@
+service:
+  name: serviceTw6k180G4R
+  identifier: serviceTw6k180G4R
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

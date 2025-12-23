@@ -1,0 +1,8 @@
+service:
+  name: serviceZDS41H6kaP
+  identifier: serviceZDS41H6kaP
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

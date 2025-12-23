@@ -1,0 +1,8 @@
+service:
+  name: serviceTcytpoRcrF
+  identifier: serviceTcytpoRcrF
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

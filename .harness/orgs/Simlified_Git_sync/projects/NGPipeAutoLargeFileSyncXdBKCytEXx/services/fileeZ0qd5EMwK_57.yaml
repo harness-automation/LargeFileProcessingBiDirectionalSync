@@ -1,0 +1,8 @@
+service:
+  name: servicegj4SWR68Zl
+  identifier: servicegj4SWR68Zl
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

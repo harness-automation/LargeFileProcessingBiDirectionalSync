@@ -1,0 +1,8 @@
+service:
+  name: serviceXF3kwBs1TV
+  identifier: serviceXF3kwBs1TV
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

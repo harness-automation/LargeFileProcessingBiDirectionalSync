@@ -1,0 +1,8 @@
+service:
+  name: servicehPsbiyDcPf
+  identifier: servicehPsbiyDcPf
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

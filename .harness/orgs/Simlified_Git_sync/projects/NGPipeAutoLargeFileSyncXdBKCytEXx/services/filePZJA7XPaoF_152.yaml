@@ -1,0 +1,8 @@
+service:
+  name: servicevlrTVX9ua6
+  identifier: servicevlrTVX9ua6
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

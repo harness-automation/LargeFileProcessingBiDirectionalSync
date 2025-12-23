@@ -1,0 +1,8 @@
+service:
+  name: serviceZMn82vZymB
+  identifier: serviceZMn82vZymB
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

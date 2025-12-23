@@ -1,0 +1,8 @@
+service:
+  name: serviceRMSa1DAjph
+  identifier: serviceRMSa1DAjph
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

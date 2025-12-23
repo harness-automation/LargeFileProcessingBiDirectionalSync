@@ -1,0 +1,8 @@
+service:
+  name: servicepm88P7mSfu
+  identifier: servicepm88P7mSfu
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

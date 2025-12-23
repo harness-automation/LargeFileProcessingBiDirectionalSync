@@ -1,0 +1,8 @@
+service:
+  name: service2DzL0vRKrn
+  identifier: service2DzL0vRKrn
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

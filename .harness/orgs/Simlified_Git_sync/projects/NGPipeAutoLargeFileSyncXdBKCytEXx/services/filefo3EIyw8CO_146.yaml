@@ -1,0 +1,8 @@
+service:
+  name: servicefd5SZdayWT
+  identifier: servicefd5SZdayWT
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

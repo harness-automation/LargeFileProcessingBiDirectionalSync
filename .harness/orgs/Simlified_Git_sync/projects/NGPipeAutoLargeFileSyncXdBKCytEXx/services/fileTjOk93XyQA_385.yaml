@@ -1,0 +1,8 @@
+service:
+  name: servicectan7cthM3
+  identifier: servicectan7cthM3
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicew315pLJEsq
+  identifier: servicew315pLJEsq
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

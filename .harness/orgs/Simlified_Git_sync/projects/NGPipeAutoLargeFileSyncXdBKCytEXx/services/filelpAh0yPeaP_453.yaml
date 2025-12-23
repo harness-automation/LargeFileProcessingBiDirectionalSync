@@ -1,0 +1,8 @@
+service:
+  name: service524LErnmO5
+  identifier: service524LErnmO5
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

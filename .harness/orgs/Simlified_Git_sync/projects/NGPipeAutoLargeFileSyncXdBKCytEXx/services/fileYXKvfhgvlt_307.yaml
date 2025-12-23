@@ -1,0 +1,8 @@
+service:
+  name: serviceer95Ns7xi0
+  identifier: serviceer95Ns7xi0
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

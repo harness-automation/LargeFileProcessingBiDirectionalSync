@@ -1,0 +1,8 @@
+service:
+  name: serviceRZ5plDJ3mu
+  identifier: serviceRZ5plDJ3mu
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

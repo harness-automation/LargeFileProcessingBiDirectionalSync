@@ -1,0 +1,8 @@
+service:
+  name: servicenOtgaXHEJV
+  identifier: servicenOtgaXHEJV
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

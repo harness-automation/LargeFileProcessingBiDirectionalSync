@@ -1,0 +1,8 @@
+service:
+  name: serviceEeumvZPNG1
+  identifier: serviceEeumvZPNG1
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceczvoO2edmB
+  identifier: serviceczvoO2edmB
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

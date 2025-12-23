@@ -1,0 +1,8 @@
+service:
+  name: serviceodJ2DsMTPD
+  identifier: serviceodJ2DsMTPD
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

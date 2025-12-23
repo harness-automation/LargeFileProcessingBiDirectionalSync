@@ -1,0 +1,8 @@
+service:
+  name: servicexZe537WkTw
+  identifier: servicexZe537WkTw
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicefsqBDoBvkU
+  identifier: servicefsqBDoBvkU
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service9VaufaUp5a
+  identifier: service9VaufaUp5a
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

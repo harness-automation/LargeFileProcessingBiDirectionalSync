@@ -1,0 +1,8 @@
+service:
+  name: service3CESfu67KH
+  identifier: service3CESfu67KH
+  projectIdentifier: NGPipeAutoLargeFileSyncXdBKCytEXx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
