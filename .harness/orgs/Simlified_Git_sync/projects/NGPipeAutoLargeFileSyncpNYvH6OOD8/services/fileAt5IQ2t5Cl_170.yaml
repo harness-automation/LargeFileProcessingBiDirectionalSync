@@ -1,0 +1,8 @@
+service:
+  name: serviceU2B2CarpF9
+  identifier: serviceU2B2CarpF9
+  projectIdentifier: NGPipeAutoLargeFileSyncpNYvH6OOD8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceIRX52cR9yo
+  identifier: serviceIRX52cR9yo
+  projectIdentifier: NGPipeAutoLargeFileSyncpNYvH6OOD8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

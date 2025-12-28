@@ -1,0 +1,8 @@
+service:
+  name: serviceALWI9Mb5Xl
+  identifier: serviceALWI9Mb5Xl
+  projectIdentifier: NGPipeAutoLargeFileSyncpNYvH6OOD8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicebm3cu4025z
+  identifier: servicebm3cu4025z
+  projectIdentifier: NGPipeAutoLargeFileSyncpNYvH6OOD8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

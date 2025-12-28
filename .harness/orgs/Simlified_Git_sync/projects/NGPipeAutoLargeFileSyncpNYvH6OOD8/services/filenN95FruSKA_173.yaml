@@ -1,0 +1,8 @@
+service:
+  name: serviceLbrzcMQ71U
+  identifier: serviceLbrzcMQ71U
+  projectIdentifier: NGPipeAutoLargeFileSyncpNYvH6OOD8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

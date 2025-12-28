@@ -1,0 +1,8 @@
+service:
+  name: servicexNP5meMROp
+  identifier: servicexNP5meMROp
+  projectIdentifier: NGPipeAutoLargeFileSyncpNYvH6OOD8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

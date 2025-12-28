@@ -1,0 +1,8 @@
+service:
+  name: servicelcXSpP3TaL
+  identifier: servicelcXSpP3TaL
+  projectIdentifier: NGPipeAutoLargeFileSyncpNYvH6OOD8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

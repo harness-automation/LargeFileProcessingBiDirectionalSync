@@ -1,0 +1,8 @@
+service:
+  name: servicetehna9MGh2
+  identifier: servicetehna9MGh2
+  projectIdentifier: NGPipeAutoLargeFileSyncpNYvH6OOD8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

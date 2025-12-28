@@ -1,0 +1,8 @@
+service:
+  name: serviceCTW90Wqk5w
+  identifier: serviceCTW90Wqk5w
+  projectIdentifier: NGPipeAutoLargeFileSyncpNYvH6OOD8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

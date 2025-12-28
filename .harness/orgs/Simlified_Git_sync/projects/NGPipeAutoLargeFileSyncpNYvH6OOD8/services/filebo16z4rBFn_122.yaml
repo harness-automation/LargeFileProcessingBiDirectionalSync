@@ -1,0 +1,8 @@
+service:
+  name: servicegbT2DwgYvo
+  identifier: servicegbT2DwgYvo
+  projectIdentifier: NGPipeAutoLargeFileSyncpNYvH6OOD8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
