@@ -1,0 +1,8 @@
+service:
+  name: serviceBFptra2q1Q
+  identifier: serviceBFptra2q1Q
+  projectIdentifier: NGPipeAutoLargeFileSyncpHNMWI0rz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

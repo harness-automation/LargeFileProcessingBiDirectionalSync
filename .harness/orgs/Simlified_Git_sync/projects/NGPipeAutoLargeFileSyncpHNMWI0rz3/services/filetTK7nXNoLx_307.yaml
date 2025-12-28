@@ -1,0 +1,8 @@
+service:
+  name: servicefvSfMQ3wr9
+  identifier: servicefvSfMQ3wr9
+  projectIdentifier: NGPipeAutoLargeFileSyncpHNMWI0rz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

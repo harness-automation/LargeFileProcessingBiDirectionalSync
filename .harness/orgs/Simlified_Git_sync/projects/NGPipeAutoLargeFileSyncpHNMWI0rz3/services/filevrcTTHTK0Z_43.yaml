@@ -1,0 +1,8 @@
+service:
+  name: servicera98Jv2BSk
+  identifier: servicera98Jv2BSk
+  projectIdentifier: NGPipeAutoLargeFileSyncpHNMWI0rz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

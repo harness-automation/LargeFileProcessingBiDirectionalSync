@@ -1,0 +1,8 @@
+service:
+  name: servicerUL2gBsplp
+  identifier: servicerUL2gBsplp
+  projectIdentifier: NGPipeAutoLargeFileSyncpHNMWI0rz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicepm3WHrStoD
+  identifier: servicepm3WHrStoD
+  projectIdentifier: NGPipeAutoLargeFileSyncpHNMWI0rz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

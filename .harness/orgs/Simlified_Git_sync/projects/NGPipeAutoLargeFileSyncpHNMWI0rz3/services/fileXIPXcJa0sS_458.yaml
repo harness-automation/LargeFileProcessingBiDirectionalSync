@@ -1,0 +1,8 @@
+service:
+  name: serviceIQDoR3eOWR
+  identifier: serviceIQDoR3eOWR
+  projectIdentifier: NGPipeAutoLargeFileSyncpHNMWI0rz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

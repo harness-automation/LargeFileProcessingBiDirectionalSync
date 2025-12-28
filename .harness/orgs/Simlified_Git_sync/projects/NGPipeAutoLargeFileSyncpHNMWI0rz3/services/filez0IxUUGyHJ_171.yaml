@@ -1,0 +1,8 @@
+service:
+  name: serviceiazCN67p7M
+  identifier: serviceiazCN67p7M
+  projectIdentifier: NGPipeAutoLargeFileSyncpHNMWI0rz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

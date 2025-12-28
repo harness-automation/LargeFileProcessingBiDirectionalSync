@@ -1,0 +1,8 @@
+service:
+  name: servicemsEhd6rDb6
+  identifier: servicemsEhd6rDb6
+  projectIdentifier: NGPipeAutoLargeFileSyncpHNMWI0rz3
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
