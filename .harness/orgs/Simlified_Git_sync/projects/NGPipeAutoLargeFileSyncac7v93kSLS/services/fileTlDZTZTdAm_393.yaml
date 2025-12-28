@@ -1,0 +1,8 @@
+service:
+  name: servicelKPV9prS8v
+  identifier: servicelKPV9prS8v
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

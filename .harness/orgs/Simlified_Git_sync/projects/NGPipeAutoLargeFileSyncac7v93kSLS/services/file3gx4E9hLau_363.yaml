@@ -1,0 +1,8 @@
+service:
+  name: servicevxls48JTOG
+  identifier: servicevxls48JTOG
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

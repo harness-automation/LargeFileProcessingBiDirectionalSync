@@ -1,0 +1,8 @@
+service:
+  name: serviceF4qateRHOT
+  identifier: serviceF4qateRHOT
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

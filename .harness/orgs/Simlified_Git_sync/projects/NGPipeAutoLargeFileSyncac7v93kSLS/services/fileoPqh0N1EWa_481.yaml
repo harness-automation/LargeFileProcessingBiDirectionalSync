@@ -1,0 +1,8 @@
+service:
+  name: serviceFKF95PdId2
+  identifier: serviceFKF95PdId2
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

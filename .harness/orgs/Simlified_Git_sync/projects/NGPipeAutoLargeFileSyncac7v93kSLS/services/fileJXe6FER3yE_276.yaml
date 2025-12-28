@@ -1,0 +1,8 @@
+service:
+  name: serviceDrqPYQ23lw
+  identifier: serviceDrqPYQ23lw
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

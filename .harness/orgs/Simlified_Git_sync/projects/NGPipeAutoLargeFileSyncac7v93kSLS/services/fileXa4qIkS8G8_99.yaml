@@ -1,0 +1,8 @@
+service:
+  name: serviceBBRSbiIFNs
+  identifier: serviceBBRSbiIFNs
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

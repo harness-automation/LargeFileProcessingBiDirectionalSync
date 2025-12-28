@@ -1,0 +1,8 @@
+service:
+  name: servicenKitcY03c6
+  identifier: servicenKitcY03c6
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceZDQSR45znO
+  identifier: serviceZDQSR45znO
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

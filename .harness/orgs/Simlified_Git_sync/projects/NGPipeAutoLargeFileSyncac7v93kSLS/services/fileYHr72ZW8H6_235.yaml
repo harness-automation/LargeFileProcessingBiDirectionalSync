@@ -1,0 +1,8 @@
+service:
+  name: servicemr3GOWMs6k
+  identifier: servicemr3GOWMs6k
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceooapTks4Tq
+  identifier: serviceooapTks4Tq
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

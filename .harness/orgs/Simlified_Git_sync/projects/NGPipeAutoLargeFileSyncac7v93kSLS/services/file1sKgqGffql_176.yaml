@@ -1,0 +1,8 @@
+service:
+  name: servicerToIL09aHo
+  identifier: servicerToIL09aHo
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

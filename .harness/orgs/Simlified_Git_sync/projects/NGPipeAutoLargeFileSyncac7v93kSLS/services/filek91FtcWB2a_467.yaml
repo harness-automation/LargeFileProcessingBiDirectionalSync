@@ -1,0 +1,8 @@
+service:
+  name: servicewVrmjd816y
+  identifier: servicewVrmjd816y
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

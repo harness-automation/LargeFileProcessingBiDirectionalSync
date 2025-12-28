@@ -1,0 +1,8 @@
+service:
+  name: serviceAuA9kLjfdR
+  identifier: serviceAuA9kLjfdR
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

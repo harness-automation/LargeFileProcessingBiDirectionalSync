@@ -1,0 +1,8 @@
+service:
+  name: serviceCO70IQ66Lr
+  identifier: serviceCO70IQ66Lr
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

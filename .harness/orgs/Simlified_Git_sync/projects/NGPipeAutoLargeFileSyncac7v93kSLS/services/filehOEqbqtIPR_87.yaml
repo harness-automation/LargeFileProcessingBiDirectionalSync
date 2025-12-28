@@ -1,0 +1,8 @@
+service:
+  name: servicegDzn59XVIM
+  identifier: servicegDzn59XVIM
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

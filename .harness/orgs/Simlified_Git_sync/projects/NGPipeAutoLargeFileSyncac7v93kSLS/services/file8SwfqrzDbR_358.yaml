@@ -1,0 +1,8 @@
+service:
+  name: serviceNTJ7hodIYA
+  identifier: serviceNTJ7hodIYA
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceegw0A25MHP
+  identifier: serviceegw0A25MHP
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicew3SA14Ftme
+  identifier: servicew3SA14Ftme
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

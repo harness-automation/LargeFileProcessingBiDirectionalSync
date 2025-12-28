@@ -1,0 +1,8 @@
+service:
+  name: serviceh2G23Zluzw
+  identifier: serviceh2G23Zluzw
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

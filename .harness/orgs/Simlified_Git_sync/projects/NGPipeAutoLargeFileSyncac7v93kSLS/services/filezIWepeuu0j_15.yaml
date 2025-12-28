@@ -1,0 +1,8 @@
+service:
+  name: serviceTh6HOpmPr5
+  identifier: serviceTh6HOpmPr5
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

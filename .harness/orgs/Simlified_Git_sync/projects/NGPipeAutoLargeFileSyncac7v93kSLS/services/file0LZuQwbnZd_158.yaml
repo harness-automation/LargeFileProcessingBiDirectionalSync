@@ -1,0 +1,8 @@
+service:
+  name: servicertEJwZ2sYS
+  identifier: servicertEJwZ2sYS
+  projectIdentifier: NGPipeAutoLargeFileSyncac7v93kSLS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
