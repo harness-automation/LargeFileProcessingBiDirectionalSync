@@ -1,0 +1,8 @@
+service:
+  name: serviceLOUP10AjXf
+  identifier: serviceLOUP10AjXf
+  projectIdentifier: NGPipeAutoLargeFileSynctB0pLQF9zB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

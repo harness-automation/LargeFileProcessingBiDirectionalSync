@@ -1,0 +1,8 @@
+service:
+  name: serviceLavHvyTT5U
+  identifier: serviceLavHvyTT5U
+  projectIdentifier: NGPipeAutoLargeFileSynctB0pLQF9zB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

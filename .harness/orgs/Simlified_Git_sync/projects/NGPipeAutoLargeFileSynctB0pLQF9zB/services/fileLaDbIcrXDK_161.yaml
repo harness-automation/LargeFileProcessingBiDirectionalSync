@@ -1,0 +1,8 @@
+service:
+  name: serviceEcDeJkVS4x
+  identifier: serviceEcDeJkVS4x
+  projectIdentifier: NGPipeAutoLargeFileSynctB0pLQF9zB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

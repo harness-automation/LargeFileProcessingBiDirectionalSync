@@ -1,0 +1,8 @@
+service:
+  name: serviceZwSecb3tnG
+  identifier: serviceZwSecb3tnG
+  projectIdentifier: NGPipeAutoLargeFileSynctB0pLQF9zB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

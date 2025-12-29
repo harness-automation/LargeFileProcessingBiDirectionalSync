@@ -1,0 +1,8 @@
+service:
+  name: serviceCusMSAOo5R
+  identifier: serviceCusMSAOo5R
+  projectIdentifier: NGPipeAutoLargeFileSynctB0pLQF9zB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

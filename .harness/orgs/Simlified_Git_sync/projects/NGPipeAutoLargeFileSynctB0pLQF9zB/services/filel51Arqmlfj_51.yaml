@@ -1,0 +1,8 @@
+service:
+  name: servicerKx921mQ1u
+  identifier: servicerKx921mQ1u
+  projectIdentifier: NGPipeAutoLargeFileSynctB0pLQF9zB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

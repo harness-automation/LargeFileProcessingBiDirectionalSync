@@ -1,0 +1,8 @@
+service:
+  name: serviceKDOhjaDm7a
+  identifier: serviceKDOhjaDm7a
+  projectIdentifier: NGPipeAutoLargeFileSynctB0pLQF9zB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

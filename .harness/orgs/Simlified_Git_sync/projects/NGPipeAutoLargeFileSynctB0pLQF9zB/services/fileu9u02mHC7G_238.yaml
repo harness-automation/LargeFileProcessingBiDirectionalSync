@@ -1,0 +1,8 @@
+service:
+  name: serviceEMCXFzNl41
+  identifier: serviceEMCXFzNl41
+  projectIdentifier: NGPipeAutoLargeFileSynctB0pLQF9zB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

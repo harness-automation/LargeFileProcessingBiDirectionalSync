@@ -1,0 +1,8 @@
+service:
+  name: serviceWN18pMa0pi
+  identifier: serviceWN18pMa0pi
+  projectIdentifier: NGPipeAutoLargeFileSynctB0pLQF9zB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
