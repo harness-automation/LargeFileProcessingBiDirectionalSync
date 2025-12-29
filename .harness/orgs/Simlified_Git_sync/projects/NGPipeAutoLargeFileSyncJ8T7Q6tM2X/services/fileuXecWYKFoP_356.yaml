@@ -1,0 +1,8 @@
+service:
+  name: serviceDU1ozipkOe
+  identifier: serviceDU1ozipkOe
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8T7Q6tM2X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

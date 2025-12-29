@@ -1,0 +1,8 @@
+service:
+  name: servicewA2ZImzsIW
+  identifier: servicewA2ZImzsIW
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8T7Q6tM2X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

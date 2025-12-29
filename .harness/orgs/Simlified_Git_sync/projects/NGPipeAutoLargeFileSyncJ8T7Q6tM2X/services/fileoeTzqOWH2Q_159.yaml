@@ -1,0 +1,8 @@
+service:
+  name: serviceccLib18Q55
+  identifier: serviceccLib18Q55
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8T7Q6tM2X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

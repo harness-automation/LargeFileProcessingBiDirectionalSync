@@ -1,0 +1,8 @@
+service:
+  name: serviceAIA1PLdG5m
+  identifier: serviceAIA1PLdG5m
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8T7Q6tM2X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
