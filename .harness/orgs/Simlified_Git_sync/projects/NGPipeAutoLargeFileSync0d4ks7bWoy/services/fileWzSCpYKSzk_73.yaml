@@ -1,0 +1,8 @@
+service:
+  name: servicehmDPeY926n
+  identifier: servicehmDPeY926n
+  projectIdentifier: NGPipeAutoLargeFileSync0d4ks7bWoy
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

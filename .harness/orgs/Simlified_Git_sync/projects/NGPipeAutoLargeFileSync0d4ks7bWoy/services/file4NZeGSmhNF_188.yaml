@@ -1,0 +1,8 @@
+service:
+  name: servicetOSu89XigB
+  identifier: servicetOSu89XigB
+  projectIdentifier: NGPipeAutoLargeFileSync0d4ks7bWoy
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceOaxlpCCi17
+  identifier: serviceOaxlpCCi17
+  projectIdentifier: NGPipeAutoLargeFileSync0d4ks7bWoy
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

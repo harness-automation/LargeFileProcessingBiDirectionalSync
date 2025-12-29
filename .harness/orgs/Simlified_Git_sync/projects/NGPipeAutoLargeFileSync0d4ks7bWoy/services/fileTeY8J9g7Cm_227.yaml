@@ -1,0 +1,8 @@
+service:
+  name: serviceROoKrk0J2m
+  identifier: serviceROoKrk0J2m
+  projectIdentifier: NGPipeAutoLargeFileSync0d4ks7bWoy
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

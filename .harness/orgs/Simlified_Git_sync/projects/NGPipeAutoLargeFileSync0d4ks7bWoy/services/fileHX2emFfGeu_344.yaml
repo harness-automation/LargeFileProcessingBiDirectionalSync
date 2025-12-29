@@ -1,0 +1,8 @@
+service:
+  name: servicetMxVnr1x9c
+  identifier: servicetMxVnr1x9c
+  projectIdentifier: NGPipeAutoLargeFileSync0d4ks7bWoy
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

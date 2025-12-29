@@ -1,0 +1,8 @@
+service:
+  name: servicenZFPFS9G5p
+  identifier: servicenZFPFS9G5p
+  projectIdentifier: NGPipeAutoLargeFileSync0d4ks7bWoy
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceiVYova0AD4
+  identifier: serviceiVYova0AD4
+  projectIdentifier: NGPipeAutoLargeFileSync0d4ks7bWoy
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

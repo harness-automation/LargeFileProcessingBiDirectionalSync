@@ -1,0 +1,8 @@
+service:
+  name: servicezMp4RidaF1
+  identifier: servicezMp4RidaF1
+  projectIdentifier: NGPipeAutoLargeFileSync0d4ks7bWoy
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
