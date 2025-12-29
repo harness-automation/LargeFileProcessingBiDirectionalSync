@@ -1,0 +1,8 @@
+service:
+  name: serviceVNZ16n6QEA
+  identifier: serviceVNZ16n6QEA
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

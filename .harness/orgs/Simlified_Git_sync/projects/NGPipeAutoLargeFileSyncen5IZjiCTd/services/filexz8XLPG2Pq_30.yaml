@@ -1,0 +1,8 @@
+service:
+  name: serviceUI9Cr7sRSA
+  identifier: serviceUI9Cr7sRSA
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

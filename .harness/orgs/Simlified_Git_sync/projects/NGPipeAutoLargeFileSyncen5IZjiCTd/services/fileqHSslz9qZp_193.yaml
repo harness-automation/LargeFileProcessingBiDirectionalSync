@@ -1,0 +1,8 @@
+service:
+  name: serviceMacEx4I3qj
+  identifier: serviceMacEx4I3qj
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

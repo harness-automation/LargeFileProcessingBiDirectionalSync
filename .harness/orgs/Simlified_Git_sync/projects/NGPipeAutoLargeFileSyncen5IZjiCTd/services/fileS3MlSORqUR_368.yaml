@@ -1,0 +1,8 @@
+service:
+  name: serviceU1MOrOWlFl
+  identifier: serviceU1MOrOWlFl
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

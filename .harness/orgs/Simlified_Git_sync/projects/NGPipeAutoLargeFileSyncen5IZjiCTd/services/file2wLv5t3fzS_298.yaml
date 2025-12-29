@@ -1,0 +1,8 @@
+service:
+  name: serviceABsFPbkI4R
+  identifier: serviceABsFPbkI4R
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

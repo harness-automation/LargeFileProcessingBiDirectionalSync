@@ -1,0 +1,8 @@
+service:
+  name: servicero24fOB70x
+  identifier: servicero24fOB70x
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

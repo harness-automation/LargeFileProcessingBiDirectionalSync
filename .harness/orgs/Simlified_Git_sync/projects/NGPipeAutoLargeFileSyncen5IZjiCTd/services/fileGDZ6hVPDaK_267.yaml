@@ -1,0 +1,8 @@
+service:
+  name: serviceHCvn18S10d
+  identifier: serviceHCvn18S10d
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

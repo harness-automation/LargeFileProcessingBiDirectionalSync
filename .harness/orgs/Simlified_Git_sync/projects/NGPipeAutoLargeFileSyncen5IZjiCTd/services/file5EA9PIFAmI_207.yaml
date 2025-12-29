@@ -1,0 +1,8 @@
+service:
+  name: servicebyeliq2F1v
+  identifier: servicebyeliq2F1v
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

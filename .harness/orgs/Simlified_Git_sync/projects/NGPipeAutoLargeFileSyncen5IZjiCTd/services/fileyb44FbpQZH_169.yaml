@@ -1,0 +1,8 @@
+service:
+  name: serviceWM2goyfr22
+  identifier: serviceWM2goyfr22
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

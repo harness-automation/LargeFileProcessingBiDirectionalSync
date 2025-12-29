@@ -1,0 +1,8 @@
+service:
+  name: serviceJ4fZPodBin
+  identifier: serviceJ4fZPodBin
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

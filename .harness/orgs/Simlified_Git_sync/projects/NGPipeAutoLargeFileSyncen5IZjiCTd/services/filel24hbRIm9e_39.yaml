@@ -1,0 +1,8 @@
+service:
+  name: serviceTgXVA2TUNY
+  identifier: serviceTgXVA2TUNY
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

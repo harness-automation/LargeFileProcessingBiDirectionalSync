@@ -1,0 +1,8 @@
+service:
+  name: service9LmRELobdr
+  identifier: service9LmRELobdr
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

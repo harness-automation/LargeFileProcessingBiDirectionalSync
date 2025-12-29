@@ -1,0 +1,8 @@
+service:
+  name: service5EZscDbBRc
+  identifier: service5EZscDbBRc
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

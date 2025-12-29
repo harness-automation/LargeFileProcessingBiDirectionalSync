@@ -1,0 +1,8 @@
+service:
+  name: servicejMQ6sOY2Us
+  identifier: servicejMQ6sOY2Us
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

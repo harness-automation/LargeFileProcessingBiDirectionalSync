@@ -1,0 +1,8 @@
+service:
+  name: serviceRnbeswpNyb
+  identifier: serviceRnbeswpNyb
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceJ26Dhuracr
+  identifier: serviceJ26Dhuracr
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

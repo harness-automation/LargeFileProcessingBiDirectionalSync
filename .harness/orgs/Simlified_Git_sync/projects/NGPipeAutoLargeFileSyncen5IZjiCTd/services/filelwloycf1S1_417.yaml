@@ -1,0 +1,8 @@
+service:
+  name: serviceCNnQA419Al
+  identifier: serviceCNnQA419Al
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

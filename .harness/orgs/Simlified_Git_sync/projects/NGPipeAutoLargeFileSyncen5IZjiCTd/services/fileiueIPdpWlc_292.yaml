@@ -1,0 +1,8 @@
+service:
+  name: serviceDb0vYaAu2C
+  identifier: serviceDb0vYaAu2C
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

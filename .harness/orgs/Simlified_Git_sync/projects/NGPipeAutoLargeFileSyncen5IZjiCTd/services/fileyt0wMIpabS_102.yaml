@@ -1,0 +1,8 @@
+service:
+  name: serviceVNs30yx14L
+  identifier: serviceVNs30yx14L
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicemCf152M8eB
+  identifier: servicemCf152M8eB
+  projectIdentifier: NGPipeAutoLargeFileSyncen5IZjiCTd
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
