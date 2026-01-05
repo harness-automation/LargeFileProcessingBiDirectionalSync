@@ -1,0 +1,8 @@
+service:
+  name: service8BmRumvJAk
+  identifier: service8BmRumvJAk
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

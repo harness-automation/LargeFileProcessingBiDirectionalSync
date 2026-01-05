@@ -1,0 +1,8 @@
+service:
+  name: serviceLiztp1XYik
+  identifier: serviceLiztp1XYik
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

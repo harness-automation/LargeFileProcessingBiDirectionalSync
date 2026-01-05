@@ -1,0 +1,8 @@
+service:
+  name: servicennhpUrbCwn
+  identifier: servicennhpUrbCwn
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

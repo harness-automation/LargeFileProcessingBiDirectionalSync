@@ -1,0 +1,8 @@
+service:
+  name: serviceIpOnHOK2ax
+  identifier: serviceIpOnHOK2ax
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

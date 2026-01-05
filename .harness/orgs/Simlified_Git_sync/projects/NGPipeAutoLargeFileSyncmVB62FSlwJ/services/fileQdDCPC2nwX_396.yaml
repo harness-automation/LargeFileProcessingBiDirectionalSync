@@ -1,0 +1,8 @@
+service:
+  name: serviceWvlneTK8SV
+  identifier: serviceWvlneTK8SV
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

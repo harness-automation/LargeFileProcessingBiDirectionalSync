@@ -1,0 +1,8 @@
+service:
+  name: servicez74ni2bZml
+  identifier: servicez74ni2bZml
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

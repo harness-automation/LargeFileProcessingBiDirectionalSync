@@ -1,0 +1,8 @@
+service:
+  name: servicegordMWE77g
+  identifier: servicegordMWE77g
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

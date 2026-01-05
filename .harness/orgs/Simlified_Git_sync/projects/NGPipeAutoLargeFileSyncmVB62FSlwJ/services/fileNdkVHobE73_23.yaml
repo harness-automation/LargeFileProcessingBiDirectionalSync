@@ -1,0 +1,8 @@
+service:
+  name: service5Ibd1maCi3
+  identifier: service5Ibd1maCi3
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

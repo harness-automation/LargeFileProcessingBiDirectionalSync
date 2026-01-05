@@ -1,0 +1,8 @@
+service:
+  name: service87VtzCpKry
+  identifier: service87VtzCpKry
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

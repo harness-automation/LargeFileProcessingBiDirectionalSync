@@ -1,0 +1,8 @@
+service:
+  name: serviceVKcpki430H
+  identifier: serviceVKcpki430H
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

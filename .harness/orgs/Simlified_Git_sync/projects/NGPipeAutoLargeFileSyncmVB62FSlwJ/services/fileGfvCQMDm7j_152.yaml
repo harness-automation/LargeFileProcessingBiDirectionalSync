@@ -1,0 +1,8 @@
+service:
+  name: serviceTOF6fbIMvi
+  identifier: serviceTOF6fbIMvi
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

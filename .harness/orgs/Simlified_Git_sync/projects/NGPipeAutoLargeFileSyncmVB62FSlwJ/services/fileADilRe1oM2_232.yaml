@@ -1,0 +1,8 @@
+service:
+  name: serviceBliC3EP7XD
+  identifier: serviceBliC3EP7XD
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

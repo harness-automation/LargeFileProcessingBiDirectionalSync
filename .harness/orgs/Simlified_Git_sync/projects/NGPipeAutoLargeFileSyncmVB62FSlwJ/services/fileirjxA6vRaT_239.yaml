@@ -1,0 +1,8 @@
+service:
+  name: serviceDXChy04Emu
+  identifier: serviceDXChy04Emu
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

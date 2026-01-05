@@ -1,0 +1,8 @@
+service:
+  name: serviceoiiaUpV5n3
+  identifier: serviceoiiaUpV5n3
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

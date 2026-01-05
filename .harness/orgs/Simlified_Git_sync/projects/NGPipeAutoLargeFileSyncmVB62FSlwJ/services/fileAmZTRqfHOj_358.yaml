@@ -1,0 +1,8 @@
+service:
+  name: servicen7DAHW9CPZ
+  identifier: servicen7DAHW9CPZ
+  projectIdentifier: NGPipeAutoLargeFileSyncmVB62FSlwJ
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
