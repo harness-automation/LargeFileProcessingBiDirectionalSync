@@ -1,0 +1,8 @@
+service:
+  name: servicejiW41HRUSX
+  identifier: servicejiW41HRUSX
+  projectIdentifier: NGPipeAutoLargeFileSynckscBsmD7E5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

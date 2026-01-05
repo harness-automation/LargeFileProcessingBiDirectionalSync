@@ -1,0 +1,8 @@
+service:
+  name: serviceuBNIX2AtLH
+  identifier: serviceuBNIX2AtLH
+  projectIdentifier: NGPipeAutoLargeFileSynckscBsmD7E5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

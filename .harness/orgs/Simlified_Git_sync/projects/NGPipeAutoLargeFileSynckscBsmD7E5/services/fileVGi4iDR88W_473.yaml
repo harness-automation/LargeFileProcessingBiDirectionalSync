@@ -1,0 +1,8 @@
+service:
+  name: serviceHmlSOnl9eZ
+  identifier: serviceHmlSOnl9eZ
+  projectIdentifier: NGPipeAutoLargeFileSynckscBsmD7E5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

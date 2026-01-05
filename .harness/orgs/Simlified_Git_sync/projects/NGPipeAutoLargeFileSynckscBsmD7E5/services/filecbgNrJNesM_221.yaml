@@ -1,0 +1,8 @@
+service:
+  name: serviceGpGukT9VPl
+  identifier: serviceGpGukT9VPl
+  projectIdentifier: NGPipeAutoLargeFileSynckscBsmD7E5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

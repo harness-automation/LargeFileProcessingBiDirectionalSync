@@ -1,0 +1,8 @@
+service:
+  name: servicep1aF20Zjmp
+  identifier: servicep1aF20Zjmp
+  projectIdentifier: NGPipeAutoLargeFileSynckscBsmD7E5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

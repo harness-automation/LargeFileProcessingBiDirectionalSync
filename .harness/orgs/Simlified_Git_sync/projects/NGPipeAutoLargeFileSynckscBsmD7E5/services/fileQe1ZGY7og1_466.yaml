@@ -1,0 +1,8 @@
+service:
+  name: service6P6LoAtdbn
+  identifier: service6P6LoAtdbn
+  projectIdentifier: NGPipeAutoLargeFileSynckscBsmD7E5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

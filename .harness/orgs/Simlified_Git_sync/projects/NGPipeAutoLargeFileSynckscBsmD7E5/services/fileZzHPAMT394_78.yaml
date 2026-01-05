@@ -1,0 +1,8 @@
+service:
+  name: serviceUp37ca0Nic
+  identifier: serviceUp37ca0Nic
+  projectIdentifier: NGPipeAutoLargeFileSynckscBsmD7E5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

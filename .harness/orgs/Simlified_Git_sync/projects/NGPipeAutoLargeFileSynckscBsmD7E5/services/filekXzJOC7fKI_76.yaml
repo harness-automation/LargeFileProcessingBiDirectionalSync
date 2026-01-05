@@ -1,0 +1,8 @@
+service:
+  name: serviceRfmogT542K
+  identifier: serviceRfmogT542K
+  projectIdentifier: NGPipeAutoLargeFileSynckscBsmD7E5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

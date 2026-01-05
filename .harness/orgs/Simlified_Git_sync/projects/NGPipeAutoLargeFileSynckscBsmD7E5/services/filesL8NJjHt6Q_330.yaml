@@ -1,0 +1,8 @@
+service:
+  name: servicerySmuDck1f
+  identifier: servicerySmuDck1f
+  projectIdentifier: NGPipeAutoLargeFileSynckscBsmD7E5
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
