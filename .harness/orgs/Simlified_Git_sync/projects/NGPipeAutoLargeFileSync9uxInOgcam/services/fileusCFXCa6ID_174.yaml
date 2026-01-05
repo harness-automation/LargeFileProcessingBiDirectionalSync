@@ -1,0 +1,8 @@
+service:
+  name: service7LePiY90CY
+  identifier: service7LePiY90CY
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicesWTLDb0fmL
+  identifier: servicesWTLDb0fmL
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicerSWkczeMvC
+  identifier: servicerSWkczeMvC
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

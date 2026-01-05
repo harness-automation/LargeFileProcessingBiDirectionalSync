@@ -1,0 +1,8 @@
+service:
+  name: serviceCE45yTzIu3
+  identifier: serviceCE45yTzIu3
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

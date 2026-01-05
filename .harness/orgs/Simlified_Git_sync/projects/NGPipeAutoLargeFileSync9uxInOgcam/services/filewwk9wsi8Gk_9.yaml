@@ -1,0 +1,8 @@
+service:
+  name: servicerPDmbMvMZD
+  identifier: servicerPDmbMvMZD
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

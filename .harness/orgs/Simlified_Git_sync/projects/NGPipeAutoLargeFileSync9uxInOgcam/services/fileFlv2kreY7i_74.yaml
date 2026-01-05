@@ -1,0 +1,8 @@
+service:
+  name: servicehmdRisQ19j
+  identifier: servicehmdRisQ19j
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

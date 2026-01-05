@@ -1,0 +1,8 @@
+service:
+  name: serviceTeV6aLsZf9
+  identifier: serviceTeV6aLsZf9
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

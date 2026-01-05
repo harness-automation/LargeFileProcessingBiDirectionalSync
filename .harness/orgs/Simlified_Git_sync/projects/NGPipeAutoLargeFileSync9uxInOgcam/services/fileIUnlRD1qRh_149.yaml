@@ -1,0 +1,8 @@
+service:
+  name: serviceIRPU3pPXvd
+  identifier: serviceIRPU3pPXvd
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

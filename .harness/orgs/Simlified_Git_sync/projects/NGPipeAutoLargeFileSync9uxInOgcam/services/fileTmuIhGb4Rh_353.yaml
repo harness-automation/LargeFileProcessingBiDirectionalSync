@@ -1,0 +1,8 @@
+service:
+  name: service2HRzbggpNA
+  identifier: service2HRzbggpNA
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

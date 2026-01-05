@@ -1,0 +1,8 @@
+service:
+  name: serviceBTwah89aPE
+  identifier: serviceBTwah89aPE
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

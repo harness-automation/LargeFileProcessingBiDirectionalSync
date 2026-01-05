@@ -1,0 +1,8 @@
+service:
+  name: serviceToVNq4ke1D
+  identifier: serviceToVNq4ke1D
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

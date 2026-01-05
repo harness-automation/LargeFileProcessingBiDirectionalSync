@@ -1,0 +1,8 @@
+service:
+  name: serviceSobWUs3IoK
+  identifier: serviceSobWUs3IoK
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

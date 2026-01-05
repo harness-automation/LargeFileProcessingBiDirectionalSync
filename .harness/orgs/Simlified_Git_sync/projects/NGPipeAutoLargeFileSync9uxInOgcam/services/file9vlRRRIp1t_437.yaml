@@ -1,0 +1,8 @@
+service:
+  name: serviceOfB2SylsdX
+  identifier: serviceOfB2SylsdX
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

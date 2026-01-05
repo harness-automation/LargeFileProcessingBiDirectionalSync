@@ -1,0 +1,8 @@
+service:
+  name: servicebl1uKbeLTb
+  identifier: servicebl1uKbeLTb
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicen9SatLAU9u
+  identifier: servicen9SatLAU9u
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

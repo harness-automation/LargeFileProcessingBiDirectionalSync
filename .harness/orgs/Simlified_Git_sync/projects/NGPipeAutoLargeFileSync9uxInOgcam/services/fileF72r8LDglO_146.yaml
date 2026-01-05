@@ -1,0 +1,8 @@
+service:
+  name: service15JObLmwOR
+  identifier: service15JObLmwOR
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

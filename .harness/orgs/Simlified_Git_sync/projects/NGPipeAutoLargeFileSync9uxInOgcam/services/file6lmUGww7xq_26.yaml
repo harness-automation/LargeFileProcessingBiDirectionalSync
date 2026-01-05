@@ -1,0 +1,8 @@
+service:
+  name: serviceXPglS60QE2
+  identifier: serviceXPglS60QE2
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

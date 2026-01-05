@@ -1,0 +1,8 @@
+service:
+  name: serviceRBA0MaZy7G
+  identifier: serviceRBA0MaZy7G
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

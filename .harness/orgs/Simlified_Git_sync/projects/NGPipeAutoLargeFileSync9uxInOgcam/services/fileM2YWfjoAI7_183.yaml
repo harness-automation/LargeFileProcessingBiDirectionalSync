@@ -1,0 +1,8 @@
+service:
+  name: serviceXWDCO5vyip
+  identifier: serviceXWDCO5vyip
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

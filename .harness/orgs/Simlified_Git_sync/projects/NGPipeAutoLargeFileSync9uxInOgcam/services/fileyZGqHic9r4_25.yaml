@@ -1,0 +1,8 @@
+service:
+  name: serviceKSU1ALU9ew
+  identifier: serviceKSU1ALU9ew
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

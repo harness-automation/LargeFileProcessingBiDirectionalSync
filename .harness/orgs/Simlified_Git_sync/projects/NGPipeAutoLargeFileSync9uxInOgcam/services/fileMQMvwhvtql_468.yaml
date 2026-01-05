@@ -1,0 +1,8 @@
+service:
+  name: serviceGjG0LUgDo4
+  identifier: serviceGjG0LUgDo4
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

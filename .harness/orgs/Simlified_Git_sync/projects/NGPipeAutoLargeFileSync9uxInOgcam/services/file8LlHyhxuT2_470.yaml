@@ -1,0 +1,8 @@
+service:
+  name: servicegbX57bRAZr
+  identifier: servicegbX57bRAZr
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

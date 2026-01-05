@@ -1,0 +1,8 @@
+service:
+  name: serviceULyVId031a
+  identifier: serviceULyVId031a
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

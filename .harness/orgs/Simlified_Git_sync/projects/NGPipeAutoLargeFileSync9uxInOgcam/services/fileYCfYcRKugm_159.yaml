@@ -1,0 +1,8 @@
+service:
+  name: serviceCfkYp9472l
+  identifier: serviceCfkYp9472l
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

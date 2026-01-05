@@ -1,0 +1,8 @@
+service:
+  name: serviceWON6fpBCKA
+  identifier: serviceWON6fpBCKA
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

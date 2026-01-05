@@ -1,0 +1,8 @@
+service:
+  name: serviceyrPlNd8KMc
+  identifier: serviceyrPlNd8KMc
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

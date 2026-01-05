@@ -1,0 +1,8 @@
+service:
+  name: serviceHwptp3niBd
+  identifier: serviceHwptp3niBd
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

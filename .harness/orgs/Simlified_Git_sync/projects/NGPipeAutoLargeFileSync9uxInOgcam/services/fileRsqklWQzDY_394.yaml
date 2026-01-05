@@ -1,0 +1,8 @@
+service:
+  name: servicecUp2gUY03n
+  identifier: servicecUp2gUY03n
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

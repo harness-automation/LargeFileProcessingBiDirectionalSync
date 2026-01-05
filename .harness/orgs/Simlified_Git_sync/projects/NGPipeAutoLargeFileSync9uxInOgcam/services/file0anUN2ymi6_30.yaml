@@ -1,0 +1,8 @@
+service:
+  name: serviceTRqBDodTn6
+  identifier: serviceTRqBDodTn6
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

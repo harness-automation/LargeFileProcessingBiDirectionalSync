@@ -1,0 +1,8 @@
+service:
+  name: serviceCpnE4dxRUM
+  identifier: serviceCpnE4dxRUM
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceA4EDLBtE4Y
+  identifier: serviceA4EDLBtE4Y
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

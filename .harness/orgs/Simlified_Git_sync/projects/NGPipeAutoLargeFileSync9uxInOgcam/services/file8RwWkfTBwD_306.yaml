@@ -1,0 +1,8 @@
+service:
+  name: serviceBNcVcuE1ER
+  identifier: serviceBNcVcuE1ER
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

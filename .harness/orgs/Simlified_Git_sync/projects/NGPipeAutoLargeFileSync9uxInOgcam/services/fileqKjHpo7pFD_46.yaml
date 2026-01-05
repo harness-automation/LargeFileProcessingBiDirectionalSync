@@ -1,0 +1,8 @@
+service:
+  name: serviceMDx80mVPqq
+  identifier: serviceMDx80mVPqq
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

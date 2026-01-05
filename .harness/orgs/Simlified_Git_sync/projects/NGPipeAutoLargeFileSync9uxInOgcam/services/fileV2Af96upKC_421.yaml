@@ -1,0 +1,8 @@
+service:
+  name: serviceRBYyrYNl4D
+  identifier: serviceRBYyrYNl4D
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

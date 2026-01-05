@@ -1,0 +1,8 @@
+service:
+  name: serviceSWzEmWlI24
+  identifier: serviceSWzEmWlI24
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

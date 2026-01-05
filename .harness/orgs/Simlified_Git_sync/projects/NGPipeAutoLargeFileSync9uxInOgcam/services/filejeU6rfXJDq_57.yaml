@@ -1,0 +1,8 @@
+service:
+  name: serviceaPTltry4TE
+  identifier: serviceaPTltry4TE
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

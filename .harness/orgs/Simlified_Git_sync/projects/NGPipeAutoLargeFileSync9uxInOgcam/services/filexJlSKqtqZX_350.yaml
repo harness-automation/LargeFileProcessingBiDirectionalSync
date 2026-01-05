@@ -1,0 +1,8 @@
+service:
+  name: serviceR323Gh4RMT
+  identifier: serviceR323Gh4RMT
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

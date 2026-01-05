@@ -1,0 +1,8 @@
+service:
+  name: service2sxCWfkTiD
+  identifier: service2sxCWfkTiD
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

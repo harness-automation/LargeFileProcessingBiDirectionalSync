@@ -1,0 +1,8 @@
+service:
+  name: serviceBnqtQ4dL20
+  identifier: serviceBnqtQ4dL20
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

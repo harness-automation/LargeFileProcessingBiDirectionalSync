@@ -1,0 +1,8 @@
+service:
+  name: servicenFlgegIrFQ
+  identifier: servicenFlgegIrFQ
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

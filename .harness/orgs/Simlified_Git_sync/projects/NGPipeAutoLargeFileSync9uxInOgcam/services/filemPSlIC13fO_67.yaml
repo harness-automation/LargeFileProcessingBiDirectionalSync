@@ -1,0 +1,8 @@
+service:
+  name: serviceMChOufiiB7
+  identifier: serviceMChOufiiB7
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

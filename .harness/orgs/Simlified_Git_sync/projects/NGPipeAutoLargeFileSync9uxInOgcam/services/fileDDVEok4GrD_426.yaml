@@ -1,0 +1,8 @@
+service:
+  name: serviceIW44lcQtpn
+  identifier: serviceIW44lcQtpn
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

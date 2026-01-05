@@ -1,0 +1,8 @@
+service:
+  name: serviceFCbDxO2LJ2
+  identifier: serviceFCbDxO2LJ2
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

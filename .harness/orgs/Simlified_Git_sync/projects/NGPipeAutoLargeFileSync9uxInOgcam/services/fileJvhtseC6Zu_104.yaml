@@ -1,0 +1,8 @@
+service:
+  name: servicee03xJdEmIB
+  identifier: servicee03xJdEmIB
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceq49v19HUcP
+  identifier: serviceq49v19HUcP
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

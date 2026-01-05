@@ -1,0 +1,8 @@
+service:
+  name: service1HfIgcALai
+  identifier: service1HfIgcALai
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

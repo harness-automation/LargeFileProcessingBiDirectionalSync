@@ -1,0 +1,8 @@
+service:
+  name: serviceXsS5mJAiIZ
+  identifier: serviceXsS5mJAiIZ
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

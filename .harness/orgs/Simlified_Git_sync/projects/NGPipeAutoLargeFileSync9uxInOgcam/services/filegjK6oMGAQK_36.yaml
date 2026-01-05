@@ -1,0 +1,8 @@
+service:
+  name: serviceFblrzpbMzK
+  identifier: serviceFblrzpbMzK
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

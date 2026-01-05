@@ -1,0 +1,8 @@
+service:
+  name: servicedhSP3Hv7Jz
+  identifier: servicedhSP3Hv7Jz
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

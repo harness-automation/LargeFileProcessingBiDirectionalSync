@@ -1,0 +1,8 @@
+service:
+  name: service685LOCgAY8
+  identifier: service685LOCgAY8
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

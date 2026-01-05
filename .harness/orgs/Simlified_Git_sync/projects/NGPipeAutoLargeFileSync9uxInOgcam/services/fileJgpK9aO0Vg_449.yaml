@@ -1,0 +1,8 @@
+service:
+  name: serviceGrbJOeHPw3
+  identifier: serviceGrbJOeHPw3
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceZFNsBoGEbI
+  identifier: serviceZFNsBoGEbI
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

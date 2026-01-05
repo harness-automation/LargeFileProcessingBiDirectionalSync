@@ -1,0 +1,8 @@
+service:
+  name: service0IZOLXC2jg
+  identifier: service0IZOLXC2jg
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

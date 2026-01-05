@@ -1,0 +1,8 @@
+service:
+  name: serviceOdgek8eMBG
+  identifier: serviceOdgek8eMBG
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

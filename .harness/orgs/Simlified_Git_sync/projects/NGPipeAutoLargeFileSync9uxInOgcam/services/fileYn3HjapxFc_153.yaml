@@ -1,0 +1,8 @@
+service:
+  name: serviceJZopiRkp49
+  identifier: serviceJZopiRkp49
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

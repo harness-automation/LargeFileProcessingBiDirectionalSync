@@ -1,0 +1,8 @@
+service:
+  name: servicezvbG821yFC
+  identifier: servicezvbG821yFC
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicel6Z9Gw19ee
+  identifier: servicel6Z9Gw19ee
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

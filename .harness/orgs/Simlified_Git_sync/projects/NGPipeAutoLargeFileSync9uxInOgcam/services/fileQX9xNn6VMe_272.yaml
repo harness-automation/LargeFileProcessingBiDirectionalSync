@@ -1,0 +1,8 @@
+service:
+  name: servicerpbgs8rt8e
+  identifier: servicerpbgs8rt8e
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

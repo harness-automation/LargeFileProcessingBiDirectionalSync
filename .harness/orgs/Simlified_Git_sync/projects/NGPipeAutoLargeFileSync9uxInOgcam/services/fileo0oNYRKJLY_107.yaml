@@ -1,0 +1,8 @@
+service:
+  name: serviceW3namLmGSf
+  identifier: serviceW3namLmGSf
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

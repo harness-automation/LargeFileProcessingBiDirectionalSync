@@ -1,0 +1,8 @@
+service:
+  name: serviceKW66nsOcMd
+  identifier: serviceKW66nsOcMd
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

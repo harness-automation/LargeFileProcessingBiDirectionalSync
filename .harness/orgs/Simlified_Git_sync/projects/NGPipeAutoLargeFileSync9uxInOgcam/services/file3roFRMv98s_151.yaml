@@ -1,0 +1,8 @@
+service:
+  name: servicebPnRDh20Zx
+  identifier: servicebPnRDh20Zx
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

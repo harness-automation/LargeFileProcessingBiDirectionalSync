@@ -1,0 +1,8 @@
+service:
+  name: serviceCO3z71zlGT
+  identifier: serviceCO3z71zlGT
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

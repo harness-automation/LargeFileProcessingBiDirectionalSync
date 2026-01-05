@@ -1,0 +1,8 @@
+service:
+  name: service99gu704C4p
+  identifier: service99gu704C4p
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

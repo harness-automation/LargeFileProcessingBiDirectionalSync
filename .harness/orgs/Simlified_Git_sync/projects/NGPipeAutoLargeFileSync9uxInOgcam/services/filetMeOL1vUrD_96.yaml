@@ -1,0 +1,8 @@
+service:
+  name: servicezM3alZeWRE
+  identifier: servicezM3alZeWRE
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

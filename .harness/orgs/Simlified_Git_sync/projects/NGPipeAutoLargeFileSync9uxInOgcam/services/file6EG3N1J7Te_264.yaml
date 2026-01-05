@@ -1,0 +1,8 @@
+service:
+  name: service2nT62NlBSr
+  identifier: service2nT62NlBSr
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

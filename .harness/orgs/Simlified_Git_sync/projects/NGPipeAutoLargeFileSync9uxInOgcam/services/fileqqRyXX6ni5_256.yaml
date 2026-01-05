@@ -1,0 +1,8 @@
+service:
+  name: serviceSJuTov03Un
+  identifier: serviceSJuTov03Un
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

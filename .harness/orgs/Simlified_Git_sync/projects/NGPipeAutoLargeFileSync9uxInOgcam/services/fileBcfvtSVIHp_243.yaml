@@ -1,0 +1,8 @@
+service:
+  name: serviceTVpoChaMH1
+  identifier: serviceTVpoChaMH1
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

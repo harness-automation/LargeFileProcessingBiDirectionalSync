@@ -1,0 +1,8 @@
+service:
+  name: servicev7MuuBUw44
+  identifier: servicev7MuuBUw44
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

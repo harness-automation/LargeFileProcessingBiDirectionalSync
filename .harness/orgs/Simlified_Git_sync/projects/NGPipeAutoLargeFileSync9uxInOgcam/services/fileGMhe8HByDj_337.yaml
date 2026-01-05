@@ -1,0 +1,8 @@
+service:
+  name: service38p9iSZuPc
+  identifier: service38p9iSZuPc
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

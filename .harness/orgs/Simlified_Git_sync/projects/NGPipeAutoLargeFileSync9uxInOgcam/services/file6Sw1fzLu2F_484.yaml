@@ -1,0 +1,8 @@
+service:
+  name: serviceBOA1wBDYAY
+  identifier: serviceBOA1wBDYAY
+  projectIdentifier: NGPipeAutoLargeFileSync9uxInOgcam
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
