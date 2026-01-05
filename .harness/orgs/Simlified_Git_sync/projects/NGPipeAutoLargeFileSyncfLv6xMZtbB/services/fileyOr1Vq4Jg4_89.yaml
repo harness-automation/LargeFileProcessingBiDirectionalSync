@@ -1,0 +1,8 @@
+service:
+  name: service16NwmW5Mtg
+  identifier: service16NwmW5Mtg
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicefNc20NA2KR
+  identifier: servicefNc20NA2KR
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

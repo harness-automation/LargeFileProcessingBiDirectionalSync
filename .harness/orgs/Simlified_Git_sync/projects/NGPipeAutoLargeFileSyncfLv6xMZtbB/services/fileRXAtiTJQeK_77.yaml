@@ -1,0 +1,8 @@
+service:
+  name: serviceS633nAdBO3
+  identifier: serviceS633nAdBO3
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

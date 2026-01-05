@@ -1,0 +1,8 @@
+service:
+  name: servicejam2EQlDR6
+  identifier: servicejam2EQlDR6
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceKASG80G8sv
+  identifier: serviceKASG80G8sv
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

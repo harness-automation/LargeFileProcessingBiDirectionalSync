@@ -1,0 +1,8 @@
+service:
+  name: service2w11AvpV1F
+  identifier: service2w11AvpV1F
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicezTekanAMmq
+  identifier: servicezTekanAMmq
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

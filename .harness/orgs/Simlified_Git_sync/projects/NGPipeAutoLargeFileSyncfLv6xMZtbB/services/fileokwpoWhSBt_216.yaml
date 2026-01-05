@@ -1,0 +1,8 @@
+service:
+  name: serviceWnpJibaAPs
+  identifier: serviceWnpJibaAPs
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicexkMF2HepRE
+  identifier: servicexkMF2HepRE
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

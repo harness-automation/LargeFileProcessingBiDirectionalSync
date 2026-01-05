@@ -1,0 +1,8 @@
+service:
+  name: serviceSMMszo5oxa
+  identifier: serviceSMMszo5oxa
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

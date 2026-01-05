@@ -1,0 +1,8 @@
+service:
+  name: serviceDayM413j6q
+  identifier: serviceDayM413j6q
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceVthDcA7rWC
+  identifier: serviceVthDcA7rWC
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

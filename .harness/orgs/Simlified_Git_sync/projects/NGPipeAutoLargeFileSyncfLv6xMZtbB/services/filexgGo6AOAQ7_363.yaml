@@ -1,0 +1,8 @@
+service:
+  name: servicepz5PLOS9Ci
+  identifier: servicepz5PLOS9Ci
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

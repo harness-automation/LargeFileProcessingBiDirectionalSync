@@ -1,0 +1,8 @@
+service:
+  name: serviceLMScSg787h
+  identifier: serviceLMScSg787h
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

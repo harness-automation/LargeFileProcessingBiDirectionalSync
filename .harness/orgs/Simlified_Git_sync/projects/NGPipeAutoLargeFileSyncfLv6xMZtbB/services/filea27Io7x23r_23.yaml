@@ -1,0 +1,8 @@
+service:
+  name: serviceDo532emMGP
+  identifier: serviceDo532emMGP
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

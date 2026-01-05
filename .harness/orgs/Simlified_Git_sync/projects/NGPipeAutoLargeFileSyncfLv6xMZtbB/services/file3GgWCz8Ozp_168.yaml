@@ -1,0 +1,8 @@
+service:
+  name: serviceIdftn39i2P
+  identifier: serviceIdftn39i2P
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

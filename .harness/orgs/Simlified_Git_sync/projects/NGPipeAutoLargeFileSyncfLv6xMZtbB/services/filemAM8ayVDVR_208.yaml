@@ -1,0 +1,8 @@
+service:
+  name: serviceOa2LLjMNtb
+  identifier: serviceOa2LLjMNtb
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

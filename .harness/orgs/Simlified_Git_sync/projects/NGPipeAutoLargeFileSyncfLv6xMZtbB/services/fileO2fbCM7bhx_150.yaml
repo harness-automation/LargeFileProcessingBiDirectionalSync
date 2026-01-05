@@ -1,0 +1,8 @@
+service:
+  name: serviceCmigJbuT2b
+  identifier: serviceCmigJbuT2b
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

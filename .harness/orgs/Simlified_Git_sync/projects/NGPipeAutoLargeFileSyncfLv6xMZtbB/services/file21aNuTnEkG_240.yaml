@@ -1,0 +1,8 @@
+service:
+  name: serviceVaRTa5HGXW
+  identifier: serviceVaRTa5HGXW
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

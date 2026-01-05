@@ -1,0 +1,8 @@
+service:
+  name: serviceWilZAseG2T
+  identifier: serviceWilZAseG2T
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

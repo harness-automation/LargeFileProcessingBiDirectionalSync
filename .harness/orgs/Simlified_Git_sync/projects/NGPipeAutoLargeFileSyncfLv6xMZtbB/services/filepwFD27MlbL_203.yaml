@@ -1,0 +1,8 @@
+service:
+  name: serviceQTFR1T3FTW
+  identifier: serviceQTFR1T3FTW
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

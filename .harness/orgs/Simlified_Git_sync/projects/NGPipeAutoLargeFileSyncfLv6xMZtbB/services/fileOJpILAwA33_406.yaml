@@ -1,0 +1,8 @@
+service:
+  name: service02UmzL44TP
+  identifier: service02UmzL44TP
+  projectIdentifier: NGPipeAutoLargeFileSyncfLv6xMZtbB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
