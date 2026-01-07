@@ -1,0 +1,8 @@
+service:
+  name: serviceiSYB7MErDb
+  identifier: serviceiSYB7MErDb
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

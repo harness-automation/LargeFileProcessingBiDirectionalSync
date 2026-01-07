@@ -1,0 +1,8 @@
+service:
+  name: serviceC05PS35SPY
+  identifier: serviceC05PS35SPY
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

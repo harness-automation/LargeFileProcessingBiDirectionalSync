@@ -1,0 +1,8 @@
+service:
+  name: serviceS82s555G5E
+  identifier: serviceS82s555G5E
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

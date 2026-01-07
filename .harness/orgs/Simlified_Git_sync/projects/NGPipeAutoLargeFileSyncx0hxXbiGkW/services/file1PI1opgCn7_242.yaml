@@ -1,0 +1,8 @@
+service:
+  name: servicePnI2CLR73V
+  identifier: servicePnI2CLR73V
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

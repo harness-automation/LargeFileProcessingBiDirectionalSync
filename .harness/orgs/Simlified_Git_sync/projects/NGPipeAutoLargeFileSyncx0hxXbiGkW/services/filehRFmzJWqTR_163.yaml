@@ -1,0 +1,8 @@
+service:
+  name: serviceVtS4IBCgal
+  identifier: serviceVtS4IBCgal
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

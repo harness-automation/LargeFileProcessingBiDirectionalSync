@@ -1,0 +1,8 @@
+service:
+  name: serviceA1r48HAuTc
+  identifier: serviceA1r48HAuTc
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

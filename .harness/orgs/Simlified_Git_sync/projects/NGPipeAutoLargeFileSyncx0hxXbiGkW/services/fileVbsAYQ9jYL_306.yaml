@@ -1,0 +1,8 @@
+service:
+  name: serviceoCiqtMA63B
+  identifier: serviceoCiqtMA63B
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

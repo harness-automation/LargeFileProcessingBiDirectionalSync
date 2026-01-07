@@ -1,0 +1,8 @@
+service:
+  name: serviceSBwPWebs3b
+  identifier: serviceSBwPWebs3b
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

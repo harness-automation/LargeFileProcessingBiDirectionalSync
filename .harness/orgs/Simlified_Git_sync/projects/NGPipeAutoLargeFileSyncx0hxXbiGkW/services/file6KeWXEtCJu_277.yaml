@@ -1,0 +1,8 @@
+service:
+  name: serviceBZ68g7rApo
+  identifier: serviceBZ68g7rApo
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

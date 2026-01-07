@@ -1,0 +1,8 @@
+service:
+  name: serviceLOLwvdd632
+  identifier: serviceLOLwvdd632
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

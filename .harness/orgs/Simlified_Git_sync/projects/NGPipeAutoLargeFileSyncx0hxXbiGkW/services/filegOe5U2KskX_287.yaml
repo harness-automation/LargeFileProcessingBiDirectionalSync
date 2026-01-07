@@ -1,0 +1,8 @@
+service:
+  name: servicexm1GctVfTA
+  identifier: servicexm1GctVfTA
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

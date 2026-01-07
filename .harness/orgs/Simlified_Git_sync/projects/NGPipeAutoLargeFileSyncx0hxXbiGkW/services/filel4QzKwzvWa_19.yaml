@@ -1,0 +1,8 @@
+service:
+  name: serviceQoMz1mJVBA
+  identifier: serviceQoMz1mJVBA
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

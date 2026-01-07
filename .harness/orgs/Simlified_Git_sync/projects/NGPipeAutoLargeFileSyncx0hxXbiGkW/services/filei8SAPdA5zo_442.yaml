@@ -1,0 +1,8 @@
+service:
+  name: servicemgbPArg0Pn
+  identifier: servicemgbPArg0Pn
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

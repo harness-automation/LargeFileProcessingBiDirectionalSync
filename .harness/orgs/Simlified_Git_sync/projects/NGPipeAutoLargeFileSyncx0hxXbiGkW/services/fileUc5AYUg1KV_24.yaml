@@ -1,0 +1,8 @@
+service:
+  name: servicerRL74A2L25
+  identifier: servicerRL74A2L25
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

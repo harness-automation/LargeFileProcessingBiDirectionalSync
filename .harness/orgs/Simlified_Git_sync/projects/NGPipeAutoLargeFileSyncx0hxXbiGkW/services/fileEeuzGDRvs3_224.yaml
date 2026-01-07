@@ -1,0 +1,8 @@
+service:
+  name: serviceXtdtrDwnV1
+  identifier: serviceXtdtrDwnV1
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

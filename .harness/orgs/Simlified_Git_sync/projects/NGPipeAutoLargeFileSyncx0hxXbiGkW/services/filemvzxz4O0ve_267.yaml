@@ -1,0 +1,8 @@
+service:
+  name: serviceVfr54BXleD
+  identifier: serviceVfr54BXleD
+  projectIdentifier: NGPipeAutoLargeFileSyncx0hxXbiGkW
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
