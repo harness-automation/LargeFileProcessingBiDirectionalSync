@@ -1,0 +1,8 @@
+service:
+  name: serviceDQvz46Dvla
+  identifier: serviceDQvz46Dvla
+  projectIdentifier: NGPipeAutoLargeFileSync4rzQ557SMs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

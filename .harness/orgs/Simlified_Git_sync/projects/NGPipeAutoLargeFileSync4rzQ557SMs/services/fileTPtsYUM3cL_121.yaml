@@ -1,0 +1,8 @@
+service:
+  name: service751NeMovu1
+  identifier: service751NeMovu1
+  projectIdentifier: NGPipeAutoLargeFileSync4rzQ557SMs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

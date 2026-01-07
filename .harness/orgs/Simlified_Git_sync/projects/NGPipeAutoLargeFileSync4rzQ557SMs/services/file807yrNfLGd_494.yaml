@@ -1,0 +1,8 @@
+service:
+  name: serviceZAK6Cb9PcG
+  identifier: serviceZAK6Cb9PcG
+  projectIdentifier: NGPipeAutoLargeFileSync4rzQ557SMs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

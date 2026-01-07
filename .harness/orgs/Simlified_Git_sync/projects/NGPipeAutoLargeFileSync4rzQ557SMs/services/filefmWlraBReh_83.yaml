@@ -1,0 +1,8 @@
+service:
+  name: serviceHMnyGtCa2N
+  identifier: serviceHMnyGtCa2N
+  projectIdentifier: NGPipeAutoLargeFileSync4rzQ557SMs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

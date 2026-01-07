@@ -1,0 +1,8 @@
+service:
+  name: servicendcThkm1bi
+  identifier: servicendcThkm1bi
+  projectIdentifier: NGPipeAutoLargeFileSync4rzQ557SMs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

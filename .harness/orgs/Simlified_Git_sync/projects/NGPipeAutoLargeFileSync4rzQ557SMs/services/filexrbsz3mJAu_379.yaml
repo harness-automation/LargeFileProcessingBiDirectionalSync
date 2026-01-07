@@ -1,0 +1,8 @@
+service:
+  name: servicefl2MGiMu2d
+  identifier: servicefl2MGiMu2d
+  projectIdentifier: NGPipeAutoLargeFileSync4rzQ557SMs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

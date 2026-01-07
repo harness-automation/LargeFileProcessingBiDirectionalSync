@@ -1,0 +1,8 @@
+service:
+  name: serviceRywsik3Bv3
+  identifier: serviceRywsik3Bv3
+  projectIdentifier: NGPipeAutoLargeFileSync4rzQ557SMs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

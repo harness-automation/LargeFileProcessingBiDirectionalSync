@@ -1,0 +1,8 @@
+service:
+  name: serviceEbMdy7353R
+  identifier: serviceEbMdy7353R
+  projectIdentifier: NGPipeAutoLargeFileSync4rzQ557SMs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

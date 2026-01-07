@@ -1,0 +1,8 @@
+service:
+  name: service4OVB2iWdIs
+  identifier: service4OVB2iWdIs
+  projectIdentifier: NGPipeAutoLargeFileSync4rzQ557SMs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceroKdC5cfl5
+  identifier: serviceroKdC5cfl5
+  projectIdentifier: NGPipeAutoLargeFileSync4rzQ557SMs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

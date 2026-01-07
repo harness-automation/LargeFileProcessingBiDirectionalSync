@@ -1,0 +1,8 @@
+service:
+  name: servicedc1319EfxR
+  identifier: servicedc1319EfxR
+  projectIdentifier: NGPipeAutoLargeFileSync4rzQ557SMs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

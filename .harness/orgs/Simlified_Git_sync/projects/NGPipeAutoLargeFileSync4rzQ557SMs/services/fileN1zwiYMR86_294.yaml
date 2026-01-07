@@ -1,0 +1,8 @@
+service:
+  name: serviceZmbEEqlc2a
+  identifier: serviceZmbEEqlc2a
+  projectIdentifier: NGPipeAutoLargeFileSync4rzQ557SMs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
