@@ -1,0 +1,8 @@
+service:
+  name: serviceRgEKLC4ce7
+  identifier: serviceRgEKLC4ce7
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

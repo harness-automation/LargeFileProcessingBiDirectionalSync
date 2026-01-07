@@ -1,0 +1,8 @@
+service:
+  name: servicelrGvM1X1ML
+  identifier: servicelrGvM1X1ML
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

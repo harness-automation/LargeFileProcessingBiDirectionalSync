@@ -1,0 +1,8 @@
+service:
+  name: serviceQZe8HDDhZL
+  identifier: serviceQZe8HDDhZL
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceROD2O2eoKk
+  identifier: serviceROD2O2eoKk
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

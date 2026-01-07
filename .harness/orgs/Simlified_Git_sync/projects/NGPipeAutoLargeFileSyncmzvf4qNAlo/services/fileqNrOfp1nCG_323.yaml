@@ -1,0 +1,8 @@
+service:
+  name: service8nlyIP9P5x
+  identifier: service8nlyIP9P5x
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

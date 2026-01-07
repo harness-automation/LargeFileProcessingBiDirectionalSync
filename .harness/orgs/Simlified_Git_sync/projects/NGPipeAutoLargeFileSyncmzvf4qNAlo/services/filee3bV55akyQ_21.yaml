@@ -1,0 +1,8 @@
+service:
+  name: serviceJ7omGiCDIO
+  identifier: serviceJ7omGiCDIO
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

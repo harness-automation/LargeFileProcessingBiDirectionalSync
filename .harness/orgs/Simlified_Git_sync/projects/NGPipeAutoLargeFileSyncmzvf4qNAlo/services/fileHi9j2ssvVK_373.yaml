@@ -1,0 +1,8 @@
+service:
+  name: serviceCtm1VPrOUA
+  identifier: serviceCtm1VPrOUA
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

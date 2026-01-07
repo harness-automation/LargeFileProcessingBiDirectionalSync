@@ -1,0 +1,8 @@
+service:
+  name: serviceRt97DRo03d
+  identifier: serviceRt97DRo03d
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

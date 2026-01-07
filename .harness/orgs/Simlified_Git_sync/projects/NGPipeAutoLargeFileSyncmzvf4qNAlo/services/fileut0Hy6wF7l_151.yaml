@@ -1,0 +1,8 @@
+service:
+  name: serviceAD9GMSUNCV
+  identifier: serviceAD9GMSUNCV
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

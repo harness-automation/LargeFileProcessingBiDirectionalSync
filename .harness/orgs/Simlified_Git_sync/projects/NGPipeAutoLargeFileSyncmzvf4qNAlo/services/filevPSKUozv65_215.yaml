@@ -1,0 +1,8 @@
+service:
+  name: serviceINDa21cm3l
+  identifier: serviceINDa21cm3l
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

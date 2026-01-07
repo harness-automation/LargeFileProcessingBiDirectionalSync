@@ -1,0 +1,8 @@
+service:
+  name: serviceE61RfLBanz
+  identifier: serviceE61RfLBanz
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

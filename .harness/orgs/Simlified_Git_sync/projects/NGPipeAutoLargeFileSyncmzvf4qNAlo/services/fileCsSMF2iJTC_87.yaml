@@ -1,0 +1,8 @@
+service:
+  name: serviceLatN49Rvbu
+  identifier: serviceLatN49Rvbu
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceGCBTL4fpyE
+  identifier: serviceGCBTL4fpyE
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

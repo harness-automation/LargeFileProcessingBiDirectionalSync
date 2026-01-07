@@ -1,0 +1,8 @@
+service:
+  name: serviceQI2drCV5ig
+  identifier: serviceQI2drCV5ig
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

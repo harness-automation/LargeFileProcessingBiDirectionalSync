@@ -1,0 +1,8 @@
+service:
+  name: servicen70SPDdbJn
+  identifier: servicen70SPDdbJn
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

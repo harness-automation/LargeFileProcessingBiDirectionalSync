@@ -1,0 +1,8 @@
+service:
+  name: serviceVmp3IcoTI7
+  identifier: serviceVmp3IcoTI7
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

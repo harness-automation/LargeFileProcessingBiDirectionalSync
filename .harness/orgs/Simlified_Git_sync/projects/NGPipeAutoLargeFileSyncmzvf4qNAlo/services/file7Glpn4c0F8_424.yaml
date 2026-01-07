@@ -1,0 +1,8 @@
+service:
+  name: servicepiTi4IVMsH
+  identifier: servicepiTi4IVMsH
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

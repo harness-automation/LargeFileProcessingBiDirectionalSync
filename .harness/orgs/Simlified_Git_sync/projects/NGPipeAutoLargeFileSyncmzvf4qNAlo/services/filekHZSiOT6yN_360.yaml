@@ -1,0 +1,8 @@
+service:
+  name: servicelOTtD2nVHM
+  identifier: servicelOTtD2nVHM
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

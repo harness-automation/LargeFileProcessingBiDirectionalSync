@@ -1,0 +1,8 @@
+service:
+  name: serviceX1JsdCx180
+  identifier: serviceX1JsdCx180
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

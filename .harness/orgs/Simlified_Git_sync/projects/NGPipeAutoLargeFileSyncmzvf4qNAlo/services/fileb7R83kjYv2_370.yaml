@@ -1,0 +1,8 @@
+service:
+  name: serviceXyCbb355VP
+  identifier: serviceXyCbb355VP
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

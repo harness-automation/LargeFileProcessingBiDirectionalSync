@@ -1,0 +1,8 @@
+service:
+  name: serviceOFCeTg01IW
+  identifier: serviceOFCeTg01IW
+  projectIdentifier: NGPipeAutoLargeFileSyncmzvf4qNAlo
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
