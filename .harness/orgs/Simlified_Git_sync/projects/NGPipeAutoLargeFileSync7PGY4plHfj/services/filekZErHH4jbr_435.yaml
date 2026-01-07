@@ -1,0 +1,8 @@
+service:
+  name: service6DdrMXV9Uo
+  identifier: service6DdrMXV9Uo
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

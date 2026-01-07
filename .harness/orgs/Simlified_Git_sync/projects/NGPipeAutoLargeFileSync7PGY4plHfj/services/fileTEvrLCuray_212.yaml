@@ -1,0 +1,8 @@
+service:
+  name: servicetap10hh3U4
+  identifier: servicetap10hh3U4
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

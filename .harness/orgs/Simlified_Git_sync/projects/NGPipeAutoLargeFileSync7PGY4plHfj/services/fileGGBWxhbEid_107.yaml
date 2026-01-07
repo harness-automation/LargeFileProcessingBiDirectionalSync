@@ -1,0 +1,8 @@
+service:
+  name: servicec71WRX43cB
+  identifier: servicec71WRX43cB
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

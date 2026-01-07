@@ -1,0 +1,8 @@
+service:
+  name: serviceGhzT1Pl1XC
+  identifier: serviceGhzT1Pl1XC
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicefZGXpus05R
+  identifier: servicefZGXpus05R
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

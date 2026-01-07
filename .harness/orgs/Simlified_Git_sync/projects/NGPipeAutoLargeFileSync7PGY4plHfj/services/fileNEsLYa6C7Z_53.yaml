@@ -1,0 +1,8 @@
+service:
+  name: servicearI3MonlDv
+  identifier: servicearI3MonlDv
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

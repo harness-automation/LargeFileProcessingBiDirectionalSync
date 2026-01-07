@@ -1,0 +1,8 @@
+service:
+  name: serviceZX9Nce60Hp
+  identifier: serviceZX9Nce60Hp
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

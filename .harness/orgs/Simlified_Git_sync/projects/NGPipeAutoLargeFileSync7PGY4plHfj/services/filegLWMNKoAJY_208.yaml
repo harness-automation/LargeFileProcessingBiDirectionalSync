@@ -1,0 +1,8 @@
+service:
+  name: serviceERfm0K1ppk
+  identifier: serviceERfm0K1ppk
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

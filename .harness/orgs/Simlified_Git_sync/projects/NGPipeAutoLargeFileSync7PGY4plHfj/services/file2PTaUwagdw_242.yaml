@@ -1,0 +1,8 @@
+service:
+  name: serviceDi3wrssJQL
+  identifier: serviceDi3wrssJQL
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

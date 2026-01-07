@@ -1,0 +1,8 @@
+service:
+  name: servicetu2o784nyl
+  identifier: servicetu2o784nyl
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicebuK4OrbT02
+  identifier: servicebuK4OrbT02
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

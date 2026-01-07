@@ -1,0 +1,8 @@
+service:
+  name: servicedr41v9HuN0
+  identifier: servicedr41v9HuN0
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

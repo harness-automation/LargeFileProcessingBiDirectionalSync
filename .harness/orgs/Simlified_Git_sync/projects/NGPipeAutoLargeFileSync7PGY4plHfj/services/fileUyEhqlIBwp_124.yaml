@@ -1,0 +1,8 @@
+service:
+  name: servicenBRk5CRAFR
+  identifier: servicenBRk5CRAFR
+  projectIdentifier: NGPipeAutoLargeFileSync7PGY4plHfj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
