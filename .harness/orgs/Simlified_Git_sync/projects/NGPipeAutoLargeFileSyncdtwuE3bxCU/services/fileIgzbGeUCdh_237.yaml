@@ -1,0 +1,8 @@
+service:
+  name: servicesOzor61kqw
+  identifier: servicesOzor61kqw
+  projectIdentifier: NGPipeAutoLargeFileSyncdtwuE3bxCU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

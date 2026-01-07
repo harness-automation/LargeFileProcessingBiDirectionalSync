@@ -1,0 +1,8 @@
+service:
+  name: service21LGPSKNVV
+  identifier: service21LGPSKNVV
+  projectIdentifier: NGPipeAutoLargeFileSyncdtwuE3bxCU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

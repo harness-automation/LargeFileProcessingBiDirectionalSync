@@ -1,0 +1,8 @@
+service:
+  name: serviceRsi6FlNgVz
+  identifier: serviceRsi6FlNgVz
+  projectIdentifier: NGPipeAutoLargeFileSyncdtwuE3bxCU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

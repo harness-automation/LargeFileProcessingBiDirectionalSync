@@ -1,0 +1,8 @@
+service:
+  name: servicehenOhtG24r
+  identifier: servicehenOhtG24r
+  projectIdentifier: NGPipeAutoLargeFileSyncdtwuE3bxCU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

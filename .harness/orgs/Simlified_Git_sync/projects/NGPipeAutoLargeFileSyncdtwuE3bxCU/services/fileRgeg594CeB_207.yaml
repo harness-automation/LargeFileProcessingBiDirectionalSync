@@ -1,0 +1,8 @@
+service:
+  name: serviceW9VDUvhdb2
+  identifier: serviceW9VDUvhdb2
+  projectIdentifier: NGPipeAutoLargeFileSyncdtwuE3bxCU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

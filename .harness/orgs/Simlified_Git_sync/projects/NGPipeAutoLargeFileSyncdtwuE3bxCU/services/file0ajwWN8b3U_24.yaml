@@ -1,0 +1,8 @@
+service:
+  name: serviceBcc0vleryd
+  identifier: serviceBcc0vleryd
+  projectIdentifier: NGPipeAutoLargeFileSyncdtwuE3bxCU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

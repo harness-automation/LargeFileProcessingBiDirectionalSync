@@ -1,0 +1,8 @@
+service:
+  name: serviceVGCZ54AL3Z
+  identifier: serviceVGCZ54AL3Z
+  projectIdentifier: NGPipeAutoLargeFileSyncdtwuE3bxCU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

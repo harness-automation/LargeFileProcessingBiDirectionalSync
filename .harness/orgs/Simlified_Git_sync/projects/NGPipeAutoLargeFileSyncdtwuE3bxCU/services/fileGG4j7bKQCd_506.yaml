@@ -1,0 +1,8 @@
+service:
+  name: service5wob80vdcu
+  identifier: service5wob80vdcu
+  projectIdentifier: NGPipeAutoLargeFileSyncdtwuE3bxCU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

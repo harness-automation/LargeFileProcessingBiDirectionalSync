@@ -1,0 +1,8 @@
+service:
+  name: servicevhCPP616r9
+  identifier: servicevhCPP616r9
+  projectIdentifier: NGPipeAutoLargeFileSyncdtwuE3bxCU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

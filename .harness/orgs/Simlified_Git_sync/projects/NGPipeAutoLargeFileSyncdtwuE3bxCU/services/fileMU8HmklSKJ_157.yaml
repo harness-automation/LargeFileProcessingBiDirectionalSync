@@ -1,0 +1,8 @@
+service:
+  name: servicegIpSHaZ01m
+  identifier: servicegIpSHaZ01m
+  projectIdentifier: NGPipeAutoLargeFileSyncdtwuE3bxCU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

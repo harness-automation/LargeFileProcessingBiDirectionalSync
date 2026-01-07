@@ -1,0 +1,8 @@
+service:
+  name: serviceFmbhrRsADp
+  identifier: serviceFmbhrRsADp
+  projectIdentifier: NGPipeAutoLargeFileSyncdtwuE3bxCU
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
