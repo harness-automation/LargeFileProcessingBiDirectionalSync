@@ -1,0 +1,8 @@
+service:
+  name: serviceWtvpW2F8re
+  identifier: serviceWtvpW2F8re
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

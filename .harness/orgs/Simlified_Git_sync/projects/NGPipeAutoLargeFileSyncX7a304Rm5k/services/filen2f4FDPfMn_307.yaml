@@ -1,0 +1,8 @@
+service:
+  name: servicePYL3olFrut
+  identifier: servicePYL3olFrut
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

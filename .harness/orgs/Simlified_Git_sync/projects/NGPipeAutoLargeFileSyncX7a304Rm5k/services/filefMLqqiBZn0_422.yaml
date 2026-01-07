@@ -1,0 +1,8 @@
+service:
+  name: serviceDTQlU2S6KW
+  identifier: serviceDTQlU2S6KW
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

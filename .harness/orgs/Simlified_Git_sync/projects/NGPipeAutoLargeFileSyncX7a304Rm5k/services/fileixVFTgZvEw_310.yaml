@@ -1,0 +1,8 @@
+service:
+  name: servicePlmBrQ58O3
+  identifier: servicePlmBrQ58O3
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

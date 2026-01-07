@@ -1,0 +1,8 @@
+service:
+  name: serviceAer0214Usm
+  identifier: serviceAer0214Usm
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

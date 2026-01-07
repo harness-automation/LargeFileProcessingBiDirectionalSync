@@ -1,0 +1,8 @@
+service:
+  name: serviceIEL4n5lwOw
+  identifier: serviceIEL4n5lwOw
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

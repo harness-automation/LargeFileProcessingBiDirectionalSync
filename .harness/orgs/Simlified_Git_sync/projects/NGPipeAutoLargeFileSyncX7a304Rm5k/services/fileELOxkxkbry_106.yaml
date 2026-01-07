@@ -1,0 +1,8 @@
+service:
+  name: serviceLg89PceY7X
+  identifier: serviceLg89PceY7X
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

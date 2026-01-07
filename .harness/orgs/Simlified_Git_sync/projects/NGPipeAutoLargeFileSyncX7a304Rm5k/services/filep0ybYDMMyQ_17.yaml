@@ -1,0 +1,8 @@
+service:
+  name: servicePpV42t23li
+  identifier: servicePpV42t23li
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

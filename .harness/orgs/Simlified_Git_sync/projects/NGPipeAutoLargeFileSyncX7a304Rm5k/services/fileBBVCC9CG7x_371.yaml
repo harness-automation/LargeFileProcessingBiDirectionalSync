@@ -1,0 +1,8 @@
+service:
+  name: serviceSOl3tKVC2Q
+  identifier: serviceSOl3tKVC2Q
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

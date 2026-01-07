@@ -1,0 +1,8 @@
+service:
+  name: serviceu6gBioUlNB
+  identifier: serviceu6gBioUlNB
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceHDN3g4Rp3W
+  identifier: serviceHDN3g4Rp3W
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

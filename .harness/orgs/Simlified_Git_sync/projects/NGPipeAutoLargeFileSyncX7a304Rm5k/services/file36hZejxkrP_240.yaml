@@ -1,0 +1,8 @@
+service:
+  name: serviceom16FA9p7y
+  identifier: serviceom16FA9p7y
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

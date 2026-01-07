@@ -1,0 +1,8 @@
+service:
+  name: service942dSPGaJ3
+  identifier: service942dSPGaJ3
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

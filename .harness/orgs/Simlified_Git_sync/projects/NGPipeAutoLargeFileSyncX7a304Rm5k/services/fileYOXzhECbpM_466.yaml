@@ -1,0 +1,8 @@
+service:
+  name: serviceDFk51gSaGq
+  identifier: serviceDFk51gSaGq
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service0yAwdVocDD
+  identifier: service0yAwdVocDD
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

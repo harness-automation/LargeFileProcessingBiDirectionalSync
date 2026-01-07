@@ -1,0 +1,8 @@
+service:
+  name: serviceblaPS7V5Hs
+  identifier: serviceblaPS7V5Hs
+  projectIdentifier: NGPipeAutoLargeFileSyncX7a304Rm5k
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
