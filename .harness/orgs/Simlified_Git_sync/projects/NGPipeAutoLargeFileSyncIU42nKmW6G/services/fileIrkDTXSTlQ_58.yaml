@@ -1,0 +1,8 @@
+service:
+  name: serviceMXOrvbu3AA
+  identifier: serviceMXOrvbu3AA
+  projectIdentifier: NGPipeAutoLargeFileSyncIU42nKmW6G
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

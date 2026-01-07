@@ -1,0 +1,8 @@
+service:
+  name: service32kbYh108i
+  identifier: service32kbYh108i
+  projectIdentifier: NGPipeAutoLargeFileSyncIU42nKmW6G
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

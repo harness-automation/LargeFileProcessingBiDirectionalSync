@@ -1,0 +1,8 @@
+service:
+  name: serviceW65kWvZoMc
+  identifier: serviceW65kWvZoMc
+  projectIdentifier: NGPipeAutoLargeFileSyncIU42nKmW6G
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

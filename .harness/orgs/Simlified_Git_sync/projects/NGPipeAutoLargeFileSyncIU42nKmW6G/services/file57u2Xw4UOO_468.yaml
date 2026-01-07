@@ -1,0 +1,8 @@
+service:
+  name: servicehTQDmPttIQ
+  identifier: servicehTQDmPttIQ
+  projectIdentifier: NGPipeAutoLargeFileSyncIU42nKmW6G
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

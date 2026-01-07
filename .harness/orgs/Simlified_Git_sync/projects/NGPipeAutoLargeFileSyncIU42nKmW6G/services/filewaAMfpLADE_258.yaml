@@ -1,0 +1,8 @@
+service:
+  name: servicetvTFFl4yAc
+  identifier: servicetvTFFl4yAc
+  projectIdentifier: NGPipeAutoLargeFileSyncIU42nKmW6G
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

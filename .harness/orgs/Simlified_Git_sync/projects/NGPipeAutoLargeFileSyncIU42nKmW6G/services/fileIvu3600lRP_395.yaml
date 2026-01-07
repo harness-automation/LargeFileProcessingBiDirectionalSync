@@ -1,0 +1,8 @@
+service:
+  name: serviceHlE1IsLbod
+  identifier: serviceHlE1IsLbod
+  projectIdentifier: NGPipeAutoLargeFileSyncIU42nKmW6G
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

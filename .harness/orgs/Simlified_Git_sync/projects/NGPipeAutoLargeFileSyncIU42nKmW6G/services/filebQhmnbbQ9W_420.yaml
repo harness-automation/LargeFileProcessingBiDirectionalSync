@@ -1,0 +1,8 @@
+service:
+  name: serviceSFtREZ85cX
+  identifier: serviceSFtREZ85cX
+  projectIdentifier: NGPipeAutoLargeFileSyncIU42nKmW6G
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

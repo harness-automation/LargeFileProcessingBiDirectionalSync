@@ -1,0 +1,8 @@
+service:
+  name: servicedX1HB5Tptv
+  identifier: servicedX1HB5Tptv
+  projectIdentifier: NGPipeAutoLargeFileSyncIU42nKmW6G
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

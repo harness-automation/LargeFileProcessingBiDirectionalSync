@@ -1,0 +1,8 @@
+service:
+  name: service32RKnDVMv9
+  identifier: service32RKnDVMv9
+  projectIdentifier: NGPipeAutoLargeFileSyncIU42nKmW6G
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

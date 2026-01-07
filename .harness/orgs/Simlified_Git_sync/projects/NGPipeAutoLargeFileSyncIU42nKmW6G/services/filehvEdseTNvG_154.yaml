@@ -1,0 +1,8 @@
+service:
+  name: serviceLBmMWzkzAl
+  identifier: serviceLBmMWzkzAl
+  projectIdentifier: NGPipeAutoLargeFileSyncIU42nKmW6G
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
