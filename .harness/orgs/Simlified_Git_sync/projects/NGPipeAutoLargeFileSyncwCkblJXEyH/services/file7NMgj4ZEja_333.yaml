@@ -1,0 +1,8 @@
+service:
+  name: servicemmfI10FW64
+  identifier: servicemmfI10FW64
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

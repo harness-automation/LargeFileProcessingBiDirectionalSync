@@ -1,0 +1,8 @@
+service:
+  name: serviceFdeiVebG9F
+  identifier: serviceFdeiVebG9F
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

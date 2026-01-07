@@ -1,0 +1,8 @@
+service:
+  name: serviceFTB7o63CpL
+  identifier: serviceFTB7o63CpL
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

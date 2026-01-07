@@ -1,0 +1,8 @@
+service:
+  name: serviceJ4uapInTUm
+  identifier: serviceJ4uapInTUm
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

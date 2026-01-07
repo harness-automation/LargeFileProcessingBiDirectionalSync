@@ -1,0 +1,8 @@
+service:
+  name: serviceeM8MleWAFN
+  identifier: serviceeM8MleWAFN
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

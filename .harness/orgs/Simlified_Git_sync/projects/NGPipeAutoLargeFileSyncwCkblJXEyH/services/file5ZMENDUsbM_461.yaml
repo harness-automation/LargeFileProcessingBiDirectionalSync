@@ -1,0 +1,8 @@
+service:
+  name: serviceKXx243oOya
+  identifier: serviceKXx243oOya
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

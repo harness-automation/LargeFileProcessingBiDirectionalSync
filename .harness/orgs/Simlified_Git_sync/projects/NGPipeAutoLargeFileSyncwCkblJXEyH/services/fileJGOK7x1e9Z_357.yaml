@@ -1,0 +1,8 @@
+service:
+  name: servicePdOhmeDe5p
+  identifier: servicePdOhmeDe5p
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

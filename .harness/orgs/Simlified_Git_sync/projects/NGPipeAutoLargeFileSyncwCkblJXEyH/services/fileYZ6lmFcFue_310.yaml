@@ -1,0 +1,8 @@
+service:
+  name: servicelHTcw2pcuL
+  identifier: servicelHTcw2pcuL
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

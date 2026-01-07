@@ -1,0 +1,8 @@
+service:
+  name: service56DoC2DVbb
+  identifier: service56DoC2DVbb
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

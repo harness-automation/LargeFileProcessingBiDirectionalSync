@@ -1,0 +1,8 @@
+service:
+  name: serviceQt991z9mlr
+  identifier: serviceQt991z9mlr
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceMagTwrG9TB
+  identifier: serviceMagTwrG9TB
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

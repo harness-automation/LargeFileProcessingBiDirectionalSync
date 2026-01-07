@@ -1,0 +1,8 @@
+service:
+  name: serviceOxAxvn90K0
+  identifier: serviceOxAxvn90K0
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

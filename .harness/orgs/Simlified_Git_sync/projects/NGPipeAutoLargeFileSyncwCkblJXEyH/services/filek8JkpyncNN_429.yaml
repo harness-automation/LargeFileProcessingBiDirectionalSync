@@ -1,0 +1,8 @@
+service:
+  name: service2MUXKTGR72
+  identifier: service2MUXKTGR72
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

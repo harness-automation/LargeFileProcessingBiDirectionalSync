@@ -1,0 +1,8 @@
+service:
+  name: serviceirTvEGhEG2
+  identifier: serviceirTvEGhEG2
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

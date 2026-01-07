@@ -1,0 +1,8 @@
+service:
+  name: serviceP0PUC28Ucm
+  identifier: serviceP0PUC28Ucm
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

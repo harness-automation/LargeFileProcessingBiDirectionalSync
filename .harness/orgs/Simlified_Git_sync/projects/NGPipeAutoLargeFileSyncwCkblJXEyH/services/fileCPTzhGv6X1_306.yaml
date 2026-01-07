@@ -1,0 +1,8 @@
+service:
+  name: serviceutk47GC1fc
+  identifier: serviceutk47GC1fc
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

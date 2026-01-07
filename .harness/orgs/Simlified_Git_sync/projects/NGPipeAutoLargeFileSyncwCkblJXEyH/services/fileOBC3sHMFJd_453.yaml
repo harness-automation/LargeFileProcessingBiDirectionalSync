@@ -1,0 +1,8 @@
+service:
+  name: serviceWaMEB0zlwX
+  identifier: serviceWaMEB0zlwX
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

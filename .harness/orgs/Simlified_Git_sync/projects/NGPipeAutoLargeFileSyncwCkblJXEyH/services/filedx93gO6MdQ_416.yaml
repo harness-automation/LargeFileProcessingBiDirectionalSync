@@ -1,0 +1,8 @@
+service:
+  name: serviceb2ByoSy2km
+  identifier: serviceb2ByoSy2km
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

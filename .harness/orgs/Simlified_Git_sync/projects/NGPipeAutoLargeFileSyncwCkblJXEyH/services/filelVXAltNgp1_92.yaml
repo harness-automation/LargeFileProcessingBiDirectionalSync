@@ -1,0 +1,8 @@
+service:
+  name: serviceMHYdrSU0Kz
+  identifier: serviceMHYdrSU0Kz
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceQDOwDz5XQl
+  identifier: serviceQDOwDz5XQl
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

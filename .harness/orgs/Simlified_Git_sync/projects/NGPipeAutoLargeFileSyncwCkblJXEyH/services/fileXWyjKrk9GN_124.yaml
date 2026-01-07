@@ -1,0 +1,8 @@
+service:
+  name: servicejlAz2MQPPN
+  identifier: servicejlAz2MQPPN
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicejaaPuyVCDA
+  identifier: servicejaaPuyVCDA
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

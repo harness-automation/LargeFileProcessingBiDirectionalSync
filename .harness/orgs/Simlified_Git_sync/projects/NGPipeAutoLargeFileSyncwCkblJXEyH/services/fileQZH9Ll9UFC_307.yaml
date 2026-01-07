@@ -1,0 +1,8 @@
+service:
+  name: serviceT69IZ3nsep
+  identifier: serviceT69IZ3nsep
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

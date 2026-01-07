@@ -1,0 +1,8 @@
+service:
+  name: serviceOsxMUGokHT
+  identifier: serviceOsxMUGokHT
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

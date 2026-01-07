@@ -1,0 +1,8 @@
+service:
+  name: serviceDfHPX308rc
+  identifier: serviceDfHPX308rc
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

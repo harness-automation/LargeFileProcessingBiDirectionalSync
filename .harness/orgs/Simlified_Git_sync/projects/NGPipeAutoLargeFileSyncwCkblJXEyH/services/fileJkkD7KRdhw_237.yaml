@@ -1,0 +1,8 @@
+service:
+  name: serviceEfTXheok6s
+  identifier: serviceEfTXheok6s
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

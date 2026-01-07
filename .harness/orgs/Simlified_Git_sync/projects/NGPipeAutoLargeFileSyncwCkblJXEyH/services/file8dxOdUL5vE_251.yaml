@@ -1,0 +1,8 @@
+service:
+  name: servicecRezv3Syp8
+  identifier: servicecRezv3Syp8
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

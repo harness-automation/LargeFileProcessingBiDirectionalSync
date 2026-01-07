@@ -1,0 +1,8 @@
+service:
+  name: serviceXM8ORcrqtR
+  identifier: serviceXM8ORcrqtR
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

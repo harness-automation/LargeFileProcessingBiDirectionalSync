@@ -1,0 +1,8 @@
+service:
+  name: serviceNS3ml6ZLAN
+  identifier: serviceNS3ml6ZLAN
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

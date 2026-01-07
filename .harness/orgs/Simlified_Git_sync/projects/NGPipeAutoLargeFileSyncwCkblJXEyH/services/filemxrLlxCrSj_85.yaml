@@ -1,0 +1,8 @@
+service:
+  name: serviceIP8xVkMtX5
+  identifier: serviceIP8xVkMtX5
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

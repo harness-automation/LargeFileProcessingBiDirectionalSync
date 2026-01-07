@@ -1,0 +1,8 @@
+service:
+  name: servicerK328v1KUc
+  identifier: servicerK328v1KUc
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

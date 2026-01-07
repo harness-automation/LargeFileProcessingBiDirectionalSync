@@ -1,0 +1,8 @@
+service:
+  name: servicema0W2SCTus
+  identifier: servicema0W2SCTus
+  projectIdentifier: NGPipeAutoLargeFileSyncwCkblJXEyH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
