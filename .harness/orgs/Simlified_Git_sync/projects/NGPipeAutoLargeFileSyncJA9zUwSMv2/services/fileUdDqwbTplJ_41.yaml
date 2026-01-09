@@ -1,0 +1,8 @@
+service:
+  name: servicexiz3WMnMXd
+  identifier: servicexiz3WMnMXd
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

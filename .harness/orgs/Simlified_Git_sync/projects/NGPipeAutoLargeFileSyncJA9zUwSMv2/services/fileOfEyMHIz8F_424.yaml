@@ -1,0 +1,8 @@
+service:
+  name: serviceRmE2jAbuRD
+  identifier: serviceRmE2jAbuRD
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

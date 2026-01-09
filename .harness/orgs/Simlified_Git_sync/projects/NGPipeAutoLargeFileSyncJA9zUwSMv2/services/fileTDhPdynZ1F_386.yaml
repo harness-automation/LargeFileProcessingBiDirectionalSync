@@ -1,0 +1,8 @@
+service:
+  name: servicemtrSi8Jmu1
+  identifier: servicemtrSi8Jmu1
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

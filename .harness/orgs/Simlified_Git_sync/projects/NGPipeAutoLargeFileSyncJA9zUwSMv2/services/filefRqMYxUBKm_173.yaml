@@ -1,0 +1,8 @@
+service:
+  name: servicetxGp7ElMws
+  identifier: servicetxGp7ElMws
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

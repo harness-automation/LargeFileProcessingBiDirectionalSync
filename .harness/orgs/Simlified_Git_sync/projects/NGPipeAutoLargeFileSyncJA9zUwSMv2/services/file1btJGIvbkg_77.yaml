@@ -1,0 +1,8 @@
+service:
+  name: servicea2KPgCOdtf
+  identifier: servicea2KPgCOdtf
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

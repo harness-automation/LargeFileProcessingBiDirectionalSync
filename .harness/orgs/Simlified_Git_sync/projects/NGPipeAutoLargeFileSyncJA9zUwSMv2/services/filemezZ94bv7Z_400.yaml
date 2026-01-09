@@ -1,0 +1,8 @@
+service:
+  name: serviceHMsMsrxPkn
+  identifier: serviceHMsMsrxPkn
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

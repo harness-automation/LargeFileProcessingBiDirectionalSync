@@ -1,0 +1,8 @@
+service:
+  name: serviceOZ17VovI7M
+  identifier: serviceOZ17VovI7M
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

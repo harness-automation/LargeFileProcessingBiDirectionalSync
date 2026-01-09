@@ -1,0 +1,8 @@
+service:
+  name: serviceipNUJZ7OMf
+  identifier: serviceipNUJZ7OMf
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

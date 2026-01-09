@@ -1,0 +1,8 @@
+service:
+  name: servicebajVyxczuG
+  identifier: servicebajVyxczuG
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

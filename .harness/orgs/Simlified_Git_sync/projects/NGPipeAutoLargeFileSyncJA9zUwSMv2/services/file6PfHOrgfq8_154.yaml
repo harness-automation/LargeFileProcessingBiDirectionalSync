@@ -1,0 +1,8 @@
+service:
+  name: serviceERxZAzc8io
+  identifier: serviceERxZAzc8io
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

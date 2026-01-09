@@ -1,0 +1,8 @@
+service:
+  name: serviceijL96bHOZL
+  identifier: serviceijL96bHOZL
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

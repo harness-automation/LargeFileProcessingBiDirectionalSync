@@ -1,0 +1,8 @@
+service:
+  name: serviceDW2PiSxisa
+  identifier: serviceDW2PiSxisa
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

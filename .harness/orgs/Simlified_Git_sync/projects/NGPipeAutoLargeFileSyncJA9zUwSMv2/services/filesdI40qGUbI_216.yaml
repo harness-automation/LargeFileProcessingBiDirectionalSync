@@ -1,0 +1,8 @@
+service:
+  name: serviceaLBT7cCuMP
+  identifier: serviceaLBT7cCuMP
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

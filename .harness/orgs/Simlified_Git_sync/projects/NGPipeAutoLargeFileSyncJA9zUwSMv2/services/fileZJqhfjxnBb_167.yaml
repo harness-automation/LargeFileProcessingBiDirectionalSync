@@ -1,0 +1,8 @@
+service:
+  name: serviceFPtF1Vp3L0
+  identifier: serviceFPtF1Vp3L0
+  projectIdentifier: NGPipeAutoLargeFileSyncJA9zUwSMv2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
