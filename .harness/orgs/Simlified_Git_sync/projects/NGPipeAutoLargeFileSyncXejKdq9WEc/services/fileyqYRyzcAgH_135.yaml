@@ -1,0 +1,8 @@
+service:
+  name: servicel033vmoPEw
+  identifier: servicel033vmoPEw
+  projectIdentifier: NGPipeAutoLargeFileSyncXejKdq9WEc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

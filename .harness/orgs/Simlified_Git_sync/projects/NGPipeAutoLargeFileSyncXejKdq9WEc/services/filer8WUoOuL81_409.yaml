@@ -1,0 +1,8 @@
+service:
+  name: servicev16rhKpMUL
+  identifier: servicev16rhKpMUL
+  projectIdentifier: NGPipeAutoLargeFileSyncXejKdq9WEc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

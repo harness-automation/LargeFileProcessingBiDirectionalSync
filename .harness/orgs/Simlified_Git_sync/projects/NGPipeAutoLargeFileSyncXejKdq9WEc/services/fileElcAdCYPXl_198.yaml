@@ -1,0 +1,8 @@
+service:
+  name: serviceVmUTa6fm50
+  identifier: serviceVmUTa6fm50
+  projectIdentifier: NGPipeAutoLargeFileSyncXejKdq9WEc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

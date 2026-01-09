@@ -1,0 +1,8 @@
+service:
+  name: servicemvIP4wDtlI
+  identifier: servicemvIP4wDtlI
+  projectIdentifier: NGPipeAutoLargeFileSyncXejKdq9WEc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

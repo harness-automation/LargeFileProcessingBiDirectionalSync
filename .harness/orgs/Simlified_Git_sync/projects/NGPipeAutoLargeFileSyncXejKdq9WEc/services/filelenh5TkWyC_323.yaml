@@ -1,0 +1,8 @@
+service:
+  name: serviceTaF2F39QTl
+  identifier: serviceTaF2F39QTl
+  projectIdentifier: NGPipeAutoLargeFileSyncXejKdq9WEc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

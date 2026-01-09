@@ -1,0 +1,8 @@
+service:
+  name: serviceYtusIsFGQm
+  identifier: serviceYtusIsFGQm
+  projectIdentifier: NGPipeAutoLargeFileSyncXejKdq9WEc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

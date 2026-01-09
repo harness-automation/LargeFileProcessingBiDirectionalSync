@@ -1,0 +1,8 @@
+service:
+  name: serviceoLXAD9eCVE
+  identifier: serviceoLXAD9eCVE
+  projectIdentifier: NGPipeAutoLargeFileSyncXejKdq9WEc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceQ863opYvpa
+  identifier: serviceQ863opYvpa
+  projectIdentifier: NGPipeAutoLargeFileSyncXejKdq9WEc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

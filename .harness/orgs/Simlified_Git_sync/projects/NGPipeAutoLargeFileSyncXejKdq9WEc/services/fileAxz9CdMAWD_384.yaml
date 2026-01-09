@@ -1,0 +1,8 @@
+service:
+  name: servicebav8rupdu3
+  identifier: servicebav8rupdu3
+  projectIdentifier: NGPipeAutoLargeFileSyncXejKdq9WEc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

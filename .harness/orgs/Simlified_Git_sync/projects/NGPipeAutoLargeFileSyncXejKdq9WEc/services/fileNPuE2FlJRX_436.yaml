@@ -1,0 +1,8 @@
+service:
+  name: servicePtHO1rVe2v
+  identifier: servicePtHO1rVe2v
+  projectIdentifier: NGPipeAutoLargeFileSyncXejKdq9WEc
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
