@@ -1,0 +1,8 @@
+service:
+  name: service2DoS0Tv4cp
+  identifier: service2DoS0Tv4cp
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceyb2gpsOxIZ
+  identifier: serviceyb2gpsOxIZ
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicerAdtkLyG7C
+  identifier: servicerAdtkLyG7C
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

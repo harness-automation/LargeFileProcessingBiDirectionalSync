@@ -1,0 +1,8 @@
+service:
+  name: servicennplCes140
+  identifier: servicennplCes140
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

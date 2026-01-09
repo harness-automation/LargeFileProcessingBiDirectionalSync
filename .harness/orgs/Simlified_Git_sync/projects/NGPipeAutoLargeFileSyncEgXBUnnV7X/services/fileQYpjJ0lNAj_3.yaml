@@ -1,0 +1,8 @@
+service:
+  name: serviceZRVEPAsN8x
+  identifier: serviceZRVEPAsN8x
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

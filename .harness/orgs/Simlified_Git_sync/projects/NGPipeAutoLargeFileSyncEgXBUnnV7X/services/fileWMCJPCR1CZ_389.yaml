@@ -1,0 +1,8 @@
+service:
+  name: servicevR1CMC2stk
+  identifier: servicevR1CMC2stk
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

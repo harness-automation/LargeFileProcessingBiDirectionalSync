@@ -1,0 +1,8 @@
+service:
+  name: serviceht3CUtw2a4
+  identifier: serviceht3CUtw2a4
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

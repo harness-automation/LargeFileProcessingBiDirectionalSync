@@ -1,0 +1,8 @@
+service:
+  name: serviceKKU23c1FQp
+  identifier: serviceKKU23c1FQp
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

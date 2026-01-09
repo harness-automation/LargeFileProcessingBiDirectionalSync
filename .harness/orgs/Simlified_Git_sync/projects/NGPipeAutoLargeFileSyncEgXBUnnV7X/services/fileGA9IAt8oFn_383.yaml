@@ -1,0 +1,8 @@
+service:
+  name: serviceRbm44ykVeW
+  identifier: serviceRbm44ykVeW
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

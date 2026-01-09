@@ -1,0 +1,8 @@
+service:
+  name: serviceCzbauDdLJ5
+  identifier: serviceCzbauDdLJ5
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicerQSqd4Elwm
+  identifier: servicerQSqd4Elwm
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

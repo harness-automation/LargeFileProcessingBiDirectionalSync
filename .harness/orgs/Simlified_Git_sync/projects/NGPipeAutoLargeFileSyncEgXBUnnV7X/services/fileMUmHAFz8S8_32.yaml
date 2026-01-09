@@ -1,0 +1,8 @@
+service:
+  name: serviceMdmuNZd7Mr
+  identifier: serviceMdmuNZd7Mr
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

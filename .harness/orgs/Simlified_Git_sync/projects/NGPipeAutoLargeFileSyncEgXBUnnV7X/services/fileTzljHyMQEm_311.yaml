@@ -1,0 +1,8 @@
+service:
+  name: serviceaPfMp76C1R
+  identifier: serviceaPfMp76C1R
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

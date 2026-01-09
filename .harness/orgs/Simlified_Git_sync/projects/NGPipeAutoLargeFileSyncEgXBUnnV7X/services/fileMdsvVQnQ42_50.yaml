@@ -1,0 +1,8 @@
+service:
+  name: servicets2YWs3DMB
+  identifier: servicets2YWs3DMB
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

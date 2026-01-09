@@ -1,0 +1,8 @@
+service:
+  name: serviceViOCCyS7te
+  identifier: serviceViOCCyS7te
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

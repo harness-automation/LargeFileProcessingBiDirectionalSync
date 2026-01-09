@@ -1,0 +1,8 @@
+service:
+  name: serviceEn2Fbi7LIr
+  identifier: serviceEn2Fbi7LIr
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

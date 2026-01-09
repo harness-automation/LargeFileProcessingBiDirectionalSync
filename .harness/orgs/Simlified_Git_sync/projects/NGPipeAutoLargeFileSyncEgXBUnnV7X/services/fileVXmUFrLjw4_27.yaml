@@ -1,0 +1,8 @@
+service:
+  name: serviceEjea7UP2Cr
+  identifier: serviceEjea7UP2Cr
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

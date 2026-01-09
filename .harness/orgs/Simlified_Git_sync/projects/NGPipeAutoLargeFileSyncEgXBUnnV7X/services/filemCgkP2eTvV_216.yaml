@@ -1,0 +1,8 @@
+service:
+  name: serviceWDegcYd2W2
+  identifier: serviceWDegcYd2W2
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

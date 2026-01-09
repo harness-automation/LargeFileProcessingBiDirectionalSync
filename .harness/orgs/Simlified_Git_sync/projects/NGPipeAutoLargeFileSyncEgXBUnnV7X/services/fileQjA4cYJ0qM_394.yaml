@@ -1,0 +1,8 @@
+service:
+  name: servicejQJobWnK9B
+  identifier: servicejQJobWnK9B
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

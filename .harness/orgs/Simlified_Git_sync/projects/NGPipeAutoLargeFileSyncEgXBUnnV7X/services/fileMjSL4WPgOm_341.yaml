@@ -1,0 +1,8 @@
+service:
+  name: servicer77Rwff0m2
+  identifier: servicer77Rwff0m2
+  projectIdentifier: NGPipeAutoLargeFileSyncEgXBUnnV7X
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
