@@ -1,0 +1,8 @@
+service:
+  name: serviceUBIYM4YT20
+  identifier: serviceUBIYM4YT20
+  projectIdentifier: NGPipeAutoLargeFileSyncZ7acMr4G4I
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

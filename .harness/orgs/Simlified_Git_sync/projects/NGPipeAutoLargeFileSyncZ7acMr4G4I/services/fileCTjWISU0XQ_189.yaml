@@ -1,0 +1,8 @@
+service:
+  name: service8EdN14WPeT
+  identifier: service8EdN14WPeT
+  projectIdentifier: NGPipeAutoLargeFileSyncZ7acMr4G4I
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
