@@ -1,0 +1,8 @@
+service:
+  name: serviceJARKB3Lrjn
+  identifier: serviceJARKB3Lrjn
+  projectIdentifier: NGPipeAutoLargeFileSynchwFLtn0w9H
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

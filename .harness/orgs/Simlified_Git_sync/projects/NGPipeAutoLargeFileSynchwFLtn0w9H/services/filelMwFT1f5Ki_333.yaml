@@ -1,0 +1,8 @@
+service:
+  name: serviceM30V55nbKc
+  identifier: serviceM30V55nbKc
+  projectIdentifier: NGPipeAutoLargeFileSynchwFLtn0w9H
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

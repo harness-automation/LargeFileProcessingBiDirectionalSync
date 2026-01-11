@@ -1,0 +1,8 @@
+service:
+  name: servicerTw18Xcvdm
+  identifier: servicerTw18Xcvdm
+  projectIdentifier: NGPipeAutoLargeFileSynchwFLtn0w9H
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

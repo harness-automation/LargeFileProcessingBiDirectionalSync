@@ -1,0 +1,8 @@
+service:
+  name: servicekiAdh2repq
+  identifier: servicekiAdh2repq
+  projectIdentifier: NGPipeAutoLargeFileSynchwFLtn0w9H
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

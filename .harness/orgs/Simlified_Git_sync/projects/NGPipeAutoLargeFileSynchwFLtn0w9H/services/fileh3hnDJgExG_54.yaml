@@ -1,0 +1,8 @@
+service:
+  name: serviceBIJOI1qy2a
+  identifier: serviceBIJOI1qy2a
+  projectIdentifier: NGPipeAutoLargeFileSynchwFLtn0w9H
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicemw0BDMLEps
+  identifier: servicemw0BDMLEps
+  projectIdentifier: NGPipeAutoLargeFileSynchwFLtn0w9H
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

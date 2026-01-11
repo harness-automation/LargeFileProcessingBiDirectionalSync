@@ -1,0 +1,8 @@
+service:
+  name: serviceboez9OAP9M
+  identifier: serviceboez9OAP9M
+  projectIdentifier: NGPipeAutoLargeFileSynchwFLtn0w9H
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

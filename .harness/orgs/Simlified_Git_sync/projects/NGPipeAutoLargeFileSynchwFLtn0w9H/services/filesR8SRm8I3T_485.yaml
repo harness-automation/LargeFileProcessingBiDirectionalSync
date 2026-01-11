@@ -1,0 +1,8 @@
+service:
+  name: serviced20LiBOHO6
+  identifier: serviced20LiBOHO6
+  projectIdentifier: NGPipeAutoLargeFileSynchwFLtn0w9H
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

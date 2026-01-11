@@ -1,0 +1,8 @@
+service:
+  name: serviceGTcNY1sf7Z
+  identifier: serviceGTcNY1sf7Z
+  projectIdentifier: NGPipeAutoLargeFileSynchwFLtn0w9H
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

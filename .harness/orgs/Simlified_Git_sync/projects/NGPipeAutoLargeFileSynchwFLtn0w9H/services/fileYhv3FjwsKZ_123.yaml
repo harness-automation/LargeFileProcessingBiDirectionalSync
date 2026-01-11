@@ -1,0 +1,8 @@
+service:
+  name: serviceTXO1iPX7r2
+  identifier: serviceTXO1iPX7r2
+  projectIdentifier: NGPipeAutoLargeFileSynchwFLtn0w9H
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
