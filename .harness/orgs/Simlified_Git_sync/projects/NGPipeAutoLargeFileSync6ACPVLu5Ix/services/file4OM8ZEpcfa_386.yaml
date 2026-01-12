@@ -1,0 +1,8 @@
+service:
+  name: serviceri1xOSVVh9
+  identifier: serviceri1xOSVVh9
+  projectIdentifier: NGPipeAutoLargeFileSync6ACPVLu5Ix
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service76AVCfBdoF
+  identifier: service76AVCfBdoF
+  projectIdentifier: NGPipeAutoLargeFileSync6ACPVLu5Ix
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

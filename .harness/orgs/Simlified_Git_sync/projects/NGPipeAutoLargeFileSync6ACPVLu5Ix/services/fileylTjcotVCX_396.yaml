@@ -1,0 +1,8 @@
+service:
+  name: servicef2lPtvoIfx
+  identifier: servicef2lPtvoIfx
+  projectIdentifier: NGPipeAutoLargeFileSync6ACPVLu5Ix
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

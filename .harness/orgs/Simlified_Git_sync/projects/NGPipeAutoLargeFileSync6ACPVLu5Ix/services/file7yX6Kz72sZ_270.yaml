@@ -1,0 +1,8 @@
+service:
+  name: serviceWtPJH8foul
+  identifier: serviceWtPJH8foul
+  projectIdentifier: NGPipeAutoLargeFileSync6ACPVLu5Ix
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
