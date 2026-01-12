@@ -1,0 +1,8 @@
+service:
+  name: servicemaSUDA9FW8
+  identifier: servicemaSUDA9FW8
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

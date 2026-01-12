@@ -1,0 +1,8 @@
+service:
+  name: serviceDIxCSU2oRu
+  identifier: serviceDIxCSU2oRu
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

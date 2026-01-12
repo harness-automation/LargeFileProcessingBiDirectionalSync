@@ -1,0 +1,8 @@
+service:
+  name: serviceibjWlLjf51
+  identifier: serviceibjWlLjf51
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

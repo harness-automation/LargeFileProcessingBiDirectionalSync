@@ -1,0 +1,8 @@
+service:
+  name: serviceva1Woil0bt
+  identifier: serviceva1Woil0bt
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

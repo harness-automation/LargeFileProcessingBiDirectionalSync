@@ -1,0 +1,8 @@
+service:
+  name: servicemybpNA1tID
+  identifier: servicemybpNA1tID
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

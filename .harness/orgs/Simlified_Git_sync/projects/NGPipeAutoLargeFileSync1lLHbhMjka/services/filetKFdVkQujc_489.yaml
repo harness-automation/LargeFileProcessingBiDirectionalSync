@@ -1,0 +1,8 @@
+service:
+  name: servicepc1i33AMQE
+  identifier: servicepc1i33AMQE
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

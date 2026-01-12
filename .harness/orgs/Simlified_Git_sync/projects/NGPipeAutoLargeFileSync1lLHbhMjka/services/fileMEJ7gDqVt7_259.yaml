@@ -1,0 +1,8 @@
+service:
+  name: servicev40PloHL4w
+  identifier: servicev40PloHL4w
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicewILM76o7HD
+  identifier: servicewILM76o7HD
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicednRejmS72D
+  identifier: servicednRejmS72D
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

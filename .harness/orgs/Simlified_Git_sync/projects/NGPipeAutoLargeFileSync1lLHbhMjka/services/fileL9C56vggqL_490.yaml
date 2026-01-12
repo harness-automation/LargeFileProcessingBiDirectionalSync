@@ -1,0 +1,8 @@
+service:
+  name: servicer22vk5ogmm
+  identifier: servicer22vk5ogmm
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

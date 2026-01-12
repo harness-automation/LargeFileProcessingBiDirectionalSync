@@ -1,0 +1,8 @@
+service:
+  name: serviceDoRcaV2VMP
+  identifier: serviceDoRcaV2VMP
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

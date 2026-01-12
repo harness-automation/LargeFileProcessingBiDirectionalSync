@@ -1,0 +1,8 @@
+service:
+  name: serviceCZbtdU3SMP
+  identifier: serviceCZbtdU3SMP
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

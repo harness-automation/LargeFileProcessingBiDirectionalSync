@@ -1,0 +1,8 @@
+service:
+  name: servicebPHPy6SpKV
+  identifier: servicebPHPy6SpKV
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

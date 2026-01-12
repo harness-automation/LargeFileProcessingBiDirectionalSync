@@ -1,0 +1,8 @@
+service:
+  name: serviceh2nduzeTez
+  identifier: serviceh2nduzeTez
+  projectIdentifier: NGPipeAutoLargeFileSync1lLHbhMjka
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
