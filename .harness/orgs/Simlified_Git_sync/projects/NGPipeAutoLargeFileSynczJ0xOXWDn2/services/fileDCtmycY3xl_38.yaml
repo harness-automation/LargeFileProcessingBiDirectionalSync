@@ -1,0 +1,8 @@
+service:
+  name: serviceGPR5Hm19kp
+  identifier: serviceGPR5Hm19kp
+  projectIdentifier: NGPipeAutoLargeFileSynczJ0xOXWDn2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

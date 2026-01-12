@@ -1,0 +1,8 @@
+service:
+  name: serviceK8DXTOrVLa
+  identifier: serviceK8DXTOrVLa
+  projectIdentifier: NGPipeAutoLargeFileSynczJ0xOXWDn2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

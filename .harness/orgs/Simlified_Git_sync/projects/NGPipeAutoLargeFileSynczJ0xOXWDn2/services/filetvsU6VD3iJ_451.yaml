@@ -1,0 +1,8 @@
+service:
+  name: servicegpScB720ZZ
+  identifier: servicegpScB720ZZ
+  projectIdentifier: NGPipeAutoLargeFileSynczJ0xOXWDn2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

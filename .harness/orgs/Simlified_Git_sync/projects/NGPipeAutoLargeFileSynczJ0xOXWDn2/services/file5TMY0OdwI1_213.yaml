@@ -1,0 +1,8 @@
+service:
+  name: serviceomd3gpEV84
+  identifier: serviceomd3gpEV84
+  projectIdentifier: NGPipeAutoLargeFileSynczJ0xOXWDn2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

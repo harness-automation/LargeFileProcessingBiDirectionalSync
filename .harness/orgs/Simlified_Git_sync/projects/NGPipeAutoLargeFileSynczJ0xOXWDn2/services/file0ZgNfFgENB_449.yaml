@@ -1,0 +1,8 @@
+service:
+  name: serviceBrEgiaCqjS
+  identifier: serviceBrEgiaCqjS
+  projectIdentifier: NGPipeAutoLargeFileSynczJ0xOXWDn2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

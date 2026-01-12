@@ -1,0 +1,8 @@
+service:
+  name: servicerMgFo1eRV3
+  identifier: servicerMgFo1eRV3
+  projectIdentifier: NGPipeAutoLargeFileSynczJ0xOXWDn2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
