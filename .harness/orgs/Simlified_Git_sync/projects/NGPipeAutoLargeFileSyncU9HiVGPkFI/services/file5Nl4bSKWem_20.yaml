@@ -1,0 +1,8 @@
+service:
+  name: serviceJ5te4TTIX2
+  identifier: serviceJ5te4TTIX2
+  projectIdentifier: NGPipeAutoLargeFileSyncU9HiVGPkFI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

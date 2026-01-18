@@ -1,0 +1,8 @@
+service:
+  name: serviceVtA58A9Arm
+  identifier: serviceVtA58A9Arm
+  projectIdentifier: NGPipeAutoLargeFileSyncU9HiVGPkFI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

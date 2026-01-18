@@ -1,0 +1,8 @@
+service:
+  name: servicevp22Dow6TC
+  identifier: servicevp22Dow6TC
+  projectIdentifier: NGPipeAutoLargeFileSyncU9HiVGPkFI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
