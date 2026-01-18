@@ -1,0 +1,8 @@
+service:
+  name: serviceaRuzm545d6
+  identifier: serviceaRuzm545d6
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

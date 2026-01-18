@@ -1,0 +1,8 @@
+service:
+  name: serviceT93CZBea5u
+  identifier: serviceT93CZBea5u
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceeNiqr2esjn
+  identifier: serviceeNiqr2esjn
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

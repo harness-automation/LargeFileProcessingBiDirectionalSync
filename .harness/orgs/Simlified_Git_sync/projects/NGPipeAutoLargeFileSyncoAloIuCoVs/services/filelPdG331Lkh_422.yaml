@@ -1,0 +1,8 @@
+service:
+  name: serviceXapIETAhg8
+  identifier: serviceXapIETAhg8
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

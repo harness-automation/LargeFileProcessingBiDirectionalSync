@@ -1,0 +1,8 @@
+service:
+  name: servicePunKoP3BPi
+  identifier: servicePunKoP3BPi
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceiCU2zxMsHC
+  identifier: serviceiCU2zxMsHC
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

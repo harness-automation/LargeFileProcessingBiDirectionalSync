@@ -1,0 +1,8 @@
+service:
+  name: serviceZm4sFENq2D
+  identifier: serviceZm4sFENq2D
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

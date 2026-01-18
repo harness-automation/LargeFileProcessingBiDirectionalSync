@@ -1,0 +1,8 @@
+service:
+  name: serviceHPZ3SJTurA
+  identifier: serviceHPZ3SJTurA
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

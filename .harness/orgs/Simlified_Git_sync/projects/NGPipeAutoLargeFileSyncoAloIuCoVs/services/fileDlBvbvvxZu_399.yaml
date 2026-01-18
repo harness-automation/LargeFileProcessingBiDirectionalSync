@@ -1,0 +1,8 @@
+service:
+  name: servicePGv72cSLmW
+  identifier: servicePGv72cSLmW
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

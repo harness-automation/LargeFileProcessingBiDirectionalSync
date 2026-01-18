@@ -1,0 +1,8 @@
+service:
+  name: servicexfsfE37bp2
+  identifier: servicexfsfE37bp2
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

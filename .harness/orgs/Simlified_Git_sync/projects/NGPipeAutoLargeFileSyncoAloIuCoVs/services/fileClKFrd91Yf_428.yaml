@@ -1,0 +1,8 @@
+service:
+  name: serviceTF6lvecSPa
+  identifier: serviceTF6lvecSPa
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicef1Vlsb68QE
+  identifier: servicef1Vlsb68QE
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceLG4AOC4ria
+  identifier: serviceLG4AOC4ria
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

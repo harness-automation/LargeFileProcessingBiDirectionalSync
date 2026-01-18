@@ -1,0 +1,8 @@
+service:
+  name: serviceXQgosPrxBV
+  identifier: serviceXQgosPrxBV
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

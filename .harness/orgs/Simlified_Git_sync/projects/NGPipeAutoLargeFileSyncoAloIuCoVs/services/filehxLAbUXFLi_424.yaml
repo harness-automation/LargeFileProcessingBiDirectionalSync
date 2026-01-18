@@ -1,0 +1,8 @@
+service:
+  name: serviceTK4zCALI4C
+  identifier: serviceTK4zCALI4C
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

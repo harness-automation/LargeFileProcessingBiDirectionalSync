@@ -1,0 +1,8 @@
+service:
+  name: servicen8CH85iiwE
+  identifier: servicen8CH85iiwE
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

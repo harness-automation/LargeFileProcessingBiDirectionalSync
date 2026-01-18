@@ -1,0 +1,8 @@
+service:
+  name: service4nDIWpIaQb
+  identifier: service4nDIWpIaQb
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

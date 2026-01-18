@@ -1,0 +1,8 @@
+service:
+  name: serviceCBfNBT87kE
+  identifier: serviceCBfNBT87kE
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

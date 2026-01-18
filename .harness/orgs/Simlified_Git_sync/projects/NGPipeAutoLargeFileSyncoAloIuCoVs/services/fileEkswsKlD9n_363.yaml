@@ -1,0 +1,8 @@
+service:
+  name: serviceWTeXaeLeum
+  identifier: serviceWTeXaeLeum
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

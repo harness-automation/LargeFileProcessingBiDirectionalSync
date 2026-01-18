@@ -1,0 +1,8 @@
+service:
+  name: serviceI6s1rmQLLM
+  identifier: serviceI6s1rmQLLM
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

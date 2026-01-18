@@ -1,0 +1,8 @@
+service:
+  name: servicekivtLNWix7
+  identifier: servicekivtLNWix7
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

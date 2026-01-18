@@ -1,0 +1,8 @@
+service:
+  name: serviceeUnyfT5944
+  identifier: serviceeUnyfT5944
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

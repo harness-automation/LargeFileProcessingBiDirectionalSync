@@ -1,0 +1,8 @@
+service:
+  name: serviceVopc8PEX0A
+  identifier: serviceVopc8PEX0A
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

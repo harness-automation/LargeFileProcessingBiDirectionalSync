@@ -1,0 +1,8 @@
+service:
+  name: serviceFNgSPy96Pe
+  identifier: serviceFNgSPy96Pe
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

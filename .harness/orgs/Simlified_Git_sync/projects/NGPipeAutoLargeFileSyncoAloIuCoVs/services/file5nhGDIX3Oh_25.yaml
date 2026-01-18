@@ -1,0 +1,8 @@
+service:
+  name: serviceBkoloYi9qv
+  identifier: serviceBkoloYi9qv
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

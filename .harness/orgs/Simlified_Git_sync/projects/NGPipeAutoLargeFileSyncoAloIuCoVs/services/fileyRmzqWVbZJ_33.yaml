@@ -1,0 +1,8 @@
+service:
+  name: serviceRgLA7XECsS
+  identifier: serviceRgLA7XECsS
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

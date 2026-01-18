@@ -1,0 +1,8 @@
+service:
+  name: serviceMM6dFC2awD
+  identifier: serviceMM6dFC2awD
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

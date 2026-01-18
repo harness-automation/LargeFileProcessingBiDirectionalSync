@@ -1,0 +1,8 @@
+service:
+  name: servicebvCAA1T4ad
+  identifier: servicebvCAA1T4ad
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

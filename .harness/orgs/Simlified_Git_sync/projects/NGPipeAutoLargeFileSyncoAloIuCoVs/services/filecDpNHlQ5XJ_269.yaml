@@ -1,0 +1,8 @@
+service:
+  name: serviceJop7DYWH1p
+  identifier: serviceJop7DYWH1p
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

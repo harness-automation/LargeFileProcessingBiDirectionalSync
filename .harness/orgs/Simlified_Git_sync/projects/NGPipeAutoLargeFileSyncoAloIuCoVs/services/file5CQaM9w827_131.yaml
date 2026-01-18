@@ -1,0 +1,8 @@
+service:
+  name: servicegarJLL9kBi
+  identifier: servicegarJLL9kBi
+  projectIdentifier: NGPipeAutoLargeFileSyncoAloIuCoVs
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
