@@ -1,0 +1,8 @@
+service:
+  name: serviceptsEWIhr2k
+  identifier: serviceptsEWIhr2k
+  projectIdentifier: NGPipeAutoLargeFileSynckkA3ZDaHum
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

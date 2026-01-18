@@ -1,0 +1,8 @@
+service:
+  name: serviceOdD64SFAM3
+  identifier: serviceOdD64SFAM3
+  projectIdentifier: NGPipeAutoLargeFileSynckkA3ZDaHum
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

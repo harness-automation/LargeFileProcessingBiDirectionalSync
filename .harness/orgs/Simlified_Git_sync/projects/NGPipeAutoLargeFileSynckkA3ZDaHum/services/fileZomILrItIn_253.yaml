@@ -1,0 +1,8 @@
+service:
+  name: servicecekbt44PoO
+  identifier: servicecekbt44PoO
+  projectIdentifier: NGPipeAutoLargeFileSynckkA3ZDaHum
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

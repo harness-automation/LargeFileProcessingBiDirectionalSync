@@ -1,0 +1,8 @@
+service:
+  name: serviceNY91ZoWcLO
+  identifier: serviceNY91ZoWcLO
+  projectIdentifier: NGPipeAutoLargeFileSynckkA3ZDaHum
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

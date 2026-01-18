@@ -1,0 +1,8 @@
+service:
+  name: servicelJmm19vLRs
+  identifier: servicelJmm19vLRs
+  projectIdentifier: NGPipeAutoLargeFileSynckkA3ZDaHum
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

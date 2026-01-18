@@ -1,0 +1,8 @@
+service:
+  name: servicevpuMXYJ8LB
+  identifier: servicevpuMXYJ8LB
+  projectIdentifier: NGPipeAutoLargeFileSynckkA3ZDaHum
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

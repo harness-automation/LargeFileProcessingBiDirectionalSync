@@ -1,0 +1,8 @@
+service:
+  name: serviceDr2ziv40on
+  identifier: serviceDr2ziv40on
+  projectIdentifier: NGPipeAutoLargeFileSynckkA3ZDaHum
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

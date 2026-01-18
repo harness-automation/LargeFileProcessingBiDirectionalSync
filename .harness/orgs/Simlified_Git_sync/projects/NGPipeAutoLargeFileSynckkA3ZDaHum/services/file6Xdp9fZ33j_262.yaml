@@ -1,0 +1,8 @@
+service:
+  name: serviceZEWKciW65M
+  identifier: serviceZEWKciW65M
+  projectIdentifier: NGPipeAutoLargeFileSynckkA3ZDaHum
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

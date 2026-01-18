@@ -1,0 +1,8 @@
+service:
+  name: serviceRz661nmeYO
+  identifier: serviceRz661nmeYO
+  projectIdentifier: NGPipeAutoLargeFileSynckkA3ZDaHum
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

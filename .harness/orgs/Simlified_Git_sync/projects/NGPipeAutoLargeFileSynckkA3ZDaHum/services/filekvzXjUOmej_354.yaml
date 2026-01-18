@@ -1,0 +1,8 @@
+service:
+  name: serviceuiWlpd81lW
+  identifier: serviceuiWlpd81lW
+  projectIdentifier: NGPipeAutoLargeFileSynckkA3ZDaHum
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

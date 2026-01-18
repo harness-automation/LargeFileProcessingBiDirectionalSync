@@ -1,0 +1,8 @@
+service:
+  name: serviceE10Aalmyrq
+  identifier: serviceE10Aalmyrq
+  projectIdentifier: NGPipeAutoLargeFileSynckkA3ZDaHum
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

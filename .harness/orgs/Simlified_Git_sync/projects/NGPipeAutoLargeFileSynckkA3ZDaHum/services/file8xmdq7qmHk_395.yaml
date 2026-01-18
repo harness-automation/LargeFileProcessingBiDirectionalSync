@@ -1,0 +1,8 @@
+service:
+  name: serviceBORZHki4PI
+  identifier: serviceBORZHki4PI
+  projectIdentifier: NGPipeAutoLargeFileSynckkA3ZDaHum
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
