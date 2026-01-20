@@ -1,0 +1,8 @@
+service:
+  name: servicerUAel8fnNv
+  identifier: servicerUAel8fnNv
+  projectIdentifier: NGPipeAutoLargeFileSyncGs3XHg5EwC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

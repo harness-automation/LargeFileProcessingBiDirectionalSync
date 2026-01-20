@@ -1,0 +1,8 @@
+service:
+  name: servicepeq8R63mcp
+  identifier: servicepeq8R63mcp
+  projectIdentifier: NGPipeAutoLargeFileSyncGs3XHg5EwC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

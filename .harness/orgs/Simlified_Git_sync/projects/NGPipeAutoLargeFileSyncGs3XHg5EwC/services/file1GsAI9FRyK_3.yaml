@@ -1,0 +1,8 @@
+service:
+  name: serviceRvA3kolwZU
+  identifier: serviceRvA3kolwZU
+  projectIdentifier: NGPipeAutoLargeFileSyncGs3XHg5EwC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

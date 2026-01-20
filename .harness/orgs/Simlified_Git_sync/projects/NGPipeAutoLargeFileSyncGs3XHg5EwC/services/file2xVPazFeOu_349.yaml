@@ -1,0 +1,8 @@
+service:
+  name: serviceNEp2TWmEpS
+  identifier: serviceNEp2TWmEpS
+  projectIdentifier: NGPipeAutoLargeFileSyncGs3XHg5EwC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceJPrP100ZdK
+  identifier: serviceJPrP100ZdK
+  projectIdentifier: NGPipeAutoLargeFileSyncGs3XHg5EwC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

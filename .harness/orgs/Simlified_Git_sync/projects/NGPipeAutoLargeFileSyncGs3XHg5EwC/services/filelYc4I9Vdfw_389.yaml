@@ -1,0 +1,8 @@
+service:
+  name: serviceSYZAMuEr2S
+  identifier: serviceSYZAMuEr2S
+  projectIdentifier: NGPipeAutoLargeFileSyncGs3XHg5EwC
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
