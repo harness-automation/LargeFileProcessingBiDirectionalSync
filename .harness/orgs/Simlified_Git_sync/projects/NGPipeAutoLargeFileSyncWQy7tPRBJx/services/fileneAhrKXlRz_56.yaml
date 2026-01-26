@@ -1,0 +1,8 @@
+service:
+  name: servicegudnOS1OG6
+  identifier: servicegudnOS1OG6
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

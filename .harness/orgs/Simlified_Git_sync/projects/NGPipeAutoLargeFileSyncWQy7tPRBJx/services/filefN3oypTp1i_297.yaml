@@ -1,0 +1,8 @@
+service:
+  name: servicebaHAT6dObr
+  identifier: servicebaHAT6dObr
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceSeAlOV6bod
+  identifier: serviceSeAlOV6bod
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

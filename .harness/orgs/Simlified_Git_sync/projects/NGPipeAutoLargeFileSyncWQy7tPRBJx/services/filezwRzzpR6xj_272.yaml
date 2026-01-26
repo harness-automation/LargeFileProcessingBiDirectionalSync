@@ -1,0 +1,8 @@
+service:
+  name: serviceZO470yZWeR
+  identifier: serviceZO470yZWeR
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

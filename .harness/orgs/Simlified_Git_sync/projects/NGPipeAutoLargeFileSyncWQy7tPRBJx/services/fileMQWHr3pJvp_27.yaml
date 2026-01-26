@@ -1,0 +1,8 @@
+service:
+  name: serviceoAelyO18ZP
+  identifier: serviceoAelyO18ZP
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceEFW5IBRm2C
+  identifier: serviceEFW5IBRm2C
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

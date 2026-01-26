@@ -1,0 +1,8 @@
+service:
+  name: servicerH2GFitALw
+  identifier: servicerH2GFitALw
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

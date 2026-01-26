@@ -1,0 +1,8 @@
+service:
+  name: serviceDauGiw9j5l
+  identifier: serviceDauGiw9j5l
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

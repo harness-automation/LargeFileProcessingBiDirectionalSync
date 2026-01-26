@@ -1,0 +1,8 @@
+service:
+  name: servicecTdIMEDcKl
+  identifier: servicecTdIMEDcKl
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceXis8v0GRD6
+  identifier: serviceXis8v0GRD6
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service3zBFleyFib
+  identifier: service3zBFleyFib
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

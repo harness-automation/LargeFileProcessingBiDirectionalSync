@@ -1,0 +1,8 @@
+service:
+  name: serviceCcgB09EMRW
+  identifier: serviceCcgB09EMRW
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

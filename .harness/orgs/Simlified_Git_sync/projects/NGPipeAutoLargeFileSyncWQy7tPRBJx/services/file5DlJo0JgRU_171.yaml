@@ -1,0 +1,8 @@
+service:
+  name: serviceBNBII44ClA
+  identifier: serviceBNBII44ClA
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

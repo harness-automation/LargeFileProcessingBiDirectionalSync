@@ -1,0 +1,8 @@
+service:
+  name: serviceUpTQ2LLGPg
+  identifier: serviceUpTQ2LLGPg
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

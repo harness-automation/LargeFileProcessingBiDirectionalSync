@@ -1,0 +1,8 @@
+service:
+  name: servicexD2regG3XB
+  identifier: servicexD2regG3XB
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

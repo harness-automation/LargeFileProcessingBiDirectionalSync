@@ -1,0 +1,8 @@
+service:
+  name: serviceQVDe7sDHMq
+  identifier: serviceQVDe7sDHMq
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

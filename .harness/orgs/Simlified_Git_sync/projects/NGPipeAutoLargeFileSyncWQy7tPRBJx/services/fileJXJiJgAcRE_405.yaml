@@ -1,0 +1,8 @@
+service:
+  name: servicezhXNMSor3e
+  identifier: servicezhXNMSor3e
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

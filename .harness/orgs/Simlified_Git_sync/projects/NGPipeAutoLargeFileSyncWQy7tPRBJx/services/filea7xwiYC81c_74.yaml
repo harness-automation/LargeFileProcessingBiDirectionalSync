@@ -1,0 +1,8 @@
+service:
+  name: servicehjSZEIBRM9
+  identifier: servicehjSZEIBRM9
+  projectIdentifier: NGPipeAutoLargeFileSyncWQy7tPRBJx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
