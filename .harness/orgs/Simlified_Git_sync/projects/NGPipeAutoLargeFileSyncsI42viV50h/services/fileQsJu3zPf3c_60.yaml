@@ -1,0 +1,8 @@
+service:
+  name: servicea462z4ItX7
+  identifier: servicea462z4ItX7
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

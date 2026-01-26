@@ -1,0 +1,8 @@
+service:
+  name: serviceLSSJhw5ona
+  identifier: serviceLSSJhw5ona
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

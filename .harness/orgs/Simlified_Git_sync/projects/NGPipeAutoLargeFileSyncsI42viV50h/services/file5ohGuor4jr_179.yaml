@@ -1,0 +1,8 @@
+service:
+  name: servicejWHDM5lLuI
+  identifier: servicejWHDM5lLuI
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

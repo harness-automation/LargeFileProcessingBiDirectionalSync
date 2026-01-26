@@ -1,0 +1,8 @@
+service:
+  name: servicenaqCDO3MUQ
+  identifier: servicenaqCDO3MUQ
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

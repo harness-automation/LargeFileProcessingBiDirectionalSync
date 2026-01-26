@@ -1,0 +1,8 @@
+service:
+  name: serviceVTEVPgx1Eu
+  identifier: serviceVTEVPgx1Eu
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

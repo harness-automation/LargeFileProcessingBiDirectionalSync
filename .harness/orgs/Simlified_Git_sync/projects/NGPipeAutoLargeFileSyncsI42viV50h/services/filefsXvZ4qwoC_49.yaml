@@ -1,0 +1,8 @@
+service:
+  name: service6XMrewMKTt
+  identifier: service6XMrewMKTt
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

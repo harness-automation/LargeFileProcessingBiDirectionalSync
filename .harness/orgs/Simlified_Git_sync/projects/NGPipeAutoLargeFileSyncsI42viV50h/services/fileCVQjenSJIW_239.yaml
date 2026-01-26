@@ -1,0 +1,8 @@
+service:
+  name: serviceOT2IcNi8FW
+  identifier: serviceOT2IcNi8FW
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

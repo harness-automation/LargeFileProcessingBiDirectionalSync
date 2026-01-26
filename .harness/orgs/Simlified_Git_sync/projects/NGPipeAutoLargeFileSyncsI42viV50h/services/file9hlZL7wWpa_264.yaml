@@ -1,0 +1,8 @@
+service:
+  name: servicehksli667rr
+  identifier: servicehksli667rr
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceud2Pm8F475
+  identifier: serviceud2Pm8F475
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

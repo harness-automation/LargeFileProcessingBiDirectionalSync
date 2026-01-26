@@ -1,0 +1,8 @@
+service:
+  name: serviceK353CclrD9
+  identifier: serviceK353CclrD9
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

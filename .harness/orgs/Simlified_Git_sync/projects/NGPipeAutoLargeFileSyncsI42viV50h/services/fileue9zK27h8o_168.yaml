@@ -1,0 +1,8 @@
+service:
+  name: serviceYc2GajEDPb
+  identifier: serviceYc2GajEDPb
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

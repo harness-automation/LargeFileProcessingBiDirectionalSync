@@ -1,0 +1,8 @@
+service:
+  name: servicepfmvigD9cl
+  identifier: servicepfmvigD9cl
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

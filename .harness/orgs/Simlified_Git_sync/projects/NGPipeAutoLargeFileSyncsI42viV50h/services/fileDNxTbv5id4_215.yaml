@@ -1,0 +1,8 @@
+service:
+  name: serviceIg5DgAPTez
+  identifier: serviceIg5DgAPTez
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

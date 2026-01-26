@@ -1,0 +1,8 @@
+service:
+  name: servicetdPFydiG2D
+  identifier: servicetdPFydiG2D
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

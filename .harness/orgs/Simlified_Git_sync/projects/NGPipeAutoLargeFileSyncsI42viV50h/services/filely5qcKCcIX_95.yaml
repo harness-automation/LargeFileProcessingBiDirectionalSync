@@ -1,0 +1,8 @@
+service:
+  name: serviceBLd4yIPmi7
+  identifier: serviceBLd4yIPmi7
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

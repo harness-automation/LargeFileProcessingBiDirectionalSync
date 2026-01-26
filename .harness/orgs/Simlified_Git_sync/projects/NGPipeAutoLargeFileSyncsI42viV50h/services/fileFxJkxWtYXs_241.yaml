@@ -1,0 +1,8 @@
+service:
+  name: serviceF67pj4i7wi
+  identifier: serviceF67pj4i7wi
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service4xDB2UTY47
+  identifier: service4xDB2UTY47
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

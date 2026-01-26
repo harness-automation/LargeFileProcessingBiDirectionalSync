@@ -1,0 +1,8 @@
+service:
+  name: serviceP8TIav2p5b
+  identifier: serviceP8TIav2p5b
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

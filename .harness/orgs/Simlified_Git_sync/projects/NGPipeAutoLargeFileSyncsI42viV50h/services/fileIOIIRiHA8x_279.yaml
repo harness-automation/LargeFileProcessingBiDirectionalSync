@@ -1,0 +1,8 @@
+service:
+  name: servicekM127xK4ah
+  identifier: servicekM127xK4ah
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

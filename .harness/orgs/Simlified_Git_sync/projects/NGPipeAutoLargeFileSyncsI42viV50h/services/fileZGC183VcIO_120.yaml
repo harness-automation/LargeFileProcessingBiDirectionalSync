@@ -1,0 +1,8 @@
+service:
+  name: serviceSCc5PIGCfa
+  identifier: serviceSCc5PIGCfa
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

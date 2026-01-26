@@ -1,0 +1,8 @@
+service:
+  name: serviceMV07PveuC2
+  identifier: serviceMV07PveuC2
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

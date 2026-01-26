@@ -1,0 +1,8 @@
+service:
+  name: servicemc0xRfMmSE
+  identifier: servicemc0xRfMmSE
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

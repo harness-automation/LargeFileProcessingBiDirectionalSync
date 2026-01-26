@@ -1,0 +1,8 @@
+service:
+  name: serviceeVENV2a0IR
+  identifier: serviceeVENV2a0IR
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

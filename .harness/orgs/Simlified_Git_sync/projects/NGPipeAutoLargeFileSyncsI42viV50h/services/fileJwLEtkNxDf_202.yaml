@@ -1,0 +1,8 @@
+service:
+  name: services2okvBsHMN
+  identifier: services2okvBsHMN
+  projectIdentifier: NGPipeAutoLargeFileSyncsI42viV50h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
