@@ -1,0 +1,8 @@
+service:
+  name: servicegoLGh19gOy
+  identifier: servicegoLGh19gOy
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

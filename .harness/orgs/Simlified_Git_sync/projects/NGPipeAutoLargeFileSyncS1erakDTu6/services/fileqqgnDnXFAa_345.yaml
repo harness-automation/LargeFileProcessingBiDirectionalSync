@@ -1,0 +1,8 @@
+service:
+  name: serviceAHmNErC27r
+  identifier: serviceAHmNErC27r
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

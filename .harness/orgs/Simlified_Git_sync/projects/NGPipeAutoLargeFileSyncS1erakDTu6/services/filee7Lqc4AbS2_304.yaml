@@ -1,0 +1,8 @@
+service:
+  name: serviceOflDvtLc2S
+  identifier: serviceOflDvtLc2S
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

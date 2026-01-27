@@ -1,0 +1,8 @@
+service:
+  name: servicesjOb24FHaP
+  identifier: servicesjOb24FHaP
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

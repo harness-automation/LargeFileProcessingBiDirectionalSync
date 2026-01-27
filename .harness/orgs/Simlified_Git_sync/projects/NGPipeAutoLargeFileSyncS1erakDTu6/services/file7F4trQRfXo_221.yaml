@@ -1,0 +1,8 @@
+service:
+  name: servicesElp2dUhMC
+  identifier: servicesElp2dUhMC
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

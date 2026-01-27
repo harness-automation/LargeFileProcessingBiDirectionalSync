@@ -1,0 +1,8 @@
+service:
+  name: serviceJAc3atoT7p
+  identifier: serviceJAc3atoT7p
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

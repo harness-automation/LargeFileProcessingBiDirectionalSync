@@ -1,0 +1,8 @@
+service:
+  name: serviceTAV4goK0zr
+  identifier: serviceTAV4goK0zr
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

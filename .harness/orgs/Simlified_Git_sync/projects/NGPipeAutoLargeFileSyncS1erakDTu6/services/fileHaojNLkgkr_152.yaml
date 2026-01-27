@@ -1,0 +1,8 @@
+service:
+  name: servicewDZS24SWfb
+  identifier: servicewDZS24SWfb
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceqrOP4kiI3T
+  identifier: serviceqrOP4kiI3T
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

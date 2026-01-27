@@ -1,0 +1,8 @@
+service:
+  name: serviceZ39tDvU21W
+  identifier: serviceZ39tDvU21W
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

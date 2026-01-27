@@ -1,0 +1,8 @@
+service:
+  name: serviceBPO14IKod8
+  identifier: serviceBPO14IKod8
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

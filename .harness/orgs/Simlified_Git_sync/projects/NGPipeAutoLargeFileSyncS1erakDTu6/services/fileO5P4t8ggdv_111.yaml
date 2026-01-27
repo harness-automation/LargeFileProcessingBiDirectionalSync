@@ -1,0 +1,8 @@
+service:
+  name: serviceR8OemKei2Q
+  identifier: serviceR8OemKei2Q
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

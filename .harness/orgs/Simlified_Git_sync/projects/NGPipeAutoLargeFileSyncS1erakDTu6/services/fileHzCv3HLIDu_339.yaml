@@ -1,0 +1,8 @@
+service:
+  name: serviceDisKdchZ3f
+  identifier: serviceDisKdchZ3f
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

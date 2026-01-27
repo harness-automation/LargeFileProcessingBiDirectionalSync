@@ -1,0 +1,8 @@
+service:
+  name: servicehunicWjW3x
+  identifier: servicehunicWjW3x
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

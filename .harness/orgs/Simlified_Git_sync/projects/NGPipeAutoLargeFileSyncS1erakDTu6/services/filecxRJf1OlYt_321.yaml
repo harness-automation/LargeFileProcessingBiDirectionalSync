@@ -1,0 +1,8 @@
+service:
+  name: service99JE3VxSAp
+  identifier: service99JE3VxSAp
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

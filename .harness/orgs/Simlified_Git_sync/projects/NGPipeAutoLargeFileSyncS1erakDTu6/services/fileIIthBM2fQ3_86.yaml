@@ -1,0 +1,8 @@
+service:
+  name: service23rpiVEppo
+  identifier: service23rpiVEppo
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceWTZl2DJsQc
+  identifier: serviceWTZl2DJsQc
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

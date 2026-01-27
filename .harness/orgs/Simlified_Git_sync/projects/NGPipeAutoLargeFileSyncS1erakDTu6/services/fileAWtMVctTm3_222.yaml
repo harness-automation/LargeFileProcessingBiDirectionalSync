@@ -1,0 +1,8 @@
+service:
+  name: serviceDPHOm2G2y3
+  identifier: serviceDPHOm2G2y3
+  projectIdentifier: NGPipeAutoLargeFileSyncS1erakDTu6
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
