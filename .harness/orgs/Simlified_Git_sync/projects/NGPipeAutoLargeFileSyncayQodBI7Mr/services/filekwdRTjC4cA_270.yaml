@@ -1,0 +1,8 @@
+service:
+  name: servicebgU1DPMjPu
+  identifier: servicebgU1DPMjPu
+  projectIdentifier: NGPipeAutoLargeFileSyncayQodBI7Mr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

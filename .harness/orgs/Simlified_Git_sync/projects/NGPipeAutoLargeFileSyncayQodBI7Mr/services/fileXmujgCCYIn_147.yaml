@@ -1,0 +1,8 @@
+service:
+  name: servicecx1KTzdAod
+  identifier: servicecx1KTzdAod
+  projectIdentifier: NGPipeAutoLargeFileSyncayQodBI7Mr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

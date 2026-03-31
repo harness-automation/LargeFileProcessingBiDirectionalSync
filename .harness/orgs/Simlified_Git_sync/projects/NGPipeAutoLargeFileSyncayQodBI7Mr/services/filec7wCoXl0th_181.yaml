@@ -1,0 +1,8 @@
+service:
+  name: serviceBATRGS9s5m
+  identifier: serviceBATRGS9s5m
+  projectIdentifier: NGPipeAutoLargeFileSyncayQodBI7Mr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service3fPehskEHR
+  identifier: service3fPehskEHR
+  projectIdentifier: NGPipeAutoLargeFileSyncayQodBI7Mr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceMqEmbR23GK
+  identifier: serviceMqEmbR23GK
+  projectIdentifier: NGPipeAutoLargeFileSyncayQodBI7Mr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

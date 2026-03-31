@@ -1,0 +1,8 @@
+service:
+  name: serviceyw4CesmJFP
+  identifier: serviceyw4CesmJFP
+  projectIdentifier: NGPipeAutoLargeFileSyncayQodBI7Mr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

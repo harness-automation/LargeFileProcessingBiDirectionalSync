@@ -1,0 +1,8 @@
+service:
+  name: serviceg9PiXJSaax
+  identifier: serviceg9PiXJSaax
+  projectIdentifier: NGPipeAutoLargeFileSyncayQodBI7Mr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

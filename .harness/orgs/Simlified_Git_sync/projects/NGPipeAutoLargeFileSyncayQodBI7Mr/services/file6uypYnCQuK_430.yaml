@@ -1,0 +1,8 @@
+service:
+  name: serviceEUc10DLZIW
+  identifier: serviceEUc10DLZIW
+  projectIdentifier: NGPipeAutoLargeFileSyncayQodBI7Mr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFXC95OPwyd
+  identifier: serviceFXC95OPwyd
+  projectIdentifier: NGPipeAutoLargeFileSyncayQodBI7Mr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicemikVRCD8N2
+  identifier: servicemikVRCD8N2
+  projectIdentifier: NGPipeAutoLargeFileSyncayQodBI7Mr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

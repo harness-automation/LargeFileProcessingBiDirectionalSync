@@ -1,0 +1,8 @@
+service:
+  name: serviceJA37laiVtW
+  identifier: serviceJA37laiVtW
+  projectIdentifier: NGPipeAutoLargeFileSyncayQodBI7Mr
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
