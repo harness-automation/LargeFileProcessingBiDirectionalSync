@@ -1,0 +1,8 @@
+service:
+  name: serviceFREU4RilR0
+  identifier: serviceFREU4RilR0
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

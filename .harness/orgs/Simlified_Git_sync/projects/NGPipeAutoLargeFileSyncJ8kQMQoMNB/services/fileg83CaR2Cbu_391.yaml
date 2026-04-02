@@ -1,0 +1,8 @@
+service:
+  name: servicePkOBR4BVKL
+  identifier: servicePkOBR4BVKL
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

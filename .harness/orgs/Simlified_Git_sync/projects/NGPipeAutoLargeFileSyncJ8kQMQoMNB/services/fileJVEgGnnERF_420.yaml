@@ -1,0 +1,8 @@
+service:
+  name: serviceMghgBruXk4
+  identifier: serviceMghgBruXk4
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

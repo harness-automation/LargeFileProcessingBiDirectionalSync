@@ -1,0 +1,8 @@
+service:
+  name: serviceloq3gumg1o
+  identifier: serviceloq3gumg1o
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

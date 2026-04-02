@@ -1,0 +1,8 @@
+service:
+  name: serviceK7MYGDcp4n
+  identifier: serviceK7MYGDcp4n
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

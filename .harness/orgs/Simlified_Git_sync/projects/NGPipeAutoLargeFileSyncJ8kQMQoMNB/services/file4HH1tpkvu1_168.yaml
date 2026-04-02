@@ -1,0 +1,8 @@
+service:
+  name: serviceTcZg90Rhod
+  identifier: serviceTcZg90Rhod
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

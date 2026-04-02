@@ -1,0 +1,8 @@
+service:
+  name: serviceGdiU7U2SP2
+  identifier: serviceGdiU7U2SP2
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

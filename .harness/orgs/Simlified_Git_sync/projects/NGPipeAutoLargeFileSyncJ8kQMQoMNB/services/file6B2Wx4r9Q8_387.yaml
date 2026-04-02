@@ -1,0 +1,8 @@
+service:
+  name: serviceeHL95ii9Pg
+  identifier: serviceeHL95ii9Pg
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

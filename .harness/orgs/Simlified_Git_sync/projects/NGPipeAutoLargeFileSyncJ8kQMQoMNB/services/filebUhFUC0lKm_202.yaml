@@ -1,0 +1,8 @@
+service:
+  name: serviceDx687GtfGm
+  identifier: serviceDx687GtfGm
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

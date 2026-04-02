@@ -1,0 +1,8 @@
+service:
+  name: serviceJxW735s5st
+  identifier: serviceJxW735s5st
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

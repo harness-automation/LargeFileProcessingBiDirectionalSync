@@ -1,0 +1,8 @@
+service:
+  name: serviceFTlsEb2fXl
+  identifier: serviceFTlsEb2fXl
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

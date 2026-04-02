@@ -1,0 +1,8 @@
+service:
+  name: servicekSopric2yb
+  identifier: servicekSopric2yb
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

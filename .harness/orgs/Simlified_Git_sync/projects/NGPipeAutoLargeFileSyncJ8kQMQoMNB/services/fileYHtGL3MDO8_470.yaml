@@ -1,0 +1,8 @@
+service:
+  name: servicegm9ymunptr
+  identifier: servicegm9ymunptr
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

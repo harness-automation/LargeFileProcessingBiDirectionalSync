@@ -1,0 +1,8 @@
+service:
+  name: serviceTTiCs6Cybo
+  identifier: serviceTTiCs6Cybo
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

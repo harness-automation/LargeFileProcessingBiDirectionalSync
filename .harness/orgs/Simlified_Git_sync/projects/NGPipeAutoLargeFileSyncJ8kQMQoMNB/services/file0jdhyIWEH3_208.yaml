@@ -1,0 +1,8 @@
+service:
+  name: servicePRSekFUfmr
+  identifier: servicePRSekFUfmr
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

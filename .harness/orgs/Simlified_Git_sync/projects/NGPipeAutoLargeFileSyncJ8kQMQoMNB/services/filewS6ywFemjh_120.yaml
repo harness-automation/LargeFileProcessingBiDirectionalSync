@@ -1,0 +1,8 @@
+service:
+  name: serviceSfxL1LAYLY
+  identifier: serviceSfxL1LAYLY
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

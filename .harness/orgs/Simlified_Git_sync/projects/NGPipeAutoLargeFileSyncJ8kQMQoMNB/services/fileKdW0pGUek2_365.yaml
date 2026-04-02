@@ -1,0 +1,8 @@
+service:
+  name: service4zhEnveaA9
+  identifier: service4zhEnveaA9
+  projectIdentifier: NGPipeAutoLargeFileSyncJ8kQMQoMNB
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
