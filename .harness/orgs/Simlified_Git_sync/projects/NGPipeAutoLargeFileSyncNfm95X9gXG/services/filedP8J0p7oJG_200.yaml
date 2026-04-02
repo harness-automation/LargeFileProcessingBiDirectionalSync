@@ -1,0 +1,8 @@
+service:
+  name: servicepduKrd7DnS
+  identifier: servicepduKrd7DnS
+  projectIdentifier: NGPipeAutoLargeFileSyncNfm95X9gXG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

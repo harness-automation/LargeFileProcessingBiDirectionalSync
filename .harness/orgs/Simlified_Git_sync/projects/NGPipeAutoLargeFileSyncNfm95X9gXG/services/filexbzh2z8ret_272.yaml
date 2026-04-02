@@ -1,0 +1,8 @@
+service:
+  name: servicePXcL8PenjO
+  identifier: servicePXcL8PenjO
+  projectIdentifier: NGPipeAutoLargeFileSyncNfm95X9gXG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

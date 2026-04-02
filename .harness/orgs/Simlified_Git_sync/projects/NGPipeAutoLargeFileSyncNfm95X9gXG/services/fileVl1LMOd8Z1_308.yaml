@@ -1,0 +1,8 @@
+service:
+  name: serviceKrUTIum7DC
+  identifier: serviceKrUTIum7DC
+  projectIdentifier: NGPipeAutoLargeFileSyncNfm95X9gXG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

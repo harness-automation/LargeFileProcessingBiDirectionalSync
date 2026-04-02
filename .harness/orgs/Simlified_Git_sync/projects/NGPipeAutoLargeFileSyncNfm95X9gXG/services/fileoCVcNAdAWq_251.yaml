@@ -1,0 +1,8 @@
+service:
+  name: servicegiubfaq48g
+  identifier: servicegiubfaq48g
+  projectIdentifier: NGPipeAutoLargeFileSyncNfm95X9gXG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

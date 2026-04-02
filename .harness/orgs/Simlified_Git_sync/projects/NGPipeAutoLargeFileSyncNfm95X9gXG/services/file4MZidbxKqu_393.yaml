@@ -1,0 +1,8 @@
+service:
+  name: servicewx47m6SNtA
+  identifier: servicewx47m6SNtA
+  projectIdentifier: NGPipeAutoLargeFileSyncNfm95X9gXG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

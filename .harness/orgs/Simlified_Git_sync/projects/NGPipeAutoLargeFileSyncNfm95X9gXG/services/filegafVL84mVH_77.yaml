@@ -1,0 +1,8 @@
+service:
+  name: serviceuezA2E4Mgn
+  identifier: serviceuezA2E4Mgn
+  projectIdentifier: NGPipeAutoLargeFileSyncNfm95X9gXG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

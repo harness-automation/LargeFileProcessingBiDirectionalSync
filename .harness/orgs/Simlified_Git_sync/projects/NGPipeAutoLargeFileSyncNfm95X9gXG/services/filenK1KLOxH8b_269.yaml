@@ -1,0 +1,8 @@
+service:
+  name: serviceWYLF33SkRi
+  identifier: serviceWYLF33SkRi
+  projectIdentifier: NGPipeAutoLargeFileSyncNfm95X9gXG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

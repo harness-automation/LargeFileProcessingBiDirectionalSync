@@ -1,0 +1,8 @@
+service:
+  name: servicemcUz32a9v1
+  identifier: servicemcUz32a9v1
+  projectIdentifier: NGPipeAutoLargeFileSyncNfm95X9gXG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

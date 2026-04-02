@@ -1,0 +1,8 @@
+service:
+  name: servicet1ipatWbgE
+  identifier: servicet1ipatWbgE
+  projectIdentifier: NGPipeAutoLargeFileSyncNfm95X9gXG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

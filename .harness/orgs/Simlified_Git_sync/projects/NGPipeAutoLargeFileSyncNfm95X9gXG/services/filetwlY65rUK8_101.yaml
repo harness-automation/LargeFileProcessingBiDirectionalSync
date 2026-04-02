@@ -1,0 +1,8 @@
+service:
+  name: servicebbGS2vnsNS
+  identifier: servicebbGS2vnsNS
+  projectIdentifier: NGPipeAutoLargeFileSyncNfm95X9gXG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceBrayXl3ow4
+  identifier: serviceBrayXl3ow4
+  projectIdentifier: NGPipeAutoLargeFileSyncNfm95X9gXG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
