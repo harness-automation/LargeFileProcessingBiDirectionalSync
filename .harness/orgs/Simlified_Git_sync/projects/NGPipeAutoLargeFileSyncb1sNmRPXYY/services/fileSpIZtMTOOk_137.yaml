@@ -1,0 +1,8 @@
+service:
+  name: serviceLuYS7p0cTU
+  identifier: serviceLuYS7p0cTU
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

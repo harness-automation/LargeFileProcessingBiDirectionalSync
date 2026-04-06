@@ -1,0 +1,8 @@
+service:
+  name: servicenhKtada11R
+  identifier: servicenhKtada11R
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

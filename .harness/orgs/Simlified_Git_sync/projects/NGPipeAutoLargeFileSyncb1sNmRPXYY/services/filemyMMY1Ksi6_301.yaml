@@ -1,0 +1,8 @@
+service:
+  name: serviceFrehn5XK4i
+  identifier: serviceFrehn5XK4i
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceSumBOtLU6w
+  identifier: serviceSumBOtLU6w
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceIlEFOCK5g6
+  identifier: serviceIlEFOCK5g6
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

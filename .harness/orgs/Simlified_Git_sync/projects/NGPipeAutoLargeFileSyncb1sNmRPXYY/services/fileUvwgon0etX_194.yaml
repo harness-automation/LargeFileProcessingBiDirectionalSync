@@ -1,0 +1,8 @@
+service:
+  name: serviceKzoaMTwpHq
+  identifier: serviceKzoaMTwpHq
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

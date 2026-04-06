@@ -1,0 +1,8 @@
+service:
+  name: serviceNwhGpmlQo3
+  identifier: serviceNwhGpmlQo3
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

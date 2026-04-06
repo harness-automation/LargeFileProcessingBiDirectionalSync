@@ -1,0 +1,8 @@
+service:
+  name: servicelcaVsuO2Rs
+  identifier: servicelcaVsuO2Rs
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

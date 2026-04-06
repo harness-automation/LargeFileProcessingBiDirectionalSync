@@ -1,0 +1,8 @@
+service:
+  name: servicew3cRcaOBaL
+  identifier: servicew3cRcaOBaL
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

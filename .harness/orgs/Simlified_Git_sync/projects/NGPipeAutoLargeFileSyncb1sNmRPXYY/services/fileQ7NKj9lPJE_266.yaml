@@ -1,0 +1,8 @@
+service:
+  name: serviceAtnxp2BSuD
+  identifier: serviceAtnxp2BSuD
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

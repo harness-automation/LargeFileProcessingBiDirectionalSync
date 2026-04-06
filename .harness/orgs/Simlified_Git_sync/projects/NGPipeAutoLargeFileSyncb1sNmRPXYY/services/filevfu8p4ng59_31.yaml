@@ -1,0 +1,8 @@
+service:
+  name: service5PelArCk1w
+  identifier: service5PelArCk1w
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

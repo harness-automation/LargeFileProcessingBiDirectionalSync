@@ -1,0 +1,8 @@
+service:
+  name: serviceETBcwz18v3
+  identifier: serviceETBcwz18v3
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

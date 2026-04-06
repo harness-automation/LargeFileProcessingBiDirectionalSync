@@ -1,0 +1,8 @@
+service:
+  name: serviceagmsux2X6G
+  identifier: serviceagmsux2X6G
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

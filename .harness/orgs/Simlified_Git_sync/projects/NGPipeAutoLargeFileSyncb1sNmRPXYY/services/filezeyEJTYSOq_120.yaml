@@ -1,0 +1,8 @@
+service:
+  name: servicePsKx4Jykte
+  identifier: servicePsKx4Jykte
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicejT1pub31MD
+  identifier: servicejT1pub31MD
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

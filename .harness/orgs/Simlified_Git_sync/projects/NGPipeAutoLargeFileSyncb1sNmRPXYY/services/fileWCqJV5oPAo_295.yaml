@@ -1,0 +1,8 @@
+service:
+  name: serviceccHD3BIn6f
+  identifier: serviceccHD3BIn6f
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTAwHedcc3S
+  identifier: serviceTAwHedcc3S
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

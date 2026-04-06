@@ -1,0 +1,8 @@
+service:
+  name: serviceMaZ2eGARsN
+  identifier: serviceMaZ2eGARsN
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

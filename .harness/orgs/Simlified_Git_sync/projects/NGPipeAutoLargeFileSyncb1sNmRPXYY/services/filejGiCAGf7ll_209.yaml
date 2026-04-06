@@ -1,0 +1,8 @@
+service:
+  name: service3tm72fivue
+  identifier: service3tm72fivue
+  projectIdentifier: NGPipeAutoLargeFileSyncb1sNmRPXYY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
