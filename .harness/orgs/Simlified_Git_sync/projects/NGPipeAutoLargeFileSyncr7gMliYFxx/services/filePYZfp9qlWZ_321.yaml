@@ -1,0 +1,8 @@
+service:
+  name: servicedSyg9HAPog
+  identifier: servicedSyg9HAPog
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

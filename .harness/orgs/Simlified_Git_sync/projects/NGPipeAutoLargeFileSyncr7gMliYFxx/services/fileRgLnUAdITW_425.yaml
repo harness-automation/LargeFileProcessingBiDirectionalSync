@@ -1,0 +1,8 @@
+service:
+  name: serviceza71SPHQaD
+  identifier: serviceza71SPHQaD
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

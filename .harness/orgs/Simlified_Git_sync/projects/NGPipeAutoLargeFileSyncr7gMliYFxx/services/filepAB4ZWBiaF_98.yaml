@@ -1,0 +1,8 @@
+service:
+  name: serviceSEMIP8Wf6N
+  identifier: serviceSEMIP8Wf6N
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

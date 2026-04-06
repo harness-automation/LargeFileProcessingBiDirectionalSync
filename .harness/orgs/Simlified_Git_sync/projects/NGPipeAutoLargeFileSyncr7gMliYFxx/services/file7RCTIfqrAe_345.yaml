@@ -1,0 +1,8 @@
+service:
+  name: serviceW586UWuXv2
+  identifier: serviceW586UWuXv2
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceDWNjVOW3cs
+  identifier: serviceDWNjVOW3cs
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

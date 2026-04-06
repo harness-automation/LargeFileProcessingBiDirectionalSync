@@ -1,0 +1,8 @@
+service:
+  name: serviceObs1Pu1njc
+  identifier: serviceObs1Pu1njc
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

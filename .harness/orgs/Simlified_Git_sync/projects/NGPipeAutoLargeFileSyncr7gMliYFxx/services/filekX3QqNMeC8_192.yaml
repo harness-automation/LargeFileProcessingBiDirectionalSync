@@ -1,0 +1,8 @@
+service:
+  name: serviceDap9D63BME
+  identifier: serviceDap9D63BME
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service1HEKRrk9Ot
+  identifier: service1HEKRrk9Ot
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

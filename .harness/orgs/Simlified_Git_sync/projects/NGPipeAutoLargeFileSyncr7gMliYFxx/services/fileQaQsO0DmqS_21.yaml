@@ -1,0 +1,8 @@
+service:
+  name: serviceeiOLC708lD
+  identifier: serviceeiOLC708lD
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

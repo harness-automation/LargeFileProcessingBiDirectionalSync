@@ -1,0 +1,8 @@
+service:
+  name: servicesSYFAHV0If
+  identifier: servicesSYFAHV0If
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

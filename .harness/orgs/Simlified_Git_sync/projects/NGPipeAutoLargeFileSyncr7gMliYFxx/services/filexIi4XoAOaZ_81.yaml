@@ -1,0 +1,8 @@
+service:
+  name: serviceChNI6zP22K
+  identifier: serviceChNI6zP22K
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

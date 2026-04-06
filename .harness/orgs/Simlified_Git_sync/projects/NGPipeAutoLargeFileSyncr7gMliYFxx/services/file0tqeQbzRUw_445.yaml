@@ -1,0 +1,8 @@
+service:
+  name: serviceSSFw7LInPQ
+  identifier: serviceSSFw7LInPQ
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

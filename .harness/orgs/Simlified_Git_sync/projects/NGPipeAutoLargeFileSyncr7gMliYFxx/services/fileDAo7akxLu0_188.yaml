@@ -1,0 +1,8 @@
+service:
+  name: servicerWxO2nmdgA
+  identifier: servicerWxO2nmdgA
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

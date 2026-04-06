@@ -1,0 +1,8 @@
+service:
+  name: serviceT16R5bspaP
+  identifier: serviceT16R5bspaP
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

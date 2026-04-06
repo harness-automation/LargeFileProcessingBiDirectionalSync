@@ -1,0 +1,8 @@
+service:
+  name: servicenATK4IJ3FB
+  identifier: servicenATK4IJ3FB
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

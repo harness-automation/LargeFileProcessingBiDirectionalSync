@@ -1,0 +1,8 @@
+service:
+  name: serviceLpsLI17Gxa
+  identifier: serviceLpsLI17Gxa
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

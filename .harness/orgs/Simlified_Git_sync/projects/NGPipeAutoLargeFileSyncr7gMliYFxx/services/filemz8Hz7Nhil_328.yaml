@@ -1,0 +1,8 @@
+service:
+  name: serviceoaBM16gFdG
+  identifier: serviceoaBM16gFdG
+  projectIdentifier: NGPipeAutoLargeFileSyncr7gMliYFxx
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
