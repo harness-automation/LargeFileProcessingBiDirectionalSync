@@ -1,0 +1,8 @@
+service:
+  name: serviceKUFi1ro96n
+  identifier: serviceKUFi1ro96n
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

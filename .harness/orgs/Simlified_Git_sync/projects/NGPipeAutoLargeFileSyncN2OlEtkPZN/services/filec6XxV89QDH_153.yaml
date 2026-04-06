@@ -1,0 +1,8 @@
+service:
+  name: servicehqIvDVL15Z
+  identifier: servicehqIvDVL15Z
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

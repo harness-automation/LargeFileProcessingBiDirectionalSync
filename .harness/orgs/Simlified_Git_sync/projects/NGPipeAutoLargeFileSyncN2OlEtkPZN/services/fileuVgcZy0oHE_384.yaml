@@ -1,0 +1,8 @@
+service:
+  name: serviceBaIuPtg40B
+  identifier: serviceBaIuPtg40B
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

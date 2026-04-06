@@ -1,0 +1,8 @@
+service:
+  name: serviceNt36zc8X4w
+  identifier: serviceNt36zc8X4w
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

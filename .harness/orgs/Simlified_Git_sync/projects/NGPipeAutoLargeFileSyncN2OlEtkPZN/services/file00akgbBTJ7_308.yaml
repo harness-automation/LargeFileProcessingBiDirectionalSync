@@ -1,0 +1,8 @@
+service:
+  name: serviceefsCA7matX
+  identifier: serviceefsCA7matX
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

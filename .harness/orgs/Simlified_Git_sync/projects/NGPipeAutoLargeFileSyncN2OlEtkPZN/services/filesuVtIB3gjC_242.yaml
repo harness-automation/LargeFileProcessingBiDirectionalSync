@@ -1,0 +1,8 @@
+service:
+  name: serviceMiQ2emDtfV
+  identifier: serviceMiQ2emDtfV
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

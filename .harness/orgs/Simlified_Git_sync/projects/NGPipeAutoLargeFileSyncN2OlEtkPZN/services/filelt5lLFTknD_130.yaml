@@ -1,0 +1,8 @@
+service:
+  name: serviceVdMHfR18KW
+  identifier: serviceVdMHfR18KW
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

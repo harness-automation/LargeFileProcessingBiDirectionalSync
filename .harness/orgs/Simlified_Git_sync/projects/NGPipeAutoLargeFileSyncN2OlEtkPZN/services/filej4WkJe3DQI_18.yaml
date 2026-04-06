@@ -1,0 +1,8 @@
+service:
+  name: serviceRMUp4eqo23
+  identifier: serviceRMUp4eqo23
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

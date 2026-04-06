@@ -1,0 +1,8 @@
+service:
+  name: servicem42wsal9NI
+  identifier: servicem42wsal9NI
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

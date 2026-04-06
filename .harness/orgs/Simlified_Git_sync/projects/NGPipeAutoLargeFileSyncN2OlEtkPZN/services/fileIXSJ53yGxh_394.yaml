@@ -1,0 +1,8 @@
+service:
+  name: service1VIKU1VbbQ
+  identifier: service1VIKU1VbbQ
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

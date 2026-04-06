@@ -1,0 +1,8 @@
+service:
+  name: service1smABUDokb
+  identifier: service1smABUDokb
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service19wkvUS32x
+  identifier: service19wkvUS32x
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceximxEB4tiV
+  identifier: serviceximxEB4tiV
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

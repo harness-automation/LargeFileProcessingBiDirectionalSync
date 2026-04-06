@@ -1,0 +1,8 @@
+service:
+  name: serviceMOtKC3ARsO
+  identifier: serviceMOtKC3ARsO
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

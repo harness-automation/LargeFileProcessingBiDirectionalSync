@@ -1,0 +1,8 @@
+service:
+  name: serviceGrGO1w25lg
+  identifier: serviceGrGO1w25lg
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

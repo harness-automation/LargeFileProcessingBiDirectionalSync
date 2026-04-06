@@ -1,0 +1,8 @@
+service:
+  name: service7m1IPsAvCd
+  identifier: service7m1IPsAvCd
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

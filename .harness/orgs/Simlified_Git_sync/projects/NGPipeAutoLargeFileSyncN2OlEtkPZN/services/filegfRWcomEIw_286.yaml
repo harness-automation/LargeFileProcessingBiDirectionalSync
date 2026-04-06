@@ -1,0 +1,8 @@
+service:
+  name: servicehutd04jdKz
+  identifier: servicehutd04jdKz
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

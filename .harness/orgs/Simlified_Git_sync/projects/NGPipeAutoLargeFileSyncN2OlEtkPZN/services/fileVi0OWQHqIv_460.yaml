@@ -1,0 +1,8 @@
+service:
+  name: serviceRUnWP4F0m7
+  identifier: serviceRUnWP4F0m7
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

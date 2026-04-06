@@ -1,0 +1,8 @@
+service:
+  name: serviceFQrGr16JeE
+  identifier: serviceFQrGr16JeE
+  projectIdentifier: NGPipeAutoLargeFileSyncN2OlEtkPZN
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
