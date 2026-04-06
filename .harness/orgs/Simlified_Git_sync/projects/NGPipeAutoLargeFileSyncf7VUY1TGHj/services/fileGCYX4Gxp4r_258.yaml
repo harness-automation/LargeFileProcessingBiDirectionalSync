@@ -1,0 +1,8 @@
+service:
+  name: serviceW2hSpaz42A
+  identifier: serviceW2hSpaz42A
+  projectIdentifier: NGPipeAutoLargeFileSyncf7VUY1TGHj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

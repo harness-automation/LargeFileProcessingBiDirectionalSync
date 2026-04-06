@@ -1,0 +1,8 @@
+service:
+  name: servicePHM4rMds4b
+  identifier: servicePHM4rMds4b
+  projectIdentifier: NGPipeAutoLargeFileSyncf7VUY1TGHj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

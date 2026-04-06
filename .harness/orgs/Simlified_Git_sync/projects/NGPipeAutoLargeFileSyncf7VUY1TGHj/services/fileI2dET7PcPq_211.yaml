@@ -1,0 +1,8 @@
+service:
+  name: serviceW5GoIDXWSO
+  identifier: serviceW5GoIDXWSO
+  projectIdentifier: NGPipeAutoLargeFileSyncf7VUY1TGHj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

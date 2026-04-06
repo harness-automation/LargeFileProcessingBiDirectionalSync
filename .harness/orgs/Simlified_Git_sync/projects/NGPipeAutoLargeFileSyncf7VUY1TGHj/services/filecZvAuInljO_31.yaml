@@ -1,0 +1,8 @@
+service:
+  name: servicejMS2Em2uRm
+  identifier: servicejMS2Em2uRm
+  projectIdentifier: NGPipeAutoLargeFileSyncf7VUY1TGHj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

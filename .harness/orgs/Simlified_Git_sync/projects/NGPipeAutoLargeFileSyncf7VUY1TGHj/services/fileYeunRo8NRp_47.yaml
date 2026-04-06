@@ -1,0 +1,8 @@
+service:
+  name: service63zntpLIM6
+  identifier: service63zntpLIM6
+  projectIdentifier: NGPipeAutoLargeFileSyncf7VUY1TGHj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

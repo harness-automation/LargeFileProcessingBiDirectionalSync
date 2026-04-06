@@ -1,0 +1,8 @@
+service:
+  name: serviceauveWwpbUS
+  identifier: serviceauveWwpbUS
+  projectIdentifier: NGPipeAutoLargeFileSyncf7VUY1TGHj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

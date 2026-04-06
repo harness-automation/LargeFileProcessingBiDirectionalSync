@@ -1,0 +1,8 @@
+service:
+  name: serviceGFE3fMhuAr
+  identifier: serviceGFE3fMhuAr
+  projectIdentifier: NGPipeAutoLargeFileSyncf7VUY1TGHj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

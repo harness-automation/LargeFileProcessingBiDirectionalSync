@@ -1,0 +1,8 @@
+service:
+  name: serviceUvMQ94bCX8
+  identifier: serviceUvMQ94bCX8
+  projectIdentifier: NGPipeAutoLargeFileSyncf7VUY1TGHj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service3DkNimiDVf
+  identifier: service3DkNimiDVf
+  projectIdentifier: NGPipeAutoLargeFileSyncf7VUY1TGHj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

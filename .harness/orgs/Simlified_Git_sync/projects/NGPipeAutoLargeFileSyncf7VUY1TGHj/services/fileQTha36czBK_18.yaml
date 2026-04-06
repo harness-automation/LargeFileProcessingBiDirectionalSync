@@ -1,0 +1,8 @@
+service:
+  name: servicempITrml9BE
+  identifier: servicempITrml9BE
+  projectIdentifier: NGPipeAutoLargeFileSyncf7VUY1TGHj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceMCRac38N6T
+  identifier: serviceMCRac38N6T
+  projectIdentifier: NGPipeAutoLargeFileSyncf7VUY1TGHj
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
