@@ -1,0 +1,8 @@
+service:
+  name: serviceZEtsILWky4
+  identifier: serviceZEtsILWky4
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTvWuV2Jkub
+  identifier: serviceTvWuV2Jkub
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

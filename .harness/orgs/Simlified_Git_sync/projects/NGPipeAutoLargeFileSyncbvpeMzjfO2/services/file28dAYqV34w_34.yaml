@@ -1,0 +1,8 @@
+service:
+  name: serviceRXUGm87Gbr
+  identifier: serviceRXUGm87Gbr
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

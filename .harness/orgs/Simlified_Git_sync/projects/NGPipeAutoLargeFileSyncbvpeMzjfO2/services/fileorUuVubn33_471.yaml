@@ -1,0 +1,8 @@
+service:
+  name: serviceHZP8252wkb
+  identifier: serviceHZP8252wkb
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

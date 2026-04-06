@@ -1,0 +1,8 @@
+service:
+  name: serviceSATHrh0vrZ
+  identifier: serviceSATHrh0vrZ
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

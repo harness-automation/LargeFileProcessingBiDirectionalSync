@@ -1,0 +1,8 @@
+service:
+  name: service96LISpC73I
+  identifier: service96LISpC73I
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

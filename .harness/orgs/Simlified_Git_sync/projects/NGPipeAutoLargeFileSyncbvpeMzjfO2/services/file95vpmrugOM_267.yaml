@@ -1,0 +1,8 @@
+service:
+  name: serviceRBH6bVoyI2
+  identifier: serviceRBH6bVoyI2
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

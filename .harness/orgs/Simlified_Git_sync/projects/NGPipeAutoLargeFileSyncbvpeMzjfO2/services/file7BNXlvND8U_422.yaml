@@ -1,0 +1,8 @@
+service:
+  name: servicelVDEsLe0SM
+  identifier: servicelVDEsLe0SM
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

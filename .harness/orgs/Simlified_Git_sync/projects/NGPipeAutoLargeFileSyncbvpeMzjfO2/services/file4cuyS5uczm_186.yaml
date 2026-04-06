@@ -1,0 +1,8 @@
+service:
+  name: serviceRb1f697qQL
+  identifier: serviceRb1f697qQL
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

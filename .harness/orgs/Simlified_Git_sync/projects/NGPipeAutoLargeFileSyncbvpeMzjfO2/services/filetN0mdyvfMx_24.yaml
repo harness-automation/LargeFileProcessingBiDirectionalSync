@@ -1,0 +1,8 @@
+service:
+  name: servicePd1h23toha
+  identifier: servicePd1h23toha
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

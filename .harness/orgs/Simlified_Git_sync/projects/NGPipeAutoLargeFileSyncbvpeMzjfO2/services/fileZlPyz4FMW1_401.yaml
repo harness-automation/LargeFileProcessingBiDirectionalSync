@@ -1,0 +1,8 @@
+service:
+  name: serviceARHdkfCWW4
+  identifier: serviceARHdkfCWW4
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

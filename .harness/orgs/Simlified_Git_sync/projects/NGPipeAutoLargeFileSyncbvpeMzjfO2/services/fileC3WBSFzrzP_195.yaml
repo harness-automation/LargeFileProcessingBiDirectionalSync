@@ -1,0 +1,8 @@
+service:
+  name: serviceQtFmhWm93E
+  identifier: serviceQtFmhWm93E
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

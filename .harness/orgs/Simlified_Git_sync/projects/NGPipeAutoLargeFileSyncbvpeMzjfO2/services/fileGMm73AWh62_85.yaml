@@ -1,0 +1,8 @@
+service:
+  name: servicenQmq4FgxDb
+  identifier: servicenQmq4FgxDb
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

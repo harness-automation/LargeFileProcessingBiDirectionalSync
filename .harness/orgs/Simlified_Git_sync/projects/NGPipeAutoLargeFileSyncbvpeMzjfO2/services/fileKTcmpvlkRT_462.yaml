@@ -1,0 +1,8 @@
+service:
+  name: servicezeJKC76WG4
+  identifier: servicezeJKC76WG4
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFES6F8A50A
+  identifier: serviceFES6F8A50A
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

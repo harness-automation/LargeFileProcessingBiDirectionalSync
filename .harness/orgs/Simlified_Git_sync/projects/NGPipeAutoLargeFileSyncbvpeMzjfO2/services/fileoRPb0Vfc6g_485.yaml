@@ -1,0 +1,8 @@
+service:
+  name: serviceIP2ke7chyx
+  identifier: serviceIP2ke7chyx
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

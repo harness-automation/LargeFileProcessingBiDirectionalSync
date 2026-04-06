@@ -1,0 +1,8 @@
+service:
+  name: serviceANshiNEeM4
+  identifier: serviceANshiNEeM4
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicex52tPeva00
+  identifier: servicex52tPeva00
+  projectIdentifier: NGPipeAutoLargeFileSyncbvpeMzjfO2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
