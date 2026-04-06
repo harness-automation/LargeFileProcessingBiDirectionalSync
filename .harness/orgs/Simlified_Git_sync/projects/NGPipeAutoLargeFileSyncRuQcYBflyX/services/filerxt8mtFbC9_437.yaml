@@ -1,0 +1,8 @@
+service:
+  name: servicenMPV0ZB96C
+  identifier: servicenMPV0ZB96C
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

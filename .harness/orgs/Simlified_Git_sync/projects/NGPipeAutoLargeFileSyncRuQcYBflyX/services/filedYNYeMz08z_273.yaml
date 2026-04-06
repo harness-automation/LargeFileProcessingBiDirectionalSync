@@ -1,0 +1,8 @@
+service:
+  name: servicedq3wCVX82n
+  identifier: servicedq3wCVX82n
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

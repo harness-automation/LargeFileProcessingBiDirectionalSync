@@ -1,0 +1,8 @@
+service:
+  name: serviceFRxm9cMovm
+  identifier: serviceFRxm9cMovm
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

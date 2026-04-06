@@ -1,0 +1,8 @@
+service:
+  name: services52wMCRJ66
+  identifier: services52wMCRJ66
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

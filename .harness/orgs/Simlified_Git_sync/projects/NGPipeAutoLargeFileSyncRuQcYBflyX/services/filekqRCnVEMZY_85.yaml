@@ -1,0 +1,8 @@
+service:
+  name: serviceEMXBc18mO9
+  identifier: serviceEMXBc18mO9
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

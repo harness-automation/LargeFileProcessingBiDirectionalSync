@@ -1,0 +1,8 @@
+service:
+  name: servicerrc9026QL4
+  identifier: servicerrc9026QL4
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

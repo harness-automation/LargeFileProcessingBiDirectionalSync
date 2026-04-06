@@ -1,0 +1,8 @@
+service:
+  name: servicehMBinP9cLN
+  identifier: servicehMBinP9cLN
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceHTnQ19tlEc
+  identifier: serviceHTnQ19tlEc
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

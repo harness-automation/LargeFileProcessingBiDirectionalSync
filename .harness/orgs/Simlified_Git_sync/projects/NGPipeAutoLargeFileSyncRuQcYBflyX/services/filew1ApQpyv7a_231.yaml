@@ -1,0 +1,8 @@
+service:
+  name: serviceVEYLAA5m1S
+  identifier: serviceVEYLAA5m1S
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

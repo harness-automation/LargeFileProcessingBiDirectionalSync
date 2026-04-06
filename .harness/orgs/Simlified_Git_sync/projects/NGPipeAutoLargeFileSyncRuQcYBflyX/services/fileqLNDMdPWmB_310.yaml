@@ -1,0 +1,8 @@
+service:
+  name: service4pL0Adnucc
+  identifier: service4pL0Adnucc
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicemTg30BPbyg
+  identifier: servicemTg30BPbyg
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicelSHUScB5p1
+  identifier: servicelSHUScB5p1
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

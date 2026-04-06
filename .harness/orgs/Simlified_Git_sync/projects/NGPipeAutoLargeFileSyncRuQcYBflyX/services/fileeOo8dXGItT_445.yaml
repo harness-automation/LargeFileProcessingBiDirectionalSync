@@ -1,0 +1,8 @@
+service:
+  name: servicekMc1807ErP
+  identifier: servicekMc1807ErP
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

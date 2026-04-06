@@ -1,0 +1,8 @@
+service:
+  name: servicePW38PR5Wbq
+  identifier: servicePW38PR5Wbq
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceowlrhWNRO2
+  identifier: serviceowlrhWNRO2
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

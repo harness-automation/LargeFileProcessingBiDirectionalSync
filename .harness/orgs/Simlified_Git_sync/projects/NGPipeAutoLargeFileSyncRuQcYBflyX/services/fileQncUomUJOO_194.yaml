@@ -1,0 +1,8 @@
+service:
+  name: service4mR4072Vss
+  identifier: service4mR4072Vss
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

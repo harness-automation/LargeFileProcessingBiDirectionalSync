@@ -1,0 +1,8 @@
+service:
+  name: serviceTLJesIZ05N
+  identifier: serviceTLJesIZ05N
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

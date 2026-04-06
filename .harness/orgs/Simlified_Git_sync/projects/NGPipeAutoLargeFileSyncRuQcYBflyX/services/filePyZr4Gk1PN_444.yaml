@@ -1,0 +1,8 @@
+service:
+  name: serviceRfOrMGrk18
+  identifier: serviceRfOrMGrk18
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

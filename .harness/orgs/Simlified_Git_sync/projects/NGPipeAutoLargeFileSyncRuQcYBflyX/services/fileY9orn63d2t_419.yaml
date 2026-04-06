@@ -1,0 +1,8 @@
+service:
+  name: serviceJpdoo2xP5m
+  identifier: serviceJpdoo2xP5m
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

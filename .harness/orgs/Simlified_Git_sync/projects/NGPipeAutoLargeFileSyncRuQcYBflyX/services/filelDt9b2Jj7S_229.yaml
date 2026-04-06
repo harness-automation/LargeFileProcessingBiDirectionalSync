@@ -1,0 +1,8 @@
+service:
+  name: serviceedM74ACuJD
+  identifier: serviceedM74ACuJD
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

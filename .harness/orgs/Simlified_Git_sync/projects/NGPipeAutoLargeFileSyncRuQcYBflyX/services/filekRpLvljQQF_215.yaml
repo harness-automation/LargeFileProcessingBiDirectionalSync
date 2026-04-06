@@ -1,0 +1,8 @@
+service:
+  name: servicemc64xnlrPS
+  identifier: servicemc64xnlrPS
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

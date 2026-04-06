@@ -1,0 +1,8 @@
+service:
+  name: servicemrXEkro6NP
+  identifier: servicemrXEkro6NP
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

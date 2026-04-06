@@ -1,0 +1,8 @@
+service:
+  name: servicecdkroVGQm4
+  identifier: servicecdkroVGQm4
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

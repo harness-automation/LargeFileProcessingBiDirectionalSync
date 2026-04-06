@@ -1,0 +1,8 @@
+service:
+  name: serviceJixNUq2355
+  identifier: serviceJixNUq2355
+  projectIdentifier: NGPipeAutoLargeFileSyncRuQcYBflyX
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
