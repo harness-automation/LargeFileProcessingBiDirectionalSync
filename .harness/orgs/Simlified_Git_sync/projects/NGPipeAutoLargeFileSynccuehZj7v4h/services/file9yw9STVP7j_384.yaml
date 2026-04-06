@@ -1,0 +1,8 @@
+service:
+  name: servicetOSmaFSX46
+  identifier: servicetOSmaFSX46
+  projectIdentifier: NGPipeAutoLargeFileSynccuehZj7v4h
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
