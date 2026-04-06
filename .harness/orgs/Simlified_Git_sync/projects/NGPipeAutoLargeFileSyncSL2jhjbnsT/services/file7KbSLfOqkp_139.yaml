@@ -1,0 +1,8 @@
+service:
+  name: servicegyupdMFoWA
+  identifier: servicegyupdMFoWA
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

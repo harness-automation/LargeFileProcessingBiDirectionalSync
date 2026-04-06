@@ -1,0 +1,8 @@
+service:
+  name: service9d9DOnocmu
+  identifier: service9d9DOnocmu
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

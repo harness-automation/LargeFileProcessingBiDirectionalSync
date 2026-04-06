@@ -1,0 +1,8 @@
+service:
+  name: serviceS1SPUPjg81
+  identifier: serviceS1SPUPjg81
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

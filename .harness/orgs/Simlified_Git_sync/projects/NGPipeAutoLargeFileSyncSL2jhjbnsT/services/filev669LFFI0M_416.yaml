@@ -1,0 +1,8 @@
+service:
+  name: serviceiGxg582rhp
+  identifier: serviceiGxg582rhp
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAki1VIV8er
+  identifier: serviceAki1VIV8er
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceJ569cMLPMs
+  identifier: serviceJ569cMLPMs
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

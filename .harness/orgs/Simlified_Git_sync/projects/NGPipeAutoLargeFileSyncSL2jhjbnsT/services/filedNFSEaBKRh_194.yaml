@@ -1,0 +1,8 @@
+service:
+  name: serviceMGILmx27iK
+  identifier: serviceMGILmx27iK
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

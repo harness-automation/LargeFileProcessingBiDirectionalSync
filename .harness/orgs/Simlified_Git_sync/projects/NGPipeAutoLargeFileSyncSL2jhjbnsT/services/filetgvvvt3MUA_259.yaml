@@ -1,0 +1,8 @@
+service:
+  name: servicendzq800rbN
+  identifier: servicendzq800rbN
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

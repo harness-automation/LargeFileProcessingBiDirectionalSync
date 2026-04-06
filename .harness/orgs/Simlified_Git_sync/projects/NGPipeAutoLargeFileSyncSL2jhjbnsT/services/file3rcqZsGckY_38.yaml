@@ -1,0 +1,8 @@
+service:
+  name: serviceSTSH1DnsRR
+  identifier: serviceSTSH1DnsRR
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

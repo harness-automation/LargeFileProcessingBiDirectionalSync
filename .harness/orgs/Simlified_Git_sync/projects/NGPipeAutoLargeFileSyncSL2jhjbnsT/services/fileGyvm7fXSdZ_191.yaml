@@ -1,0 +1,8 @@
+service:
+  name: servicear2PDGCO4e
+  identifier: servicear2PDGCO4e
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

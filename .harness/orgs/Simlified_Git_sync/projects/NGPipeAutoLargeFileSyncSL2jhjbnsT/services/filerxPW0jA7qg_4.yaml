@@ -1,0 +1,8 @@
+service:
+  name: serviceJRvPmVMyca
+  identifier: serviceJRvPmVMyca
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

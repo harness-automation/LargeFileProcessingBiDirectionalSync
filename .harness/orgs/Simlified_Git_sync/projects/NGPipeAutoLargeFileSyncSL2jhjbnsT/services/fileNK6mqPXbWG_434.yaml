@@ -1,0 +1,8 @@
+service:
+  name: serviceoCIg0apbSp
+  identifier: serviceoCIg0apbSp
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

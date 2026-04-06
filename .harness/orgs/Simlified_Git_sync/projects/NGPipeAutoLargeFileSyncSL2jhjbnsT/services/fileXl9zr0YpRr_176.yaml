@@ -1,0 +1,8 @@
+service:
+  name: serviceEfxFEc9usE
+  identifier: serviceEfxFEc9usE
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

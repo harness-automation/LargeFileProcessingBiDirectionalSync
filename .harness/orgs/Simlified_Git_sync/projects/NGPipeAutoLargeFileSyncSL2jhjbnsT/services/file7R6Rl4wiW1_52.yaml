@@ -1,0 +1,8 @@
+service:
+  name: serviceJEjT461R8T
+  identifier: serviceJEjT461R8T
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

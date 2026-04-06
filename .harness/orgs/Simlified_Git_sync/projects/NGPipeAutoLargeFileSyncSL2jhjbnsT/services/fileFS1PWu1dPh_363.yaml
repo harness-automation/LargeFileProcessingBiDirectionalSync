@@ -1,0 +1,8 @@
+service:
+  name: servicegmoCSA0KiX
+  identifier: servicegmoCSA0KiX
+  projectIdentifier: NGPipeAutoLargeFileSyncSL2jhjbnsT
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
