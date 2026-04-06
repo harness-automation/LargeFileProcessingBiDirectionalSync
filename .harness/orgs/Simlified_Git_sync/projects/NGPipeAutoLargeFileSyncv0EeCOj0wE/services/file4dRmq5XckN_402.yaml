@@ -1,0 +1,8 @@
+service:
+  name: serviceLHIKY4NDR4
+  identifier: serviceLHIKY4NDR4
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicetE86y53ltv
+  identifier: servicetE86y53ltv
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

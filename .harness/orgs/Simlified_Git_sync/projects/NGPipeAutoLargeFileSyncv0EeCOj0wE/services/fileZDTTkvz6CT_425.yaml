@@ -1,0 +1,8 @@
+service:
+  name: serviceJC485dPd5p
+  identifier: serviceJC485dPd5p
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

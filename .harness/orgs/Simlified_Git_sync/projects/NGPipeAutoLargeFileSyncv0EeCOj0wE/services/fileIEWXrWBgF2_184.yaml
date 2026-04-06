@@ -1,0 +1,8 @@
+service:
+  name: serviceEvyN8m32oa
+  identifier: serviceEvyN8m32oa
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceoRAhm7FS3P
+  identifier: serviceoRAhm7FS3P
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

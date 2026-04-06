@@ -1,0 +1,8 @@
+service:
+  name: servicegaP96E1kOg
+  identifier: servicegaP96E1kOg
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

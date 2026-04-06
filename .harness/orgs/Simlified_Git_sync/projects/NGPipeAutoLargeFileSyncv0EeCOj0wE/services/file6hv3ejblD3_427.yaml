@@ -1,0 +1,8 @@
+service:
+  name: servicekOC14todba
+  identifier: servicekOC14todba
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicebtn4VK5pKt
+  identifier: servicebtn4VK5pKt
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

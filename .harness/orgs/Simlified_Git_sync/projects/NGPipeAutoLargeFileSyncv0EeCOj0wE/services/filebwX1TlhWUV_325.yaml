@@ -1,0 +1,8 @@
+service:
+  name: servicedCtvV6P6jH
+  identifier: servicedCtvV6P6jH
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

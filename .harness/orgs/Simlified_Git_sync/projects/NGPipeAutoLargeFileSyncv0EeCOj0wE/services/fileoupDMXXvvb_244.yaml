@@ -1,0 +1,8 @@
+service:
+  name: servicehwxFHaslGC
+  identifier: servicehwxFHaslGC
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

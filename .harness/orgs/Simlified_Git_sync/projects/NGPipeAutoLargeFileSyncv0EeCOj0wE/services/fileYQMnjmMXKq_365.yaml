@@ -1,0 +1,8 @@
+service:
+  name: serviceJA40GHi86X
+  identifier: serviceJA40GHi86X
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

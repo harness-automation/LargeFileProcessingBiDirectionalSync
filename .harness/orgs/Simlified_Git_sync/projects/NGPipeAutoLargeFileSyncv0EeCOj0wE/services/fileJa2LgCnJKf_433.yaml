@@ -1,0 +1,8 @@
+service:
+  name: serviceSLBM7RlEVp
+  identifier: serviceSLBM7RlEVp
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

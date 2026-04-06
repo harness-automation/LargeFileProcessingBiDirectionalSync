@@ -1,0 +1,8 @@
+service:
+  name: servicecVsk20oZyo
+  identifier: servicecVsk20oZyo
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

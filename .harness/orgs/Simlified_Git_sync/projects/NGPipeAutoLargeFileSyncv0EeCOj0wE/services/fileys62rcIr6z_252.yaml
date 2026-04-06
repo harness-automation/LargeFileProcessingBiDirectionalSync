@@ -1,0 +1,8 @@
+service:
+  name: service3z7KeloCN2
+  identifier: service3z7KeloCN2
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

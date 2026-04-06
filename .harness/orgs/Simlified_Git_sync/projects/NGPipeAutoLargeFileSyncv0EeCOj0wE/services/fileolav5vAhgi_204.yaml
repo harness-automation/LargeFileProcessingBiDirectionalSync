@@ -1,0 +1,8 @@
+service:
+  name: serviceM5ERynuFOp
+  identifier: serviceM5ERynuFOp
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

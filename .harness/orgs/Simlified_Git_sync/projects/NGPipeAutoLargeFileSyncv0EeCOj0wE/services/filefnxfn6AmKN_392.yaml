@@ -1,0 +1,8 @@
+service:
+  name: serviceWOOlOQ44DC
+  identifier: serviceWOOlOQ44DC
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

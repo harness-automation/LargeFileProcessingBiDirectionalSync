@@ -1,0 +1,8 @@
+service:
+  name: serviceGuRfzIJApa
+  identifier: serviceGuRfzIJApa
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

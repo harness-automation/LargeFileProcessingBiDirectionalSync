@@ -1,0 +1,8 @@
+service:
+  name: serviceSBgOBU11vE
+  identifier: serviceSBgOBU11vE
+  projectIdentifier: NGPipeAutoLargeFileSyncv0EeCOj0wE
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
