@@ -1,0 +1,8 @@
+service:
+  name: serviceHfi1kd6poD
+  identifier: serviceHfi1kd6poD
+  projectIdentifier: NGPipeAutoLargeFileSynczkYmNpO5oG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

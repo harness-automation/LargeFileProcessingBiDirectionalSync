@@ -1,0 +1,8 @@
+service:
+  name: serviceGPy1dx1WBW
+  identifier: serviceGPy1dx1WBW
+  projectIdentifier: NGPipeAutoLargeFileSynczkYmNpO5oG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicesmoqEVA9os
+  identifier: servicesmoqEVA9os
+  projectIdentifier: NGPipeAutoLargeFileSynczkYmNpO5oG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceVi24KsNaqp
+  identifier: serviceVi24KsNaqp
+  projectIdentifier: NGPipeAutoLargeFileSynczkYmNpO5oG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

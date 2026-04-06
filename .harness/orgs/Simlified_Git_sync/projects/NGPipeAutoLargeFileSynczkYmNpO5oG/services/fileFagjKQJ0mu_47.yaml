@@ -1,0 +1,8 @@
+service:
+  name: serviceWPbNRP88DJ
+  identifier: serviceWPbNRP88DJ
+  projectIdentifier: NGPipeAutoLargeFileSynczkYmNpO5oG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

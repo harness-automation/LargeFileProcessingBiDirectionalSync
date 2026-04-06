@@ -1,0 +1,8 @@
+service:
+  name: service007szkaEdT
+  identifier: service007szkaEdT
+  projectIdentifier: NGPipeAutoLargeFileSynczkYmNpO5oG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

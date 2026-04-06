@@ -1,0 +1,8 @@
+service:
+  name: serviceilya1F8kd3
+  identifier: serviceilya1F8kd3
+  projectIdentifier: NGPipeAutoLargeFileSynczkYmNpO5oG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

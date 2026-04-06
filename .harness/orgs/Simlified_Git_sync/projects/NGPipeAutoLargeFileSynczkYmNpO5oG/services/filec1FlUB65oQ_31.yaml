@@ -1,0 +1,8 @@
+service:
+  name: serviceQascS3CUUS
+  identifier: serviceQascS3CUUS
+  projectIdentifier: NGPipeAutoLargeFileSynczkYmNpO5oG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicebPAV2DMlFt
+  identifier: servicebPAV2DMlFt
+  projectIdentifier: NGPipeAutoLargeFileSynczkYmNpO5oG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

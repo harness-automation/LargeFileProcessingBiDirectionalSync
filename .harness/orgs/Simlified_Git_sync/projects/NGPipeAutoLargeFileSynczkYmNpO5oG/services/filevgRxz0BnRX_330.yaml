@@ -1,0 +1,8 @@
+service:
+  name: serviceVmZ276vh1n
+  identifier: serviceVmZ276vh1n
+  projectIdentifier: NGPipeAutoLargeFileSynczkYmNpO5oG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

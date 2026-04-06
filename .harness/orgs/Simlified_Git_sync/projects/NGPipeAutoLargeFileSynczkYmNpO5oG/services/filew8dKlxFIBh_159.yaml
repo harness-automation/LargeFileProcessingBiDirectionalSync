@@ -1,0 +1,8 @@
+service:
+  name: servicePoD2Wo84D5
+  identifier: servicePoD2Wo84D5
+  projectIdentifier: NGPipeAutoLargeFileSynczkYmNpO5oG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
