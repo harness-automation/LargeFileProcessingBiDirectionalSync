@@ -1,0 +1,8 @@
+service:
+  name: service4zdkGLYTFy
+  identifier: service4zdkGLYTFy
+  projectIdentifier: NGPipeAutoLargeFileSyncUEIy4iGtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicekDKcem1IhU
+  identifier: servicekDKcem1IhU
+  projectIdentifier: NGPipeAutoLargeFileSyncUEIy4iGtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

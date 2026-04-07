@@ -1,0 +1,8 @@
+service:
+  name: serviceEJaJLr3F20
+  identifier: serviceEJaJLr3F20
+  projectIdentifier: NGPipeAutoLargeFileSyncUEIy4iGtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

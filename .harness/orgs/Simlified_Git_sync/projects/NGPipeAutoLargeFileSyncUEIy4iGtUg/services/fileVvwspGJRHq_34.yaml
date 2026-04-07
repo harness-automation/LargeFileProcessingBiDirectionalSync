@@ -1,0 +1,8 @@
+service:
+  name: servicetWK702YLrk
+  identifier: servicetWK702YLrk
+  projectIdentifier: NGPipeAutoLargeFileSyncUEIy4iGtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

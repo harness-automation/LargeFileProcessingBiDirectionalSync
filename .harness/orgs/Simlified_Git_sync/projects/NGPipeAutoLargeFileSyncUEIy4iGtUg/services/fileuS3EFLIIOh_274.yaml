@@ -1,0 +1,8 @@
+service:
+  name: servicecwlGNPESR2
+  identifier: servicecwlGNPESR2
+  projectIdentifier: NGPipeAutoLargeFileSyncUEIy4iGtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

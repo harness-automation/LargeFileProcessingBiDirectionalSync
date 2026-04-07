@@ -1,0 +1,8 @@
+service:
+  name: service9C33turBov
+  identifier: service9C33turBov
+  projectIdentifier: NGPipeAutoLargeFileSyncUEIy4iGtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicedHE527GU3o
+  identifier: servicedHE527GU3o
+  projectIdentifier: NGPipeAutoLargeFileSyncUEIy4iGtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicesJhsiL87cl
+  identifier: servicesJhsiL87cl
+  projectIdentifier: NGPipeAutoLargeFileSyncUEIy4iGtUg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
