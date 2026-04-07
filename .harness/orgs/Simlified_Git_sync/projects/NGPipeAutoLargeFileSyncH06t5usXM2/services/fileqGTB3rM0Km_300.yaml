@@ -1,0 +1,8 @@
+service:
+  name: service23SGHxmz3i
+  identifier: service23SGHxmz3i
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

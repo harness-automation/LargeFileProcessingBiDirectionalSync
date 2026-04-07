@@ -1,0 +1,8 @@
+service:
+  name: serviceC2CxLUGlE1
+  identifier: serviceC2CxLUGlE1
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

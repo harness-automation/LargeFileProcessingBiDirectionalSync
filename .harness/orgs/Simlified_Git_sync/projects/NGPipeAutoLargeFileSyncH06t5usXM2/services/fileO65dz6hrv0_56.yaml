@@ -1,0 +1,8 @@
+service:
+  name: servicedr2RChUrOd
+  identifier: servicedr2RChUrOd
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

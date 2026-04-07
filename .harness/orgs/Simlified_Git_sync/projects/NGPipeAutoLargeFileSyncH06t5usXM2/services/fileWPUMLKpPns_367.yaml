@@ -1,0 +1,8 @@
+service:
+  name: service3lJDCUnicm
+  identifier: service3lJDCUnicm
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

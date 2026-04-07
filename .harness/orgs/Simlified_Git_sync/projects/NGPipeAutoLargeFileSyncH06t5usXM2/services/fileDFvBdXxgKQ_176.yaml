@@ -1,0 +1,8 @@
+service:
+  name: service184zopgKuM
+  identifier: service184zopgKuM
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

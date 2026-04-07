@@ -1,0 +1,8 @@
+service:
+  name: serviceHsTMlg9D6O
+  identifier: serviceHsTMlg9D6O
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

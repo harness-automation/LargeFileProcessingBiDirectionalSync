@@ -1,0 +1,8 @@
+service:
+  name: serviceFFma2q868g
+  identifier: serviceFFma2q868g
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

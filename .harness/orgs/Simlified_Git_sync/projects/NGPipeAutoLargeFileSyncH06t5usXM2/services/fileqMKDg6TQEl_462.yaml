@@ -1,0 +1,8 @@
+service:
+  name: service39WAWY1Qai
+  identifier: service39WAWY1Qai
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

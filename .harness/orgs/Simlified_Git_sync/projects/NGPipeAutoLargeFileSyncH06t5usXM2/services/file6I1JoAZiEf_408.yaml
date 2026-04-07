@@ -1,0 +1,8 @@
+service:
+  name: serviceH2mbl2QtIf
+  identifier: serviceH2mbl2QtIf
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

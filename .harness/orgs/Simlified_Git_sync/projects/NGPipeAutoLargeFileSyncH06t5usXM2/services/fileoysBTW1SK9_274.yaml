@@ -1,0 +1,8 @@
+service:
+  name: serviceoz1PuPj54W
+  identifier: serviceoz1PuPj54W
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceOTDvucW95T
+  identifier: serviceOTDvucW95T
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicetDW829Mlqi
+  identifier: servicetDW829Mlqi
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

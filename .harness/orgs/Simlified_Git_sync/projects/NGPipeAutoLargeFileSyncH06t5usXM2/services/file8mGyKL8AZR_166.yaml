@@ -1,0 +1,8 @@
+service:
+  name: servicebabL4phRZQ
+  identifier: servicebabL4phRZQ
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

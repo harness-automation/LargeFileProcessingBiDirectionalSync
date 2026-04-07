@@ -1,0 +1,8 @@
+service:
+  name: serviceIoTCM2sD6F
+  identifier: serviceIoTCM2sD6F
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceUVmuCi18Bq
+  identifier: serviceUVmuCi18Bq
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

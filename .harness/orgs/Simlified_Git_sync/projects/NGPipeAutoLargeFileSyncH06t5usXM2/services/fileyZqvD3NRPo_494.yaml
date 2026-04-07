@@ -1,0 +1,8 @@
+service:
+  name: serviceFBRb85Em2a
+  identifier: serviceFBRb85Em2a
+  projectIdentifier: NGPipeAutoLargeFileSyncH06t5usXM2
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
