@@ -1,0 +1,8 @@
+service:
+  name: serviceTOFtW5Mex4
+  identifier: serviceTOFtW5Mex4
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

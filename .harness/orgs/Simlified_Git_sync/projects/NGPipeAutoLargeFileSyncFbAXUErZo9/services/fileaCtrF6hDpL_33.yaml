@@ -1,0 +1,8 @@
+service:
+  name: servicecdLNOark87
+  identifier: servicecdLNOark87
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

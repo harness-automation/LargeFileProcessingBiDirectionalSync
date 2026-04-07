@@ -1,0 +1,8 @@
+service:
+  name: service39gZS21fob
+  identifier: service39gZS21fob
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

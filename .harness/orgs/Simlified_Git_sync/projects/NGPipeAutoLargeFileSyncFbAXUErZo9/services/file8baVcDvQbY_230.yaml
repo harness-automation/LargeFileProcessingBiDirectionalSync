@@ -1,0 +1,8 @@
+service:
+  name: service8rVpsjsItJ
+  identifier: service8rVpsjsItJ
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

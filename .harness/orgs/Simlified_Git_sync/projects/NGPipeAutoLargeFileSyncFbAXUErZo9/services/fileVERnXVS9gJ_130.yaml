@@ -1,0 +1,8 @@
+service:
+  name: servicebrjrUBRMpl
+  identifier: servicebrjrUBRMpl
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

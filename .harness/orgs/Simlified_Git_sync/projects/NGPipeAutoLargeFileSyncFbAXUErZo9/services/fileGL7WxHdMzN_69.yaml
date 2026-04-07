@@ -1,0 +1,8 @@
+service:
+  name: servicele2P2Fnrrb
+  identifier: servicele2P2Fnrrb
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

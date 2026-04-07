@@ -1,0 +1,8 @@
+service:
+  name: servicewyqVES80ya
+  identifier: servicewyqVES80ya
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

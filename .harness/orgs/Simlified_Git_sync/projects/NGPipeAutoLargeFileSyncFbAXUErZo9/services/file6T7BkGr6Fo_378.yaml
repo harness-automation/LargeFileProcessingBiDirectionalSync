@@ -1,0 +1,8 @@
+service:
+  name: servicetCAmf3TbDS
+  identifier: servicetCAmf3TbDS
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

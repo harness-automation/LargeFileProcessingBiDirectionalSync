@@ -1,0 +1,8 @@
+service:
+  name: servicejAZmnTrY6s
+  identifier: servicejAZmnTrY6s
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

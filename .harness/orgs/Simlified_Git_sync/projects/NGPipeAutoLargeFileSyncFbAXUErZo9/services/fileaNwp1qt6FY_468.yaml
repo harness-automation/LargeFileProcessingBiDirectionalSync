@@ -1,0 +1,8 @@
+service:
+  name: serviceCiBWY4GGOw
+  identifier: serviceCiBWY4GGOw
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

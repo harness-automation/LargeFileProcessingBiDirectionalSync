@@ -1,0 +1,8 @@
+service:
+  name: servicerbQoa2MlSB
+  identifier: servicerbQoa2MlSB
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

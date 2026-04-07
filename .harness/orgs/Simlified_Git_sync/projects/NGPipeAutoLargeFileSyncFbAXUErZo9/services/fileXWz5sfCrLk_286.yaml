@@ -1,0 +1,8 @@
+service:
+  name: serviceESI1BYHNPl
+  identifier: serviceESI1BYHNPl
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

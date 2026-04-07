@@ -1,0 +1,8 @@
+service:
+  name: serviceSFjrmgp7ue
+  identifier: serviceSFjrmgp7ue
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

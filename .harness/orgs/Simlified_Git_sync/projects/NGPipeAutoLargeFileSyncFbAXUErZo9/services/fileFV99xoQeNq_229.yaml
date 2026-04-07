@@ -1,0 +1,8 @@
+service:
+  name: serviceDmodaRXfzZ
+  identifier: serviceDmodaRXfzZ
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

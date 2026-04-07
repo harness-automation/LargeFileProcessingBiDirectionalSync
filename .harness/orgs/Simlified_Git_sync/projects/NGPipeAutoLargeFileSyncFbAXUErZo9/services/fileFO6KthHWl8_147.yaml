@@ -1,0 +1,8 @@
+service:
+  name: serviceFtBIirIMz9
+  identifier: serviceFtBIirIMz9
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

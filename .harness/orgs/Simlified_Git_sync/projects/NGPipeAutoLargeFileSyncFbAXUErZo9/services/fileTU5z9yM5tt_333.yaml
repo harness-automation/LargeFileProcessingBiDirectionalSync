@@ -1,0 +1,8 @@
+service:
+  name: serviceddL58KHLbX
+  identifier: serviceddL58KHLbX
+  projectIdentifier: NGPipeAutoLargeFileSyncFbAXUErZo9
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
