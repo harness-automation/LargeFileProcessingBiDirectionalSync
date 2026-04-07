@@ -1,0 +1,8 @@
+service:
+  name: serviceJmSQ610xyl
+  identifier: serviceJmSQ610xyl
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service4FkRouMwUW
+  identifier: service4FkRouMwUW
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

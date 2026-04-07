@@ -1,0 +1,8 @@
+service:
+  name: serviceMuMxVp2psz
+  identifier: serviceMuMxVp2psz
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

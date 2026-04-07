@@ -1,0 +1,8 @@
+service:
+  name: servicebXOV2oPsdg
+  identifier: servicebXOV2oPsdg
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

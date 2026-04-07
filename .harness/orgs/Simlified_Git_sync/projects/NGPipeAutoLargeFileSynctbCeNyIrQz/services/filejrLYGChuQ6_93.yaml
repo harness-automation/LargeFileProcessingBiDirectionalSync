@@ -1,0 +1,8 @@
+service:
+  name: serviceRDLus1E3hR
+  identifier: serviceRDLus1E3hR
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

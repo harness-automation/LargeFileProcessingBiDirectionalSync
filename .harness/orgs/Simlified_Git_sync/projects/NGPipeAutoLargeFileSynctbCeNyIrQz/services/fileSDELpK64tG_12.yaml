@@ -1,0 +1,8 @@
+service:
+  name: serviceGRgnPp27Bi
+  identifier: serviceGRgnPp27Bi
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

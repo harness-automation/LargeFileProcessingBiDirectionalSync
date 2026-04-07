@@ -1,0 +1,8 @@
+service:
+  name: serviceNFUtsQEmq4
+  identifier: serviceNFUtsQEmq4
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

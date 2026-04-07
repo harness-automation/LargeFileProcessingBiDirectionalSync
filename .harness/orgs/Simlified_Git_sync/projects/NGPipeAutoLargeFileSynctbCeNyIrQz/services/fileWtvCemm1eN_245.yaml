@@ -1,0 +1,8 @@
+service:
+  name: servicehrldZGpste
+  identifier: servicehrldZGpste
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

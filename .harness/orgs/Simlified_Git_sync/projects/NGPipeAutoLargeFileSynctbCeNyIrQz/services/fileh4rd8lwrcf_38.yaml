@@ -1,0 +1,8 @@
+service:
+  name: serviceDORZ90lVWV
+  identifier: serviceDORZ90lVWV
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

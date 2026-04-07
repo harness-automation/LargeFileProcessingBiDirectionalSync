@@ -1,0 +1,8 @@
+service:
+  name: serviceJbPMRCrp89
+  identifier: serviceJbPMRCrp89
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

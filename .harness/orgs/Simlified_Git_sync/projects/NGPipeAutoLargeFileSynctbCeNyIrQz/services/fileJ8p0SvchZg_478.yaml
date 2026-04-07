@@ -1,0 +1,8 @@
+service:
+  name: serviceIUMX4Tm3gt
+  identifier: serviceIUMX4Tm3gt
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

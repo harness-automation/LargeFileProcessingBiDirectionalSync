@@ -1,0 +1,8 @@
+service:
+  name: servicerQ6GLOROjS
+  identifier: servicerQ6GLOROjS
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

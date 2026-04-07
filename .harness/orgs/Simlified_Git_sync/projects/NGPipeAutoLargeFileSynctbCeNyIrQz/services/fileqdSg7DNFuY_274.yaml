@@ -1,0 +1,8 @@
+service:
+  name: serviceoDplb0Lox5
+  identifier: serviceoDplb0Lox5
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

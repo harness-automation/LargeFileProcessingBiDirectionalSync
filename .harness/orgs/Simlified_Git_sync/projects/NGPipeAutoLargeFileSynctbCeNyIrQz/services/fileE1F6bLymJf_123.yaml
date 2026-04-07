@@ -1,0 +1,8 @@
+service:
+  name: servicebloc9l8u1k
+  identifier: servicebloc9l8u1k
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

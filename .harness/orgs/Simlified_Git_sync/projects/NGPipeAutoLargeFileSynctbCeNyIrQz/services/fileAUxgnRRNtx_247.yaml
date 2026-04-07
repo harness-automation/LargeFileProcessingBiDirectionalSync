@@ -1,0 +1,8 @@
+service:
+  name: servicempMl8B13sd
+  identifier: servicempMl8B13sd
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

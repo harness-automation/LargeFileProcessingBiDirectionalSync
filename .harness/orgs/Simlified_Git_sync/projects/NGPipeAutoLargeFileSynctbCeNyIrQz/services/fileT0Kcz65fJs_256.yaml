@@ -1,0 +1,8 @@
+service:
+  name: serviceTiz45SItUI
+  identifier: serviceTiz45SItUI
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

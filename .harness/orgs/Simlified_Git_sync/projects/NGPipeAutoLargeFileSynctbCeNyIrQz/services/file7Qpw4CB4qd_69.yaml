@@ -1,0 +1,8 @@
+service:
+  name: servicerBahnz2zB2
+  identifier: servicerBahnz2zB2
+  projectIdentifier: NGPipeAutoLargeFileSynctbCeNyIrQz
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
