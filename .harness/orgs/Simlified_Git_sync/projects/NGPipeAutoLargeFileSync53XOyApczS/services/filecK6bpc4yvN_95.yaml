@@ -1,0 +1,8 @@
+service:
+  name: servicenag2rv0XOR
+  identifier: servicenag2rv0XOR
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

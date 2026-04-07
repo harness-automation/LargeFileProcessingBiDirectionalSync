@@ -1,0 +1,8 @@
+service:
+  name: serviceLnFbrlo25s
+  identifier: serviceLnFbrlo25s
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

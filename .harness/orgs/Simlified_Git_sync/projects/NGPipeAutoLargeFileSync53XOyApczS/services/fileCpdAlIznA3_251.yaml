@@ -1,0 +1,8 @@
+service:
+  name: serviceJDirChS2cI
+  identifier: serviceJDirChS2cI
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

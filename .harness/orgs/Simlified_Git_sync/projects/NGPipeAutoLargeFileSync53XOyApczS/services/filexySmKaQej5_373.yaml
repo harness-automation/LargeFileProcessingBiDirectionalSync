@@ -1,0 +1,8 @@
+service:
+  name: serviceEvioV6zm25
+  identifier: serviceEvioV6zm25
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

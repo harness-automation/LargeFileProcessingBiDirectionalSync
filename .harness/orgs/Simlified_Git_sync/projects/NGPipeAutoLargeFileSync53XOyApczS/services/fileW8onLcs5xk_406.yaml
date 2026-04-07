@@ -1,0 +1,8 @@
+service:
+  name: serviceASFN83PkGa
+  identifier: serviceASFN83PkGa
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

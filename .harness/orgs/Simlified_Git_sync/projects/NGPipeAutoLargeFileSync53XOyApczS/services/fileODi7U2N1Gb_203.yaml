@@ -1,0 +1,8 @@
+service:
+  name: service43po17pbf5
+  identifier: service43po17pbf5
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

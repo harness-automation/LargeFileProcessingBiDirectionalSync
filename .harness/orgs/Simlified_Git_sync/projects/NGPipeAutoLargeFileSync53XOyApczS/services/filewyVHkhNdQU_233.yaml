@@ -1,0 +1,8 @@
+service:
+  name: servicevPSg2HyLoj
+  identifier: servicevPSg2HyLoj
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

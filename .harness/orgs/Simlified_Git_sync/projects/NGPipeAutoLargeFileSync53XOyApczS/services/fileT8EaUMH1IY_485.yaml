@@ -1,0 +1,8 @@
+service:
+  name: serviceRhoEUK40Cr
+  identifier: serviceRhoEUK40Cr
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

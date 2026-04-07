@@ -1,0 +1,8 @@
+service:
+  name: serviceCASnVWl2tg
+  identifier: serviceCASnVWl2tg
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

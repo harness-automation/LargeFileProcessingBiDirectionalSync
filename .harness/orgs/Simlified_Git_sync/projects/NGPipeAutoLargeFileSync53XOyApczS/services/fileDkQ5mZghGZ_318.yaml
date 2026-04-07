@@ -1,0 +1,8 @@
+service:
+  name: serviceeGpQ3Ypt2D
+  identifier: serviceeGpQ3Ypt2D
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

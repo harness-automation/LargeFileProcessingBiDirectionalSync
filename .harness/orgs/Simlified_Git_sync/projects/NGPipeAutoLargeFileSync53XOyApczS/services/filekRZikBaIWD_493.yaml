@@ -1,0 +1,8 @@
+service:
+  name: serviceVLDp2kQsBd
+  identifier: serviceVLDp2kQsBd
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

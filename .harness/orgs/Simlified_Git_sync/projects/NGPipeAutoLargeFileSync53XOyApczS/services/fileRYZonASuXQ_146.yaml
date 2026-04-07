@@ -1,0 +1,8 @@
+service:
+  name: servicezUMIKURF41
+  identifier: servicezUMIKURF41
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

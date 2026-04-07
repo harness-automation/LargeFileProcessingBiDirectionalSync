@@ -1,0 +1,8 @@
+service:
+  name: serviceOWM0VnfDJI
+  identifier: serviceOWM0VnfDJI
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

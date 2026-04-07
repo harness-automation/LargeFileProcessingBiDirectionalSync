@@ -1,0 +1,8 @@
+service:
+  name: serviceLf5cy2ETAa
+  identifier: serviceLf5cy2ETAa
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

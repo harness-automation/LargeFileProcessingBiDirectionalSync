@@ -1,0 +1,8 @@
+service:
+  name: serviceZEt604wBHM
+  identifier: serviceZEt604wBHM
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

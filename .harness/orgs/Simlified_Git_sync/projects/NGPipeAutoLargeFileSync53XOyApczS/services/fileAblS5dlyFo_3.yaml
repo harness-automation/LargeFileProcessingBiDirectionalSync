@@ -1,0 +1,8 @@
+service:
+  name: serviceBIgAvVk95R
+  identifier: serviceBIgAvVk95R
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

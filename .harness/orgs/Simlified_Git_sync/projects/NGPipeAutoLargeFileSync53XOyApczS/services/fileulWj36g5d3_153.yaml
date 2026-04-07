@@ -1,0 +1,8 @@
+service:
+  name: servicePAY5NYsbhO
+  identifier: servicePAY5NYsbhO
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

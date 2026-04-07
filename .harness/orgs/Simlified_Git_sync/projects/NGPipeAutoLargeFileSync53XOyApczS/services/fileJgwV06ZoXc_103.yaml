@@ -1,0 +1,8 @@
+service:
+  name: servicePX13Lm9ueW
+  identifier: servicePX13Lm9ueW
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

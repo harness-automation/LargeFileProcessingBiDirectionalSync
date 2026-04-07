@@ -1,0 +1,8 @@
+service:
+  name: serviceDHwiO27vhZ
+  identifier: serviceDHwiO27vhZ
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

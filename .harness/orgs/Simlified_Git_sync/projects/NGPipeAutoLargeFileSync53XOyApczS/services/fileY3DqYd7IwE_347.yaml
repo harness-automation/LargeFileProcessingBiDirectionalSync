@@ -1,0 +1,8 @@
+service:
+  name: serviceZO0d0LzPap
+  identifier: serviceZO0d0LzPap
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

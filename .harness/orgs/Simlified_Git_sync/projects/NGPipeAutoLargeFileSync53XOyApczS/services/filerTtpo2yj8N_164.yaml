@@ -1,0 +1,8 @@
+service:
+  name: serviceELd3Sn601P
+  identifier: serviceELd3Sn601P
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

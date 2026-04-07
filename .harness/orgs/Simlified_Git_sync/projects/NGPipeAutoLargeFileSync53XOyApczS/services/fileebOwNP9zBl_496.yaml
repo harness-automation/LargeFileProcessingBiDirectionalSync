@@ -1,0 +1,8 @@
+service:
+  name: service11CMLLAB7I
+  identifier: service11CMLLAB7I
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

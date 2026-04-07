@@ -1,0 +1,8 @@
+service:
+  name: service885r36tNbB
+  identifier: service885r36tNbB
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceGVlMDzGAp5
+  identifier: serviceGVlMDzGAp5
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

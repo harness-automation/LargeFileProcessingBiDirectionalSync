@@ -1,0 +1,8 @@
+service:
+  name: servicebTabL7zt5g
+  identifier: servicebTabL7zt5g
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

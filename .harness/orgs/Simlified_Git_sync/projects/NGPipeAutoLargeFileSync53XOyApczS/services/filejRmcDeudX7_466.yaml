@@ -1,0 +1,8 @@
+service:
+  name: serviceRud0PWbzwh
+  identifier: serviceRud0PWbzwh
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicePTC2GCJmL3
+  identifier: servicePTC2GCJmL3
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

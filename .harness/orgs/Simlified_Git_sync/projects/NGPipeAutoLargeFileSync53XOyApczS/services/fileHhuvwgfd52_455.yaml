@@ -1,0 +1,8 @@
+service:
+  name: serviceqILGlBSRi2
+  identifier: serviceqILGlBSRi2
+  projectIdentifier: NGPipeAutoLargeFileSync53XOyApczS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
