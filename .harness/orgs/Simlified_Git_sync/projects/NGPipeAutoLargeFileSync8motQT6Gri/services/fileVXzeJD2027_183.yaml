@@ -1,0 +1,8 @@
+service:
+  name: serviceifSElk2ADi
+  identifier: serviceifSElk2ADi
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

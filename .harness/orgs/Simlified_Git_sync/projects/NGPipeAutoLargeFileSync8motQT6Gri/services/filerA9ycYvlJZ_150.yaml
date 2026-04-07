@@ -1,0 +1,8 @@
+service:
+  name: servicehZq910NSPV
+  identifier: servicehZq910NSPV
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

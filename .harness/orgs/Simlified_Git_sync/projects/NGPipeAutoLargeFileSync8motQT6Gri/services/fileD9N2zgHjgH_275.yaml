@@ -1,0 +1,8 @@
+service:
+  name: servicePMGknOTYDv
+  identifier: servicePMGknOTYDv
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

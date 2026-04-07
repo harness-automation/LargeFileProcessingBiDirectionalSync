@@ -1,0 +1,8 @@
+service:
+  name: servicelcSEM18meq
+  identifier: servicelcSEM18meq
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

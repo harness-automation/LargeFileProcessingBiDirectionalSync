@@ -1,0 +1,8 @@
+service:
+  name: servicevwpntwoqt7
+  identifier: servicevwpntwoqt7
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

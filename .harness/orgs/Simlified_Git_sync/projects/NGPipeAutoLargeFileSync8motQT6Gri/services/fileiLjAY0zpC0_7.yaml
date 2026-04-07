@@ -1,0 +1,8 @@
+service:
+  name: serviceoq4HOngfsN
+  identifier: serviceoq4HOngfsN
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

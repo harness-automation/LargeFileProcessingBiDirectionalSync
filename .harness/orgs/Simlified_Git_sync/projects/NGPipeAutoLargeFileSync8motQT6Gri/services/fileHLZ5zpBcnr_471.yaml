@@ -1,0 +1,8 @@
+service:
+  name: serviceRNnCu918L4
+  identifier: serviceRNnCu918L4
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

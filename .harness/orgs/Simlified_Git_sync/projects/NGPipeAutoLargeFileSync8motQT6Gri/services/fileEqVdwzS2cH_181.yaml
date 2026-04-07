@@ -1,0 +1,8 @@
+service:
+  name: servicedqpUELAkr1
+  identifier: servicedqpUELAkr1
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

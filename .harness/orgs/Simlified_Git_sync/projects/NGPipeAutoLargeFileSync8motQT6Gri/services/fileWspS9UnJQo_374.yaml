@@ -1,0 +1,8 @@
+service:
+  name: serviceRneWIkX3DE
+  identifier: serviceRneWIkX3DE
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

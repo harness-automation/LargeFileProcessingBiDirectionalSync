@@ -1,0 +1,8 @@
+service:
+  name: servicee80PyMbn0E
+  identifier: servicee80PyMbn0E
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

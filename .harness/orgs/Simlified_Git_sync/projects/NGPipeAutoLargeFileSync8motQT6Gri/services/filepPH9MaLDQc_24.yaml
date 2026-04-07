@@ -1,0 +1,8 @@
+service:
+  name: serviceuioTAzzyQ5
+  identifier: serviceuioTAzzyQ5
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

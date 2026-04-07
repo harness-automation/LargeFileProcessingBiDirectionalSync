@@ -1,0 +1,8 @@
+service:
+  name: servicebFNO49sUNi
+  identifier: servicebFNO49sUNi
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

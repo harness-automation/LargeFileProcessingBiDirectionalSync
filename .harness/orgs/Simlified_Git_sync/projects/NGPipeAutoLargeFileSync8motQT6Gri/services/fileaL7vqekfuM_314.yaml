@@ -1,0 +1,8 @@
+service:
+  name: serviceCRUdOfMQ7b
+  identifier: serviceCRUdOfMQ7b
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

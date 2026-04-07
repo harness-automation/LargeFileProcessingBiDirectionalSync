@@ -1,0 +1,8 @@
+service:
+  name: serviceiVRGoESYdr
+  identifier: serviceiVRGoESYdr
+  projectIdentifier: NGPipeAutoLargeFileSync8motQT6Gri
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
