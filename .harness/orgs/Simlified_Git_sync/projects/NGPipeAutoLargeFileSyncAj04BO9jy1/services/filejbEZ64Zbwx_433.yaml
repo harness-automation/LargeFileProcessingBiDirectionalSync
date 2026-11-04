@@ -1,0 +1,8 @@
+service:
+  name: serviceWpckNLD44T
+  identifier: serviceWpckNLD44T
+  projectIdentifier: NGPipeAutoLargeFileSyncAj04BO9jy1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

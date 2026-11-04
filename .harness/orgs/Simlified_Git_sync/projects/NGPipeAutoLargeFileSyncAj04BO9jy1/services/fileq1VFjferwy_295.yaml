@@ -1,0 +1,8 @@
+service:
+  name: service2aiVCPDRke
+  identifier: service2aiVCPDRke
+  projectIdentifier: NGPipeAutoLargeFileSyncAj04BO9jy1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

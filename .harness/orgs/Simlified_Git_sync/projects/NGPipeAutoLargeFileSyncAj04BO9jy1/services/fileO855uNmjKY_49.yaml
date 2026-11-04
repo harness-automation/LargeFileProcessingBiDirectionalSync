@@ -1,0 +1,8 @@
+service:
+  name: servicerZA0Gog089
+  identifier: servicerZA0Gog089
+  projectIdentifier: NGPipeAutoLargeFileSyncAj04BO9jy1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

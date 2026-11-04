@@ -1,0 +1,8 @@
+service:
+  name: serviceEtnh3e5mGO
+  identifier: serviceEtnh3e5mGO
+  projectIdentifier: NGPipeAutoLargeFileSyncAj04BO9jy1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

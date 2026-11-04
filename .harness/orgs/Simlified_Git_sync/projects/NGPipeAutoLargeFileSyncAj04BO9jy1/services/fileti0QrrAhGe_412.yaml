@@ -1,0 +1,8 @@
+service:
+  name: serviceJISIwmf8ut
+  identifier: serviceJISIwmf8ut
+  projectIdentifier: NGPipeAutoLargeFileSyncAj04BO9jy1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

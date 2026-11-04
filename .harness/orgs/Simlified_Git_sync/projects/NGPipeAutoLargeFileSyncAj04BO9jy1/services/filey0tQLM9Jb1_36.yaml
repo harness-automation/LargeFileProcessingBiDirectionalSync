@@ -1,0 +1,8 @@
+service:
+  name: serviceDNxSesDv7D
+  identifier: serviceDNxSesDv7D
+  projectIdentifier: NGPipeAutoLargeFileSyncAj04BO9jy1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

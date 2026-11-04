@@ -1,0 +1,8 @@
+service:
+  name: servicedhnbLOt1T4
+  identifier: servicedhnbLOt1T4
+  projectIdentifier: NGPipeAutoLargeFileSyncAj04BO9jy1
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
