@@ -1,0 +1,8 @@
+service:
+  name: serviceMveydrCr27
+  identifier: serviceMveydrCr27
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

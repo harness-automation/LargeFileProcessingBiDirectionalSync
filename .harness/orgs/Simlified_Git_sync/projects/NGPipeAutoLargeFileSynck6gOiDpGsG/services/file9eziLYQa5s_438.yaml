@@ -1,0 +1,8 @@
+service:
+  name: serviceaWga0Gru2v
+  identifier: serviceaWga0Gru2v
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

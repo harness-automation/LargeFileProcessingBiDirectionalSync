@@ -1,0 +1,8 @@
+service:
+  name: serviceBEXya7Hhyi
+  identifier: serviceBEXya7Hhyi
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

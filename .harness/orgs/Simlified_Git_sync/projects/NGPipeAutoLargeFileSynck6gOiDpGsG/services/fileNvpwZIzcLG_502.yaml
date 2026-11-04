@@ -1,0 +1,8 @@
+service:
+  name: servicebR15Mdkqye
+  identifier: servicebR15Mdkqye
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

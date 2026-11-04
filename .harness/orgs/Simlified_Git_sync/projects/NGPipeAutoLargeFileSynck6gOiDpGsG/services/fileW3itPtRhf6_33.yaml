@@ -1,0 +1,8 @@
+service:
+  name: service70K64jZoin
+  identifier: service70K64jZoin
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

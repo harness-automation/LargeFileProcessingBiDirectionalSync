@@ -1,0 +1,8 @@
+service:
+  name: servicejAT245R4BZ
+  identifier: servicejAT245R4BZ
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceHTEfs2aqEM
+  identifier: serviceHTEfs2aqEM
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

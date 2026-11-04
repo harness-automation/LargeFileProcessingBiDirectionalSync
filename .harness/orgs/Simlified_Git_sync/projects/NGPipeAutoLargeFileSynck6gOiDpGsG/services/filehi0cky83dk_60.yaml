@@ -1,0 +1,8 @@
+service:
+  name: serviceRhFrCe7Vip
+  identifier: serviceRhFrCe7Vip
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

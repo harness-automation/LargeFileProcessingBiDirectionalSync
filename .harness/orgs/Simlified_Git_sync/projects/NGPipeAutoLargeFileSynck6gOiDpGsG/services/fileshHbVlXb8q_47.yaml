@@ -1,0 +1,8 @@
+service:
+  name: serviceuTP0TPmnjz
+  identifier: serviceuTP0TPmnjz
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

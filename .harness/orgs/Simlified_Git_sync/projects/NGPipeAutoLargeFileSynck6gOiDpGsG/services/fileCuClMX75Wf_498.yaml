@@ -1,0 +1,8 @@
+service:
+  name: service316WDTvKPd
+  identifier: service316WDTvKPd
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

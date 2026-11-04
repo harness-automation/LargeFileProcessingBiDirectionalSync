@@ -1,0 +1,8 @@
+service:
+  name: serviceSnd160wSfP
+  identifier: serviceSnd160wSfP
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

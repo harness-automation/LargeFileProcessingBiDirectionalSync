@@ -1,0 +1,8 @@
+service:
+  name: serviceso950rtSEg
+  identifier: serviceso950rtSEg
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

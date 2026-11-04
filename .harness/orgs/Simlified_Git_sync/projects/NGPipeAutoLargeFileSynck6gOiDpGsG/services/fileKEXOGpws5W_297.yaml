@@ -1,0 +1,8 @@
+service:
+  name: serviceP3PMOuinfI
+  identifier: serviceP3PMOuinfI
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

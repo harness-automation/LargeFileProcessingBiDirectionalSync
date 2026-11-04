@@ -1,0 +1,8 @@
+service:
+  name: serviceeworlaF5kf
+  identifier: serviceeworlaF5kf
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

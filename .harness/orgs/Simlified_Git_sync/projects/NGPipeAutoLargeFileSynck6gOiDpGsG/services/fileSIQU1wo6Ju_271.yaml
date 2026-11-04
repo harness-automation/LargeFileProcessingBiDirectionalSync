@@ -1,0 +1,8 @@
+service:
+  name: serviceFbxv1pi2AX
+  identifier: serviceFbxv1pi2AX
+  projectIdentifier: NGPipeAutoLargeFileSynck6gOiDpGsG
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
