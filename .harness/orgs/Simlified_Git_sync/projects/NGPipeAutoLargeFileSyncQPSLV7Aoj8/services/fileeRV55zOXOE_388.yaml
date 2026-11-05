@@ -1,0 +1,8 @@
+service:
+  name: serviceDNlJMR40JY
+  identifier: serviceDNlJMR40JY
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

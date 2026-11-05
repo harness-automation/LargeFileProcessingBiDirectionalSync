@@ -1,0 +1,8 @@
+service:
+  name: serviceFBsW2i2CTm
+  identifier: serviceFBsW2i2CTm
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

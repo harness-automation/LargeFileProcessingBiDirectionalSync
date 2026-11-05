@@ -1,0 +1,8 @@
+service:
+  name: servicemzCQSda2VP
+  identifier: servicemzCQSda2VP
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

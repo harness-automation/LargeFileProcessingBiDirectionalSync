@@ -1,0 +1,8 @@
+service:
+  name: service0nclCsthBA
+  identifier: service0nclCsthBA
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

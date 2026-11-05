@@ -1,0 +1,8 @@
+service:
+  name: serviceSVs3scnWOi
+  identifier: serviceSVs3scnWOi
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

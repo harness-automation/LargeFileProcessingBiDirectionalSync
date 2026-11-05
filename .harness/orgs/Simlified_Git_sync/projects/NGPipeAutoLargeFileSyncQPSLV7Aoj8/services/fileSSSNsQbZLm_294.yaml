@@ -1,0 +1,8 @@
+service:
+  name: serviceAtsrgrAWD0
+  identifier: serviceAtsrgrAWD0
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

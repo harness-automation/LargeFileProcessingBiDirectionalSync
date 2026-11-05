@@ -1,0 +1,8 @@
+service:
+  name: service0Izgin3Wta
+  identifier: service0Izgin3Wta
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicemffneoUQ30
+  identifier: servicemffneoUQ30
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

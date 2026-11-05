@@ -1,0 +1,8 @@
+service:
+  name: serviceunscD2Cw7a
+  identifier: serviceunscD2Cw7a
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

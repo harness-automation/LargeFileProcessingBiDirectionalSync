@@ -1,0 +1,8 @@
+service:
+  name: serviceaDVFp2r184
+  identifier: serviceaDVFp2r184
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

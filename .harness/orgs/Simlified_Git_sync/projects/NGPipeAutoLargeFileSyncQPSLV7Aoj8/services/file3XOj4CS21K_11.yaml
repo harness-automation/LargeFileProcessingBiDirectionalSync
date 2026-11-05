@@ -1,0 +1,8 @@
+service:
+  name: serviceKPY15CRDA1
+  identifier: serviceKPY15CRDA1
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

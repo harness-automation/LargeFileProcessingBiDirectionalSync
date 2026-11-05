@@ -1,0 +1,8 @@
+service:
+  name: serviceJuRMYAx8r9
+  identifier: serviceJuRMYAx8r9
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

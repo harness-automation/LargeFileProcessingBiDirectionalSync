@@ -1,0 +1,8 @@
+service:
+  name: serviceOtM51TWbkW
+  identifier: serviceOtM51TWbkW
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

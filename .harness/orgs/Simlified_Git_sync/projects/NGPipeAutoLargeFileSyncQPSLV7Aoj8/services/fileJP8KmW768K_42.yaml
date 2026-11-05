@@ -1,0 +1,8 @@
+service:
+  name: servicece52LRMX8A
+  identifier: servicece52LRMX8A
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFAbMKBPA1V
+  identifier: serviceFAbMKBPA1V
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

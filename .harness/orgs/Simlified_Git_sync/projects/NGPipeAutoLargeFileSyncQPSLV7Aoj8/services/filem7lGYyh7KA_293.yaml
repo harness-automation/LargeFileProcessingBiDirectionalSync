@@ -1,0 +1,8 @@
+service:
+  name: serviceOemBJp9clm
+  identifier: serviceOemBJp9clm
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

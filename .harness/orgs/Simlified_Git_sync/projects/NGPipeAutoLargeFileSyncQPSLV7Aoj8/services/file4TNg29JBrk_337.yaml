@@ -1,0 +1,8 @@
+service:
+  name: serviceOkUNHPlK1X
+  identifier: serviceOkUNHPlK1X
+  projectIdentifier: NGPipeAutoLargeFileSyncQPSLV7Aoj8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
