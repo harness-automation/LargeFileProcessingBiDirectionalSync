@@ -1,0 +1,8 @@
+service:
+  name: serviceejxAUS3A2M
+  identifier: serviceejxAUS3A2M
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

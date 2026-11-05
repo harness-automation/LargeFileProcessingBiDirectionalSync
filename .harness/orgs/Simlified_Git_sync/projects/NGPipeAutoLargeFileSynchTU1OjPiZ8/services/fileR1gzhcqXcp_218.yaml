@@ -1,0 +1,8 @@
+service:
+  name: servicedpFxPLUK1O
+  identifier: servicedpFxPLUK1O
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

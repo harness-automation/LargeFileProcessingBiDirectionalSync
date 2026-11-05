@@ -1,0 +1,8 @@
+service:
+  name: serviceonDE8Ta7gk
+  identifier: serviceonDE8Ta7gk
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service2CInaslCXL
+  identifier: service2CInaslCXL
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

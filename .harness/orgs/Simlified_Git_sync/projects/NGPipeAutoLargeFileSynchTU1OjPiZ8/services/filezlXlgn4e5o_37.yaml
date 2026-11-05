@@ -1,0 +1,8 @@
+service:
+  name: serviceP79gim8Mfo
+  identifier: serviceP79gim8Mfo
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

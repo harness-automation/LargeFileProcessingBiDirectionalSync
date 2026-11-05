@@ -1,0 +1,8 @@
+service:
+  name: serviceX5106bVjrq
+  identifier: serviceX5106bVjrq
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceIlBDD8DAvO
+  identifier: serviceIlBDD8DAvO
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

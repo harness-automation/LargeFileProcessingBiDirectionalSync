@@ -1,0 +1,8 @@
+service:
+  name: serviceUTC27RYftY
+  identifier: serviceUTC27RYftY
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

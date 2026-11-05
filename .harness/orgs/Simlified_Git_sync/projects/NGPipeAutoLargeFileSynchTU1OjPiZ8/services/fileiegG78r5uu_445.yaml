@@ -1,0 +1,8 @@
+service:
+  name: serviceH39IabMPcu
+  identifier: serviceH39IabMPcu
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

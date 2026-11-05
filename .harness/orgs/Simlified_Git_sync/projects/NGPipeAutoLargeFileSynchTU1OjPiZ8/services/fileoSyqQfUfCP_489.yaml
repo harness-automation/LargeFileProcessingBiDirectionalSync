@@ -1,0 +1,8 @@
+service:
+  name: servicevo2PINcqtT
+  identifier: servicevo2PINcqtT
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

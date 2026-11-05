@@ -1,0 +1,8 @@
+service:
+  name: serviceus18XRuvUC
+  identifier: serviceus18XRuvUC
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

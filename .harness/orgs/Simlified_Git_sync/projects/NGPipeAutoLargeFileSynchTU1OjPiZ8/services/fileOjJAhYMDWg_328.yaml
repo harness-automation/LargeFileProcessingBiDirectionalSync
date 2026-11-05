@@ -1,0 +1,8 @@
+service:
+  name: serviceixfDISiLMS
+  identifier: serviceixfDISiLMS
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

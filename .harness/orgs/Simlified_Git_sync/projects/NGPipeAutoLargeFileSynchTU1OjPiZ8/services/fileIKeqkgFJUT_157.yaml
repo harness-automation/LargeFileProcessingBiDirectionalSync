@@ -1,0 +1,8 @@
+service:
+  name: serviceK2OSwo2Rum
+  identifier: serviceK2OSwo2Rum
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

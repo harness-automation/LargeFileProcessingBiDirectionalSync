@@ -1,0 +1,8 @@
+service:
+  name: service1TMYSONBWS
+  identifier: service1TMYSONBWS
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceFTEROyE0X2
+  identifier: serviceFTEROyE0X2
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

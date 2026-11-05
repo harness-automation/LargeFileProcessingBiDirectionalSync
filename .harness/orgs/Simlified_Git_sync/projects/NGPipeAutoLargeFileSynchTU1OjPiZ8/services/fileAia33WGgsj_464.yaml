@@ -1,0 +1,8 @@
+service:
+  name: serviceSFpui5mMPL
+  identifier: serviceSFpui5mMPL
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

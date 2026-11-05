@@ -1,0 +1,8 @@
+service:
+  name: servicedOkugi4MAC
+  identifier: servicedOkugi4MAC
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
