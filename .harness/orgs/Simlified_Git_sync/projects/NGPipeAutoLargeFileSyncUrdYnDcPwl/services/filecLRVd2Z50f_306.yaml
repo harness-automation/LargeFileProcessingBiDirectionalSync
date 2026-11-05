@@ -1,0 +1,8 @@
+service:
+  name: servicevhdH6e8PAK
+  identifier: servicevhdH6e8PAK
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

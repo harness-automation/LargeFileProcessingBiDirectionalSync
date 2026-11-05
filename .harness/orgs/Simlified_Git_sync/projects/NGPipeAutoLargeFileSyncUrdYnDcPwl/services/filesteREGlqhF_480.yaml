@@ -1,0 +1,8 @@
+service:
+  name: service97bDwiTTFN
+  identifier: service97bDwiTTFN
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

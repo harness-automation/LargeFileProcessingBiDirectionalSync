@@ -1,0 +1,8 @@
+service:
+  name: service2jnhymaGmS
+  identifier: service2jnhymaGmS
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceaqZANULIt4
+  identifier: serviceaqZANULIt4
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

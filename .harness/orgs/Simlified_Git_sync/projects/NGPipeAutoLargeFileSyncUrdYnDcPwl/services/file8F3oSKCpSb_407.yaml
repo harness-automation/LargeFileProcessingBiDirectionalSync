@@ -1,0 +1,8 @@
+service:
+  name: serviceqLApQGfNOd
+  identifier: serviceqLApQGfNOd
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

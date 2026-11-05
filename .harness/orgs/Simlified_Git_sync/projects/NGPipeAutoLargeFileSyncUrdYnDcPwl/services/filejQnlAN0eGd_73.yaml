@@ -1,0 +1,8 @@
+service:
+  name: serviceVatE57dZ2N
+  identifier: serviceVatE57dZ2N
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

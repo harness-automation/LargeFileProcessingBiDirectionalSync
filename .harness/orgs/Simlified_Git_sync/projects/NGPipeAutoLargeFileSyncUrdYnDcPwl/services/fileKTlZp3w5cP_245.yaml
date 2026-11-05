@@ -1,0 +1,8 @@
+service:
+  name: serviceMX20Dh7meg
+  identifier: serviceMX20Dh7meg
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

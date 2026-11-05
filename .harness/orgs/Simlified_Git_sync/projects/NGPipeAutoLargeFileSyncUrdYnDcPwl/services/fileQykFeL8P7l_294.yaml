@@ -1,0 +1,8 @@
+service:
+  name: servicewHGALLux2B
+  identifier: servicewHGALLux2B
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

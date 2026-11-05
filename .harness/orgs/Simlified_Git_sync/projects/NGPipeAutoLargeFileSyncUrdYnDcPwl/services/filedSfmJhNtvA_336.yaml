@@ -1,0 +1,8 @@
+service:
+  name: serviceLzelA3lm5a
+  identifier: serviceLzelA3lm5a
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

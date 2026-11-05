@@ -1,0 +1,8 @@
+service:
+  name: servicenOOit3upVt
+  identifier: servicenOOit3upVt
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

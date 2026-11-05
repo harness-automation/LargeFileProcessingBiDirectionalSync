@@ -1,0 +1,8 @@
+service:
+  name: servicecyNEDrDl30
+  identifier: servicecyNEDrDl30
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

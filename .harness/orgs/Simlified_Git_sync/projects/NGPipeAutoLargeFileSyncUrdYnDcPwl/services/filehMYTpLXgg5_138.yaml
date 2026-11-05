@@ -1,0 +1,8 @@
+service:
+  name: serviceZzWJEKWL57
+  identifier: serviceZzWJEKWL57
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

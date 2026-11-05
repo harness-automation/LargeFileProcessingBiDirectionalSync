@@ -1,0 +1,8 @@
+service:
+  name: serviceWVa41zUsc2
+  identifier: serviceWVa41zUsc2
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

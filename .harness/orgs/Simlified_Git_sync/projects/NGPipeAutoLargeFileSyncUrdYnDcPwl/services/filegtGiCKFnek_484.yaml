@@ -1,0 +1,8 @@
+service:
+  name: serviceDuLo1sHspc
+  identifier: serviceDuLo1sHspc
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

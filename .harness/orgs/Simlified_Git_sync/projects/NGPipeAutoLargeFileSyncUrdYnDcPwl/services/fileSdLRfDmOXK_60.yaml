@@ -1,0 +1,8 @@
+service:
+  name: service513PtOGMIq
+  identifier: service513PtOGMIq
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

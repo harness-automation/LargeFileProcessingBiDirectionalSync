@@ -1,0 +1,8 @@
+service:
+  name: servicenfgGIOEx2z
+  identifier: servicenfgGIOEx2z
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

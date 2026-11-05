@@ -1,0 +1,8 @@
+service:
+  name: serviceAWWUKNVCHe
+  identifier: serviceAWWUKNVCHe
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceLF2mNtGein
+  identifier: serviceLF2mNtGein
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

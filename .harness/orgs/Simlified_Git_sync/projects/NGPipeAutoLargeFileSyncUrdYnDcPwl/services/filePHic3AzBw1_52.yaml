@@ -1,0 +1,8 @@
+service:
+  name: serviceypto4ImdsC
+  identifier: serviceypto4ImdsC
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicekwacApN82w
+  identifier: servicekwacApN82w
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

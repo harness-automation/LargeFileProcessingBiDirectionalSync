@@ -1,0 +1,8 @@
+service:
+  name: servicekagXU81aGw
+  identifier: servicekagXU81aGw
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

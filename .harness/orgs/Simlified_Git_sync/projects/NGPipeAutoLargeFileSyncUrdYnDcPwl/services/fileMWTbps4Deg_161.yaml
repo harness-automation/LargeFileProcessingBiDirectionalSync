@@ -1,0 +1,8 @@
+service:
+  name: servicewap8NE0CJ3
+  identifier: servicewap8NE0CJ3
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

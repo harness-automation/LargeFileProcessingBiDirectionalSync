@@ -1,0 +1,8 @@
+service:
+  name: serviceCo4HDm6oIW
+  identifier: serviceCo4HDm6oIW
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

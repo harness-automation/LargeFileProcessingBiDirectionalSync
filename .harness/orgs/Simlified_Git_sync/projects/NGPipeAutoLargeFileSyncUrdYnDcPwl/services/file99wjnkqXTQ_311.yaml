@@ -1,0 +1,8 @@
+service:
+  name: serviceJOhNbdLIAj
+  identifier: serviceJOhNbdLIAj
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

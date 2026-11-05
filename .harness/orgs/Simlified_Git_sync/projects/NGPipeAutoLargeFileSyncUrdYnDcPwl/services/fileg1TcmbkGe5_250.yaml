@@ -1,0 +1,8 @@
+service:
+  name: serviceAn434uAF1l
+  identifier: serviceAn434uAF1l
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceURCvKWac0c
+  identifier: serviceURCvKWac0c
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

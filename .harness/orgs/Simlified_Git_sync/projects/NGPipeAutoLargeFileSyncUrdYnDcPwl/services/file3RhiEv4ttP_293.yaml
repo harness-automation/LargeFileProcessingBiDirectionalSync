@@ -1,0 +1,8 @@
+service:
+  name: servicevBt650J9S3
+  identifier: servicevBt650J9S3
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

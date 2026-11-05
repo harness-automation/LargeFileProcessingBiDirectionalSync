@@ -1,0 +1,8 @@
+service:
+  name: serviceRPHYkyB98K
+  identifier: serviceRPHYkyB98K
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

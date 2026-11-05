@@ -1,0 +1,8 @@
+service:
+  name: servicetJU3Plob1s
+  identifier: servicetJU3Plob1s
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

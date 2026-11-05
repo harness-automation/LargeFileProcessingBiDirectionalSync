@@ -1,0 +1,8 @@
+service:
+  name: serviceLnDXLYSh20
+  identifier: serviceLnDXLYSh20
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

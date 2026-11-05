@@ -1,0 +1,8 @@
+service:
+  name: serviceVfTPek64sq
+  identifier: serviceVfTPek64sq
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

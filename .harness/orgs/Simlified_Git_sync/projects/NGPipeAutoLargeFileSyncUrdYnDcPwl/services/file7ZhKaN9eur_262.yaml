@@ -1,0 +1,8 @@
+service:
+  name: serviceVRaRnhcsX2
+  identifier: serviceVRaRnhcsX2
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

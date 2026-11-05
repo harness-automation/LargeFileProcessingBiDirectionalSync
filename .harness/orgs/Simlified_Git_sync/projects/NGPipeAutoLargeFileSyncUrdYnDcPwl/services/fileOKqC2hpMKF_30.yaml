@@ -1,0 +1,8 @@
+service:
+  name: serviceWThbGk66db
+  identifier: serviceWThbGk66db
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

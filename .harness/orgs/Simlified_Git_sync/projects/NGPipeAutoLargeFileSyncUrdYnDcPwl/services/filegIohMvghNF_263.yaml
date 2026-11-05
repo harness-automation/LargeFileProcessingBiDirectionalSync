@@ -1,0 +1,8 @@
+service:
+  name: servicezprozfr8ll
+  identifier: servicezprozfr8ll
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

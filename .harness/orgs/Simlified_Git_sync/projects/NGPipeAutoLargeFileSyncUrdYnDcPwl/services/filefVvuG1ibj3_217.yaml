@@ -1,0 +1,8 @@
+service:
+  name: serviceKPSP40gyAH
+  identifier: serviceKPSP40gyAH
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

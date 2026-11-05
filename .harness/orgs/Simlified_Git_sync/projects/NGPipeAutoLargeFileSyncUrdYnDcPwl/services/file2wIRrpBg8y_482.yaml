@@ -1,0 +1,8 @@
+service:
+  name: serviceATEfmnd2At
+  identifier: serviceATEfmnd2At
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

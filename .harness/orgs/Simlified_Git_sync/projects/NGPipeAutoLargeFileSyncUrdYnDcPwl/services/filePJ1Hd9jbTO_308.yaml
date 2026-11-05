@@ -1,0 +1,8 @@
+service:
+  name: service9aMQBA3QLV
+  identifier: service9aMQBA3QLV
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

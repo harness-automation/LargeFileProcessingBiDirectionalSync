@@ -1,0 +1,8 @@
+service:
+  name: servicehfSRWSRGdD
+  identifier: servicehfSRWSRGdD
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

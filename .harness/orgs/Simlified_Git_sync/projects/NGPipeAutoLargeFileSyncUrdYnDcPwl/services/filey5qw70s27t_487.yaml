@@ -1,0 +1,8 @@
+service:
+  name: service27pivvhWM5
+  identifier: service27pivvhWM5
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

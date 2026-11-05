@@ -1,0 +1,8 @@
+service:
+  name: service5LyFeVASAS
+  identifier: service5LyFeVASAS
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

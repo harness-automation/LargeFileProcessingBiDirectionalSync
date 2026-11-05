@@ -1,0 +1,8 @@
+service:
+  name: serviceRBOKjPStGI
+  identifier: serviceRBOKjPStGI
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

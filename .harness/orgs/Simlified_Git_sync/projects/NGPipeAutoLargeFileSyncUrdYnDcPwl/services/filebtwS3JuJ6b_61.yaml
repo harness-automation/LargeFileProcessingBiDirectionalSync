@@ -1,0 +1,8 @@
+service:
+  name: serviceVaMWiCy3z7
+  identifier: serviceVaMWiCy3z7
+  projectIdentifier: NGPipeAutoLargeFileSyncUrdYnDcPwl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
