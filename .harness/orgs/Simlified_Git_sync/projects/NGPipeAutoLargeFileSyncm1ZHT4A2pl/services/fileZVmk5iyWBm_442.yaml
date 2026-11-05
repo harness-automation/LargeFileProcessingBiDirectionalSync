@@ -1,0 +1,8 @@
+service:
+  name: serviceA640DgNH3M
+  identifier: serviceA640DgNH3M
+  projectIdentifier: NGPipeAutoLargeFileSyncm1ZHT4A2pl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

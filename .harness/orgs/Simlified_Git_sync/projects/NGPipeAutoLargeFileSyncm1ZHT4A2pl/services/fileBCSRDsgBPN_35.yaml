@@ -1,0 +1,8 @@
+service:
+  name: serviceHhMplt68tt
+  identifier: serviceHhMplt68tt
+  projectIdentifier: NGPipeAutoLargeFileSyncm1ZHT4A2pl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

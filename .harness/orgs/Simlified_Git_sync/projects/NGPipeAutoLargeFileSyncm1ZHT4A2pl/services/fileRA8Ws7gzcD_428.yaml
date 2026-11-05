@@ -1,0 +1,8 @@
+service:
+  name: serviceeNw5M115ti
+  identifier: serviceeNw5M115ti
+  projectIdentifier: NGPipeAutoLargeFileSyncm1ZHT4A2pl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicepsms5t2I1L
+  identifier: servicepsms5t2I1L
+  projectIdentifier: NGPipeAutoLargeFileSyncm1ZHT4A2pl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

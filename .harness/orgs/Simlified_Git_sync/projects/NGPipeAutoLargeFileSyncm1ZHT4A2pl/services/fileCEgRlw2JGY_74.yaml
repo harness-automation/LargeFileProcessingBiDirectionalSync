@@ -1,0 +1,8 @@
+service:
+  name: serviceEVLSe0bvym
+  identifier: serviceEVLSe0bvym
+  projectIdentifier: NGPipeAutoLargeFileSyncm1ZHT4A2pl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

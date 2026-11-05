@@ -1,0 +1,8 @@
+service:
+  name: servicehtreAxi50t
+  identifier: servicehtreAxi50t
+  projectIdentifier: NGPipeAutoLargeFileSyncm1ZHT4A2pl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

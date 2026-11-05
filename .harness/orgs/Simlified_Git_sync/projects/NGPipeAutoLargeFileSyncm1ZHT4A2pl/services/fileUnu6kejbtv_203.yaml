@@ -1,0 +1,8 @@
+service:
+  name: servicebai1guTII4
+  identifier: servicebai1guTII4
+  projectIdentifier: NGPipeAutoLargeFileSyncm1ZHT4A2pl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

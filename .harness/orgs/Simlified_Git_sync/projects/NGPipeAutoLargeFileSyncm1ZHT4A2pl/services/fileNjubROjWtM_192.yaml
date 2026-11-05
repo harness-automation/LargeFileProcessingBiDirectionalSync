@@ -1,0 +1,8 @@
+service:
+  name: serviceF3BZUWFfac
+  identifier: serviceF3BZUWFfac
+  projectIdentifier: NGPipeAutoLargeFileSyncm1ZHT4A2pl
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
