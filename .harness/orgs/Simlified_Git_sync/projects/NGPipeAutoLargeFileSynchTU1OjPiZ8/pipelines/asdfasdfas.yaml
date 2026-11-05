@@ -1,0 +1,32 @@
+pipeline:
+  name: asdfasdfas
+  identifier: asdfasdfas
+  projectIdentifier: NGPipeAutoLargeFileSynchTU1OjPiZ8
+  orgIdentifier: Simlified_Git_sync
+  tags: {}
+  stages:
+    - stage:
+        name: fdb
+        identifier: fdb
+        description: ""
+        type: Approval
+        spec:
+          execution:
+            steps:
+              - step:
+                  name: dfbs
+                  identifier: dfbs
+                  type: HarnessApproval
+                  timeout: 1d
+                  spec:
+                    approvalMessage: |-
+                      Please review the following information
+                      and approve the pipeline progression
+                    includePipelineExecutionHistory: true
+                    approvers:
+                      minimumCount: 1
+                      disallowPipelineExecutor: false
+                      userGroups: <+input>
+                    isAutoRejectEnabled: false
+                    approverInputs: []
+        tags: {}
