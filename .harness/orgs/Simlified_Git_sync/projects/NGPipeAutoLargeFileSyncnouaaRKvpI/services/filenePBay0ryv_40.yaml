@@ -1,0 +1,8 @@
+service:
+  name: serviceoSAIVkVPib
+  identifier: serviceoSAIVkVPib
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

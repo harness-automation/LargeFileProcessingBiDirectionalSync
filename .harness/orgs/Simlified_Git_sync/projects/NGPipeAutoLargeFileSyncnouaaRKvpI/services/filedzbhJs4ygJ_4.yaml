@@ -1,0 +1,8 @@
+service:
+  name: serviceJtP3010Bsj
+  identifier: serviceJtP3010Bsj
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

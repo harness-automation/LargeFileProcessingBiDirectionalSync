@@ -1,0 +1,8 @@
+service:
+  name: serviceRa3HRSAuBY
+  identifier: serviceRa3HRSAuBY
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

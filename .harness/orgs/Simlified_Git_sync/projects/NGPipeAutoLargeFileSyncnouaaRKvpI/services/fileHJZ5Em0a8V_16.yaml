@@ -1,0 +1,8 @@
+service:
+  name: servicemVws1ZKNKS
+  identifier: servicemVws1ZKNKS
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

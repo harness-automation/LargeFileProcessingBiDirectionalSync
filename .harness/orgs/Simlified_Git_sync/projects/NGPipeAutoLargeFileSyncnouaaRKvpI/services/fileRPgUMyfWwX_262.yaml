@@ -1,0 +1,8 @@
+service:
+  name: servicexbTaP00miw
+  identifier: servicexbTaP00miw
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

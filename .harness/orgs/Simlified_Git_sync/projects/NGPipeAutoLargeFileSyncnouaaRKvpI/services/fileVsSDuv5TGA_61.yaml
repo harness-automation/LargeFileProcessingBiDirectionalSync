@@ -1,0 +1,8 @@
+service:
+  name: serviceEgBz3cv27R
+  identifier: serviceEgBz3cv27R
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

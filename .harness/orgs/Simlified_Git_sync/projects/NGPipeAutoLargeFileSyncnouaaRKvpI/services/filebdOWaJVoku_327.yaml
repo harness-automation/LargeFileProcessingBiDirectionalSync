@@ -1,0 +1,8 @@
+service:
+  name: serviceDPH2HyMTAE
+  identifier: serviceDPH2HyMTAE
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

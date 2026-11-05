@@ -1,0 +1,8 @@
+service:
+  name: serviceX9Dudeajwa
+  identifier: serviceX9Dudeajwa
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

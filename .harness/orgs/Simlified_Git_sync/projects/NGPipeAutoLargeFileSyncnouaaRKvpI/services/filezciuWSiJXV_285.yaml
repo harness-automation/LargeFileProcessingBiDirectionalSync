@@ -1,0 +1,8 @@
+service:
+  name: servicetylWDAyMgG
+  identifier: servicetylWDAyMgG
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

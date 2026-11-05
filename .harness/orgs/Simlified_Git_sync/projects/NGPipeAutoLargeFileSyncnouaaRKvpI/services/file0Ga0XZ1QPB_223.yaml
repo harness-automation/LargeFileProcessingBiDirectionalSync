@@ -1,0 +1,8 @@
+service:
+  name: servicesmbuct0SQM
+  identifier: servicesmbuct0SQM
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

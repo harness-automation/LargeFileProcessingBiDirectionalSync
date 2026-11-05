@@ -1,0 +1,8 @@
+service:
+  name: service1ESSkpAOPT
+  identifier: service1ESSkpAOPT
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceBCDWYiml7l
+  identifier: serviceBCDWYiml7l
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

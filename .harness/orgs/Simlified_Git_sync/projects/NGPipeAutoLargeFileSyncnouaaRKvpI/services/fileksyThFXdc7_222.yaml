@@ -1,0 +1,8 @@
+service:
+  name: servicen3M5BMmCIC
+  identifier: servicen3M5BMmCIC
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

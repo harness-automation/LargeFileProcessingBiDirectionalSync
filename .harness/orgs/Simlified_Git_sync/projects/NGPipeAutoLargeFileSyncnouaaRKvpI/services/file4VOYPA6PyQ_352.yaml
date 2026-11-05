@@ -1,0 +1,8 @@
+service:
+  name: servicePC3wFSguEO
+  identifier: servicePC3wFSguEO
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

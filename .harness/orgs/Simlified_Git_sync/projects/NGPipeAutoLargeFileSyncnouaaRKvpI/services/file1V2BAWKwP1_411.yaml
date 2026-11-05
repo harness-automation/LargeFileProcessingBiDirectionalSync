@@ -1,0 +1,8 @@
+service:
+  name: serviceMRes1VT0ZH
+  identifier: serviceMRes1VT0ZH
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

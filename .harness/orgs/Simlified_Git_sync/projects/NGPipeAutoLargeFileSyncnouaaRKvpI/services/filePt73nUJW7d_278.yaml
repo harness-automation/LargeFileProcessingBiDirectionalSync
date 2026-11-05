@@ -1,0 +1,8 @@
+service:
+  name: serviceD14MPvlFv1
+  identifier: serviceD14MPvlFv1
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicez1ibDmRLGP
+  identifier: servicez1ibDmRLGP
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service4OW1osIAFC
+  identifier: service4OW1osIAFC
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

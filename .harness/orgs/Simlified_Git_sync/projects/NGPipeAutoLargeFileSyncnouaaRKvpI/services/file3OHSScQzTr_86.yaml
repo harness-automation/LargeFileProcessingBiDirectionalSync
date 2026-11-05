@@ -1,0 +1,8 @@
+service:
+  name: serviceRnBo926BO6
+  identifier: serviceRnBo926BO6
+  projectIdentifier: NGPipeAutoLargeFileSyncnouaaRKvpI
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
