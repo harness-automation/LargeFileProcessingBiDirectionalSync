@@ -1,0 +1,8 @@
+service:
+  name: servicezXMv2Enclg
+  identifier: servicezXMv2Enclg
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

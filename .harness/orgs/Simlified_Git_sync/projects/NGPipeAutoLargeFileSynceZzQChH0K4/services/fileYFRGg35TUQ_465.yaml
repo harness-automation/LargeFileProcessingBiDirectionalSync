@@ -1,0 +1,8 @@
+service:
+  name: serviceVpEL50zBnI
+  identifier: serviceVpEL50zBnI
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

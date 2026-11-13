@@ -1,0 +1,8 @@
+service:
+  name: serviceKWsHW6vga3
+  identifier: serviceKWsHW6vga3
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

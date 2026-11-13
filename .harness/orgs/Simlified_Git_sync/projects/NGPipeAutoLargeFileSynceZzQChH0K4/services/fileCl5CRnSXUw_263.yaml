@@ -1,0 +1,8 @@
+service:
+  name: serviceq3tuOuivpn
+  identifier: serviceq3tuOuivpn
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

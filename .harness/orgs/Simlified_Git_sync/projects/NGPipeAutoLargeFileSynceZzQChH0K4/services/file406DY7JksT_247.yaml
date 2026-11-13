@@ -1,0 +1,8 @@
+service:
+  name: serviceX7JgIle4jS
+  identifier: serviceX7JgIle4jS
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

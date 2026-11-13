@@ -1,0 +1,8 @@
+service:
+  name: serviceMAi5Rog2TB
+  identifier: serviceMAi5Rog2TB
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

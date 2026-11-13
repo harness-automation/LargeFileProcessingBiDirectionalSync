@@ -1,0 +1,8 @@
+service:
+  name: serviceDokv93k663
+  identifier: serviceDokv93k663
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

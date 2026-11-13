@@ -1,0 +1,8 @@
+service:
+  name: serviceAsPkdLE44v
+  identifier: serviceAsPkdLE44v
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceBlki4ongKU
+  identifier: serviceBlki4ongKU
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

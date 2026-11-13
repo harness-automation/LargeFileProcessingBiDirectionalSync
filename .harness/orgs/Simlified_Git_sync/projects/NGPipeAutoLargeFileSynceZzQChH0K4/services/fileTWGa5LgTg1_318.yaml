@@ -1,0 +1,8 @@
+service:
+  name: serviceN3RUOGeLPU
+  identifier: serviceN3RUOGeLPU
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

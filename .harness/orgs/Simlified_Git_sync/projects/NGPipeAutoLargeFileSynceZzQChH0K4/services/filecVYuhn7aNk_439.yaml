@@ -1,0 +1,8 @@
+service:
+  name: serviceNCVen0Vunw
+  identifier: serviceNCVen0Vunw
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

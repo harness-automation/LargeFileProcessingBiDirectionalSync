@@ -1,0 +1,8 @@
+service:
+  name: serviceRm1Z3RU21l
+  identifier: serviceRm1Z3RU21l
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

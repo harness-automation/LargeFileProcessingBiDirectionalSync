@@ -1,0 +1,8 @@
+service:
+  name: servicefisIMRilr2
+  identifier: servicefisIMRilr2
+  projectIdentifier: NGPipeAutoLargeFileSynceZzQChH0K4
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
