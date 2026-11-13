@@ -1,0 +1,8 @@
+service:
+  name: servicekbp0AKTAB3
+  identifier: servicekbp0AKTAB3
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

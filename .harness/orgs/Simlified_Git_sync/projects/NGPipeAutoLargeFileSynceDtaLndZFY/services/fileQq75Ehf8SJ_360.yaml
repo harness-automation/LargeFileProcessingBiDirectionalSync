@@ -1,0 +1,8 @@
+service:
+  name: servicejn41WQnMSM
+  identifier: servicejn41WQnMSM
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

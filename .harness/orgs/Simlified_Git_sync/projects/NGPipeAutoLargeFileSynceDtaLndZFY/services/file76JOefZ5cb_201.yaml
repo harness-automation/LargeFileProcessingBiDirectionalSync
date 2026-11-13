@@ -1,0 +1,8 @@
+service:
+  name: service56dqjFIl23
+  identifier: service56dqjFIl23
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

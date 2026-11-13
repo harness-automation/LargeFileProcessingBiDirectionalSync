@@ -1,0 +1,8 @@
+service:
+  name: serviceGqiP7eLCut
+  identifier: serviceGqiP7eLCut
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

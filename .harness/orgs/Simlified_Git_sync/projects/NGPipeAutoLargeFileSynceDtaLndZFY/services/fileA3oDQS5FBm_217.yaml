@@ -1,0 +1,8 @@
+service:
+  name: serviceofALA0I3Kk
+  identifier: serviceofALA0I3Kk
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicebHORcOs311
+  identifier: servicebHORcOs311
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

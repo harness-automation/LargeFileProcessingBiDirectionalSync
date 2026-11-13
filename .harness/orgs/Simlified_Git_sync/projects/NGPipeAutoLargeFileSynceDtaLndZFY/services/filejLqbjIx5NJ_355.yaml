@@ -1,0 +1,8 @@
+service:
+  name: serviceDm8Urmnfx8
+  identifier: serviceDm8Urmnfx8
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

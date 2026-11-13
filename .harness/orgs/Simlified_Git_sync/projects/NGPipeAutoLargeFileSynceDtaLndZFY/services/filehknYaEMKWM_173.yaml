@@ -1,0 +1,8 @@
+service:
+  name: servicebDMb8AMlCt
+  identifier: servicebDMb8AMlCt
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

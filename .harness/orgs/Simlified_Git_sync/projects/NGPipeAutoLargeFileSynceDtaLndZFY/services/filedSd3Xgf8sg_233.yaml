@@ -1,0 +1,8 @@
+service:
+  name: servicebNEsZOrUmt
+  identifier: servicebNEsZOrUmt
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

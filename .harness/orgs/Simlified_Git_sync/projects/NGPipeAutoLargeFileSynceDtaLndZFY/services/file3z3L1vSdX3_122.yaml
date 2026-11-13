@@ -1,0 +1,8 @@
+service:
+  name: servicehh35MacaE7
+  identifier: servicehh35MacaE7
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

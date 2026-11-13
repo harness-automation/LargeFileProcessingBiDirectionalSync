@@ -1,0 +1,8 @@
+service:
+  name: service4D2MAzRfql
+  identifier: service4D2MAzRfql
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

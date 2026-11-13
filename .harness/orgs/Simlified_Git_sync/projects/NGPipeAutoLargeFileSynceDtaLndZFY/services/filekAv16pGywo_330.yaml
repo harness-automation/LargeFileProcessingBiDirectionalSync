@@ -1,0 +1,8 @@
+service:
+  name: serviceumpRLIKu7z
+  identifier: serviceumpRLIKu7z
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

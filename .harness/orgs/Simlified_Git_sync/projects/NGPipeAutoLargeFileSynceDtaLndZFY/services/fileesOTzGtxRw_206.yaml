@@ -1,0 +1,8 @@
+service:
+  name: servicenlHOkfxCeZ
+  identifier: servicenlHOkfxCeZ
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceoX7nODBENx
+  identifier: serviceoX7nODBENx
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

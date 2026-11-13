@@ -1,0 +1,8 @@
+service:
+  name: service5OSFduMwau
+  identifier: service5OSFduMwau
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

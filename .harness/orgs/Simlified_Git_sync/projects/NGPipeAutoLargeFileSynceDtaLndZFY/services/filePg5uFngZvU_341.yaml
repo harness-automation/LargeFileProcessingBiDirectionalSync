@@ -1,0 +1,8 @@
+service:
+  name: service4WzcintWdo
+  identifier: service4WzcintWdo
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

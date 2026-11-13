@@ -1,0 +1,8 @@
+service:
+  name: services2MZg74pSF
+  identifier: services2MZg74pSF
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

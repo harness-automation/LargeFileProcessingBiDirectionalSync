@@ -1,0 +1,8 @@
+service:
+  name: service7rUEN3WEBj
+  identifier: service7rUEN3WEBj
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

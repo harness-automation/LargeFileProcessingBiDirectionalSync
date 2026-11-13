@@ -1,0 +1,8 @@
+service:
+  name: service32FWNRJmYO
+  identifier: service32FWNRJmYO
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

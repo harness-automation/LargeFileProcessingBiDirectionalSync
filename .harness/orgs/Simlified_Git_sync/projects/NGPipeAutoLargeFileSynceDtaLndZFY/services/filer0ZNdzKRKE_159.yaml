@@ -1,0 +1,8 @@
+service:
+  name: serviceOFb0C2BlgT
+  identifier: serviceOFb0C2BlgT
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

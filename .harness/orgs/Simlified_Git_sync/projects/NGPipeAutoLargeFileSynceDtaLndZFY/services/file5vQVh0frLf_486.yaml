@@ -1,0 +1,8 @@
+service:
+  name: servicewavtB2e6Ko
+  identifier: servicewavtB2e6Ko
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

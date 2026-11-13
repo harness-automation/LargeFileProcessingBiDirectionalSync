@@ -1,0 +1,8 @@
+service:
+  name: servicenLhSLckH15
+  identifier: servicenLhSLckH15
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

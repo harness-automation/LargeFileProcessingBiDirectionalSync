@@ -1,0 +1,8 @@
+service:
+  name: serviceL2HDD4sAwF
+  identifier: serviceL2HDD4sAwF
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

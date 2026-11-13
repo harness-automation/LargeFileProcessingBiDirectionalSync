@@ -1,0 +1,8 @@
+service:
+  name: serviceiBOle7KoZA
+  identifier: serviceiBOle7KoZA
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

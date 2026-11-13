@@ -1,0 +1,8 @@
+service:
+  name: serviceFSffrBUNFg
+  identifier: serviceFSffrBUNFg
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

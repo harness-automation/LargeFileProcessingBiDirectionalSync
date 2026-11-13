@@ -1,0 +1,8 @@
+service:
+  name: serviceEEpJx4LIN5
+  identifier: serviceEEpJx4LIN5
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

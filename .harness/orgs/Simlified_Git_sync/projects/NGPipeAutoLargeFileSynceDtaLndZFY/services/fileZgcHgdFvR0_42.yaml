@@ -1,0 +1,8 @@
+service:
+  name: serviceFat0KXEdt2
+  identifier: serviceFat0KXEdt2
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

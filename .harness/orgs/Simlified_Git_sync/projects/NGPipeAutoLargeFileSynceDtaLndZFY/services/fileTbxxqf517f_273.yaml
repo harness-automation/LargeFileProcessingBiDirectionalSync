@@ -1,0 +1,8 @@
+service:
+  name: servicedAnkLL6TPb
+  identifier: servicedAnkLL6TPb
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

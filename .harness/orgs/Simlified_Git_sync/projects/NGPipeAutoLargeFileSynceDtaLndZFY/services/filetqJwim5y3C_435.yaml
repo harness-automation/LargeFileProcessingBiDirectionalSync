@@ -1,0 +1,8 @@
+service:
+  name: servicecxALeX7dmv
+  identifier: servicecxALeX7dmv
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

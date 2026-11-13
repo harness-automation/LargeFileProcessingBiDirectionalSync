@@ -1,0 +1,8 @@
+service:
+  name: servicenLA4Dul0hz
+  identifier: servicenLA4Dul0hz
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

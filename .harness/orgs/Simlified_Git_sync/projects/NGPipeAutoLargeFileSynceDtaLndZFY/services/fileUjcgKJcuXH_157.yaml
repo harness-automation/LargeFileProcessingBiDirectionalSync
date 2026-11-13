@@ -1,0 +1,8 @@
+service:
+  name: serviceM2iV2ABILh
+  identifier: serviceM2iV2ABILh
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

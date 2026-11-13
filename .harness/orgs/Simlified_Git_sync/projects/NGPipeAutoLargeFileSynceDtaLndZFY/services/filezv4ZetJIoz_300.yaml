@@ -1,0 +1,8 @@
+service:
+  name: serviceVaLvDONlE2
+  identifier: serviceVaLvDONlE2
+  projectIdentifier: NGPipeAutoLargeFileSynceDtaLndZFY
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
