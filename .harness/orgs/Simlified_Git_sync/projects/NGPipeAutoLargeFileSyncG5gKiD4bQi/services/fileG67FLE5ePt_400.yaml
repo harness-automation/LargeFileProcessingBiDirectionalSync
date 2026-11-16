@@ -1,0 +1,8 @@
+service:
+  name: serviceUDMNDIgca8
+  identifier: serviceUDMNDIgca8
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

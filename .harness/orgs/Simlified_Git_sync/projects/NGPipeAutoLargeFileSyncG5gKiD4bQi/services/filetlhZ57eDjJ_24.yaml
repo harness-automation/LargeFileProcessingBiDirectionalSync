@@ -1,0 +1,8 @@
+service:
+  name: serviceeBosf7OGOP
+  identifier: serviceeBosf7OGOP
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

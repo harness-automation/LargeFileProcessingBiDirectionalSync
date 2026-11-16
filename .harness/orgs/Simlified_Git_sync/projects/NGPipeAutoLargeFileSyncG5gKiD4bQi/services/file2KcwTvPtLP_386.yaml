@@ -1,0 +1,8 @@
+service:
+  name: serviceRluAs9hzs3
+  identifier: serviceRluAs9hzs3
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

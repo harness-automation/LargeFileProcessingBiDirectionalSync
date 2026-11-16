@@ -1,0 +1,8 @@
+service:
+  name: servicedhEVP32BXK
+  identifier: servicedhEVP32BXK
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

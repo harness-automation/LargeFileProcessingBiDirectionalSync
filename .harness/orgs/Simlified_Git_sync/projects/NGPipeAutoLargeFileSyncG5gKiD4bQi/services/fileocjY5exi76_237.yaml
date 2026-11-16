@@ -1,0 +1,8 @@
+service:
+  name: servicefz2664NRfw
+  identifier: servicefz2664NRfw
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceJ10s154YNK
+  identifier: serviceJ10s154YNK
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

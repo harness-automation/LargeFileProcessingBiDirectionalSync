@@ -1,0 +1,8 @@
+service:
+  name: servicerapRgb3Z01
+  identifier: servicerapRgb3Z01
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

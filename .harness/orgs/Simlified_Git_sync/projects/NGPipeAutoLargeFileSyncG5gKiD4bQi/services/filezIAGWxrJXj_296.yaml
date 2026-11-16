@@ -1,0 +1,8 @@
+service:
+  name: servicetbZ7ex5rPO
+  identifier: servicetbZ7ex5rPO
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceEJmoDGeehP
+  identifier: serviceEJmoDGeehP
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

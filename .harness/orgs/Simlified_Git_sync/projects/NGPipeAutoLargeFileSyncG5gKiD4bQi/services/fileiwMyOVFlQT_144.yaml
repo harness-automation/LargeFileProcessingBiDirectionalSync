@@ -1,0 +1,8 @@
+service:
+  name: servicel7voedBrPG
+  identifier: servicel7voedBrPG
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

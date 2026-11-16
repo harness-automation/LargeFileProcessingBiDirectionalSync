@@ -1,0 +1,8 @@
+service:
+  name: serviceFmqhOLDL4P
+  identifier: serviceFmqhOLDL4P
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

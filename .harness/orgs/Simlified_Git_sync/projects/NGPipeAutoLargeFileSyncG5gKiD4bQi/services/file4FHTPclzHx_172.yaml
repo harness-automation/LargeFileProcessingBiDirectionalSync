@@ -1,0 +1,8 @@
+service:
+  name: serviceocCClPGP5N
+  identifier: serviceocCClPGP5N
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

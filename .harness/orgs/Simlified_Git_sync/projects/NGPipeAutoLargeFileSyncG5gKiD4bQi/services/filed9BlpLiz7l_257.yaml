@@ -1,0 +1,8 @@
+service:
+  name: serviceZythae1htx
+  identifier: serviceZythae1htx
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

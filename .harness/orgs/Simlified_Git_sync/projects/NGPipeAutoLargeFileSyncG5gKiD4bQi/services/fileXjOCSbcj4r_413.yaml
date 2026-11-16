@@ -1,0 +1,8 @@
+service:
+  name: serviceloxP7bh4wt
+  identifier: serviceloxP7bh4wt
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

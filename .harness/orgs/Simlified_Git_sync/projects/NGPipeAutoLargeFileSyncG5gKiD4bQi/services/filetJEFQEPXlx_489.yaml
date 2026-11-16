@@ -1,0 +1,8 @@
+service:
+  name: servicegageK95q4f
+  identifier: servicegageK95q4f
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

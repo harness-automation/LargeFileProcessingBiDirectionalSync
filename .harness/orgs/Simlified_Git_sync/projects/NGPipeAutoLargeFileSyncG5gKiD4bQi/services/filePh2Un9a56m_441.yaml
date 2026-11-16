@@ -1,0 +1,8 @@
+service:
+  name: serviceTp6F2A3Xdb
+  identifier: serviceTp6F2A3Xdb
+  projectIdentifier: NGPipeAutoLargeFileSyncG5gKiD4bQi
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
