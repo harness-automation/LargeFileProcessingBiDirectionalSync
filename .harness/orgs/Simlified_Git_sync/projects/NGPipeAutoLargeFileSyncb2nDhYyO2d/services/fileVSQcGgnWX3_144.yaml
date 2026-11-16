@@ -1,0 +1,8 @@
+service:
+  name: serviceGwfror1Abo
+  identifier: serviceGwfror1Abo
+  projectIdentifier: NGPipeAutoLargeFileSyncb2nDhYyO2d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

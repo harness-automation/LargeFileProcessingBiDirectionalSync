@@ -1,0 +1,8 @@
+service:
+  name: serviceBTG73K0xum
+  identifier: serviceBTG73K0xum
+  projectIdentifier: NGPipeAutoLargeFileSyncb2nDhYyO2d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

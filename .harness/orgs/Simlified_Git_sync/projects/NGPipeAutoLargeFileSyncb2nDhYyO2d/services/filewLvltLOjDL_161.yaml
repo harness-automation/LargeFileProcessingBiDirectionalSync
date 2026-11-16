@@ -1,0 +1,8 @@
+service:
+  name: serviceM1QFAOsa32
+  identifier: serviceM1QFAOsa32
+  projectIdentifier: NGPipeAutoLargeFileSyncb2nDhYyO2d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

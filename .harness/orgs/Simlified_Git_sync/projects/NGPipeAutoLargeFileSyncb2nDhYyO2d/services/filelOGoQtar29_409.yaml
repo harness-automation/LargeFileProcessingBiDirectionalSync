@@ -1,0 +1,8 @@
+service:
+  name: serviceZoHoS8MYXh
+  identifier: serviceZoHoS8MYXh
+  projectIdentifier: NGPipeAutoLargeFileSyncb2nDhYyO2d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

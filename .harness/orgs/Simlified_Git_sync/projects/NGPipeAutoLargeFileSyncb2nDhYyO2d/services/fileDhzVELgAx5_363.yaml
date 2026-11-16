@@ -1,0 +1,8 @@
+service:
+  name: servicepc124HjP4u
+  identifier: servicepc124HjP4u
+  projectIdentifier: NGPipeAutoLargeFileSyncb2nDhYyO2d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

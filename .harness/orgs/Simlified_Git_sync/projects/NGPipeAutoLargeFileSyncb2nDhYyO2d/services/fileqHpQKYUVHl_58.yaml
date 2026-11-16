@@ -1,0 +1,8 @@
+service:
+  name: serviceFZ8spiAbwp
+  identifier: serviceFZ8spiAbwp
+  projectIdentifier: NGPipeAutoLargeFileSyncb2nDhYyO2d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

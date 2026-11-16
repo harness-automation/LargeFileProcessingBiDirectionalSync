@@ -1,0 +1,8 @@
+service:
+  name: serviceZm10OPPLMN
+  identifier: serviceZm10OPPLMN
+  projectIdentifier: NGPipeAutoLargeFileSyncb2nDhYyO2d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

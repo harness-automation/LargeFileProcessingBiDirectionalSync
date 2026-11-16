@@ -1,0 +1,8 @@
+service:
+  name: serviceyAzietB9XN
+  identifier: serviceyAzietB9XN
+  projectIdentifier: NGPipeAutoLargeFileSyncb2nDhYyO2d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceEW65XpJO64
+  identifier: serviceEW65XpJO64
+  projectIdentifier: NGPipeAutoLargeFileSyncb2nDhYyO2d
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
