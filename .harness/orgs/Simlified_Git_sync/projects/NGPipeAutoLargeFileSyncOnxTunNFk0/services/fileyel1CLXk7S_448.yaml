@@ -1,0 +1,8 @@
+service:
+  name: serviceMxA5b40oIg
+  identifier: serviceMxA5b40oIg
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

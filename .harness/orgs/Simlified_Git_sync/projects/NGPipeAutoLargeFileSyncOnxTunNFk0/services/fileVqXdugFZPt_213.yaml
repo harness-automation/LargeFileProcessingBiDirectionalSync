@@ -1,0 +1,8 @@
+service:
+  name: serviceWXzMAONw10
+  identifier: serviceWXzMAONw10
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

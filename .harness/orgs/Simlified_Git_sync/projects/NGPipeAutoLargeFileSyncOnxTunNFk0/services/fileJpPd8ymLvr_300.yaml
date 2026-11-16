@@ -1,0 +1,8 @@
+service:
+  name: serviceimQpGlRUCN
+  identifier: serviceimQpGlRUCN
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceunAMK78afS
+  identifier: serviceunAMK78afS
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service4ZAtiUCuZA
+  identifier: service4ZAtiUCuZA
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

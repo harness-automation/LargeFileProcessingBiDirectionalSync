@@ -1,0 +1,8 @@
+service:
+  name: servicei5DBbek4ow
+  identifier: servicei5DBbek4ow
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicendgT1trVDl
+  identifier: servicendgT1trVDl
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

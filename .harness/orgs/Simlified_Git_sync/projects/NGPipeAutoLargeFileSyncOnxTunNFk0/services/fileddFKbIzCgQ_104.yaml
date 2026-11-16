@@ -1,0 +1,8 @@
+service:
+  name: servicet7AS3sMB0h
+  identifier: servicet7AS3sMB0h
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

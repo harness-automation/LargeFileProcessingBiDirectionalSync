@@ -1,0 +1,8 @@
+service:
+  name: serviceblStdg8NlA
+  identifier: serviceblStdg8NlA
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

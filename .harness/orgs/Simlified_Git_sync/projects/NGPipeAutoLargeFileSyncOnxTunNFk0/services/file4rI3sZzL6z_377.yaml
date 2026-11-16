@@ -1,0 +1,8 @@
+service:
+  name: servicevt96mMLlj0
+  identifier: servicevt96mMLlj0
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicekeK8toSik1
+  identifier: servicekeK8toSik1
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

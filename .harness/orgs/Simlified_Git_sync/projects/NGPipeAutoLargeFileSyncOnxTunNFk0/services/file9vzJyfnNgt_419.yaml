@@ -1,0 +1,8 @@
+service:
+  name: servicer4rsmMUR6Q
+  identifier: servicer4rsmMUR6Q
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

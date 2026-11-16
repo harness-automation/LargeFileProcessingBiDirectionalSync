@@ -1,0 +1,8 @@
+service:
+  name: servicePgcBH1acWX
+  identifier: servicePgcBH1acWX
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceTE3rl53v7q
+  identifier: serviceTE3rl53v7q
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

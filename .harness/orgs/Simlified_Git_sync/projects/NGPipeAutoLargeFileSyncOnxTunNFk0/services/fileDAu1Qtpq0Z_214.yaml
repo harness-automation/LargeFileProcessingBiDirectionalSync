@@ -1,0 +1,8 @@
+service:
+  name: serviceTRL7wy437e
+  identifier: serviceTRL7wy437e
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

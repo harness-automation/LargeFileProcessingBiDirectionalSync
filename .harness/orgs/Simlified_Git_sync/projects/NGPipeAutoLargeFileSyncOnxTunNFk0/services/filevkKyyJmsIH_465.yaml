@@ -1,0 +1,8 @@
+service:
+  name: serviceeFF9W2Pusi
+  identifier: serviceeFF9W2Pusi
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

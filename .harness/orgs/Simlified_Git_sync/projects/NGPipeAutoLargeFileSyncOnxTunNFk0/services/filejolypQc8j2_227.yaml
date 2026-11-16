@@ -1,0 +1,8 @@
+service:
+  name: service4fhsC4Bubl
+  identifier: service4fhsC4Bubl
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

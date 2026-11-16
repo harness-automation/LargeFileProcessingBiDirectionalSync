@@ -1,0 +1,8 @@
+service:
+  name: serviceqVd2wiAxlm
+  identifier: serviceqVd2wiAxlm
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

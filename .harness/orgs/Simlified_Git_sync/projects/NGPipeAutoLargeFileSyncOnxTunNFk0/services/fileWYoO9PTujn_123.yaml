@@ -1,0 +1,8 @@
+service:
+  name: servicejfRv1Cv4Nx
+  identifier: servicejfRv1Cv4Nx
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

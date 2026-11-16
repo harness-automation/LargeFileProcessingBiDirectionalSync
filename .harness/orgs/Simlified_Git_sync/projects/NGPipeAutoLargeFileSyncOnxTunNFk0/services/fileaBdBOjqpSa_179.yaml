@@ -1,0 +1,8 @@
+service:
+  name: serviceAiJbnlTL7J
+  identifier: serviceAiJbnlTL7J
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

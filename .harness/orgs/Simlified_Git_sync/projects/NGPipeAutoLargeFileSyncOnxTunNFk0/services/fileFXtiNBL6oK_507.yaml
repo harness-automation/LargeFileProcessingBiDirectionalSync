@@ -1,0 +1,8 @@
+service:
+  name: serviceDWG3171G8d
+  identifier: serviceDWG3171G8d
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

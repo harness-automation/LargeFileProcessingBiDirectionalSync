@@ -1,0 +1,8 @@
+service:
+  name: serviceudkFAQ3Dxo
+  identifier: serviceudkFAQ3Dxo
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

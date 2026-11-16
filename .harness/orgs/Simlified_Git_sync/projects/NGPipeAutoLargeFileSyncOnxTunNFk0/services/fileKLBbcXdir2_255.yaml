@@ -1,0 +1,8 @@
+service:
+  name: serviceUBbse73tJ8
+  identifier: serviceUBbse73tJ8
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

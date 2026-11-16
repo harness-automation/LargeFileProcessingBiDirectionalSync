@@ -1,0 +1,8 @@
+service:
+  name: servicek3OSNDXtiF
+  identifier: servicek3OSNDXtiF
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

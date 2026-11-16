@@ -1,0 +1,8 @@
+service:
+  name: servicec40G52CCmi
+  identifier: servicec40G52CCmi
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

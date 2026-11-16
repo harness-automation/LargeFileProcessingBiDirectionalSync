@@ -1,0 +1,8 @@
+service:
+  name: service2lCKFMWDtr
+  identifier: service2lCKFMWDtr
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

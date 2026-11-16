@@ -1,0 +1,8 @@
+service:
+  name: servicee1plU0Bmhp
+  identifier: servicee1plU0Bmhp
+  projectIdentifier: NGPipeAutoLargeFileSyncOnxTunNFk0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
