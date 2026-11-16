@@ -1,0 +1,8 @@
+service:
+  name: serviceAPD47FdGPn
+  identifier: serviceAPD47FdGPn
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

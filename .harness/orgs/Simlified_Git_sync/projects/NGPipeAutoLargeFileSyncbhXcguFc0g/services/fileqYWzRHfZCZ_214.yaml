@@ -1,0 +1,8 @@
+service:
+  name: servicelSMA1L2W6b
+  identifier: servicelSMA1L2W6b
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

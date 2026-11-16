@@ -1,0 +1,8 @@
+service:
+  name: serviceMy83VcIIBG
+  identifier: serviceMy83VcIIBG
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

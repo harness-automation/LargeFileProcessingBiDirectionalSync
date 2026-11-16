@@ -1,0 +1,8 @@
+service:
+  name: serviceKensq76DOc
+  identifier: serviceKensq76DOc
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

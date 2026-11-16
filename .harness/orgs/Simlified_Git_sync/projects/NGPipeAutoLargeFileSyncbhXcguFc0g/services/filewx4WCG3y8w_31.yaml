@@ -1,0 +1,8 @@
+service:
+  name: serviceGpxF7X8TXA
+  identifier: serviceGpxF7X8TXA
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

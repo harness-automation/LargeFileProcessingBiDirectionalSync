@@ -1,0 +1,8 @@
+service:
+  name: serviceUDbuK7sHLW
+  identifier: serviceUDbuK7sHLW
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicede41CRkom4
+  identifier: servicede41CRkom4
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

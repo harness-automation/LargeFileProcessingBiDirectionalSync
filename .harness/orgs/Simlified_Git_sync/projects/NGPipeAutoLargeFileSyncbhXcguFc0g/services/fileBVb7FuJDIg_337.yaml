@@ -1,0 +1,8 @@
+service:
+  name: servicenccmHc3agR
+  identifier: servicenccmHc3agR
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

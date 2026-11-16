@@ -1,0 +1,8 @@
+service:
+  name: serviceRDsf1flGcM
+  identifier: serviceRDsf1flGcM
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

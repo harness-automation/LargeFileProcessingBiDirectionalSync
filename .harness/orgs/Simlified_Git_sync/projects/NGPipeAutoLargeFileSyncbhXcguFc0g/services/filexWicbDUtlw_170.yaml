@@ -1,0 +1,8 @@
+service:
+  name: servicefgcmE5WKDB
+  identifier: servicefgcmE5WKDB
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

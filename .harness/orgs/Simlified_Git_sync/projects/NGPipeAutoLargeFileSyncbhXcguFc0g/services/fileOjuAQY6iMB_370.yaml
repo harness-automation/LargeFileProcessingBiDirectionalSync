@@ -1,0 +1,8 @@
+service:
+  name: serviceiNow3isZNS
+  identifier: serviceiNow3isZNS
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceivStlRg2En
+  identifier: serviceivStlRg2En
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

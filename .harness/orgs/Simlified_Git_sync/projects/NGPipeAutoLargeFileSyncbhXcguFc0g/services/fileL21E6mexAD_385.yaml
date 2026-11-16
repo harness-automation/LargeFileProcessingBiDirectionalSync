@@ -1,0 +1,8 @@
+service:
+  name: servicew2gucLYmEr
+  identifier: servicew2gucLYmEr
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

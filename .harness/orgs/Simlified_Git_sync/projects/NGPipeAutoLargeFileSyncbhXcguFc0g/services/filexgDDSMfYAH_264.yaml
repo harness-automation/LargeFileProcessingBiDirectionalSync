@@ -1,0 +1,8 @@
+service:
+  name: serviceCVGMIA7Uks
+  identifier: serviceCVGMIA7Uks
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

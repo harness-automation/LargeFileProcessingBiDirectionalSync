@@ -1,0 +1,8 @@
+service:
+  name: serviceIbk3HmsSBV
+  identifier: serviceIbk3HmsSBV
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

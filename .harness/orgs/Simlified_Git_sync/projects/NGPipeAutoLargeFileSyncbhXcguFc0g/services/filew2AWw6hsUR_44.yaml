@@ -1,0 +1,8 @@
+service:
+  name: serviceqlCq45Hdot
+  identifier: serviceqlCq45Hdot
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

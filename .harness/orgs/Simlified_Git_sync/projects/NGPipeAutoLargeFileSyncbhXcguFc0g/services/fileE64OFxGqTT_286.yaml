@@ -1,0 +1,8 @@
+service:
+  name: servicekMS2L5TUuh
+  identifier: servicekMS2L5TUuh
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

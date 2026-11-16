@@ -1,0 +1,8 @@
+service:
+  name: servicet7DAFR22fn
+  identifier: servicet7DAFR22fn
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

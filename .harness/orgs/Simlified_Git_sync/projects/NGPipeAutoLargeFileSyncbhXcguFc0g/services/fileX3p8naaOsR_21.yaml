@@ -1,0 +1,8 @@
+service:
+  name: service10TKBaEXja
+  identifier: service10TKBaEXja
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

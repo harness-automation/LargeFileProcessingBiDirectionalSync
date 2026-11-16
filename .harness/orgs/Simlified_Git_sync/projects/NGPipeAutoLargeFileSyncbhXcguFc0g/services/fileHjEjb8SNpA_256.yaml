@@ -1,0 +1,8 @@
+service:
+  name: serviceIJKN26vKDI
+  identifier: serviceIJKN26vKDI
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

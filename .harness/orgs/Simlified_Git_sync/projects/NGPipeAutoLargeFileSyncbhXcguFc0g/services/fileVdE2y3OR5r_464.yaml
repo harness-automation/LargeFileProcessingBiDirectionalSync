@@ -1,0 +1,8 @@
+service:
+  name: serviceNMX6ETRMd0
+  identifier: serviceNMX6ETRMd0
+  projectIdentifier: NGPipeAutoLargeFileSyncbhXcguFc0g
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
