@@ -1,0 +1,8 @@
+service:
+  name: serviceRPtBdi5JAF
+  identifier: serviceRPtBdi5JAF
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

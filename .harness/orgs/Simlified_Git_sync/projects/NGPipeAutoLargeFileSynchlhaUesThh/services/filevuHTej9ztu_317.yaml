@@ -1,0 +1,8 @@
+service:
+  name: serviceDwP438FDn9
+  identifier: serviceDwP438FDn9
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

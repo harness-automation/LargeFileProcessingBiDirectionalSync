@@ -1,0 +1,8 @@
+service:
+  name: serviceMpLG1FT6GK
+  identifier: serviceMpLG1FT6GK
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

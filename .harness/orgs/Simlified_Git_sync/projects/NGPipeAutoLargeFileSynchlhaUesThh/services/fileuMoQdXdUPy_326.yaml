@@ -1,0 +1,8 @@
+service:
+  name: serviceSNNYCNnFRk
+  identifier: serviceSNNYCNnFRk
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: services8TT4Maqwp
+  identifier: services8TT4Maqwp
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

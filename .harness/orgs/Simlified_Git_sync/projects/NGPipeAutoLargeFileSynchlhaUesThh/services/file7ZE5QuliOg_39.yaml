@@ -1,0 +1,8 @@
+service:
+  name: serviceGrM2kFiN5S
+  identifier: serviceGrM2kFiN5S
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

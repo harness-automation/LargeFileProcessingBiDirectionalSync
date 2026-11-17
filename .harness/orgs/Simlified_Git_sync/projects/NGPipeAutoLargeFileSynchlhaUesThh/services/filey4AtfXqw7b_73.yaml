@@ -1,0 +1,8 @@
+service:
+  name: serviceLUIEyWBhWe
+  identifier: serviceLUIEyWBhWe
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

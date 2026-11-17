@@ -1,0 +1,8 @@
+service:
+  name: servicevmdmsQMI8e
+  identifier: servicevmdmsQMI8e
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

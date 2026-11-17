@@ -1,0 +1,8 @@
+service:
+  name: servicecjN82K2zTJ
+  identifier: servicecjN82K2zTJ
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

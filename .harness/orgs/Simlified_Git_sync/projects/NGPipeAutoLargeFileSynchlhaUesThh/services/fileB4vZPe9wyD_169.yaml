@@ -1,0 +1,8 @@
+service:
+  name: serviceJttZ4voCLK
+  identifier: serviceJttZ4voCLK
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

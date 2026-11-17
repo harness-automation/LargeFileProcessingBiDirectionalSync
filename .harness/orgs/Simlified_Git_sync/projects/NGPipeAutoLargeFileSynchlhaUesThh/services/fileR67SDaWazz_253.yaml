@@ -1,0 +1,8 @@
+service:
+  name: service4FavcWzzii
+  identifier: service4FavcWzzii
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

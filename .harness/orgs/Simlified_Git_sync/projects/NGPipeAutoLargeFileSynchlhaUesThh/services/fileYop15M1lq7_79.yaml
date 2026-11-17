@@ -1,0 +1,8 @@
+service:
+  name: servicefas1MwPW63
+  identifier: servicefas1MwPW63
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

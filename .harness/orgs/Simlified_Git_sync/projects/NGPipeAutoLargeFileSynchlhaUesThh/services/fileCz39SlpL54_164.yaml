@@ -1,0 +1,8 @@
+service:
+  name: serviceDFVDkaViLd
+  identifier: serviceDFVDkaViLd
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

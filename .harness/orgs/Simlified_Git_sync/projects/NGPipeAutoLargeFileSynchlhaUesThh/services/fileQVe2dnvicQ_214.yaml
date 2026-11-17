@@ -1,0 +1,8 @@
+service:
+  name: servicedr1SW89FbB
+  identifier: servicedr1SW89FbB
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

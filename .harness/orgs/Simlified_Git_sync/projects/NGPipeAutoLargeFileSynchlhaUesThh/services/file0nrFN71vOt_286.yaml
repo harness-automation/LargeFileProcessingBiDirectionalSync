@@ -1,0 +1,8 @@
+service:
+  name: servicex3rLthG48S
+  identifier: servicex3rLthG48S
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

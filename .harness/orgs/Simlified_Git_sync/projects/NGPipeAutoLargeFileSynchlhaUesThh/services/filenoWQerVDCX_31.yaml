@@ -1,0 +1,8 @@
+service:
+  name: service28fr2fuVon
+  identifier: service28fr2fuVon
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

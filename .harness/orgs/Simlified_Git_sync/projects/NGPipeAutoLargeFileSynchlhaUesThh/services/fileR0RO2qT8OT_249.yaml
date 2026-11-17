@@ -1,0 +1,8 @@
+service:
+  name: serviceEBOFUOMrUJ
+  identifier: serviceEBOFUOMrUJ
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

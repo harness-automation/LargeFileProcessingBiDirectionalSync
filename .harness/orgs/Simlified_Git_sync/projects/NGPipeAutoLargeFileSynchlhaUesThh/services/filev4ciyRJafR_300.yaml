@@ -1,0 +1,8 @@
+service:
+  name: servicefMUCLbzZOl
+  identifier: servicefMUCLbzZOl
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

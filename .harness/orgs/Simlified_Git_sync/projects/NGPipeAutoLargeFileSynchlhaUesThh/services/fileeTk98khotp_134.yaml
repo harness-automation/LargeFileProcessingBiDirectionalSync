@@ -1,0 +1,8 @@
+service:
+  name: serviceHCL6xvMCmz
+  identifier: serviceHCL6xvMCmz
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

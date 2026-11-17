@@ -1,0 +1,8 @@
+service:
+  name: serviceYX15sIDMBd
+  identifier: serviceYX15sIDMBd
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

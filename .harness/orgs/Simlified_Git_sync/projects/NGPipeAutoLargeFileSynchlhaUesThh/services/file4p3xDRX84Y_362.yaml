@@ -1,0 +1,8 @@
+service:
+  name: serviceZF753muVwy
+  identifier: serviceZF753muVwy
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

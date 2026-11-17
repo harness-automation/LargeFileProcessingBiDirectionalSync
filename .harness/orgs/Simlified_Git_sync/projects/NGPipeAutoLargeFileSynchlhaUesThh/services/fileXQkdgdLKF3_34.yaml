@@ -1,0 +1,8 @@
+service:
+  name: serviceM32cyAO5Q2
+  identifier: serviceM32cyAO5Q2
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicebScVGj2xza
+  identifier: servicebScVGj2xza
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceOhU11g230R
+  identifier: serviceOhU11g230R
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

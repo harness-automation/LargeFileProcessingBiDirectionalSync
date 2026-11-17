@@ -1,0 +1,8 @@
+service:
+  name: servicetv1gcFFvMS
+  identifier: servicetv1gcFFvMS
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

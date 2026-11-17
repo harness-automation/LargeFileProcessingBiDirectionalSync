@@ -1,0 +1,8 @@
+service:
+  name: serviceMxps4vo4Mt
+  identifier: serviceMxps4vo4Mt
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceUPNn59Thv7
+  identifier: serviceUPNn59Thv7
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

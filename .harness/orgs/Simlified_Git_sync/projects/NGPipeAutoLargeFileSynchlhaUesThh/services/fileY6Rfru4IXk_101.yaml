@@ -1,0 +1,8 @@
+service:
+  name: service0SLESuR89c
+  identifier: service0SLESuR89c
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

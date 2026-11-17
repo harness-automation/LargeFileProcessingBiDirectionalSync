@@ -1,0 +1,8 @@
+service:
+  name: servicevYG96FLOH1
+  identifier: servicevYG96FLOH1
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

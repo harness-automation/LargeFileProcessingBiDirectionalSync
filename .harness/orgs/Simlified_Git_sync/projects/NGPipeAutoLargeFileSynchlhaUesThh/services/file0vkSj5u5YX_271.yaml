@@ -1,0 +1,8 @@
+service:
+  name: serviceCrCLKBp2dT
+  identifier: serviceCrCLKBp2dT
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

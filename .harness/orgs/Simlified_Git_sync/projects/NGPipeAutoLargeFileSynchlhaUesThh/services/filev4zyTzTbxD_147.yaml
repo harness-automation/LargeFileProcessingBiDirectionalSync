@@ -1,0 +1,8 @@
+service:
+  name: serviceBeTtjTiNAH
+  identifier: serviceBeTtjTiNAH
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

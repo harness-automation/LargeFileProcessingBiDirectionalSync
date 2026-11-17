@@ -1,0 +1,8 @@
+service:
+  name: servicevrMW2m4mga
+  identifier: servicevrMW2m4mga
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

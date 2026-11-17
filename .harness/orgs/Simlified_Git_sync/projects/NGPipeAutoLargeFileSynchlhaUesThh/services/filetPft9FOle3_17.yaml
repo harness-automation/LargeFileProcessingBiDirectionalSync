@@ -1,0 +1,8 @@
+service:
+  name: service1NjUnLPATk
+  identifier: service1NjUnLPATk
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

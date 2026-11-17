@@ -1,0 +1,8 @@
+service:
+  name: servicezaisJ7P3v6
+  identifier: servicezaisJ7P3v6
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

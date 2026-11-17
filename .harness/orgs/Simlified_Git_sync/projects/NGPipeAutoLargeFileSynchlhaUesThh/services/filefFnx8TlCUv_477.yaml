@@ -1,0 +1,8 @@
+service:
+  name: serviceF18CPRASc7
+  identifier: serviceF18CPRASc7
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

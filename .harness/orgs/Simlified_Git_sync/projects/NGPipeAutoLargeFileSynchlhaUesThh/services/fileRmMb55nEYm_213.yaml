@@ -1,0 +1,8 @@
+service:
+  name: serviceLJHLOK7eBp
+  identifier: serviceLJHLOK7eBp
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

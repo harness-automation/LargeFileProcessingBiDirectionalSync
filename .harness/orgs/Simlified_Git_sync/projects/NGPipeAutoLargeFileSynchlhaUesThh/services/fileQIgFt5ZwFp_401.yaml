@@ -1,0 +1,8 @@
+service:
+  name: service2bKwg3ULWP
+  identifier: service2bKwg3ULWP
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

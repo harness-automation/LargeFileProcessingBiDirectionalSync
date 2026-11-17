@@ -1,0 +1,8 @@
+service:
+  name: servicetOSA76L8IY
+  identifier: servicetOSA76L8IY
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

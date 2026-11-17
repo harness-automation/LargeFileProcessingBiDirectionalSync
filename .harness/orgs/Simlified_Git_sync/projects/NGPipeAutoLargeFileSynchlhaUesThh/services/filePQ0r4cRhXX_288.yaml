@@ -1,0 +1,8 @@
+service:
+  name: servicehpy5HObiDa
+  identifier: servicehpy5HObiDa
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

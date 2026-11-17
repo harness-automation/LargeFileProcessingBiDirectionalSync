@@ -1,0 +1,8 @@
+service:
+  name: servicelDAowt3PNJ
+  identifier: servicelDAowt3PNJ
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceECkQD2BQOd
+  identifier: serviceECkQD2BQOd
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

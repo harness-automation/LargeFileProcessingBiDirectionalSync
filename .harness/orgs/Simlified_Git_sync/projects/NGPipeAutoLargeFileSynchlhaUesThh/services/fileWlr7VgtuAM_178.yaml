@@ -1,0 +1,8 @@
+service:
+  name: service8wca0VM4ss
+  identifier: service8wca0VM4ss
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

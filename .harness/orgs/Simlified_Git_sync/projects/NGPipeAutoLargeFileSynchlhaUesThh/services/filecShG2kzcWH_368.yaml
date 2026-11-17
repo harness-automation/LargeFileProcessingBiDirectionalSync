@@ -1,0 +1,8 @@
+service:
+  name: service4a3WputfGv
+  identifier: service4a3WputfGv
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

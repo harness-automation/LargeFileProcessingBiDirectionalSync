@@ -1,0 +1,8 @@
+service:
+  name: serviceDv19SlrSf4
+  identifier: serviceDv19SlrSf4
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

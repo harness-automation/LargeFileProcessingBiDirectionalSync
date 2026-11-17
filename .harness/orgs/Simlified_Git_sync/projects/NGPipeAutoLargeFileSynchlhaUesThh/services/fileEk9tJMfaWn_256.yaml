@@ -1,0 +1,8 @@
+service:
+  name: servicetM6hWL2Bar
+  identifier: servicetM6hWL2Bar
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

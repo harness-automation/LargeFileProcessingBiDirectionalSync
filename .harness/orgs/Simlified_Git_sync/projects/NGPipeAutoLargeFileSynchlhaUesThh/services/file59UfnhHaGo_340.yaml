@@ -1,0 +1,8 @@
+service:
+  name: servicet8MbzWVMQ3
+  identifier: servicet8MbzWVMQ3
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceOsXWviS627
+  identifier: serviceOsXWviS627
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

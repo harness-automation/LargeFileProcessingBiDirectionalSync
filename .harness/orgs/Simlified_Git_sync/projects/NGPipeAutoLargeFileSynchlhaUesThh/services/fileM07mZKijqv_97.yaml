@@ -1,0 +1,8 @@
+service:
+  name: servicegHRU1r8bTJ
+  identifier: servicegHRU1r8bTJ
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

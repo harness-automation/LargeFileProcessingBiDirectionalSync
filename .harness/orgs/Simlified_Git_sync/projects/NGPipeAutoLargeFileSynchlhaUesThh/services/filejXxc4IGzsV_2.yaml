@@ -1,0 +1,8 @@
+service:
+  name: servicezsvWz8t32b
+  identifier: servicezsvWz8t32b
+  projectIdentifier: NGPipeAutoLargeFileSynchlhaUesThh
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
