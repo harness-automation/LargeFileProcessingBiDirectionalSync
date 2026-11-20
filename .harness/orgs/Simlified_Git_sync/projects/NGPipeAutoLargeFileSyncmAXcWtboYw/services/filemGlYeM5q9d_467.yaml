@@ -1,0 +1,8 @@
+service:
+  name: servicePBrOTgI2lO
+  identifier: servicePBrOTgI2lO
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

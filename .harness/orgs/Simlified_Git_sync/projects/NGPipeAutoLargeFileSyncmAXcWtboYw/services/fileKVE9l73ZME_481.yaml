@@ -1,0 +1,8 @@
+service:
+  name: serviceFocsafpD4S
+  identifier: serviceFocsafpD4S
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

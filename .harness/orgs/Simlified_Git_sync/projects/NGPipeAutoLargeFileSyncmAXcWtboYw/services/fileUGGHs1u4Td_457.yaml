@@ -1,0 +1,8 @@
+service:
+  name: serviceTKRY2gTiLn
+  identifier: serviceTKRY2gTiLn
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

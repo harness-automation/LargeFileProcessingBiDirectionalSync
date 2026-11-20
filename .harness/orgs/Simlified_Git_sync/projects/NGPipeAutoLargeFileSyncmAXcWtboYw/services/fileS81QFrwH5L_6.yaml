@@ -1,0 +1,8 @@
+service:
+  name: serviceCfCGs64JNF
+  identifier: serviceCfCGs64JNF
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicemFiAdH4ORH
+  identifier: servicemFiAdH4ORH
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicevbLGudBGD1
+  identifier: servicevbLGudBGD1
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: service4MgRiB87fs
+  identifier: service4MgRiB87fs
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

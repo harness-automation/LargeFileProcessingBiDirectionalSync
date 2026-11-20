@@ -1,0 +1,8 @@
+service:
+  name: serviceQASYB52ZLu
+  identifier: serviceQASYB52ZLu
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

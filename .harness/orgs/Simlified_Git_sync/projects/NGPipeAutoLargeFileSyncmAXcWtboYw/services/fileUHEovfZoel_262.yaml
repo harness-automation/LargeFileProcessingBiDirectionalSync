@@ -1,0 +1,8 @@
+service:
+  name: serviceSTAtq124mi
+  identifier: serviceSTAtq124mi
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

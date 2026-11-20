@@ -1,0 +1,8 @@
+service:
+  name: servicemnElM8v2p3
+  identifier: servicemnElM8v2p3
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

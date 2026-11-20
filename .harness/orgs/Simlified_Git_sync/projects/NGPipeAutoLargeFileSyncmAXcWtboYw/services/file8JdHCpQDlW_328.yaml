@@ -1,0 +1,8 @@
+service:
+  name: serviceRTWhFgi5Ch
+  identifier: serviceRTWhFgi5Ch
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

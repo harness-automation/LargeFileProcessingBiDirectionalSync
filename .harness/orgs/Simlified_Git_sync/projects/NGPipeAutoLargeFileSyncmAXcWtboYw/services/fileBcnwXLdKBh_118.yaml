@@ -1,0 +1,8 @@
+service:
+  name: serviced5l2asamJr
+  identifier: serviced5l2asamJr
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

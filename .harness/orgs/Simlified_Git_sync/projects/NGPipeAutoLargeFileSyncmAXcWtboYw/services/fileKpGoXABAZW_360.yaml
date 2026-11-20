@@ -1,0 +1,8 @@
+service:
+  name: serviceNobrmaH5gZ
+  identifier: serviceNobrmaH5gZ
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

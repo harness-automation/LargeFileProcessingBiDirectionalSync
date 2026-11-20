@@ -1,0 +1,8 @@
+service:
+  name: servicebCxOCSBIN8
+  identifier: servicebCxOCSBIN8
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

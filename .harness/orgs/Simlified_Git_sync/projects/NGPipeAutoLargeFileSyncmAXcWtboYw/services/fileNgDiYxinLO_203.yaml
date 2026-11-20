@@ -1,0 +1,8 @@
+service:
+  name: serviceopWQOhDIeg
+  identifier: serviceopWQOhDIeg
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicesMQr1dvrrQ
+  identifier: servicesMQr1dvrrQ
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceDstOdWocz2
+  identifier: serviceDstOdWocz2
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

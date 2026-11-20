@@ -1,0 +1,8 @@
+service:
+  name: service3DI9OreLIs
+  identifier: service3DI9OreLIs
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

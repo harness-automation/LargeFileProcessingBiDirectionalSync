@@ -1,0 +1,8 @@
+service:
+  name: servicextlvNdoP3n
+  identifier: servicextlvNdoP3n
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

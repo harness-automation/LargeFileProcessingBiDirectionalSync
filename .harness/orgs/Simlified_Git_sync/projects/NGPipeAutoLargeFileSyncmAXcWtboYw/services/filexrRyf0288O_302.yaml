@@ -1,0 +1,8 @@
+service:
+  name: servicercUw1wKBux
+  identifier: servicercUw1wKBux
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

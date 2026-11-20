@@ -1,0 +1,8 @@
+service:
+  name: serviceUPsDDPto2a
+  identifier: serviceUPsDDPto2a
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

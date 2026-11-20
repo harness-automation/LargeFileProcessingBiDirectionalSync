@@ -1,0 +1,8 @@
+service:
+  name: serviceYanD78L7bt
+  identifier: serviceYanD78L7bt
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

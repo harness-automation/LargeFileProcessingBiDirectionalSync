@@ -1,0 +1,8 @@
+service:
+  name: servicetlunFrl3Mv
+  identifier: servicetlunFrl3Mv
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

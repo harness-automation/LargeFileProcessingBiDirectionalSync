@@ -1,0 +1,8 @@
+service:
+  name: serviceTkiKa3Gy2B
+  identifier: serviceTkiKa3Gy2B
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

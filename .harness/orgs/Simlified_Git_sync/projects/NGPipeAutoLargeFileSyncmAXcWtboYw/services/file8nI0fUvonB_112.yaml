@@ -1,0 +1,8 @@
+service:
+  name: serviceJ2QrJjDRry
+  identifier: serviceJ2QrJjDRry
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

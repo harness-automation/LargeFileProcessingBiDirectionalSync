@@ -1,0 +1,8 @@
+service:
+  name: serviceHDv5T1kOMb
+  identifier: serviceHDv5T1kOMb
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

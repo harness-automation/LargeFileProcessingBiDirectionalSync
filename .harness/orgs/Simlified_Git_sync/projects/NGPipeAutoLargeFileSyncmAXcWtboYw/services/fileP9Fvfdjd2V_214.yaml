@@ -1,0 +1,8 @@
+service:
+  name: service04darKiiCb
+  identifier: service04darKiiCb
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

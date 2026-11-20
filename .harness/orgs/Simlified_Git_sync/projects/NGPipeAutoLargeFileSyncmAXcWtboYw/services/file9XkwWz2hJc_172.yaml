@@ -1,0 +1,8 @@
+service:
+  name: servicepSZU479soh
+  identifier: servicepSZU479soh
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

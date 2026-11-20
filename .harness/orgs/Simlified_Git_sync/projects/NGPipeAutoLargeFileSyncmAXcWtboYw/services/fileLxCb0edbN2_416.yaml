@@ -1,0 +1,8 @@
+service:
+  name: serviceyams1QFiat
+  identifier: serviceyams1QFiat
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceXliU7HOXNa
+  identifier: serviceXliU7HOXNa
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

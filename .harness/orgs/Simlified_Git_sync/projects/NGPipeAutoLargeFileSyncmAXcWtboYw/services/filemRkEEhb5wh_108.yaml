@@ -1,0 +1,8 @@
+service:
+  name: serviceChVrRXNc2D
+  identifier: serviceChVrRXNc2D
+  projectIdentifier: NGPipeAutoLargeFileSyncmAXcWtboYw
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
