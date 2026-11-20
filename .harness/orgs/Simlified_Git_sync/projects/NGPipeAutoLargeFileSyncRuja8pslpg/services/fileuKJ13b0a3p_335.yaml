@@ -1,0 +1,8 @@
+service:
+  name: serviceyhcoSApVsm
+  identifier: serviceyhcoSApVsm
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

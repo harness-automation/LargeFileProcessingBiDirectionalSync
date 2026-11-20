@@ -1,0 +1,8 @@
+service:
+  name: service665DFrbtPH
+  identifier: service665DFrbtPH
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

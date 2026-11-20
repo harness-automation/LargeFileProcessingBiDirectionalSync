@@ -1,0 +1,8 @@
+service:
+  name: serviceDv18qACHVK
+  identifier: serviceDv18qACHVK
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

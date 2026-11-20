@@ -1,0 +1,8 @@
+service:
+  name: service1EP7MV57ZE
+  identifier: service1EP7MV57ZE
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

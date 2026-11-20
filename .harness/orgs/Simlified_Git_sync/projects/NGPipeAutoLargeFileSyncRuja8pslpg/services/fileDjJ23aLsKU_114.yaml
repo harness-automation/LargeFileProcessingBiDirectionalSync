@@ -1,0 +1,8 @@
+service:
+  name: servicezNALbGvQr7
+  identifier: servicezNALbGvQr7
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

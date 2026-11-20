@@ -1,0 +1,8 @@
+service:
+  name: serviceGF7Kc01Ont
+  identifier: serviceGF7Kc01Ont
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

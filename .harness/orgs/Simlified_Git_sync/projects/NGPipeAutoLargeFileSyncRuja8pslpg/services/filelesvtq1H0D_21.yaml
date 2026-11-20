@@ -1,0 +1,8 @@
+service:
+  name: serviceGYCxblSar2
+  identifier: serviceGYCxblSar2
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

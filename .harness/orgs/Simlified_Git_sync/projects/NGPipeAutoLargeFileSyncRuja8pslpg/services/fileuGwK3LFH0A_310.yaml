@@ -1,0 +1,8 @@
+service:
+  name: servicedl74EzohN6
+  identifier: servicedl74EzohN6
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

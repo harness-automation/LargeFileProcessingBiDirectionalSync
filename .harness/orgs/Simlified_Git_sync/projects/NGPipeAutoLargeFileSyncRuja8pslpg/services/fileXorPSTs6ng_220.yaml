@@ -1,0 +1,8 @@
+service:
+  name: servicem43TtxrXQp
+  identifier: servicem43TtxrXQp
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

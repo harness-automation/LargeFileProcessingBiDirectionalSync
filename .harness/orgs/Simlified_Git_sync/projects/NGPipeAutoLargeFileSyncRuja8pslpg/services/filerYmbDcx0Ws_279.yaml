@@ -1,0 +1,8 @@
+service:
+  name: service6hfSmLAY3j
+  identifier: service6hfSmLAY3j
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceZCOmtB5ndv
+  identifier: serviceZCOmtB5ndv
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

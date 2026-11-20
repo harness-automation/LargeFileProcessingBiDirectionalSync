@@ -1,0 +1,8 @@
+service:
+  name: servicecpsl5C0BnE
+  identifier: servicecpsl5C0BnE
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

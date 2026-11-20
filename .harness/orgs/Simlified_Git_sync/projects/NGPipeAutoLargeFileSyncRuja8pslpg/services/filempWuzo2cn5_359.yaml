@@ -1,0 +1,8 @@
+service:
+  name: serviceW34l0g4Mq3
+  identifier: serviceW34l0g4Mq3
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

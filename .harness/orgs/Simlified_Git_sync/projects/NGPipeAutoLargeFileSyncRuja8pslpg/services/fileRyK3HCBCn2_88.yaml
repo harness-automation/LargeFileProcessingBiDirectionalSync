@@ -1,0 +1,8 @@
+service:
+  name: serviceJV2esoxTSP
+  identifier: serviceJV2esoxTSP
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

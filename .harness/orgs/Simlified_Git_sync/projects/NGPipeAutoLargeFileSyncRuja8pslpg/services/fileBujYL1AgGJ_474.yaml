@@ -1,0 +1,8 @@
+service:
+  name: service8PlANwUlyO
+  identifier: service8PlANwUlyO
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

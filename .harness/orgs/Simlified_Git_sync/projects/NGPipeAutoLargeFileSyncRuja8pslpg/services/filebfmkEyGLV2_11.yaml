@@ -1,0 +1,8 @@
+service:
+  name: servicej5TDD5sWt4
+  identifier: servicej5TDD5sWt4
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

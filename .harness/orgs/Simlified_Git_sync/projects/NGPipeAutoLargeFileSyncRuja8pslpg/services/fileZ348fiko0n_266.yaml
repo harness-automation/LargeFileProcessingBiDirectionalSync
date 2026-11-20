@@ -1,0 +1,8 @@
+service:
+  name: serviceu18G80P1Kz
+  identifier: serviceu18G80P1Kz
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

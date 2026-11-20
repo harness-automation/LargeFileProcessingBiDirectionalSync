@@ -1,0 +1,8 @@
+service:
+  name: serviceED4KG4JSsv
+  identifier: serviceED4KG4JSsv
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceQRl93k4NMV
+  identifier: serviceQRl93k4NMV
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

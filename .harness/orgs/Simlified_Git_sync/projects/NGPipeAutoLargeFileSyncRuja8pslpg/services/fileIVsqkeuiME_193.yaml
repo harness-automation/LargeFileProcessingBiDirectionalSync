@@ -1,0 +1,8 @@
+service:
+  name: serviceGry2XeWx01
+  identifier: serviceGry2XeWx01
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

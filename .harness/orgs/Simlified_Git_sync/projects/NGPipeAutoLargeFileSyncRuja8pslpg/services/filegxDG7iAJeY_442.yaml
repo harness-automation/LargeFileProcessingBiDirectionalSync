@@ -1,0 +1,8 @@
+service:
+  name: serviceFfS6BRcLIa
+  identifier: serviceFfS6BRcLIa
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

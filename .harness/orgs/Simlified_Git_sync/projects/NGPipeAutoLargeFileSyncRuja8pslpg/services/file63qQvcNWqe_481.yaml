@@ -1,0 +1,8 @@
+service:
+  name: serviceMeriYb7Y6V
+  identifier: serviceMeriYb7Y6V
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

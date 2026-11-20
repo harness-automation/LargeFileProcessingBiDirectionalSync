@@ -1,0 +1,8 @@
+service:
+  name: service1DCoR1Ua90
+  identifier: service1DCoR1Ua90
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

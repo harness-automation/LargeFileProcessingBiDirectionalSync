@@ -1,0 +1,8 @@
+service:
+  name: serviceF1GteY24Xs
+  identifier: serviceF1GteY24Xs
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicetaPAUL11Ta
+  identifier: servicetaPAUL11Ta
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

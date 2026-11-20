@@ -1,0 +1,8 @@
+service:
+  name: serviceOSsFHTZcSH
+  identifier: serviceOSsFHTZcSH
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

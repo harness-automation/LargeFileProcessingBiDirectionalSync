@@ -1,0 +1,8 @@
+service:
+  name: serviceRwgs77VAxS
+  identifier: serviceRwgs77VAxS
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

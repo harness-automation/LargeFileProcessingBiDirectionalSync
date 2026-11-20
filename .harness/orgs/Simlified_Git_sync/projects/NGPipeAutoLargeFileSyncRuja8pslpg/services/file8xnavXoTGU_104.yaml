@@ -1,0 +1,8 @@
+service:
+  name: service5GETGrn8tv
+  identifier: service5GETGrn8tv
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

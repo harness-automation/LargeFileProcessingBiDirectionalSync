@@ -1,0 +1,8 @@
+service:
+  name: servicesSotSVaR8f
+  identifier: servicesSotSVaR8f
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

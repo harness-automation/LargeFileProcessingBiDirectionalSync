@@ -1,0 +1,8 @@
+service:
+  name: servicee1dCECF7w4
+  identifier: servicee1dCECF7w4
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

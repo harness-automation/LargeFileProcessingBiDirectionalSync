@@ -1,0 +1,8 @@
+service:
+  name: serviceRwpFC4WxJf
+  identifier: serviceRwpFC4WxJf
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

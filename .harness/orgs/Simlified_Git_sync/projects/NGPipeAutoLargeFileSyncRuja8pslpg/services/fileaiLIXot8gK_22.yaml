@@ -1,0 +1,8 @@
+service:
+  name: serviceFv138dmv29
+  identifier: serviceFv138dmv29
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

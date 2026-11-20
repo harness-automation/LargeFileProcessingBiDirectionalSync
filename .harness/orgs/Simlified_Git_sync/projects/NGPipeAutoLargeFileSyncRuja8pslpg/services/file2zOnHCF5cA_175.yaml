@@ -1,0 +1,8 @@
+service:
+  name: serviceF9C35oHrwh
+  identifier: serviceF9C35oHrwh
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

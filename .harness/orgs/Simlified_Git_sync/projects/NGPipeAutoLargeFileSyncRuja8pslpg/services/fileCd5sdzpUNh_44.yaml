@@ -1,0 +1,8 @@
+service:
+  name: serviceTFU8RX206u
+  identifier: serviceTFU8RX206u
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

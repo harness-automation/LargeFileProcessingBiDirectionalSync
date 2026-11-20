@@ -1,0 +1,8 @@
+service:
+  name: servicekvd3bOkgLa
+  identifier: servicekvd3bOkgLa
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

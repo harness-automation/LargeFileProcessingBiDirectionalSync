@@ -1,0 +1,8 @@
+service:
+  name: servicemnxWMADMC2
+  identifier: servicemnxWMADMC2
+  projectIdentifier: NGPipeAutoLargeFileSyncRuja8pslpg
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
