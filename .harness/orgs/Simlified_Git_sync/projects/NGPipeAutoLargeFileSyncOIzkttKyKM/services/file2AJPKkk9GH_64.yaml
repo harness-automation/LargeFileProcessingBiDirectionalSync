@@ -1,0 +1,8 @@
+service:
+  name: service2DwHML4ASH
+  identifier: service2DwHML4ASH
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

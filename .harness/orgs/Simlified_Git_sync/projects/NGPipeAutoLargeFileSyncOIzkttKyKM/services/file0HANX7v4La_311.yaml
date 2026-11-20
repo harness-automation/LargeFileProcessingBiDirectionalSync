@@ -1,0 +1,8 @@
+service:
+  name: serviceztc4RTRof2
+  identifier: serviceztc4RTRof2
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

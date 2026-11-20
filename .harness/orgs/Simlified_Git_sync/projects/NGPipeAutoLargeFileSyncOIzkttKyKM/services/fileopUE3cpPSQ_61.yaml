@@ -1,0 +1,8 @@
+service:
+  name: serviceOTrP2PVX9Y
+  identifier: serviceOTrP2PVX9Y
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

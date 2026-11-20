@@ -1,0 +1,8 @@
+service:
+  name: serviceB46KFZjrmp
+  identifier: serviceB46KFZjrmp
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicexpr1Gfumdy
+  identifier: servicexpr1Gfumdy
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

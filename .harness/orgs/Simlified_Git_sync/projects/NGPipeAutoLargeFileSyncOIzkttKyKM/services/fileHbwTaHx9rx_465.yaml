@@ -1,0 +1,8 @@
+service:
+  name: serviceXSYwgDLP42
+  identifier: serviceXSYwgDLP42
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

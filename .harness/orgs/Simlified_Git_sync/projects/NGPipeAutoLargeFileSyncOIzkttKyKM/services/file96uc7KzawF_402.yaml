@@ -1,0 +1,8 @@
+service:
+  name: servicevbaX222J5O
+  identifier: servicevbaX222J5O
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

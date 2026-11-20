@@ -1,0 +1,8 @@
+service:
+  name: serviceIEXIGuwd22
+  identifier: serviceIEXIGuwd22
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

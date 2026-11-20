@@ -1,0 +1,8 @@
+service:
+  name: servicerA2LoNgDTp
+  identifier: servicerA2LoNgDTp
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

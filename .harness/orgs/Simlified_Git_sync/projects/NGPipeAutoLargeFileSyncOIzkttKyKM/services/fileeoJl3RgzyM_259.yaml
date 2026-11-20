@@ -1,0 +1,8 @@
+service:
+  name: servicepeKAV575fi
+  identifier: servicepeKAV575fi
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceviruXOugRZ
+  identifier: serviceviruXOugRZ
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

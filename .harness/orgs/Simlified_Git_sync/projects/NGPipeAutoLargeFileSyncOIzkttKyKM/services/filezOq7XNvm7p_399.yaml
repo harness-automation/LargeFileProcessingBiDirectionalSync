@@ -1,0 +1,8 @@
+service:
+  name: serviceWx0LUGmUxi
+  identifier: serviceWx0LUGmUxi
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

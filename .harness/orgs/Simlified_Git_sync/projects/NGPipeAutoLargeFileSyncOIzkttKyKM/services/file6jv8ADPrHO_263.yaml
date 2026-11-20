@@ -1,0 +1,8 @@
+service:
+  name: servicer4BkDOAlTF
+  identifier: servicer4BkDOAlTF
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

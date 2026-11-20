@@ -1,0 +1,8 @@
+service:
+  name: serviceJahmUG5Ds2
+  identifier: serviceJahmUG5Ds2
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

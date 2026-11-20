@@ -1,0 +1,8 @@
+service:
+  name: servicerzFXsoQL1o
+  identifier: servicerzFXsoQL1o
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

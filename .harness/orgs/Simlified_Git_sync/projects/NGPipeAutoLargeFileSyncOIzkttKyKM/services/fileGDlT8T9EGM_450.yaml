@@ -1,0 +1,8 @@
+service:
+  name: service7wsADbcZOD
+  identifier: service7wsADbcZOD
+  projectIdentifier: NGPipeAutoLargeFileSyncOIzkttKyKM
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
