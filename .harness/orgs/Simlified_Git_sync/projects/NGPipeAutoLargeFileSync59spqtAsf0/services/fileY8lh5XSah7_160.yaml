@@ -1,0 +1,8 @@
+service:
+  name: serviceM40r7DbOh4
+  identifier: serviceM40r7DbOh4
+  projectIdentifier: NGPipeAutoLargeFileSync59spqtAsf0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

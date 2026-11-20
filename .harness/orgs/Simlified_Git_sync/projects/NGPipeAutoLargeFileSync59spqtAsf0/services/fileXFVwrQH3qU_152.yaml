@@ -1,0 +1,8 @@
+service:
+  name: servicet2zEDLW25v
+  identifier: servicet2zEDLW25v
+  projectIdentifier: NGPipeAutoLargeFileSync59spqtAsf0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

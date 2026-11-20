@@ -1,0 +1,8 @@
+service:
+  name: serviceF67ViHeZen
+  identifier: serviceF67ViHeZen
+  projectIdentifier: NGPipeAutoLargeFileSync59spqtAsf0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

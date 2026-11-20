@@ -1,0 +1,8 @@
+service:
+  name: serviceHyfPHmz3cx
+  identifier: serviceHyfPHmz3cx
+  projectIdentifier: NGPipeAutoLargeFileSync59spqtAsf0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

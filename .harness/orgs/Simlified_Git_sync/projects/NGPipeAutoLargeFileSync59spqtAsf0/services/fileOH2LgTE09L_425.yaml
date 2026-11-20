@@ -1,0 +1,8 @@
+service:
+  name: servicea3vmDoKDxu
+  identifier: servicea3vmDoKDxu
+  projectIdentifier: NGPipeAutoLargeFileSync59spqtAsf0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

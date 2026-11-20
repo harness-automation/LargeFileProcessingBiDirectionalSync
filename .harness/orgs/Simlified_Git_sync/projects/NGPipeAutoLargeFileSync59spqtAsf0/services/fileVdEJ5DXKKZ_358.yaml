@@ -1,0 +1,8 @@
+service:
+  name: serviceTDAK0us5hl
+  identifier: serviceTDAK0us5hl
+  projectIdentifier: NGPipeAutoLargeFileSync59spqtAsf0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceCRS90zjm2K
+  identifier: serviceCRS90zjm2K
+  projectIdentifier: NGPipeAutoLargeFileSync59spqtAsf0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

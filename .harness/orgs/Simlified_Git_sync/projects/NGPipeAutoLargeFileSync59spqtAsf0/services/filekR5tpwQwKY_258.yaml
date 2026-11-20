@@ -1,0 +1,8 @@
+service:
+  name: serviceeBirEPpa9I
+  identifier: serviceeBirEPpa9I
+  projectIdentifier: NGPipeAutoLargeFileSync59spqtAsf0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

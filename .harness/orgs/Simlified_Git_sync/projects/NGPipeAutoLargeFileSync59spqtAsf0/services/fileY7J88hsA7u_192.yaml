@@ -1,0 +1,8 @@
+service:
+  name: service68m0hyo40t
+  identifier: service68m0hyo40t
+  projectIdentifier: NGPipeAutoLargeFileSync59spqtAsf0
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
