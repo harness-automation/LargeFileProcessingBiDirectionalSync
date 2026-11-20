@@ -1,0 +1,8 @@
+service:
+  name: serviceMOQE0PNamd
+  identifier: serviceMOQE0PNamd
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

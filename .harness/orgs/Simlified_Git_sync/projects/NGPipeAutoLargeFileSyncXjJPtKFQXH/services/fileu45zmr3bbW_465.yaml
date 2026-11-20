@@ -1,0 +1,8 @@
+service:
+  name: serviceUNnp4Yugag
+  identifier: serviceUNnp4Yugag
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

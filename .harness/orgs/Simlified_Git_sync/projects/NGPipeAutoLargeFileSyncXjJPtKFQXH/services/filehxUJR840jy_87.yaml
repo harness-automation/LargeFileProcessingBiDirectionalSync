@@ -1,0 +1,8 @@
+service:
+  name: serviceKMqFu443c1
+  identifier: serviceKMqFu443c1
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

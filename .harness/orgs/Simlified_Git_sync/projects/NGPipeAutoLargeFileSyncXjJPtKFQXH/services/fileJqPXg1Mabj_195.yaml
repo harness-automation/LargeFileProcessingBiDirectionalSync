@@ -1,0 +1,8 @@
+service:
+  name: service7Iebee2Vrt
+  identifier: service7Iebee2Vrt
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

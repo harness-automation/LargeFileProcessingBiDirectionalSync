@@ -1,0 +1,8 @@
+service:
+  name: service9MPRW70kvh
+  identifier: service9MPRW70kvh
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

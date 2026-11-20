@@ -1,0 +1,8 @@
+service:
+  name: servicetW25C5adAL
+  identifier: servicetW25C5adAL
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

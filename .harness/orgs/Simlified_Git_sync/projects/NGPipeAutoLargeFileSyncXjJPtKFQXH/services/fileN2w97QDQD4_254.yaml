@@ -1,0 +1,8 @@
+service:
+  name: serviceKO2GXdAFbo
+  identifier: serviceKO2GXdAFbo
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

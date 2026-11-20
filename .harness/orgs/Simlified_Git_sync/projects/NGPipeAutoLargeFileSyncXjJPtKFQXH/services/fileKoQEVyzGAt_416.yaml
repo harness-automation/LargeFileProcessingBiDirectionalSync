@@ -1,0 +1,8 @@
+service:
+  name: serviceAov22XBEKE
+  identifier: serviceAov22XBEKE
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

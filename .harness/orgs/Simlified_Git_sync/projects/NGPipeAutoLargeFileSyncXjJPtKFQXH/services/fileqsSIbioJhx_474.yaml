@@ -1,0 +1,8 @@
+service:
+  name: serviceZISp54WMZ8
+  identifier: serviceZISp54WMZ8
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

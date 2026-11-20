@@ -1,0 +1,8 @@
+service:
+  name: servicezbCarszH1q
+  identifier: servicezbCarszH1q
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

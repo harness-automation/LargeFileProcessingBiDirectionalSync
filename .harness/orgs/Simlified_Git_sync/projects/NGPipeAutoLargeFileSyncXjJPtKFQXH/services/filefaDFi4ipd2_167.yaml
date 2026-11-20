@@ -1,0 +1,8 @@
+service:
+  name: serviceHW88Uu1CaA
+  identifier: serviceHW88Uu1CaA
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicecPrPMOI1oB
+  identifier: servicecPrPMOI1oB
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

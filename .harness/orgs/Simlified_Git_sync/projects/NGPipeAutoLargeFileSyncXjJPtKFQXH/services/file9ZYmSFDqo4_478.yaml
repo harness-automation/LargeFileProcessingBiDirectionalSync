@@ -1,0 +1,8 @@
+service:
+  name: servicech2MY4kEMG
+  identifier: servicech2MY4kEMG
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

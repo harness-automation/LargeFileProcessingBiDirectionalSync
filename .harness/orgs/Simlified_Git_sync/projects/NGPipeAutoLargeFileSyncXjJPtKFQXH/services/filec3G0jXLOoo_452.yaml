@@ -1,0 +1,8 @@
+service:
+  name: servicetdCR8p33Oa
+  identifier: servicetdCR8p33Oa
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

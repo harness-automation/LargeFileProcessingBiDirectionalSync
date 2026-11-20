@@ -1,0 +1,8 @@
+service:
+  name: serviceal12P05HR2
+  identifier: serviceal12P05HR2
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

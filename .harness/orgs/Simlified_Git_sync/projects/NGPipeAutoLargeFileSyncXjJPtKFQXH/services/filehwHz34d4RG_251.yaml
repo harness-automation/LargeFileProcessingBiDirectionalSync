@@ -1,0 +1,8 @@
+service:
+  name: servicefe6UWHMkDB
+  identifier: servicefe6UWHMkDB
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

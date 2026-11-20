@@ -1,0 +1,8 @@
+service:
+  name: servicezPvpeSW4as
+  identifier: servicezPvpeSW4as
+  projectIdentifier: NGPipeAutoLargeFileSyncXjJPtKFQXH
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
