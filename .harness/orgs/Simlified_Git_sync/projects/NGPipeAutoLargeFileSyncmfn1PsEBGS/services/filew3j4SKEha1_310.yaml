@@ -1,0 +1,8 @@
+service:
+  name: servicerLKDhoJS78
+  identifier: servicerLKDhoJS78
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

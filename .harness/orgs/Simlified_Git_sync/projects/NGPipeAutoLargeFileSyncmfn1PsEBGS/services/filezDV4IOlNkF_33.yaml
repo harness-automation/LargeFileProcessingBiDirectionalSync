@@ -1,0 +1,8 @@
+service:
+  name: servicebk7AEUvl63
+  identifier: servicebk7AEUvl63
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

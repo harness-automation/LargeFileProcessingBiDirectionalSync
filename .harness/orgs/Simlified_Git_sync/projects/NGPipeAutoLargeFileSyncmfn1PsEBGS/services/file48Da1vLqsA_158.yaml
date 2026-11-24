@@ -1,0 +1,8 @@
+service:
+  name: serviceeMbCp8RdMA
+  identifier: serviceeMbCp8RdMA
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicedi2SYXYPG1
+  identifier: servicedi2SYXYPG1
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

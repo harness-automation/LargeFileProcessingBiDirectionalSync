@@ -1,0 +1,8 @@
+service:
+  name: servicekSVpeomaI3
+  identifier: servicekSVpeomaI3
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

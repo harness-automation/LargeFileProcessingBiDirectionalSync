@@ -1,0 +1,8 @@
+service:
+  name: serviceBT87rk2Tot
+  identifier: serviceBT87rk2Tot
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

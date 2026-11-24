@@ -1,0 +1,8 @@
+service:
+  name: servicejlo4OKSJPS
+  identifier: servicejlo4OKSJPS
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

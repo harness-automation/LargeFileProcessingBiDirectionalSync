@@ -1,0 +1,8 @@
+service:
+  name: servicenay1VeLbMR
+  identifier: servicenay1VeLbMR
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

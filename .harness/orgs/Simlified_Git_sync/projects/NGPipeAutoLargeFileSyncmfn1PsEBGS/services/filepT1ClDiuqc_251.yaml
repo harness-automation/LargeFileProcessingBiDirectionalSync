@@ -1,0 +1,8 @@
+service:
+  name: serviceamMkl3VR9e
+  identifier: serviceamMkl3VR9e
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

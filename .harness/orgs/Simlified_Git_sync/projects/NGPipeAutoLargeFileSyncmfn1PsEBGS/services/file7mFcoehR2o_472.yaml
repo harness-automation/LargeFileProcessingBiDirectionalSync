@@ -1,0 +1,8 @@
+service:
+  name: serviceIjsHERUC1X
+  identifier: serviceIjsHERUC1X
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

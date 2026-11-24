@@ -1,0 +1,8 @@
+service:
+  name: serviceAmsISwkB67
+  identifier: serviceAmsISwkB67
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

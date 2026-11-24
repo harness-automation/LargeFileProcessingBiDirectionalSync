@@ -1,0 +1,8 @@
+service:
+  name: serviceQ3LEtS2dSP
+  identifier: serviceQ3LEtS2dSP
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceHFY76eUveb
+  identifier: serviceHFY76eUveb
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

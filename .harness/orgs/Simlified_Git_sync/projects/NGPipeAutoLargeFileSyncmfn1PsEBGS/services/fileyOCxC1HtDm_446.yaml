@@ -1,0 +1,8 @@
+service:
+  name: servicePIny0DKRpC
+  identifier: servicePIny0DKRpC
+  projectIdentifier: NGPipeAutoLargeFileSyncmfn1PsEBGS
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
