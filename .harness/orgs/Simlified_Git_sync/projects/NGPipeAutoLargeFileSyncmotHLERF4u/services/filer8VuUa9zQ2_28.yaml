@@ -1,0 +1,8 @@
+service:
+  name: serviceMWmfId676w
+  identifier: serviceMWmfId676w
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

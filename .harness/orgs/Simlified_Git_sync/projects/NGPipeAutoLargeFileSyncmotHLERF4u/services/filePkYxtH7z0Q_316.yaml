@@ -1,0 +1,8 @@
+service:
+  name: servicetPWMR7GLLg
+  identifier: servicetPWMR7GLLg
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

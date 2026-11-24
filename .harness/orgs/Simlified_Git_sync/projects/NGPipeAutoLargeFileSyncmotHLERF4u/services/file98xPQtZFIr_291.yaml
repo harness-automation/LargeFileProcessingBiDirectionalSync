@@ -1,0 +1,8 @@
+service:
+  name: serviceb0UPLcAzfg
+  identifier: serviceb0UPLcAzfg
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

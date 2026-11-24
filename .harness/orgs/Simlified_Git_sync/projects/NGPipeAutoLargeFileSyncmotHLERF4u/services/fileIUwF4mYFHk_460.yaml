@@ -1,0 +1,8 @@
+service:
+  name: serviceMuumPJPBef
+  identifier: serviceMuumPJPBef
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

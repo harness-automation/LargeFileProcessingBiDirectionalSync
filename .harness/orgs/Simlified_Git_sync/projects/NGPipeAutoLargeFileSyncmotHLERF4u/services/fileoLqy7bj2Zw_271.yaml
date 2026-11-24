@@ -1,0 +1,8 @@
+service:
+  name: serviceCdu6iJsNot
+  identifier: serviceCdu6iJsNot
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

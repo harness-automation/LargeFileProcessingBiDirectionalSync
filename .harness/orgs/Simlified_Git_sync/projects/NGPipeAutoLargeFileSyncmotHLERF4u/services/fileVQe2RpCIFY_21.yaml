@@ -1,0 +1,8 @@
+service:
+  name: servicetWNoQL9raw
+  identifier: servicetWNoQL9raw
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

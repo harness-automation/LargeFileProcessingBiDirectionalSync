@@ -1,0 +1,8 @@
+service:
+  name: serviceE5573mNLlm
+  identifier: serviceE5573mNLlm
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

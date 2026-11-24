@@ -1,0 +1,8 @@
+service:
+  name: serviceV9aCDpuIsG
+  identifier: serviceV9aCDpuIsG
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

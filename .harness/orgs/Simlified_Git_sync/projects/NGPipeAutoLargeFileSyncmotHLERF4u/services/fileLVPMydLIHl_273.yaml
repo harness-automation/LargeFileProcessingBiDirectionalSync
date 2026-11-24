@@ -1,0 +1,8 @@
+service:
+  name: serviceRQrm2IEg7X
+  identifier: serviceRQrm2IEg7X
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

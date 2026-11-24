@@ -1,0 +1,8 @@
+service:
+  name: serviceR2bDX50dHv
+  identifier: serviceR2bDX50dHv
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

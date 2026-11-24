@@ -1,0 +1,8 @@
+service:
+  name: serviceDjAQ1RLDqq
+  identifier: serviceDjAQ1RLDqq
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

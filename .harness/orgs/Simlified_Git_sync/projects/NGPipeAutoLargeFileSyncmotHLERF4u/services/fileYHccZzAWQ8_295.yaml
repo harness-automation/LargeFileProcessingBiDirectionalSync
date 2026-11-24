@@ -1,0 +1,8 @@
+service:
+  name: serviceFb3ZrMAJAY
+  identifier: serviceFb3ZrMAJAY
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

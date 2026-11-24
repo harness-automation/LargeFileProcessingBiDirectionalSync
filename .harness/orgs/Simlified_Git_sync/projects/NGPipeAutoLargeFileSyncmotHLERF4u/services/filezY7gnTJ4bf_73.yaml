@@ -1,0 +1,8 @@
+service:
+  name: service8pIIoFpaST
+  identifier: service8pIIoFpaST
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

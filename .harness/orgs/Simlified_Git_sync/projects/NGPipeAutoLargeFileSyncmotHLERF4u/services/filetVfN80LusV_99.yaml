@@ -1,0 +1,8 @@
+service:
+  name: serviceHdGP6ZWTms
+  identifier: serviceHdGP6ZWTms
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

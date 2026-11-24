@@ -1,0 +1,8 @@
+service:
+  name: servicePOZ5KDvy4B
+  identifier: servicePOZ5KDvy4B
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviced804Zw1BNu
+  identifier: serviced804Zw1BNu
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

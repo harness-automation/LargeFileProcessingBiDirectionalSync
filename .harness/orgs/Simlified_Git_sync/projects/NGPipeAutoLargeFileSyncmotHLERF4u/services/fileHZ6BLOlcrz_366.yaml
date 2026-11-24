@@ -1,0 +1,8 @@
+service:
+  name: serviceAQ31Vmf53x
+  identifier: serviceAQ31Vmf53x
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

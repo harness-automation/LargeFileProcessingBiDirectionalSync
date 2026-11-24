@@ -1,0 +1,8 @@
+service:
+  name: servicePXks5AuxGK
+  identifier: servicePXks5AuxGK
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

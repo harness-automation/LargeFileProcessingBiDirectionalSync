@@ -1,0 +1,8 @@
+service:
+  name: serviceKnsvooxfsG
+  identifier: serviceKnsvooxfsG
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

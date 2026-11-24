@@ -1,0 +1,8 @@
+service:
+  name: serviceWSA2XvEr7z
+  identifier: serviceWSA2XvEr7z
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

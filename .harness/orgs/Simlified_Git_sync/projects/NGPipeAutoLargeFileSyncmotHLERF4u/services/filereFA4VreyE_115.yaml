@@ -1,0 +1,8 @@
+service:
+  name: servicegcfkODERBv
+  identifier: servicegcfkODERBv
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

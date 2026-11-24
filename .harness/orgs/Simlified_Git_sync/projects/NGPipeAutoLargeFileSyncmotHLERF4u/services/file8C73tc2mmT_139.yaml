@@ -1,0 +1,8 @@
+service:
+  name: serviceuodx3s3F25
+  identifier: serviceuodx3s3F25
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

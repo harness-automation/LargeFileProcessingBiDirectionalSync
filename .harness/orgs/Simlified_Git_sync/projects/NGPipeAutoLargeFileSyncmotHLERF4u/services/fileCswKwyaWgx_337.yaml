@@ -1,0 +1,8 @@
+service:
+  name: serviceHidJ3xlBr2
+  identifier: serviceHidJ3xlBr2
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

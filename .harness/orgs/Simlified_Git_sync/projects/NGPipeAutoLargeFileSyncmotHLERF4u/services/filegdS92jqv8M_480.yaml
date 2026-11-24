@@ -1,0 +1,8 @@
+service:
+  name: servicedfEIObyiiu
+  identifier: servicedfEIObyiiu
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

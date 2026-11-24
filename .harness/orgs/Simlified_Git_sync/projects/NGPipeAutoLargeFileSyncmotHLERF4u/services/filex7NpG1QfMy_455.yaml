@@ -1,0 +1,8 @@
+service:
+  name: serviceKBHIhOs1TV
+  identifier: serviceKBHIhOs1TV
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

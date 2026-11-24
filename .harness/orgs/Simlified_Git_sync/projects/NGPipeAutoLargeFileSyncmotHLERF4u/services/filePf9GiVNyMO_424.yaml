@@ -1,0 +1,8 @@
+service:
+  name: service2WDsgDR05I
+  identifier: service2WDsgDR05I
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

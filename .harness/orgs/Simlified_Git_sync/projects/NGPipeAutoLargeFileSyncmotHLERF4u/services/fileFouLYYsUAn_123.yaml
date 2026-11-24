@@ -1,0 +1,8 @@
+service:
+  name: servicefsPZ7f74YO
+  identifier: servicefsPZ7f74YO
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

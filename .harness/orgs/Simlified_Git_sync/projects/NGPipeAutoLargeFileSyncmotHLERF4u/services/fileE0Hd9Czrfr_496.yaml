@@ -1,0 +1,8 @@
+service:
+  name: serviceDSXImLmgP2
+  identifier: serviceDSXImLmgP2
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: servicencpu8KP58L
+  identifier: servicencpu8KP58L
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

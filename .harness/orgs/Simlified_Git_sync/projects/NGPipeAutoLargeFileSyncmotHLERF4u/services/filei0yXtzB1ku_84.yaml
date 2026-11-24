@@ -1,0 +1,8 @@
+service:
+  name: serviceoRIMJ0Py8s
+  identifier: serviceoRIMJ0Py8s
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

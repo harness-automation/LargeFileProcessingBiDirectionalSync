@@ -1,0 +1,8 @@
+service:
+  name: servicedek20HIZHl
+  identifier: servicedek20HIZHl
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

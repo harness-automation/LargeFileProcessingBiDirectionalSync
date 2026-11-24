@@ -1,0 +1,8 @@
+service:
+  name: serviceZhnINAtVu2
+  identifier: serviceZhnINAtVu2
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

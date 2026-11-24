@@ -1,0 +1,8 @@
+service:
+  name: service3OBGopi3gw
+  identifier: service3OBGopi3gw
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: serviceAeE46MKt4S
+  identifier: serviceAeE46MKt4S
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

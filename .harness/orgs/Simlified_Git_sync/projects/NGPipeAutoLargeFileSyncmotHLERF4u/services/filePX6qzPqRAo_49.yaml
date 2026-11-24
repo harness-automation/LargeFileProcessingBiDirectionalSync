@@ -1,0 +1,8 @@
+service:
+  name: serviceAMzcBcsMh3
+  identifier: serviceAMzcBcsMh3
+  projectIdentifier: NGPipeAutoLargeFileSyncmotHLERF4u
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
