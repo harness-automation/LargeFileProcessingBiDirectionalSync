@@ -1,0 +1,8 @@
+service:
+  name: serviceGuSJAQDS2r
+  identifier: serviceGuSJAQDS2r
+  projectIdentifier: NGPipeAutoLargeFileSyncilJw4PFO0v
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

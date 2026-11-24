@@ -1,0 +1,8 @@
+service:
+  name: servicedaAPD1eKT6
+  identifier: servicedaAPD1eKT6
+  projectIdentifier: NGPipeAutoLargeFileSyncilJw4PFO0v
+  orgIdentifier: Simlified_Git_sync
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
